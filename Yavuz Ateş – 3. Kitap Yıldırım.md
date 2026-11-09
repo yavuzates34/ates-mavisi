@@ -40,7 +40,7 @@ Paşa’nın kahkahası bu sefer bütün Boğaz’ı doldurdu.
 
 ---
 
-Mektup, kalenin aşağı avlusunda, bir İngiliz teğmeninin titremeyen elinden, Hüseyin Paşa’nın kethüdasının titreyen eline geçti. Oradan da Yavuz’a.
+Mektup, kalenin aşağı avlusunda, bir İngiliz teğmeninin titremeyen elinden, Hüseyin Paşa’nın yeni kethüdasının titreyen eline geçti. Oradan da Yavuz’a.
 
 Teğmen genç, sarışın ve kibardı. Yavuz’un yüzüne merakla bakmış, sonra hemen gözlerini kaçırmıştı. *Biliyor,* diye düşündü Yavuz. *Gemide konuşuyorlar. Bir direği tek güllede, karanlıkta, iki bin dört yüz zira öteden indiren bir Türk topçusunu konuşuyorlar. Ve o topçunun arkasında duran adamı.*
 
@@ -70,9 +70,9 @@ Sonra Hacı Nuri Usta ak sakalını sıvazladı.
 
 Yavuz mektubu katladı. Kaftanının içine koydu.
 
-“Değişecek,” dedi. “Lodos gelecek. Dört gün içinde, belki beş. Sidney Smith de bunu biliyor. O yüzden üç gün yazmış. Bekleyecek. Gemisini onaracak, adamlarını dinlendirecek, toplarını dolduracak ve lodosun ilk gecesi, kuzeye, bize doğru gelecek.” Bir an durdu. “Tıpkı Duckworth gibi.”
+“Değişecek,” dedi. “Lodos gelecek. İki gün içinde, belki üç. Sidney Smith de bunu biliyor. O yüzden üç gün yazmış. Bekleyecek. Gemisini onaracak, adamlarını dinlendirecek, toplarını dolduracak ve lodosun ilk gecesi, kuzeye, bize doğru gelecek.” Bir an durdu. “Tıpkı Duckworth gibi.”
 
-Hüseyin Paşa bu adı tanıyordu. Bir gece, Kız Kulesi’nin karşısında, kırlangıçta, Yavuz ona anlatmıştı. Sekiz yıl sonra gelecek bir amirali. Bir lodos gecesi Boğaz’dan geçip İstanbul’un önüne demir atacak, kalelerin seyrettiği, kimsenin durduramadığı bir İngiliz filosunu.
+Hüseyin Paşa bu adı tanıyordu. Bir gece, Kız Kulesi’nin karşısında, kırlangıçta, Yavuz ona anlatmıştı. Dokuz yıl sonra gelecek bir amirali. Bir lodos gecesi Boğaz’dan geçip İstanbul’un önüne demir atacak, kalelerin seyrettiği, kimsenin durduramadığı bir İngiliz filosunu.
 
 Paşa’nın yüzündeki gülümseme söndü.
 
@@ -486,7 +486,7 @@ Hüseyin Paşa öğleye doğru kaleden geldi. Yanında Hacı Nuri Usta. İkisi d
 
 “Ne?”
 
-Yavuz cevap vermedi. Sabah, Paşa’nın kethüdası beyaz bayrakla bir kayığa binip gemiye gitmiş, Yavuz’un yazdığı kısa mektubu götürmüştü. İngilizce, sade, kibar. Teslim olun. Adamlarınızın hayatı bağışlanacak. Yaralılarınıza hekim, ölülerinize Hristiyan toprağı verilecek. Subaylarınız kılıçlarını taşıyabilir.
+Yavuz cevap vermedi. Sabah, Paşa’nın yeni kethüdası beyaz bayrakla bir kayığa binip gemiye gitmiş, Yavuz’un yazdığı kısa mektubu götürmüştü. İngilizce, sade, kibar. Teslim olun. Adamlarınızın hayatı bağışlanacak. Yaralılarınıza hekim, ölülerinize Hristiyan toprağı verilecek. Subaylarınız kılıçlarını taşıyabilir.
 
 Kethüda bir saat sonra dönmüştü. Yüzü kül gibi.
 
@@ -792,7 +792,7 @@ Yavuz karşısındaki sandalyeye oturdu. Eğik güvertede, bir ayağını masan�
 
 Sidney kadehinden bir yudum aldı. Sonra kadehi masaya koydu. Gözleri bir an, çok bir an, masanın üstündeki yarım mektuba kaydı.
 
-“Bir şey soracağım, Paşa,” dedi. “Sadece bir şey. Bir askerin öbürüne soracağı bir şey. Dün gece. Gemimin altında ne vardı? Hiçbir gemi yoktu. Hiçbir kayık yoktu. Hiçbir top ağzı parlamadı. Ve deniz, Paşa, deniz altımızdan kalktı. Kendi kendine. On yıldır denizdeyim. Toulon’da Fransız donanmasını yaktım. Ben böyle bir şey görmedim.”
+“Bir şey soracağım, Paşa,” dedi. “Sadece bir şey. Bir askerin öbürüne soracağı bir şey. Dün gece. Gemimin altında ne vardı? Hiçbir gemi yoktu. Hiçbir kayık yoktu. Hiçbir top ağzı parlamadı. Ve deniz, Paşa, deniz altımızdan kalktı. Kendi kendine. Yirmi yıldır denizdeyim. Toulon’da Fransız donanmasını yaktım. Ben böyle bir şey görmedim.”
 
 Yavuz bir süre ona baktı.
 
@@ -1134,7 +1134,7 @@ Ayin olmadı. Kudüm vurulmadı. Sekizgen ahşap zeminin üstünde, kandillerin 
 
 Yavuz kapıda pabuçlarını çıkardı. Bir derviş ona başıyla yan odanın kapısını gösterdi.
 
-Şeyh Galib, postnişin odasının penceresinin altındaki sedirde, yastıklara yaslanmış yatıyordu. Kırk bir yaşındaydı. Ama yastıkların arasındaki yüz, Yavuz’un üç ay önce, başpareyi elinde çevirip “Bu derviş eli değil, Frenk tornası” dediği o yüz değildi. Yanakları çökmüş, gözlerinin çevresi morarmış, sakalının arasında kemikler belirmişti. Nefesi kısa, hışıltılı, her alışta göğsünden bir yerin yırtıldığını duyuran bir nefesti.
+Şeyh Galib, postnişin odasının penceresinin altındaki sedirde, yastıklara yaslanmış yatıyordu. Kırk bir yaşındaydı. Ama yastıkların arasındaki yüz, Yavuz’un geçen yaz, başpareyi elinde çevirip “Bu derviş eli değil, Frenk tornası” dediği o yüz değildi. Yanakları çökmüş, gözlerinin çevresi morarmış, sakalının arasında kemikler belirmişti. Nefesi kısa, hışıltılı, her alışta göğsünden bir yerin yırtıldığını duyuran bir nefesti.
 
 Ama gözleri açıktı. Ve Yavuz’u görünce, o gözlerde bir şey güldü.
 
@@ -1204,7 +1204,7 @@ Sonra Sultan, yüzünü çevirmeden, çok alçak bir sesle konuştu.
 
 “Biliyor muydun?”
 
-Yavuz bir an duraksadı. Beş gün önce aynı soruya iki kez “Hayır” demişti. Ve ikisinde de doğru söylemişti.
+Yavuz bir an duraksadı. Altı gün önce aynı soruya iki kez “Hayır” demişti. Ve ikisinde de doğru söylemişti.
 
 Bu sefer de doğruyu söyledi.
 
@@ -1308,7 +1308,7 @@ Musa onu önceden çözmüş, Türkçeye çevirmişti. Kâğıdı Yavuz’a uzat
 
 Yavuz okudu.
 
-*Kral’ın ulağı Kasım’ın yirmi üçünde Viyana’ya geldi. Kutu yanındaydı. Ama Viyana’dan çıkmadı. Lord Minto’nun elçilik binasında, mahzende, demir bir sandıkta duruyor. Ulağın kendisi Herrengasse’deki Zum Goldenen Lamm handa kalıyor. Bohemya ve Saksonya yolları karla kapalı. Elbe donmuş. Hamburg’a gemi yok. Minto Londra’dan emir bekliyor. Kutuyu yalnız göndermek istemiyor. Bir muhafız bekliyor. Belki bir ay. Belki iki.*
+*Kral’ın ulağı Kasım’ın yirmi üçünde Viyana’ya geldi. Kutu yanındaydı. Ama Viyana’dan çıkmadı. Sir Morton Eden’in elçilik binasında, mahzende, demir bir sandıkta duruyor. Ulağın kendisi Herrengasse’deki Zum Goldenen Lamm handa kalıyor. Bohemya ve Saksonya yolları karla kapalı. Elbe donmuş. Hamburg’a gemi yok. Eden Londra’dan emir bekliyor. Kutuyu yalnız göndermek istemiyor. Bir muhafız bekliyor. Belki bir ay. Belki iki.*
 
 Yavuz kâğıdı indirdi.
 
@@ -1326,7 +1326,7 @@ Musa Kamhi gözlüğünü burnunun üstünde yukarı itti.
 
 “Paşam. Ne yazayım Eleni Hanım’a?”
 
-Yavuz haritaya döndü. Viyana’daki tek yeşil iğneye. Sonra, onun yanında, Herrengasse’nin üstünde, Lord Minto’nun elçiliğinin yerinde duran kırmızı iğneye.
+Yavuz haritaya döndü. Viyana’daki tek yeşil iğneye. Sonra, onun yanında, Herrengasse’nin üstünde, Sir Morton Eden’in elçiliğinin yerinde duran kırmızı iğneye.
 
 “Alsın,” dedi. “Kutu elçilikten çıktığı gün. Mahzene girmesin; o kapı İmparatorluğun kapısıdır, orada bir Türk yakalanırsa Avusturya bize savaş açmak için bahane bulur. Ama kutu yola çıktığı gün, ilk handa, ilk konakta, ilk posta duraklarında...” Bir an durdu. “Alsın. Kimse ölmeden. Kimse görmeden. Kutunun yerine bir başka kutu koysun. Aynı ağırlıkta. İçinde bir taş.”
 
@@ -1562,7 +1562,7 @@ Henüz kırkına girmemişti ama altmışında görünüyordu. İnce, uzun, solg
 
 Sağında kuzeni ve Dışişleri Bakanı Lord Grenville. Katı, kibirli, öfkesini yüzüne hiç vurmayan bir adam.
 
-Solunda, masanın köşesinde, ne bakan ne lord olan, ama bu odada herkesin dikkatle dinlediği bir adam. Otuz sekiz yaşında. Orta boylu, kahverengi saçlı, unutulması kolay bir yüz. William Wickham. Dört yıl boyunca İsviçre’de, Bern’de, Kral’ın gizli parasıyla Fransız royalistlerin, kaçakların ve karşı devrimcilerin ağını örmüş, sonra Londra’ya dönüp Yabancılar Dairesi’nin başına geçmişti. İngiltere’nin en iyi casusbazı. Ve casusların en az konuşanı.
+Solunda, masanın köşesinde, ne bakan ne lord olan, ama bu odada herkesin dikkatle dinlediği bir adam. Otuz yedi yaşında. Orta boylu, kahverengi saçlı, unutulması kolay bir yüz. William Wickham. Dört yıl boyunca İsviçre’de, Bern’de, Kral’ın gizli parasıyla Fransız royalistlerin, kaçakların ve karşı devrimcilerin ağını örmüş, sonra Londra’ya dönüp Yabancılar Dairesi’nin başına geçmişti. İngiltere’nin en iyi casusbazı. Ve casusların en az konuşanı.
 
 Masanın karşı ucunda, ayakta, John Spencer Smith konuşuyordu.
 
@@ -1572,7 +1572,7 @@ Trieste’den Viyana’ya, Viyana’dan karlı yollarda Hannover’e, Elbe donmu
 
 Hepsini anlattı.
 
-Galata’nın yamacında, karların içinde bulunan bir yabancıyı. Sekiz sandığı. Sultan’ın Arz Odası’nı gece yarısı gündüze çeviren ışıkları. Roma’nın düşüşünü ve Bern’in hazinesini aylar önce, mühürlü bir kâğıda yazıp Divan’da açtıran bir adamı. Walsh’un kaybolduğu geceyi. Bahçıvan’ın kalp krizini. Bozcaada’yı. Malta’yı, Nelson’ın her hamlesini önceden bilen o tuzağı. Et Meydanı’nda, bir bakır çubuğun ucunda dans eden şimşeği, gökten gelir gibi konuşan sesi, otuz bin yeniçeriyi tek bir gecede, tek bir kişiyi bile öldürmeden diz çöktüren o gösteriyi. Konuşan kutuyu. Kutunun bir çocuğun sesini nasıl taşıdığını. Elçiliğin mahzeninde bir çocuğun yerini, kimsenin bulamayacağı bir yerde, nasıl bulduklarını. Tigre’nin ana direğinin gece yarısı, iki bin dört yüz yardı aşan bir mesafeden, tek güllede nasıl yıkıldığını. Ve sonra, üç gece sonra, denizin, hiçbir gemi, hiçbir kayık, hiçbir top yokken, Tigre’nin altından nasıl kalktığını.
+Galata’nın yamacında, karların içinde bulunan bir yabancıyı. Sekiz sandığı. Sultan’ın Arz Odası’nı gece yarısı gündüze çeviren ışıkları. Roma’nın düşüşünü ve Bern’in hazinesini aylar önce, mühürlü bir kâğıda yazıp Divan’da açtıran bir adamı. Walsh’un kaybolduğu geceyi. Bahçıvan’ın kalp krizini. Bozcaada’yı. Malta’yı, Nelson’ın her hamlesini önceden bilen o tuzağı. Et Meydanı’nda, bir bakır çubuğun ucunda dans eden şimşeği, gökten gelir gibi konuşan sesi, otuz bin yeniçeriyi tek bir gecede, tek bir kişiyi bile öldürmeden diz çöktüren o gösteriyi. Konuşan kutuyu. Kutunun bir çocuğun sesini nasıl taşıdığını. Elçiliğin mahzeninde bir çocuğun yerini, kimsenin bulamayacağı bir yerde, nasıl bulduklarını. Tigre’nin ana direğinin gece yarısı, iki bin yarda yakın bir mesafeden, tek güllede nasıl yıkıldığını. Ve sonra, üç gece sonra, denizin, hiçbir gemi, hiçbir kayık, hiçbir top yokken, Tigre’nin altından nasıl kalktığını.
 
 Ve tayfaların anlattığını. Kara yüzlü, sessiz, gecenin içinden gelen adamları. Kimsenin görmediği, kimsenin sayısını bilmediği, kimsenin yakalayamadığı.
 
@@ -1680,7 +1680,7 @@ Baron Herbert’in Baron Thugut’a yazdığı, Âsaf Paşa’yla görüşmesini
 
 *Kont Fries’in on milyon fiorini, Ekselanslarının da bildiği gibi, Lord Grenville’in Avusturya’ya bu yıl ödeyeceği sübvansiyonun bir kısmıdır. Londra bu paranın Bâb-ı Âli’ye Viyana’nın eliyle gitmesini şart koşmuştur. İzmir ve Selanik gümrükleri teminat olarak verildiği anda, Lord Grenville’in hesabıyla, Bâb-ı Âli bir sonraki yaz donanmasını denize indiremeyecek, Fransa’ya verdiği sözleri tutamayacaktır. Borç kılıçtan ucuzdur.*
 
-*Bu arada Ekselanslarına, Viyana’daki Rum kahveciyle ilgili önlemin vaktinde alındığını ve Lord Minto’nun minnettarlığını iletmekten mutluluk duyarım.*
+*Bu arada Ekselanslarına, Viyana’daki Rum kahveciyle ilgili önlemin vaktinde alındığını ve Sir Morton Eden’in minnettarlığını iletmekten mutluluk duyarım.*
 
 *İmparator hazretlerinin İngiltere ile ittifakının bahara kadar gizli kalması bizim için elzemdir. Bâb-ı Âli tarafsızlığımıza inandıkça, Tuna sınırını korumak için tek asker ayırmayacaktır.*
 
@@ -1694,7 +1694,7 @@ Musa Kamhi ona bakıyordu. Yüzünde, yaşlı bir defterçinin, bir hesabın son
 
 Yavuz bir süre bir şey söylemedi. Sonra haritaya, Viyana’daki tek yeşil iğneye baktı.
 
-*Thugut biliyor,* diye düşündü. *Herbert biliyor. Minto biliyor. Ve Eleni’yi tutuklamadılar, çünkü tutuklasalar bizim bildiğimizi anlardık. Onu bir kanarya gibi kafeste tutuyorlar. Benim Bahçıvan’a yaptığımın tıpkısı.*
+*Thugut biliyor,* diye düşündü. *Herbert biliyor. Eden biliyor. Ve Eleni’yi tutuklamadılar, çünkü tutuklasalar bizim bildiğimizi anlardık. Onu bir kanarya gibi kafeste tutuyorlar. Benim Bahçıvan’a yaptığımın tıpkısı.*
 
 *Kendi tuzağımı bana kurdular.*
 
@@ -1760,7 +1760,7 @@ Defterdar bir adım geri çekildi. Sonra bir adım ileri. Elini uzattı. Bir kü
 
 “Bunun kaç kuruş ettiğini biliyor musun?” diye fısıldadı Defterdar.
 
-“Darphane emini dedi ki, iki milyon kuruşun biraz üstü.” Yavuz külçeyi yerine bıraktı. “Dört aylık savaş, Efendim. Ve bu yalnızca ilk dört ayın ürünü. Madenciler daha iyi öğrendikçe, damarlar derinleştikçe, bu sayı artacak. Bir de Sart Çayı var. Lidyalıların, Karün’ün altınını yıkadığı çay. Kumunda hâlâ altın var. Kimse iki bin yıldır eğilip bakmadı.”
+“Darphane emini dedi ki, iki milyon kuruşun biraz üstü.” Yavuz külçeyi yerine bıraktı. “Üç aylık savaş, Efendim. Ve bu yalnızca ilk dört ayın ürünü. Madenciler daha iyi öğrendikçe, damarlar derinleştikçe, bu sayı artacak. Bir de Sart Çayı var. Lidyalıların, Karün’ün altınını yıkadığı çay. Kumunda hâlâ altın var. Kimse iki bin yıldır eğilip bakmadı.”
 
 Defterdar külçeyi hâlâ elinde tutuyordu. Genç bir adamın bir mektubu tutuşu gibi. Sonra yavaşça masaya bıraktı. Yavuz’a döndü. Otuz yıllık bir hesap adamının, kuru, ince, yorgun yüzünde, Yavuz’un o güne kadar hiç görmediği bir şey vardı. Gözyaşı değildi. Ama ona yakın bir şey.
 
@@ -1972,7 +1972,7 @@ Musa Kamhi bir süre düşündü.
 
 ---
 
-Zanetto, Galata’nın Venedikli kemik tornacısı, üç ay önce hayatının en korkunç sabahını yaşamıştı. Kendi dükkanında, kendi tezgâhında, kendi elleriyle yaptığı bir kemik başparenin bir Sultanı zehirlediğini öğrendiği sabah. Ve sonra, sarrafın poliçesini sakladığı için, başını kurtardığı sabah.
+Zanetto, Galata’nın Venedikli kemik tornacısı, geçen yaz hayatının en korkunç sabahını yaşamıştı. Kendi dükkanında, kendi tezgâhında, kendi elleriyle yaptığı bir kemik başparenin bir Sultanı zehirlediğini öğrendiği sabah. Ve sonra, sarrafın poliçesini sakladığı için, başını kurtardığı sabah.
 
 O sabahtan beri Âsaf Paşa’nın adı geçtiğinde bir kediye dönüşüyordu.
 
@@ -2070,7 +2070,7 @@ Yavuz bir şey söylemedi. Yalnızca bir süre o genç adamın eğilmiş başın
 
 Mart’ın beşinde, sabahın ilk ışıklarıyla, Tersane-i Âmire’nin önünde, Haliç’in ağzında, altı gemi demir alıyordu.
 
-Nusret, başta. Seksen toplu, iki güverteli, yarası iki haftada Tersane’nin kalafatçılarının gece gündüz durmayan çekiçleriyle kapatılmış, karnı yeniden bakırla kaplanmış, ana direğinin yerine Bolu’nun ormanlarından gelmiş taptaze, reçine kokan bir çam dikilmiş. Kral’ın gemisi olarak ömrünü bitirmiş, Hünkâr’ın gemisi olarak yeniden doğmuştu. Kurtarılışından ve yeniden doğuşundan sonra ilk seferiydi bu.
+Nusret, başta. Seksen toplu, iki güverteli, yarası bir haftada Tersane’nin kalafatçılarının gece gündüz durmayan çekiçleriyle kapatılmış, karnı yeniden bakırla kaplanmış, ana direğinin yerine Bolu’nun ormanlarından gelmiş taptaze, reçine kokan bir çam dikilmiş. Kral’ın gemisi olarak ömrünü bitirmiş, Hünkâr’ın gemisi olarak yeniden doğmuştu. Kurtarılışından ve yeniden doğuşundan sonra ilk seferiydi bu.
 
 Arkasında, Hüseyin Paşa’nın Ekim’den beri Tersane’de, Fransız mühendislerin planları üzerinden ama Yavuz’un hesaplarıyla inşa ettirdiği iki kalyon. *Bahr-i Zafer* ve *Mes’udîye.* Bir de onların arkasında, daha küçük, daha çevik, daha alçak, iki firkateyn.
 
@@ -2240,7 +2240,7 @@ Phélippeaux çenesini daha da kaldırdı.
 
 “Gördüm.”
 
-“Güzel bir duvar. On üçüncü yüzyıldan. Kel bir rahip bana çok övündü.” Bonapart masanın çekmecesini açtı. Bir kâğıt çıkardı. Boş bir pasaport. Kalemi hokkaya daldırdı. Bir isim yazdı. Bir imza attı. Mühürledi. Sonra kâğıdı masanın üstünden Phélippeaux’ya doğru itti. “Bir duvarın önünde durmana gerek yok. Bu bir pasaport. Cumhuriyet’in her yerinde, her limanda, her sınırda geçer. Nereye istersen git. Londra’ya, Viyana’ya, Petersburg’a. Kralının yeğeninin yanına, Mitau’ya. Umrumda değil.”
+“Güzel bir duvar. On üçüncü yüzyıldan. Kel bir rahip bana çok övündü.” Bonapart masanın çekmecesini açtı. Bir kâğıt çıkardı. Boş bir pasaport. Kalemi hokkaya daldırdı. Bir isim yazdı. Bir imza attı. Mühürledi. Sonra kâğıdı masanın üstünden Phélippeaux’ya doğru itti. “Bir duvarın önünde durmana gerek yok. Bu bir pasaport. Cumhuriyet’in her yerinde, her limanda, her sınırda geçer. Nereye istersen git. Londra’ya, Viyana’ya, Petersburg’a. Kralının kardeşinin yanına, Mitau’ya. Umrumda değil.”
 
 Phélippeaux pasaporta baktı. Dokunmadı.
 
@@ -2306,7 +2306,7 @@ Hüseyin Paşa yavaşça döndü.
 
 Kaptan-ı Derya bir süre kasaranın parmaklığına yaslanıp denize baktı. Sonra güldü. Ama bu sefer gür değil, alçak, derin, bir kurt homurtusu gibi bir kahkaha.
 
-“Bir gece,” dedi, “Kız Kulesi’nin karşısında, bir kırlangıçta, Âsaf Paşa bana bir ad söyledi, Said. Sekiz yıl sonra bir lodos gecesi Çanakkale Boğazı’nı geçecek, İstanbul’un önüne demir atacak, Hünkârın penceresinin altında toplarını gösterecek bir İngiliz amiralinin adını. Ben o adı o gece kalbime yazdım.” Parmaklığı bıraktı. Doğrulda. “Demek Allah onu bana sekiz yıl erken, kendi ayağıyla, İspanya’nın ucuna kadar getirdi.”
+“Bir gece,” dedi, “Kız Kulesi’nin karşısında, bir kırlangıçta, Âsaf Paşa bana bir ad söyledi, Said. Dokuz yıl sonra bir lodos gecesi Çanakkale Boğazı’nı geçecek, İstanbul’un önüne demir atacak, Hünkârın penceresinin altında toplarını gösterecek bir İngiliz amiralinin adını. Ben o adı o gece kalbime yazdım.” Parmaklığı bıraktı. Doğrulda. “Demek Allah onu bana sekiz yıl erken, kendi ayağıyla, İspanya’nın ucuna kadar getirdi.”
 
 Döndü.
 
@@ -2388,7 +2388,7 @@ Duckworth kamaraya baktı. Duvarlara. Pencerelere. Kralın arma kabartmasının,
 
 Bir süre ikisi de konuşmadı. Sonra Hüseyin Paşa öne eğildi. Duckworth’un yüzüne yakın. Ve Said’in çevirdiği her kelimeyi Duckworth’un gözlerinin içine bakarak, tek tek söyledi.
 
-“Bir dostum var, Amiral. Geleceği bilir. Bana bir gece sizden söz etti. Sekiz yıl sonra, bir lodos gecesi, Çanakkale Boğazı’nı geçip, benim şehrimin önüne, benim Hünkârımın penceresinin altına gelecektiniz. Toplarınızı gösterecektiniz. Ve kimse sizi durduramayacaktı.”
+“Bir dostum var, Amiral. Geleceği bilir. Bana bir gece sizden söz etti. Dokuz yıl sonra, bir lodos gecesi, Çanakkale Boğazı’nı geçip, benim şehrimin önüne, benim Hünkârımın penceresinin altına gelecektiniz. Toplarınızı gösterecektiniz. Ve kimse sizi durduramayacaktı.”
 
 Duckworth anlamadı. Yüzünde katı, kuşkulu bir şaşkınlık vardı.
 
@@ -2552,11 +2552,11 @@ Yavuz monokülü indirdi.
 
 Ve çıplak gözle, karanlığın içinden, kayıkhanenin kalaslarının arasındaki bir aralıktan, fenerin sızan ışığında, bir yüz gördü.
 
-Yalnızca bir an. Kare bir çene. Kalın, beyaza çalan bir sakal. Bir zamanlar, aylar önce, bir kış gecesi, Galata’dan saraya giden bir kayığın kıçında, dümenin başında, karların içinden gelen bir yabancıyı soğuk, kuru, şüpheci gözlerle süzen bir yüz.
+Yalnızca bir an. Kare bir çene. Kır bir bıyık, kır bir sakal. Bir zamanlar, aylar önce, bir kış gecesi, sur dibindeki küçük iskelede, fenerlerin altında, Galata’dan gelen kayıktan inen, karların içinden gelmiş bir yabancıyı soğuk, kuru, şüpheci gözlerle süzen bir yüz.
 
-O kayıkta Atıf Efendi, saraya varınca tam olarak ne diyeceğini öğrenmek için, ona bir kez daha adını sordurmuştu. Üç adını da. Yavuz. Ateş. Yıldız.
+O iskelede Atıf Efendi, saraya getirdiği adamı ona alçak sesle tanıtmıştı. Üç adını da. Yavuz. Ateş. Yıldız.
 
-Ve dümendeki adam, hiç konuşmadan, dinlemişti.
+Ve fenerin altındaki adam, gözünü yabancıdan ayırmadan, dinlemişti.
 
 Fener kapandı.
 
@@ -2792,7 +2792,7 @@ Kapı vuruldu.
 
 Bir kâtip içeri girdi. Islaktı. Nefes nefeseydi. Elinde, Dışişleri’nin mührünü taşıyan, yağmurdan lekelenmiş bir zarf vardı.
 
-“Başbakan. Downing Sokağı’ndan sizi burada bulmamı söylediler. Viyana’dan bir kurye bu akşam geldi. Husum’dan, Yarmouth paketiyle. Lord Minto’nun çantasında, sizin için ayrılmış bu vardı.”
+“Başbakan. Downing Sokağı’ndan sizi burada bulmamı söylediler. Viyana’dan bir kurye bu akşam geldi. Husum’dan, Yarmouth paketiyle. Sir Morton Eden’in çantasında, sizin için ayrılmış bu vardı.”
 
 Pitt zarfı aldı. Açtı. Mumun ışığına tuttu. Okudu.
 
@@ -2918,7 +2918,7 @@ Dosyayı kapadı.
 
 İkinci dosya inceydi. Neredeyse boştu.
 
-William Wickham. Otuz sekiz yaşında. Oxford’dan sonra Cenevre’de hukuk okumuş. İsviçreli bir kadınla evli. Dört yıl Bern’de İngiltere’nin gizli parasını dağıtmış, sonra Londra’ya dönüp Yabancılar Dairesi’nin başına geçmiş. Hepsi bu. Ne bir zaaf. Ne bir borcu. Ne bir metresi. Ne bir alkol, ne bir kumar.
+William Wickham. Otuz yedi yaşında. Oxford’dan sonra Cenevre’de hukuk okumuş. İsviçreli bir kadınla evli. Dört yıl Bern’de İngiltere’nin gizli parasını dağıtmış, sonra Londra’ya dönüp Yabancılar Dairesi’nin başına geçmiş. Hepsi bu. Ne bir zaaf. Ne bir borcu. Ne bir metresi. Ne bir alkol, ne bir kumar.
 
 “Bu adamın dosyası boş, Paşam,” dedi Musa Kamhi, gözlüğünü burnunun üstünde yukarı iterek. “Kırk yıldır defter tutuyorum. Boş bir defter, dolu bir defterden daha çok şey anlatır. Biri onu özenle boşaltmış demektir.”
 
@@ -4890,7 +4890,7 @@ Emirler çıktıktan sonra, Dundas Downing Street’e geri döndü. Pitt’in od
 
 Pitt kalemini indirdi. Yüzü solgundu. Gecelerdir uyumuyordu.
 
-“Henry,” dedi yavaşça. “O adam, o Raguza gemisinde, Elgin’e benim bir cümlemi söylemişti. Ben onu henüz kimseye söylememişken. Hatırlıyor musun?”
+“Henry,” dedi yavaşça. “O adam, o Raguza gemisinde, Wickham’la Elgin’e benim bir cümlemi söylemişti. Ben onu henüz kimseye söylememişken. Hatırlıyor musun?”
 
 Dundas bir an düşündü. Sonra omuz silkti.
 
