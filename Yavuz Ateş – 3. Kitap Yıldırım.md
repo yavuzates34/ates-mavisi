@@ -3032,6 +3032,8 @@ Elgin bir şey söylemedi. Ama kalenin surlarına bakarken çenesinin sıkıldı
 
 “Bir Türk vezirinin gelişini nasıl karşılayacağız, Wickham? Temenna mı bekler? Yere kadar eğilmemizi mi? Sarıklı bir paşaya ne denir, ekselans mı?”
 
+Elgin’in kafasında bir Türk vardı. Bütün İngiltere’nin kafasındaki Türk. Strand’deki dükkân camlarının gravürlerinden, Drury Lane’in sahnelerinden tanıdığı Türk. Kara sakal. Kocaman bir sarık. Belinde eğri bir hançer, elinde bir tütün çubuğu. Ve yanında, mutlaka, eğilip bükülen bir tercüman.
+
 Wickham bir şey söylemedi. Yalnızca çok kısa, neredeyse görünmeyen bir tebessümle denize baktı.
 
 Ve sonra, güvertede, nöbetçinin sesi.
@@ -3060,13 +3062,19 @@ Elgin ayağa kalktı. Kibar, mesafeli, diplomasinin dili olan Fransızcayla konu
 
 “*Monsieur.* Paşa’nın kâtibi olmalısınız. Ekselansları nerede? Gelmeyecek mi?”
 
-Adam bir an ona baktı. Sonra cevap verdi. Fransızca değil, İngilizce. Sakin, düz, Elgin’in kulağına hiçbir İngiliz ya da İskoç şivesine benzemeyen, ama bir an için, okyanusun öbür yakasını hatırlatan bir aksanla.
+Adam bir an ona baktı. Sonra cevap verdi. Fransızca değil, İngilizce. Sakin, düz, kusursuz; ama Elgin’in kulağına hiçbir İngiliz ya da İskoç şivesine benzemeyen, bir an için okyanusun öbür yakasını hatırlatan bir aksanla.
 
-“Geldi, Lord Elgin. Karşınızda duruyor.”
+“He came, Lord Elgin. He’s standing right in front of you.”
+
+Geldi, Lord Elgin. Karşınızda duruyor.
 
 Elgin’in yüzü dondu.
 
+Bir an sürdü. Sonra, bir İskoç kontunun oğluna daha dili çözülmeden öğretilen o eski terbiye yerine oturdu. Düşmanın önünde şaşırılmaz. Elgin’in yüzü yeniden kibar, yeniden mesafeli, yeniden boş oldu. Yalnızca sağ eli, kendi kendine, bir an boynundaki kabarık muslin kravata gitti. Sonra indi.
+
 Wickham ise kıpırdamadı. Yalnızca gözleri, sessizce, adamın yüzünden ceketine, ceketinden ellerine, ellerinden kravatının düğümüne, düğümünden yeniden yüzüne gidip geldi. Bir defterçinin sütunları gibi.
+
+*Smith bir yıl bu adamın karşısında oturdu,* diye düşündü. *Raporlarının hiçbirinde bu yüz yok. Bir kaftan var. Bir sarık. Bir rütbe. Bu yüz yok.*
 
 Adam elini uzattı. Elgin’e değil. Wickham’a.
 
@@ -3074,7 +3082,9 @@ Adam elini uzattı. Elgin’e değil. Wickham’a.
 
 Wickham elini sıktı. Kuru, sabit, soğuk bir el. Ama bir an, çok kısa bir an, sıkması gerekenden bir parmak fazla sıktı.
 
-“Yavuz Ateş Yıldız,” dedi adam. “Mühendis.”
+“Yavuz Ateş Yıldız,” dedi adam. “Engineer.”
+
+Mühendis.
 
 ---
 
@@ -3139,6 +3149,16 @@ Sonra Yavuz, beklenmedik bir şey yaptı. Kendi başlattı.
 Elgin’in yüzü dikkat kesildi.
 
 “Tigre’den, Leviathan’dan ve Centaur’dan elimizde bin iki yüz kadar İngiliz denizcisi var. Kepez’de, Çanakkale’de, Algeciras’ta. Aralarında iki yüze yakın yaralı, bir o kadar da hasta. Ateş, dizanteri, kırık kemik.” Yavuz bir an durdu. “Onları geri vereceğim.”
+
+Elgin’in fincanı, dudağına giderken, yarı yolda durdu. Orada kaldı. Bir an fazla. Sonra, hiçbir şey olmamış gibi, bir yudum aldı ve fincanı tabağına, hiç ses çıkarmadan bıraktı.
+
+*Leviathan,* diye düşündü Wickham. *Centaur. Konvoyun gemileri.*
+
+Trieste’den çıkalı üç haftaya yakın olmuştu. O günden beri ne bir gazete görmüşlerdi ne bir mektup. *Leviathan esirse konvoy yok. Konvoy yoksa Kaya yok.*
+
+*Ve bunu bir Türk’ün ağzından, bir hastane defteri okunur gibi duyuyoruz.*
+
+Yüzünde hiçbir şey kıpırdamadı. Yalnızca masanın üstündeki parmakları, bir an, örtünün kenarını buldu. Ve bıraktı.
 
 Elgin bir an ne diyeceğini bilemedi.
 
@@ -3259,6 +3279,8 @@ Wickham kıpırdamadı.
 Wickham’ın yüzü, o kibar, sakin, unutulması kolay yüz, ilk kez bembeyaz oldu.
 
 Pitt’in kelimeleri. Bir harf bile değişmeden.
+
+Beyazlık yalnızca bir nefes sürdü. Sonra renk, yavaş yavaş, o unutulması kolay yüze geri döndü. Wickham avucunu masanın örtüsüne koydu. Düz. Kıpırtısız. Ayağının altındaki güvertenin hâlâ orada olduğundan emin olmak isteyen bir adam gibi.
 
 Elgin ikisine bakıyordu. Bir şey olduğunu anlıyor, ne olduğunu anlamıyordu.
 
@@ -3402,6 +3424,28 @@ Ama eli, yine de, bir süre o boş cebin üstünde kaldı.
 
 ---
 
+Sveti Vlaho o gece, karanlıkta, demir aldı.
+
+Trieste’ye on dört gün. Trieste’den Viyana’ya beş. Viyana’dan, buzu artık çözülmüş Elbe’nin ağzına, Cuxhaven’a, on iki. Oradan Yarmouth paketiyle, Kuzey Denizi’nde, üç gün daha. Beş hafta.
+
+Lord Elgin o beş hafta boyunca her gece yazdı.
+
+Londra’dan çıktığından beri her akşam iki satırla, Mary’ye okutacağı birkaç kibar cümleyle geçiştirdiği deri kaplı günlük, Adriyatik’te bir anda kalınlaştı. Bir gece dört sayfa. Ertesi gece yedi. Hep aynı adam. Boyu. Omuzları. Kalçada biten o ceket. Mavi şeridin düğümü. Sesi. Her gece bir önceki gecenin sayfalarının yanlış olduğunu düşündü. Üstlerini çizmedi. Baştan başladı.
+
+Korfu açığında bir gece, mumun dibinde, tek bir satır yazdı ve uzun süre ona baktı.
+
+*He is not a Turk. He is not one of us. And I have no word for what he is.*
+
+Türk değil. Bizden değil. Ve ne olduğuna dair elimde bir kelime yok.
+
+Wickham ise tek bir sayfayı bitiremedi.
+
+Pitt’e yazacağı rapora Bozcaada’nın gecesinde başlamıştı. Trieste’de yarımdı. Viyana’da yarımdı. Cuxhaven’da hâlâ yarımdı. Bern’de, Londra’da, yıllar boyunca yüzlerce adam için rapor yazmış, her birini bir gecede bitirmişti. Ad. Yaş. Borç. Zaaf. Fiyat. Bu sefer her gece bir sayfa yazdı, her sabah onu okuyup yırttı.
+
+Sütunlar dolmuyordu.
+
+---
+
 Holwood, Kent, Haziran’ın on dokuzu. Gece.
 
 William Pitt’in kır evi, Londra’nın on iki mil güneyinde, Bromley’nin tepelerinde, meşe ağaçlarının arasında, sade, kare, kırmızı tuğlalı bir evdi. Pitt buraya Londra’dan kaçmak için gelirdi. Ağaç dikmek, bahçede kazmayla uğraşmak, kimsenin bir şey istemediği birkaç saat geçirmek için.
@@ -3509,6 +3553,84 @@ Dundas kısa bir kahkaha attı. Kimse ona katılmadı.
 Pitt çizimi masanın ortasına, şamdanın dibine bıraktı. Gecenin geri kalanı boyunca orada kaldı. Kimse ona bir daha dokunmadı. Ama arada bir, herkes, bir şey söylerken, gözünün ucuyla ona baktı.
 
 Siyah, kuyruksuz bir ceket. Mavi bir çizgi. Ve kurt gibi, sakin, dik bir adam.
+
+Banks gözünü çizimden ayırmadan, alçak sesle konuştu.
+
+“Otuz yıldır, Başbakan, gördüğüm her şeyi bir yere koydum. Tahiti’nin bitkilerini. Labrador’un kuşlarını. Göttingen’deki dostum Blumenbach insanları bile beş sınıfa ayırır, kafataslarından. Bir kutu, bir etiket, bir Latince ad.” Gözü çizimin göğsündeki o mavi çizgideydi. “Bu adamı hangi kutuya koyacağımı bilmiyorum. Yüzü bizim. Kılığı hiçbir yerin. Bildikleri hiçbir zamanın.”
+
+“Türk kutusuna, Sir Joseph,” dedi Grenville kuru bir sesle. “Altı tuğlu bir vezir. Lord Elgin kendi ağzıyla söyledi.” Elgin’e döndü. “Ve onu kâtip sandı. Kral’ın İstanbul’a seçtiği büyükelçi, Türk’ün vezirini kapıda kâtip sandı.”
+
+Elgin’in yüzü kızardı.
+
+“Siz de sanırdınız, William.”
+
+“Ben bir sarığı bir şapkadan ayırabilirim.”
+
+“Sarık yoktu!” Elgin’in sesi, ilk kez, bir İngiliz salonunda bir lordun sesinin hiç yükselmemesi gereken kadar yükseldi. Dundas bile kadehini indirdi. “Anlamıyor musunuz? Bir sarık bekliyordum. Hepimiz bekliyorduk. Kara bir sakal, bir hançer, bir tütün çubuğu. Gravürlerdeki Türk’ü. Drury Lane’deki Türk’ü. Karşıma...” Durdu. Kelimeyi aradı. “Karşıma bizden biri çıktı. Bizden biri gibi biri. Bizden iyi giyinmiş biri. Ve bizden değildi.”
+
+Kimse bir şey söylemedi.
+
+Elgin derin bir nefes aldı. Sesini yeniden indirdi. Kendi sesinden utanır gibi.
+
+“Dönüş yolunda günlüğüme otuz sayfa yazdım, Başbakan. Otuzu da yanlış.”
+
+Dundas bu sessizliğe bir İskoç’un dayanabileceğinden fazla dayanamadı. Kalktı, “Meşelerinize bir bakayım, Billy,” diye homurdandı ve bahçe kapısından çıktı.
+
+Pitt arkasından bakmadı. Kadehini çevirdi, çevirdi. Sonra konuştu.
+
+“Mr. Wickham.”
+
+“Başbakan.”
+
+“Döndüğünüz gece, Downing Sokağı’nda, bana bir cümle söylediniz. Bir daha söyleyin. Onun söylediği gibi. Kelimesi kelimesine.”
+
+Wickham bir an Banks’e baktı. Sonra Pitt’e.
+
+“Mr. Pitt o kutuyu Kabine’ye göstermedi, değil mi, dedi. Kral’a da göstermedi. Gazetelere de söylemedi. Kutu o odadan çıkmadı. O gece o odada söylenen tek bir kelime de çıkmadı.” Bir an durdu. Sonra, bir kâtibin bir listeyi okuması gibi, düz, vurgusuz, o adamın İngilizcesiyle söyledi:
+
+“Because a frightened country cannot fight.”
+
+Çünkü korkan bir ülke savaşamaz.
+
+Elgin bu cümleyi Bozcaada’da duymuştu. Ne olduğunu ancak şimdi, Pitt’in yüzüne bakınca anladı. Grenville kuzenine döndü. Banks’in kırmızı yüzü kül rengine kesti.
+
+“O odada dört kişiydik,” dedi Pitt. Sesi çok sakindi. Fazla sakin. “Ben. Mr. Wickham. Sir Joseph. Ve Mr. Cavendish.”
+
+Banks doğruldu. Gutlu ayağı taburenin üstünden kaydı. İnledi. Aldırmadı.
+
+“Henry Cavendish, Başbakan,” dedi, “kırk yıldır hizmetçisine yemeğini merdivenin başındaki masaya bıraktığı bir notla ısmarlar. Kadının yüzünü görmemek için. O adam bir Türk’le mi konuşacak? Bir Raguza gemisinde mi?” Sesi titriyordu. Öfkeden. “Ve ben, Başbakan, ben...”
+
+“Kimse sizi suçlamıyor, Sir Joseph.”
+
+“Suçluyorsunuz. Sayıyorsunuz. Dört kişi, diye sayıyorsunuz.”
+
+Wickham araya girdi. Sessiz, kibar.
+
+“Mektubu getiren kâtip de vardı, Sir Joseph. Ertesi sabah onu buldum. Üç gün konuştuk. O gece mektubu bıraktıktan sonra merdivenin başında bekledi. Kapı kapalıydı. Hiçbir şey duymadı. Şimdi Deptford’da, Bahriye’nin ambarlarında, mühür mumu sayıyor.” Bir an durdu. “Kimse konuşmadı, Başbakan. Beş hafta boyunca, yolda, bunu düşündüm. Kimse konuşmadı.”
+
+“O halde,” dedi Grenville. Ve cümlesini bitirmedi.
+
+Bitirmesine gerek yoktu. Odadaki herkes cümlenin sonunu aynı anda düşündü. Ya o odada bir hain vardı. Ya da o adam, kapısı kapalı bir odada, Başbakan’ın kafasının içindeydi.
+
+Kimse hangisinin daha kötü olduğuna karar veremedi.
+
+Pitt kadehini doldurmak için sürahiye uzandı. Porto kadehin kenarından taştı. Bir damla, masanın ortasındaki çizimin köşesine, siyah ceketin eteğine düştü ve yavaşça yayıldı.
+
+Kimse silmedi.
+
+“O cümleyi bir kez söyledim,” dedi Pitt. Kimseye bakmıyordu. “Bir kez. Kendi kendime söyler gibi. Kabine’ye bile söylememişken.” Kadehi kaldırdı. İçmedi. Bıraktı. “Ve şimdi o cümle bir Türk’ün ağzında. Bozcaada’da. Bir Raguza gemisinde.”
+
+Sonra, çok alçak sesle, belki yalnızca Wickham’ın duyacağı kadar alçak, ekledi:
+
+“Korkan bir ülke savaşamaz, Mr. Wickham. Peki ya korkan bir başbakan?”
+
+Wickham cevap vermedi.
+
+Tam o sırada kapı açıldı ve Henry Dundas, pantolonunun düğmelerini iliklemeye uğraşarak, bahçeden içeri girdi. Odaya baktı. Kül rengi yüzlere. Çizimin üstündeki kırmızı lekeye.
+
+“Ne oldu?” dedi. “Biri mi öldü?”
+
+Kimse cevap vermedi.
 
 Pitt yeniden sordu:
 
