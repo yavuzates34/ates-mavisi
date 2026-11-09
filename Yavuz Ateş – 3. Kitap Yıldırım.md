@@ -1,7 +1,5 @@
 # Yavuz Ateş – 3. Kitap: Yıldırım
 
-Nov 9, 2026 · @Yavuz Ateş ♢
-
 ### Bölüm 1: Nusret
 
 ---
@@ -356,7 +354,7 @@ Hışırtı. Sonra Hüseyin Paşa’nın sesi, fısıltı gibi: “Ben bir şey 
 
 “Baş üstüne.”
 
-Yavuz monokülü yeniden gözüne bastı. Gemi yaklaşıyordu. Akıntıya karşı, lodosun sırtında, yavaş ama durmadan. Yarım direğinin yarım yelkeği şişmişti. Baş direğin yelkenleri de. Bir saatte bir mil, belki iki.
+Yavuz monokülü yeniden gözüne bastı. Gemi yaklaşıyordu. Akıntıya karşı, lodosun sırtında, yavaş ama durmadan. Yarım direğinin yarım yelkeni şişmişti. Baş direğin yelkenleri de. Bir saatte bir mil, belki iki.
 
 İlk dizi kazığın önünden geçti. Yavuz onları göremiyordu, karanlık ve soğuk olan hiçbir şey monokülün içinde görünmüyordu. Ama Hasan’ın masasının kenarına, mumun ışığında, bütün bir haftanın hesabını çizmişti. Kazıkların yerini, akıntının hızını, geminin çektiği suyu. Bir de karşı yakadaki Soğanlıdere sırtında, gün batmadan önce bir Tatar’ın çınarın dibine bıraktığı, ısısı hâlâ sönmemiş küçük bir kömür mangalı.
 
@@ -428,7 +426,7 @@ Ve sonra, önce pruvası, sonra bütün gövdesi, Kepez Burnu’nun sığ kumunu
 
 Durdu.
 
-Eğik. Aşağı yukarı on beş derece sancak tarafına yatmış. Pruvası kumda, kıçı suda. Eğreti direği bir çatlamayla kırılmış, yelkeğiyle birlikte güverteye yıkılmıştı.
+Eğik. Aşağı yukarı on beş derece sancak tarafına yatmış. Pruvası kumda, kıçı suda. Eğreti direği bir çatlamayla kırılmış, yelkeniyle birlikte güverteye yıkılmıştı.
 
 Değirmenin tam altında. Beş yüz adım ötede.
 
@@ -806,9 +804,9 @@ Yavuz bir süre ona baktı.
 
 Sidney Smith uzun süre ona baktı. Kara, parlak gözleri, mumun ışığında, Yavuz’un yüzünde, is karasının altında bir şey arıyordu.
 
-“Demek doğru,” dedi sonunda, çok alçak sesle. “Kardeşimin yazdıkları. Pera’da konuşulanlar. Malta’dan sonra donanmada fısıldananlar. Bonaparte’ın bir kâhini var. Doğuda. Bir Türk.”
+“Demek doğru,” dedi sonunda, çok alçak sesle. “Kardeşimin yazdıkları. Pera’da konuşulanlar. Malta’dan sonra donanmada fısıldananlar. Bonapart’ın bir kâhini var. Doğuda. Bir Türk.”
 
-“Bonaparte’ın bir kâhini yok, Sir Sidney. Devlet-i Aliyye’nin bir veziri var.”
+“Bonapart’ın bir kâhini yok, Sir Sidney. Devlet-i Aliyye’nin bir veziri var.”
 
 “Ve o vezir geleceği biliyor.”
 
@@ -820,11 +818,11 @@ Sidney’nin dudaklarının kenarında o tanıdık, şığ, kendini beğenmiş t
 
 Yavuz bir an duraksadı. Sonra, ilk kez, tam olarak dürüst bir şey söylemeye karar verdi.
 
-“Benim bildiğim dünyada, Sir Sidney, beş ay sonra, Akka’nın surlarında duracaktınız. Bonaparte’ın karşısında. Mısır’ı almış, Suriye’ye yürümüş, İstanbul’a, oradan Hindistan’a gitmeyi düşünen bir Bonaparte’ın. Cezzar Ahmed Paşa’nın yanında, iki ay boyunca. Ve onu durduracaktınız. Bonaparte yıllar sonra, bir adada, sürgünde, sizin için şu cümleyi kuracaktı: O adam yüzünden kaderimi kaçırdım.”
+“Benim bildiğim dünyada, Sir Sidney, beş ay sonra, Akka’nın surlarında duracaktınız. Bonapart’ın karşısında. Mısır’ı almış, Suriye’ye yürümüş, İstanbul’a, oradan Hindistan’a gitmeyi düşünen bir Bonapart’ın. Cezzar Ahmed Paşa’nın yanında, iki ay boyunca. Ve onu durduracaktınız. Bonapart yıllar sonra, bir adada, sürgünde, sizin için şu cümleyi kuracaktı: O adam yüzünden kaderimi kaçırdım.”
 
 Sidney Smith kıpırdamadı. Kadehi tutan eli hareketsizdi.
 
-“Ve yanınızda,” diye devam etti Yavuz, “Akka’nın surlarını sizin için tahkim eden, topları yerleştiren bir Fransız mühendis olacaktı. Krala sadık bir émigré. Sizi Temple’dan kaçıran adam. Bonaparte’la Paris’teki askeri okulda aynı sınıfta okumuş, sınavlarda onu geçmiş bir adam. Phélippeaux.”
+“Ve yanınızda,” diye devam etti Yavuz, “Akka’nın surlarını sizin için tahkim eden, topları yerleştiren bir Fransız mühendis olacaktı. Krala sadık bir émigré. Sizi Temple’dan kaçıran adam. Bonapart’la Paris’teki askeri okulda aynı sınıfta okumuş, sınavlarda onu geçmiş bir adam. Phélippeaux.”
 
 Kamaranın duvarının öbür tarafında, yan kamarada, birinin uykusunda döndüğü duyuldu.
 
@@ -856,7 +854,7 @@ Sonra yavaşça ayağa kalktı. Eğik güvertede, bir elini masaya dayayarak. K�
 
 Sidney’nin elleri havada kaldı.
 
-“Almayacağım, Sir Sidney,” dedi Yavuz sakin bir sesle. “Kılıcınızı güvertede, bütün tayfanızın önünde, gün doğarken, bir Türk paşasına uzatmak isterdiniz. Bayrağınızı kendi elinizle indirmek isterdiniz. Gazeteler bunu yazardı. Londra’da bunun resmini yaparlardı. Kahraman İngiliz kaptanı, gemisi kırık, son ana kadar direnşte, sonunda onuruyla kılıcını teslim ediyor.” Bir an durdu. “Bu sahneyi size vermeyeceğim.”
+“Almayacağım, Sir Sidney,” dedi Yavuz sakin bir sesle. “Kılıcınızı güvertede, bütün tayfanızın önünde, gün doğarken, bir Türk paşasına uzatmak isterdiniz. Bayrağınızı kendi elinizle indirmek isterdiniz. Gazeteler bunu yazardı. Londra’da bunun resmini yaparlardı. Kahraman İngiliz kaptanı, gemisi kırık, son ana kadar direnişte, sonunda onuruyla kılıcını teslim ediyor.” Bir an durdu. “Bu sahneyi size vermeyeceğim.”
 
 “Ne yapacaksınız o halde?”
 
@@ -1274,7 +1272,7 @@ Gölge Odası.
 
 Yavuz onu çağının diliyle, kendine bile, hiç adlandırmamıştı. Ama içeri her girdiğinde aklına aynı kelimeler geliyordu. Bir istihbarat merkezi. Bir operasyon odası. Bir kara oda.
 
-Sütunların arasına üç uzun masa konmuştu. Duvarların nemi iki ay boyunca sönmeyen mangallarla kurutulmuş, taşların üstüne kat kat keçe çakılmıştı. Tonozun tepesinde, Yavuz’un çizdiği, dışarıya bir çeşmenin kurnasının arkasından açılan bir hava borusu. Ve kuzey duvarında, bütün duvarı kaplayan, tabletteki haritalardan elle çizilmiş, Lizbon’dan Kalkütüa’ya uzanan, üstüne renkli toplu iğneler batırılmış dev bir harita.
+Sütunların arasına üç uzun masa konmuştu. Duvarların nemi iki ay boyunca sönmeyen mangallarla kurutulmuş, taşların üstüne kat kat keçe çakılmıştı. Tonozun tepesinde, Yavuz’un çizdiği, dışarıya bir çeşmenin kurnasının arkasından açılan bir hava borusu. Ve kuzey duvarında, bütün duvarı kaplayan, tabletteki haritalardan elle çizilmiş, Lizbon’dan Kalküta’ya uzanan, üstüne renkli toplu iğneler batırılmış dev bir harita.
 
 Kırmızı iğneler: İngilizler. Yeşil iğneler: Gölgeler.
 
@@ -1282,7 +1280,7 @@ Yeşil iğneler azdı ama doğru yerlerdeydi. Pera’da üç. İzmir’de iki. M
 
 ---
 
-Orta masanın başında, altı mumun ve bir LED lambanın ışığında, altımış yaşında, kısa boylu, gözlüklü, beyaz sakallı bir adam oturuyordu.
+Orta masanın başında, altı mumun ve bir LED lambanın ışığında, altmış yaşında, kısa boylu, gözlüklü, beyaz sakallı bir adam oturuyordu.
 
 Musa Kamhi.
 
@@ -1484,7 +1482,7 @@ Ve Eleni’nin kahvehanesinin arka odasında, şu an, bir masanın üstünde, de
 
 Mileta. Elli yaşında, iki metre boyunda, sağ kulağının yarısı olmayan, gençliğini Şumadya dağlarında bir hayduk olarak geçirmiş, sonra yorulup Viyana’da domuz tüccarı olmuş bir Sırp. Bir atı kulağından tutup susturabilen bir adam.
 
-Ve Yorgos. Eleni’nin yiğeği. On dokuz yaşında. İnce, hızlı, sessiz. Bir kediyi uykusundan uyandırmadan üstünden atlayabilen bir çocuk.
+Ve Yorgos. Eleni’nin yeğeni. On dokuz yaşında. İnce, hızlı, sessiz. Bir kediyi uykusundan uyandırmadan üstünden atlayabilen bir çocuk.
 
 Eleni pencereye gitti. Buharı avucuyla sildi. Sokağa baktı.
 
@@ -1620,11 +1618,11 @@ Spencer Smith mektubu ona vermedi. Kendisi okudu. Yüksek sesle. Kardeşinin sö
 
 *Bu gece, kamaramda, bana önceden hazırlanmış hiçbir şey söylemedi. Ezberlenmiş bir kehanet yoktu. Bir şey sordum, cevap verdi. O kadar sakin, o kadar tereddütsüz ki, sanki bir kitabın sonunu okumuş biri bir kitabın ortasındaki birine olayları anlatıyormuş gibi.*
 
-*Bana beş ay sonra Akka’da olacağımı söyledi. Hiç görmediğim bir şehirde. Bonaparte’a karşı. Yanımda Phélippeaux olacakmış. Ve Phélippeaux orada bir hummadan ölecekmiş. Bonaparte yıllar sonra, bir adada, benim için şunu söyleyecekmiş: O adam yüzünden kaderimi kaçırdım.*
+*Bana beş ay sonra Akka’da olacağımı söyledi. Hiç görmediğim bir şehirde. Bonapart’a karşı. Yanımda Phélippeaux olacakmış. Ve Phélippeaux orada bir hummadan ölecekmiş. Bonapart yıllar sonra, bir adada, benim için şunu söyleyecekmiş: O adam yüzünden kaderimi kaçırdım.*
 
 *John. Ben Akka’yı haritada zor bulurum. Ama o bunu söylerken, ona inandım. Ve hâlâ inanıyorum.*
 
-*Ve şu da var: o geleceği artık olmayacak. Ben Akka’da olmayacağım. Phélippeaux ölmeyecek. Bonaparte o adada olmayacak belki. Çünkü o adam bir kitabın sonunu okudu, sonra kitabı kapattı, ve kendi kalemiyle yeniden yazmaya başladı.*
+*Ve şu da var: o geleceği artık olmayacak. Ben Akka’da olmayacağım. Phélippeaux ölmeyecek. Bonapart o adada olmayacak belki. Çünkü o adam bir kitabın sonunu okudu, sonra kitabı kapattı, ve kendi kalemiyle yeniden yazmaya başladı.*
 
 *Pitt’e söyle. Bunu kimsenin anlamayacağını biliyorum. Ama Pitt’e söyle.*
 
@@ -1696,11 +1694,11 @@ Yavuz okudu. Sonra bir daha okudu.
 
 Baron Herbert’in Baron Thugut’a yazdığı, Âsaf Paşa’yla görüşmesini anlatan bir rapor. Paşa’nın kibar, ihtiyatlı, ama teklife açık göründüğü. Kahvenin iyi olduğu. Ve, raporun sonuna, ayrı bir şifreyle eklenmiş, yalnızca Thugut’un okuması için, üç paragraf.
 
-*Kont Fries’in on milyon fiorini, Ekselanslarının da bildiği gibi, Lord Grenville’in Avusturya’ya bu yıl ödeyeceği sübvansiyonun bir kısmıdır. Londra bu paranın Babhıâli’ye Viyana’nın eliyle gitmesini şart koşmuştur. İzmir ve Selanik gümrükleri teminat olarak verildiği anda, Lord Grenville’in hesabıyla, Babhıâli bir sonraki yaz donanmasını denize indiremeyecek, Fransa’ya verdiği sözleri tutamayacaktır. Borç kılıçtan ucuzdur.*
+*Kont Fries’in on milyon fiorini, Ekselanslarının da bildiği gibi, Lord Grenville’in Avusturya’ya bu yıl ödeyeceği sübvansiyonun bir kısmıdır. Londra bu paranın Bâb-ı Âli’ye Viyana’nın eliyle gitmesini şart koşmuştur. İzmir ve Selanik gümrükleri teminat olarak verildiği anda, Lord Grenville’in hesabıyla, Bâb-ı Âli bir sonraki yaz donanmasını denize indiremeyecek, Fransa’ya verdiği sözleri tutamayacaktır. Borç kılıçtan ucuzdur.*
 
 *Bu arada Ekselanslarına, Viyana’daki Rum kahveciyle ilgili önlemin vaktinde alındığını ve Lord Minto’nun minnettarlığını iletmekten mutluluk duyarım.*
 
-*İmparator hazretlerinin İngiltere ile ittifakının bahara kadar gizli kalması bizim için elzemdir. Babhıâli tarafsızlığımıza inandıkça, Tuna sınırını korumak için tek asker ayırmayacaktır.*
+*İmparator hazretlerinin İngiltere ile ittifakının bahara kadar gizli kalması bizim için elzemdir. Bâb-ı Âli tarafsızlığımıza inandıkça, Tuna sınırını korumak için tek asker ayırmayacaktır.*
 
 Yavuz kâğıtları masaya bıraktı.
 
@@ -1796,7 +1794,7 @@ Defterdar külçeyi hâlâ elinde tutuyordu. Genç bir adamın bir mektubu tutu�
 
 Ayın son haftasında üç hesap daha kapandı.
 
-Galata kadısının mahkemesinde, kırk kişinin önünde, üç gün süren bir dava sonunda, eski elçilik baştercümanı Pisani hakkında hüküm okundu. Hiçbir işkence, hiçbir zindan, hiçbir korku olmadan; Sarraf Mıgırdiç’in defterinde adının karşısında yazılı sekiz ödeme, tercüman Yanni’nin yeminli tanıklığı ve Yusuf Ağâh Efendi’nin mektubunu Smith’e kendi eliyle taşıdığı günün tarihiyle. Pisani’nin ailesine dokunulmadı. Galata’daki evi karısının ve kızlarının oldu. Ama İngiliz parasıyla edindiği her şey, kuruşu kuruşuna hesaplanıp, Mekteb-i Hendese-i Azadlı’nın vakıf defterine yazıldı. Ve Pisani, yedi yıl kalebentliğe mahkûm edildi.
+Galata kadısının mahkemesinde, kırk kişinin önünde, üç gün süren bir dava sonunda, eski elçilik baştercümanı Pisani hakkında hüküm okundu. Hiçbir işkence, hiçbir zindan, hiçbir korku olmadan; Sarraf Mıgırdiç’in defterinde adının karşısında yazılı sekiz ödeme, tercüman Yanni’nin yeminli tanıklığı ve Yusuf Agâh Efendi’nin mektubunu Smith’e kendi eliyle taşıdığı günün tarihiyle. Pisani’nin ailesine dokunulmadı. Galata’daki evi karısının ve kızlarının oldu. Ama İngiliz parasıyla edindiği her şey, kuruşu kuruşuna hesaplanıp, Mekteb-i Hendese-i Azadlı’nın vakıf defterine yazıldı. Ve Pisani, yedi yıl kalebentliğe mahkûm edildi.
 
 Ama bu kalebentliği Limni’de, bir kalenin dibinde geçirmeyecekti. Rumeli Hisarı’nda, Tercüme Odası’na ayrılan bir burcun içinde, Kâtip Ömer’in gözetiminde geçirecekti. Her gün sekiz saat. İngilizce yazılmış, Yavuz’un dizüstündeki kütüphaneden seçilmiş gemi inşası, kimya ve hekimlik kitaplarını Türkçeye çevirerek. Ve bitirdiği her kitap, hükmünü üç ay kısaltacaktı.
 
@@ -1826,7 +1824,7 @@ Yavuz cevap vermedi. Yalnızca hafifçe gülümsedi.
 
 Ve ayın son gününde, Rumeli Hisarı’nın kuzey burcunda, Yavuz, Louis-Edmond Le Picard de Phélippeaux’nun karşısına oturdu.
 
-Otuz bir yaşındaydı Phélippeaux. Zayıf, sinirli, sarışın, keskin yüzlü, tırnakları dibine kadar yenmiş bir adam. Krala sadık bir topçu subayı. Devrim’den kaçmış, Paris’e gizlice dönüp Sidney Smith’i Temple’dan çıkarmış, Bonaparte’ın mühendislikte bir zamanlar geçtiği, ve bunu hiç unutmadığı adam.
+Otuz bir yaşındaydı Phélippeaux. Zayıf, sinirli, sarışın, keskin yüzlü, tırnakları dibine kadar yenmiş bir adam. Krala sadık bir topçu subayı. Devrim’den kaçmış, Paris’e gizlice dönüp Sidney Smith’i Temple’dan çıkarmış, Bonapart’ın mühendislikte bir zamanlar geçtiği, ve bunu hiç unutmadığı adam.
 
 “Beni ona veriyorsunuz,” dedi Phélippeaux. Bir soru değildi. Fransızcası hızlı, acı, küçümseyiciydi. “Buonaparte’a. Biliyorum. Bir Korsikalı topçu teğmenine, kral katillerinin hizmetkârına. Beni duvarın dibine dizecek. Ve siz de sancakla ilgili kavganızı bir başla kapatmış olacaksınız.”
 
@@ -1836,7 +1834,7 @@ Phélippeaux ona baktı.
 
 Yavuz kaftanının içinden mühürlü, kalın bir kâğıt çıkardı. Açmadı. Masanın üstüne, Phélippeaux’nun önüne koydu.
 
-“Bu mektup sizinle gidecek. Bonaparte’a. Kendi elinizle vereceksiniz. Okumaya hakkınız var. Ben size okuyayım.”
+“Bu mektup sizinle gidecek. Bonapart’a. Kendi elinizle vereceksiniz. Okumaya hakkınız var. Ben size okuyayım.”
 
 Ve Fransızca, ezberden, yağmurun aşağıda Boğaz’a yağdığı bir akşamın ışığında okudu.
 
@@ -2159,7 +2157,7 @@ Yavuz onu kapıya kadar uğurladı. Eşikte durdular.
 
 “Baş üstüne.”
 
-“İki. Bonaparte’ın emrine girmeyeceksiniz. Yanında duracaksınız. Sancağınız kendi sancağınız. Onun bayrağı yanınızda dalgalanacak, üstünüzde değil.”
+“İki. Bonapart’ın emrine girmeyeceksiniz. Yanında duracaksınız. Sancağınız kendi sancağınız. Onun bayrağı yanınızda dalgalanacak, üstünüzde değil.”
 
 Hüseyin Paşa’nın kahkahası Sepetçiler Köşkü’nün kubbesinde yankılandı.
 
@@ -2169,7 +2167,7 @@ Hüseyin Paşa’nın kahkahası Sepetçiler Köşkü’nün kubbesinde yankıla
 
 “Kralın adamı. Phélippeaux. Biliyorum.”
 
-“Onu Bonaparte’a kendi elinizle, Algeciras’ta, yanınızda Mosö Venture olmadan, başka hiçbir Fransız olmadan teslim edeceksiniz. Yanında benim mektubum. Ve Bonaparte mektubu okurken yüzüne bakacaksınız, Paşam. Ne gördüğünüzü dönünce bana anlatacaksınız.”
+“Onu Bonapart’a kendi elinizle, Algeciras’ta, yanınızda Mosö Venture olmadan, başka hiçbir Fransız olmadan teslim edeceksiniz. Yanında benim mektubum. Ve Bonapart mektubu okurken yüzüne bakacaksınız, Paşam. Ne gördüğünüzü dönünce bana anlatacaksınız.”
 
 Hüseyin Paşa ona uzun süre baktı.
 
@@ -2433,7 +2431,7 @@ Duckworth anlamadı. Yüzünde katı, kuşkulu bir şaşkınlık vardı.
 
 Kaya’nın garnizonu, yardım konvoyunun Algeciras’ın iskelesinde boşaltıldığını gördükten sonra, üç gün daha dayandı.
 
-At eti bitmişti. Kaşır eti bitmişti. Limanın içinde, Yeni Mendirek’in arkasında, aylardır bekleyen birkaç eski ticaret gemisinin ambarlarında kalan son bisküvi çuvalları, son tuzlu balık fıçıları, son barut, garnizonun son haftasıydı. Ve Vali, General Charles O’Hara, o son haftayı sonuna kadar kullanmaya kararlıydı.
+At eti bitmişti. Katır eti bitmişti. Limanın içinde, Yeni Mendirek’in arkasında, aylardır bekleyen birkaç eski ticaret gemisinin ambarlarında kalan son bisküvi çuvalları, son tuzlu balık fıçıları, son barut, garnizonun son haftasıydı. Ve Vali, General Charles O’Hara, o son haftayı sonuna kadar kullanmaya kararlıydı.
 
 Altmış yaşındaydı O’Hara. Kayanın Horozu derlerdi ona. Kaba, cesur, kadın düşkünü, garnizonunun ona taptığı bir ihtiyar asker. Ve beş yıl önce, Toulon’da, bir sabah, bir siperin içinde, yaralı ve esir, kılıcını o zamanın kimsenin adını bilmediği yirmi dört yaşında bir Korsikalı topçu yüzbaşısının askerlerine teslim etmiş bir adam.
 
@@ -2451,7 +2449,7 @@ Cezve’nin kazanı gece yarısından bir saat önce yakıldı.
 
 Ambarın içinde, yarı çıplak, kurumdan simsiyah olmuş dört adam, küreklerle Ereğli kömürünü ocağın ağzına sürüyordu. Başlarında Kazancı Osman. Elli yaşında, Tophane’nin en iyi bakır dövmecisi, Yavuz’un çizdiği kazanın altı ay boyunca her perçinini kendi eliyle çakmış, iki kez patlatmış, iki kez yeniden yapmış, bir kez de kaşlarını yakmış, bir daha da hiç uzatmamış adam.
 
-Kazanın basanç göstergesinin kolu—Yavuz’un çizdiği, Hasan’ın Mekteb-i Hendese’de yaptığı, bir yay ve bir ibreden ibaret, ama Osman’ın hayatını iki kez kurtarmış bir alet—yavaş yavaş yükseldi.
+Kazanın basınç göstergesinin kolu—Yavuz’un çizdiği, Hasan’ın Mekteb-i Hendese’de yaptığı, bir yay ve bir ibreden ibaret, ama Osman’ın hayatını iki kez kurtarmış bir alet—yavaş yavaş yükseldi.
 
 “Tamam,” dedi Osman. “Kaynadı.”
 
@@ -2501,7 +2499,7 @@ Alarm verdi. Birkaç top karanlığa ateş etti. Kimsenin neyi vurduğunu bilmed
 
 Cezve bir kez sarsıldı. Bir gülle borusunun bir kulaç yanından geçmiş, borunun içinden bir kurum ve kıvılcım bulutu fışkırtmıştı. Kazancı Osman ambarın ağzından başını çıkardı, Kaya’ya doğru Türkçe, Arnavutça ve Rumca birkaç cümle söyledi, sonra başını yeniden ateşe eğdi.
 
-Bariyerin zincirleri, Cezve’nin pruvasındaki demir mahmuzla, ve tam güç, tam basançla, bir kez, iki kez, üç kez çarpıldıktan sonra, bir kıyısından kopup açıldı.
+Bariyerin zincirleri, Cezve’nin pruvasındaki demir mahmuzla, ve tam güç, tam basınçla, bir kez, iki kez, üç kez çarpıldıktan sonra, bir kıyısından kopup açıldı.
 
 Cezve içeri girdi. Arkasındaki dört gölgeyle. Sonra durdu. Halatı kesildi. Gölgelerin kıçlarında, sekiz adam aynı anda fitilleri tutuşturdu, kayıklara atladı, karanlığa kürek çekti.
 
@@ -3061,7 +3059,7 @@ Ve yanında, sessiz, kibar, unutulması kolay yüzüyle, William Wickham.
 
 Kamaranın kıç penceresinden, uzakta, adanın kalesinin surları görünüyordu. Elgin bir süre onlara bakmış, sonra Wickham’a dönmüştü.
 
-“Bonaparte’la burada mı buluştu?”
+“Bonapart’la burada mı buluştu?”
 
 “Kalenin içinde, Lordum. Geçen Haziran.”
 
@@ -3137,7 +3135,7 @@ Wickham ise anlamıştı. Küçük deri defterini cebinden çıkarmak için elin
 
 Elgin söze ilk o başladı. Bir diplomatın, bir resepsiyonun ilk dakikalarında yaptığı gibi. Uzun, düzgün, ezberlenmiş cümlelerle.
 
-Majestelerinin Hükümeti, iki yüz yıllık bir dostluğun talihsiz bir yanlış anlaşmayla bozulmasından derin üzüntü duyuyordu. Malta’daki olay bir Fransız hilesiydi; bunu bütün Avrupa biliyordu. Bonaparte, Devlet-i Aliyye’nin sancağını izinsiz kullanmış, iki eski dostu birbirine düşürmüştü. Ve Majestelerinin Hükümeti, bu yanlış anlaşmanın giderilmesi için, cömert olmaya hazırdı.
+Majestelerinin Hükümeti, iki yüz yıllık bir dostluğun talihsiz bir yanlış anlaşmayla bozulmasından derin üzüntü duyuyordu. Malta’daki olay bir Fransız hilesiydi; bunu bütün Avrupa biliyordu. Bonapart, Devlet-i Aliyye’nin sancağını izinsiz kullanmış, iki eski dostu birbirine düşürmüştü. Ve Majestelerinin Hükümeti, bu yanlış anlaşmanın giderilmesi için, cömert olmaya hazırdı.
 
 Mısır’ın, Suriye’nin, Arabistan’ın Devlet-i Aliyye’ye ait olduğunu, İngiltere bir antlaşmayla, bir daha hiç tartışılmamak üzere tanıyacaktı. Rusya’nın Karadeniz’e ve Boğazlar’a uzanan eli karşısında, İngiliz donanması Devlet-i Aliyye’nin yanında duracaktı. Ve bu zor savaş yıllarının masrafı için, Majestelerinin Hükümeti, Osmanlı hazinesine cömert bir yardım sunmaya hazırdı. Bir borç değil. Bir lütuf. Bir dostluk nişanesi.
 
@@ -3151,7 +3149,7 @@ Elgin bitirdiğinde bir süre sessiz kaldı. Sonra konuştu.
 
 Elgin’in kaşları hafifçe kalktı. Beklemediği bir cevaptı.
 
-“Bonaparte kimsenin dostu değil. Bir gün bize de aynısını yapmaya kalkacak. Bunu biliyorum. Belki ondan bile iyi biliyorum.” Yavuz başını hafifçe yana eğdi. “Ama o gün bugün değil. Ve o gün geldiğinde, yanımda bir dost aramayacağım. Hele iki yüz yıl boyunca bu Devletin gümrüğünü yüzde üçe indirmiş, elçisinin kapısını bu Devletin kanununa kapatmış bir dostu hiç aramayacağım.”
+“Bonapart kimsenin dostu değil. Bir gün bize de aynısını yapmaya kalkacak. Bunu biliyorum. Belki ondan bile iyi biliyorum.” Yavuz başını hafifçe yana eğdi. “Ama o gün bugün değil. Ve o gün geldiğinde, yanımda bir dost aramayacağım. Hele iki yüz yıl boyunca bu Devletin gümrüğünü yüzde üçe indirmiş, elçisinin kapısını bu Devletin kanununa kapatmış bir dostu hiç aramayacağım.”
 
 “Malta bir hileydi...”
 
@@ -3201,13 +3199,13 @@ Wickham bir şey söylemedi.
 
 “Ve yanındaki Fransız? Phélippeaux?” diye sordu Elgin.
 
-“Bonaparte’a gitti.”
+“Bonapart’a gitti.”
 
 Elgin’in yüzü kızardı.
 
 “Onu Korsikalının eline mi teslim ettiniz? Bir kralın subayını? Kral katillerine?”
 
-“Hediye ettim,” dedi Yavuz sakin bir sesle. “Teslim değil, Lordum. Hediye. Bir şartla: Sağ, onurlu ve hür kalacaktı. Kaldı. Bonaparte ona bir pasaport verdi. Bir akşam yemeğine oturdular. Sonra Phélippeaux istediği yere gitti.” Bir an durdu. “Bir hediyeyle bir ödünç arasındaki farkı Bonaparte’a öğretmek istedim. Öğrendi. Size de öğretebilirim, Lord Elgin, ama sizinki daha uzun sürer.”
+“Hediye ettim,” dedi Yavuz sakin bir sesle. “Teslim değil, Lordum. Hediye. Bir şartla: Sağ, onurlu ve hür kalacaktı. Kaldı. Bonapart ona bir pasaport verdi. Bir akşam yemeğine oturdular. Sonra Phélippeaux istediği yere gitti.” Bir an durdu. “Bir hediyeyle bir ödünç arasındaki farkı Bonapart’a öğretmek istedim. Öğrendi. Size de öğretebilirim, Lord Elgin, ama sizinki daha uzun sürer.”
 
 ---
 
@@ -3491,7 +3489,7 @@ Dundas kadehini yarı yolda durdurdu.
 
 Spencer Smith yorgun bir sesle araya girdi.
 
-“Gravurler yalan söyler, Henry. İstanbul’da sarışın Boşnaklar, mavi gözlü Çerkezler, kızıl saçlı Arnavutlar var. Ama ben o adamı bir yıl boyunca Divan’da, Babıâli’de, iskelede gördüm.” Bir an durdu. “Hep kaftanla. Hep sarıkla. Bir vezirin sarığının altında kimse bir yüze bakmaz. Sarığa bakar, söylenen rütbeye bakar. Ben de bakmadım.” Başını iki yana salladı. “Bir yıl. Ve bir kez bile gerçekten bakmadım.”
+“Gravurler yalan söyler, Henry. İstanbul’da sarışın Boşnaklar, mavi gözlü Çerkezler, kızıl saçlı Arnavutlar var. Ama ben o adamı bir yıl boyunca Divan’da, Bâb-ı Âli’de, iskelede gördüm.” Bir an durdu. “Hep kaftanla. Hep sarıkla. Bir vezirin sarığının altında kimse bir yüze bakmaz. Sarığa bakar, söylenen rütbeye bakar. Ben de bakmadım.” Başını iki yana salladı. “Bir yıl. Ve bir kez bile gerçekten bakmadım.”
 
 “Bozcaada’da sarığı yoktu,” dedi Elgin. “Kaftanı da yoktu.”
 
@@ -3589,7 +3587,7 @@ Wickham, ilk kez, konuştu. Sessiz, kibar.
 
 “Belki saklanıyor.”
 
-“Belki. Ama o adam,” dedi Elgin, ilk kez, boğuk bir sesle, “Bonaparte’a hâlâ bir sancak yüzünden kızgın. Bir bez parçası yüzünden. Bir Jakoben, bir İlluminati, tahtları yıkmaya and içmiş bir komplocu, bir Hünkârın sancağı için kızmaz, Lordum. Sevinirdi.”
+“Belki. Ama o adam,” dedi Elgin, ilk kez, boğuk bir sesle, “Bonapart’a hâlâ bir sancak yüzünden kızgın. Bir bez parçası yüzünden. Bir Jakoben, bir İlluminati, tahtları yıkmaya and içmiş bir komplocu, bir Hünkârın sancağı için kızmaz, Lordum. Sevinirdi.”
 
 Grenville bir şey söylemedi. Kitabı yavaşça geri aldı.
 
@@ -3609,7 +3607,7 @@ Pitt’in kaşları kalktı.
 
 “Moskova’ya mı?”
 
-“Bir söylenti, Başbakan. Bonaparte’ın ona tek satırlık bir mektup yazdığı söyleniyor. Ne yazdığını kimse bilmiyor.”
+“Bir söylenti, Başbakan. Bonapart’ın ona tek satırlık bir mektup yazdığı söyleniyor. Ne yazdığını kimse bilmiyor.”
 
 Kimse bir şey söylemedi. Ama Pitt bunu akıl defterinin bir köşesine yazdı.
 
@@ -3875,7 +3873,7 @@ Yavuz mührü kırdı. Okudu. Önce sessizce. Sonra, Sultan’ın işaretiyle, y
 
 *Moskova’ya gelince. Size anlatacağım. Yüzünüze. Sabırlı olduğunuzu yazmıştınız. Ben de öğreniyorum.*
 
-*Bonaparte.*
+*Bonapart.*
 
 Odada uzun süre kimse konuşmadı.
 
@@ -4063,9 +4061,9 @@ Arz olunur.
 
 *Ben neredeydim o gün?*
 
-Yavuz biliyordu. Hatırlaması gerekmiyordu bile. Haziran’ın sonu. Topkapı’da. İlk aylar. Sultan’ı henüz yeni yeni ikna ediyordu. Mezarcı Sokak’taki ilk atölyenin duvarları henüz yeni köşelenmişti. Bonaparte Mısır’a doğru yelken açmıştı ve bütün dünya İskenderiye’ye bakıyordu. Ve o, Yavuz Ateş Yıldız, iki yüz yılın tarihini kafasında taşıyan, Navarin’i, Patrik Grigorios’u, Mora’yı, her şeyi bilen adam, o gün ne yaptığını hatırlamıyordu bile.
+Yavuz biliyordu. Hatırlaması gerekmiyordu bile. Haziran’ın sonu. Topkapı’da. İlk aylar. Sultan’ı henüz yeni yeni ikna ediyordu. Mezarcı Sokak’taki ilk atölyenin duvarları henüz yeni köşelenmişti. Bonapart Mısır’a doğru yelken açmıştı ve bütün dünya İskenderiye’ye bakıyordu. Ve o, Yavuz Ateş Yıldız, iki yüz yılın tarihini kafasında taşıyan, Navarin’i, Patrik Grigorios’u, Mora’yı, her şeyi bilen adam, o gün ne yaptığını hatırlamıyordu bile.
 
-*Çünkü aklıma gelmedi. Rigas’ı biliyordum. Okulda okudum. Bir şiirinin adını bile biliyorum. Thourios. Ama tarihini bilmiyordum. Haziran mı, Temmuz mu, hangi yıl. Doğru dürüst bir kez bile düşünmedim. Çünkü o gün benim için Mısır vardı, Bonaparte vardı, Nelson vardı. Büyük adamlar. Büyük donanmalar.*
+*Çünkü aklıma gelmedi. Rigas’ı biliyordum. Okulda okudum. Bir şiirinin adını bile biliyorum. Thourios. Ama tarihini bilmiyordum. Haziran mı, Temmuz mu, hangi yıl. Doğru dürüst bir kez bile düşünmedim. Çünkü o gün benim için Mısır vardı, Bonapart vardı, Nelson vardı. Büyük adamlar. Büyük donanmalar.*
 
 *Ve Belgrad’da, Tuna’nın kıyısında, bir kulenin içinde, belki bu yeni dünyada benim en iyi müttefikim olabilecek tek adam boğuluyordu. Bir Hünkâr fermanıyla. Benim Hünkârımın fermanıyla.*
 
@@ -4133,7 +4131,7 @@ Patrik ellerini kucakında birleştirdi. Sonra açtı. Sonra yine birleştirdi.
 
 Yavuz şimdi oturdu.
 
-“Çünkü sizi asmak, Hünkârımızın bir eyaletini kaybetmesi demek. Belki bir yıl sonra, belki on yıl sonra, belki yirmi. Ama kesin.” Bir an durdu. “Ve çünkü siz bu isyanı başlatmadınız. İngiliz başlattı. Suçsuz birini asmak, adalet değil. Kuduşukluk. Ben kuduşmuş bir devletin veziri değilim.”
+“Çünkü sizi asmak, Hünkârımızın bir eyaletini kaybetmesi demek. Belki bir yıl sonra, belki on yıl sonra, belki yirmi. Ama kesin.” Bir an durdu. “Ve çünkü siz bu isyanı başlatmadınız. İngiliz başlattı. Suçsuz birini asmak, adalet değil. Kudurmuşluk. Ben kudurmuş bir devletin veziri değilim.”
 
 “Vezir değilsiniz ki,” dedi Sutso Bey, hafif bir gülümsemeyle.
 
@@ -4155,7 +4153,7 @@ Metropolitlerden biri bir şey mırıldandı. Patrik eliyle onu susturdu.
 
 Sutso Bey kaşlarını kaldırdı.
 
-“Üç. Mora’daki Rum kocabaşılarının, köy önde gelenlerinin yetkisini genişletiyorum. Vergiyi onlar toplayacak. Kendi köylerinin vergisini. Voyvodanın eli değil. Ve aldıkları her kuşun hesabını, İstanbul’a değil, kendi köylerine verecekler. Bir sandıkla. Bir defterle. Herkesin okuyabileceği.”
+“Üç. Mora’daki Rum kocabaşılarının, köy önde gelenlerinin yetkisini genişletiyorum. Vergiyi onlar toplayacak. Kendi köylerinin vergisini. Voyvodanın eli değil. Ve aldıkları her kuruşun hesabını, İstanbul’a değil, kendi köylerine verecekler. Bir sandıkla. Bir defterle. Herkesin okuyabileceği.”
 
 Ve Yavuz son parmağını açmadı.
 
@@ -4175,7 +4173,7 @@ Cumhuriyet.
 
 Odada kimse nefes almıyordu.
 
-“Yedi Ada, iki hafta sonra Fransızlardan bize geçiyor,” dedi Yavuz. “Bonaparte onları bize hediye etti. Ve ben de, Hünkârımızın izniyle, onları size hediye ediyorum. Bir Rum cumhuriyeti. Kendi meclisi, kendi senatosu, kendi kanunları, kendi bayrağı. Osmanlı’ya yalnızca yılda bir haraca bağlı, Rağuza gibi. Bir Osmanlı garnizonu olmadan. Bir voyvoda olmadan. Ve Patrikhane’nin, Fener’in, kendi adamlarını o senatoya gönderme hakkıyla.”
+“Yedi Ada, iki hafta sonra Fransızlardan bize geçiyor,” dedi Yavuz. “Bonapart onları bize hediye etti. Ve ben de, Hünkârımızın izniyle, onları size hediye ediyorum. Bir Rum cumhuriyeti. Kendi meclisi, kendi senatosu, kendi kanunları, kendi bayrağı. Osmanlı’ya yalnızca yılda bir haraca bağlı, Raguza gibi. Bir Osmanlı garnizonu olmadan. Bir voyvoda olmadan. Ve Patrikhane’nin, Fener’in, kendi adamlarını o senatoya gönderme hakkıyla.”
 
 Sutso Bey ayağa kalkmıştı. Ne zaman kalktığını kimse fark etmemişti.
 
@@ -4269,7 +4267,7 @@ Kadir Bey güldü. Kısa, şaşkın bir gülüş.
 
 “Fransız bizim kitabımızla mı konuşuyor?”
 
-“Paşamız bir nüshasını geçen ay, Bonaparte’ın mektubuna cevap olarak, General Şabo’ya göndermiş, Bey’im. Sadece teslim işaretlerini. Ve sadece bu iş için.”
+“Paşamız bir nüshasını geçen ay, Bonapart’ın mektubuna cevap olarak, General Chabot’ya göndermiş, Bey’im. Sadece teslim işaretlerini. Ve sadece bu iş için.”
 
 *Sadece bu iş için.* Kadir Bey bunun ne demek olduğunu biliyordu. Paşa’nın Fransız’a verdiği her şey, bir kelime eksik verilirdi. Korfu’ya giden o nüsha on dört işaretten ibaretti ve on dördü de teslimle, selamla, hoş geldinle ilgiliydi. “Düşmanın rüzgârüstüne geç” diye bir işaret yoktu.
 
@@ -4277,7 +4275,7 @@ Kadir Bey güldü. Kısa, şaşkın bir gülüş.
 
 Teslim töreni öğleden sonra, Eski Kale’nin önündeki büyük meydanda, Spianada’da yapıldı.
 
-General Louis Chabot, kırk beş yaşlarında, yanık yüzlü, sert bakışlı, Vendée’de savaşmış, İtalya’da Bonaparte’ın yanında yürümüş bir asker, kılıcını Kadir Bey’e uzattığında dudaklarını ısırıyordu. Teslim ettiği bir kale değildi. Tek kurşun atılmadan, bir mektupla verilmiş bir hediyeydi. Ve bir asker için bu, bir yenilgiden daha ağırdı.
+General Louis Chabot, kırk beş yaşlarında, yanık yüzlü, sert bakışlı, Vendée’de savaşmış, İtalya’da Bonapart’ın yanında yürümüş bir asker, kılıcını Kadir Bey’e uzattığında dudaklarını ısırıyordu. Teslim ettiği bir kale değildi. Tek kurşun atılmadan, bir mektupla verilmiş bir hediyeydi. Ve bir asker için bu, bir yenilgiden daha ağırdı.
 
 Kadir Bey kılıcı almadı.
 
@@ -4317,7 +4315,7 @@ Kalabalık bir an hiçbir şey anlamadı.
 
 Sonra Korfu Metropoliti, Fener’den bir hafta önce gelmiş, Patrik Neofitos’un mühürlü mektubunu taşıyan yaşlı adam, Spianada’nın ortasındaki küçük bir kürsüye çıktı ve, önce Rumca, sonra İtalyanca, Bâb-ı Âli’nin fermanını okudu.
 
-Kendi meclisi. Kendi senatosu. Kendi kanunları. Kendi yargıçları. Kendi dili. Kendi kiliseleri, kendi çanları. Osmanlı garnizonu yok. Voyvoda yok. Yılda bir haraca, Rağuza gibi. Ve Osmanlı donanmasının koruması.
+Kendi meclisi. Kendi senatosu. Kendi kanunları. Kendi yargıçları. Kendi dili. Kendi kiliseleri, kendi çanları. Osmanlı garnizonu yok. Voyvoda yok. Yılda bir haraca, Raguza gibi. Ve Osmanlı donanmasının koruması.
 
 Metropolit son satırı okuduğunda yaşlı sesi titriyordu.
 
@@ -4395,7 +4393,7 @@ Sultan Selim minderinde doğrulmuş, kucağında bir yastıkla, onu dinliyordu. 
 
 Yavuz yere, halının üstüne, büyük bir harita açtı. Avrupa değil bu kez. Dünya. Akdeniz’in altında, Mısır’ın kumlarının altında, Kafkas dağlarının doğusunda, haritanın o güne kadar Has Oda’da hiç açılmamış kısımları. Hint Okyanusu. Afrika’nın güney ucu. Ve bir üçgen gibi aşağıya sarkan, devasa bir yarımada.
 
-“İngiltere’nin para kesesi burasıdır,” dedi Yavuz, parmağını Bengal’in üstüne koyarak. “Avrupa’daki savaşı bu kese ödeyecek. Pitt’in gece uykusunu kaçıran tek şey Bonaparte değil. Bonaparte’ın Mısır’dan bu keseye uzanan eli. Geçen yıl Bonaparte, Kahire’den Maysur Sultanı Tipu’ya bir mektup yazdı. İngilizler o mektubu yakaladı. Ve o mektup yüzünden, şu an, Hindistan’da, Maysur’un başkenti Seringapatam’ın surlarının önünde kırk bin kişilik bir ordu var.”
+“İngiltere’nin para kesesi burasıdır,” dedi Yavuz, parmağını Bengal’in üstüne koyarak. “Avrupa’daki savaşı bu kese ödeyecek. Pitt’in gece uykusunu kaçıran tek şey Bonapart değil. Bonapart’ın Mısır’dan bu keseye uzanan eli. Geçen yıl Bonapart, Kahire’den Maysur Sultanı Tipu’ya bir mektup yazdı. İngilizler o mektubu yakaladı. Ve o mektup yüzünden, şu an, Hindistan’da, Maysur’un başkenti Seringapatam’ın surlarının önünde kırk bin kişilik bir ordu var.”
 
 Bir an durdu.
 
@@ -4417,9 +4415,9 @@ Birinci parça Ceb-i Târik’teydi. Hüseyin Paşa ertesi sabah oraya, Patrona�
 
 İkinci parça buradaydı. Bu odada.
 
-“Hünkârım, yarın akşam, burada, bu odada, sizinle ve Sadrazam Paşa ile, bir konuşma yapacağız. Gizli bir konuşma. Bonaparte’ın bize yazdığı ‘yeni’ bir mektup üzerine. Bonaparte Süveyş’ten Kızıldeniz’e on iki bin kişilik bir kuvvet indirmeyi teklif ediyor. Biz de Cidde’de, Mocha’da, Basra’da gemiler ve erzak sağlayacağız. Ve bizim donanmamız Ceb-i Târik’ten güneye inecek. Ekim’de Bombay’ın önünde buluşacaklar.”
+“Hünkârım, yarın akşam, burada, bu odada, sizinle ve Sadrazam Paşa ile, bir konuşma yapacağız. Gizli bir konuşma. Bonapart’ın bize yazdığı ‘yeni’ bir mektup üzerine. Bonapart Süveyş’ten Kızıldeniz’e on iki bin kişilik bir kuvvet indirmeyi teklif ediyor. Biz de Cidde’de, Mocha’da, Basra’da gemiler ve erzak sağlayacağız. Ve bizim donanmamız Ceb-i Târik’ten güneye inecek. Ekim’de Bombay’ın önünde buluşacaklar.”
 
-Sultan hafifçe güldü. “Bonaparte böyle bir mektup yazmadı.”
+Sultan hafifçe güldü. “Bonapart böyle bir mektup yazmadı.”
 
 “Yazmadı, Hünkârım. Ama yazsaydı bunu yazardı. Ve İngiliz bunu biliyor. İşte bu yüzden inanacak.”
 
@@ -4451,7 +4449,7 @@ Kimse bir şey söylemedi.
 
 Yavuz haritanın üstünde, Bengal’den Has Oda’ya kadar parmağını gezdirdi.
 
-“Ama bu konuşma, Hünkârım, yalnızca bu odada yapılacak. Dünyada yalnızca dört kişi bilecek. Siz, Sadrazam Paşa, ben, ve kapıdaki adam. Bonaparte’ın Kızıldeniz’e on iki bin kişi indireceği, Ekim’de Bombay’da buluşacağımız. Bu bir yalan. Ve bu yalanın her kelimesi, bir parmak izi.”
+“Ama bu konuşma, Hünkârım, yalnızca bu odada yapılacak. Dünyada yalnızca dört kişi bilecek. Siz, Sadrazam Paşa, ben, ve kapıdaki adam. Bonapart’ın Kızıldeniz’e on iki bin kişi indireceği, Ekim’de Bombay’da buluşacağımız. Bu bir yalan. Ve bu yalanın her kelimesi, bir parmak izi.”
 
 Musa Kamhi ilk kez ağzını açtı. “Eğer bu cümleler, iki hafta içinde, Pera’da, Yanni’nin elinde, mumlanmış bir mektupta bulunursa…”
 
@@ -4463,9 +4461,9 @@ Ve sonra, daha alçak sesle: “Ve mektup gidecek, Musa Efendi. Durdurmayacağı
 
 Ertesi akşam konuşma yapıldı.
 
-Uzun sürdü. Sadrazam İzzet Mehmed Paşa rolünü, tiyatroda bir ömür geçirmiş bir adam gibi, kusursuz oynadı. Bonaparte’a güvenilemeyeceğini söyledi. Sultan ona şiddetle itiraz etti. Yavuz arada, sözü her seferinde Bombay’a, Ekim’e, Kızıldeniz’e, Cidde’ye getirerek, rakamları iki kez, üç kez tekrar etti. On iki bin. Ekim. Bombay. Ümit Burnu. Ve Sultan bir ara, sesi hafif yükselerek, kapıya doğru, bir Hünkârın öfkesinin her zaman yükseldiği gibi, şu cümleyi söyledi:
+Uzun sürdü. Sadrazam İzzet Mehmed Paşa rolünü, tiyatroda bir ömür geçirmiş bir adam gibi, kusursuz oynadı. Bonapart’a güvenilemeyeceğini söyledi. Sultan ona şiddetle itiraz etti. Yavuz arada, sözü her seferinde Bombay’a, Ekim’e, Kızıldeniz’e, Cidde’ye getirerek, rakamları iki kez, üç kez tekrar etti. On iki bin. Ekim. Bombay. Ümit Burnu. Ve Sultan bir ara, sesi hafif yükselerek, kapıya doğru, bir Hünkârın öfkesinin her zaman yükseldiği gibi, şu cümleyi söyledi:
 
-“Bu işi bu odadan başka kimse bilmeyecek! Bonaparte’ın mektubunu yakın!”
+“Bu işi bu odadan başka kimse bilmeyecek! Bonapart’ın mektubunu yakın!”
 
 Kapının önünde, iki adım geride, Hüsrev Ağa’nın nefesi bir an durdu.
 
@@ -4481,7 +4479,7 @@ Elinde bir kâğıt vardı. Kopya. Mürekkebi hâlâ ıslak.
 
 Yavuz kopyayı aldı. İngilizceydi. Musa şifresini çözmüş, altına satır satır Türkçesini yazmıştı.
 
-*…Has Oda’da, Sultan, Sadrazam ve Paşa arasında, Bonaparte’ın yeni bir mektubu üzerine… Süveyş’ten Kızıldeniz’e on iki bin kişi… Cidde ve Mocha’da Osmanlı gemileri… Ceb-i Târik’teki filo güneye, Ümit Burnu yoluyla… Ekim’de Bombay önlerinde birleşme… Sultan mektubun yakılmasını emretti…*
+*…Has Oda’da, Sultan, Sadrazam ve Paşa arasında, Bonapart’ın yeni bir mektubu üzerine… Süveyş’ten Kızıldeniz’e on iki bin kişi… Cidde ve Mocha’da Osmanlı gemileri… Ceb-i Târik’teki filo güneye, Ümit Burnu yoluyla… Ekim’de Bombay önlerinde birleşme… Sultan mektubun yakılmasını emretti…*
 
 Altında bir imza yoktu. Yalnızca bir işaret. Küçük, özenle çizilmiş bir şey.
 
@@ -4521,7 +4519,7 @@ Kalktı.
 
 Kayıkhane karanlıktı. Su, taş rampaların dibinde, Sarayburnu’nun akıntısıyla, yavaş yavaş, nefes alır gibi kabarıp iniyordu. Hünkârın yaldızlı saltanat kayığı, örtüsünün altında, bir tabut gibi yatıyordu.
 
-Hüsrev Ağa gece yarısını bir saat geçe geldi. Her gece geldiği gibi. Sabit, rahat, acele etmeden. Kayığın örtüsünü kaldırdı, dümen yekeğinin altındaki küçük oyuğa elini soktu.
+Hüsrev Ağa gece yarısını bir saat geçe geldi. Her gece geldiği gibi. Sabit, rahat, acele etmeden. Kayığın örtüsünü kaldırdı, dümen yekesinin altındaki küçük oyuğa elini soktu.
 
 Oyuk boştu.
 
@@ -4647,7 +4645,7 @@ Gardıyanlar onu Kubbealtı’ndan çıkarırken, kapının eşiğinde, bir an, 
 
 ---
 
-Ertesi sabah, Bâb-ı Hümayun’un önünde, kapının sağındaki taş nüşte, İbret Taşı’nın üstünde, bir yıldır ilk kez, bir baş vardı.
+Ertesi sabah, Bâb-ı Hümayun’un önünde, kapının sağındaki taş nişte, İbret Taşı’nın üstünde, bir yıldır ilk kez, bir baş vardı.
 
 Yanında, taşa çakılmış, iki dilde, Türkçe ve Rumca, bir yafta. Suçu. Hükmü. Mahkemenin tarihi. Vekilinin adı. Ve en altta, Yavuz’un ısrarıyla eklenmiş bir satır.
 
@@ -4735,7 +4733,7 @@ Biliyordu. Hatırlaması gerekmiyordu bile. Bu tarihi okulda öğrenmemişti, so
 
 *Mahmud bu mektubu yazdığında, adam bir gündür ölüydü.*
 
-*Ve ben, bu mektup yoldayken, Mayıs’ın dördünde, bir Rağuza gemisinde, Bozcaada açığında, siyah bir takım elbiseyle, bir İngiliz lorduna Asya’yı anlatıyordum.*
+*Ve ben, bu mektup yoldayken, Mayıs’ın dördünde, bir Raguza gemisinde, Bozcaada açığında, siyah bir takım elbiseyle, bir İngiliz lorduna Asya’yı anlatıyordum.*
 
 Sultan onun yüzüne bakıyordu.
 
@@ -4797,7 +4795,7 @@ Emirler çıktıktan sonra, Dundas Downing Street’e geri döndü. Pitt’in od
 
 Pitt kalemini indirdi. Yüzü solgundu. Gecelerdir uyumuyordu.
 
-“Henry,” dedi yavaşça. “O adam, o Rağuza gemisinde, Elgin’e benim bir cümlemi söylemişti. Ben onu henüz kimseye söylememişken. Hatırlıyor musun?”
+“Henry,” dedi yavaşça. “O adam, o Raguza gemisinde, Elgin’e benim bir cümlemi söylemişti. Ben onu henüz kimseye söylememişken. Hatırlıyor musun?”
 
 Dundas bir an düşündü. Sonra omuz silkti.
 
@@ -4841,5 +4839,5 @@ Henüz bilmiyordu. Ama biliyordu.
 - Tipu Sultan’ın Cidde’deki mektubu bulununca ne olacak? Vellore’a kapatılacak şehzadeler için bir şey yapılacak mı?
 - Hüsrev Ağa’nın “Ben son değilim” sözü: Bahçe’nin kökü sarayın daha da içinde mi, yoksa Ocak’ta mı?
 - Yedi Ada Cumhuriyeti Mora’da bir örnek mi olacak, bir kıvılcım mı? Kumunduros Bey’in tüfeği sandıkta ne kadar kalacak?
-- General Chabot “bu Paşa’yı görmek istiyor”. Bonaparte’ın “Moskova’yı yüz yüze anlatacağım” sözüyle birlikte, bir buluşma mı yaklaşıyor?
+- General Chabot “bu Paşa’yı görmek istiyor”. Bonapart’ın “Moskova’yı yüz yüze anlatacağım” sözüyle birlikte, bir buluşma mı yaklaşıyor?
 - İngiliz, Bombay masalının bir yalan olduğunu ne zaman anlayacak? Ve anladığında Wickham, “Family” kelimesinin yanına ne yazacak?

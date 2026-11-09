@@ -1,7 +1,5 @@
 # Yavuz Ateş Serisi – Dizi Defteri
 
-Nov 8, 2026 · @Yavuz Ateş ♢
-
 ## Talimat
 
 Seninle eğlence amaçlı, alternatif tarih türünde bir roman serisi yazıyoruz. 1. Kitap *Mühür* (6 bölüm) ve 2. Kitap *Ada* (5 bölüm) tamamlandı; şimdi 3. Kitap *Yıldırım*'a geçiyoruz. Bu defter serinin bütün bağlamıdır; tutarlılığı buna göre koru.
@@ -46,7 +44,7 @@ Birinci kitabın tam metni: [Yavuz Ateş – 1. Kitap: Mühür](https://claude.a
 
 - Gerçekte inançsız, ama bunu kimseye söylemiyor ve kimseye zararı yok.
 - Gücü eline geçirene kadar namaz kılıp inançlı gibi davranıyor. Namazı çocukken babasından öğrendi. Sultan bir şeyler sezmiş olabilir ama hiç sormadı.
-- Şeyh Galib de bir şey sezdi: "O ateş bu tekkede ısınmadı, başka bir ocakta yandı." Bonapart da Cebelitarık'taki rüyasında sezdi ama çaktirmadı (Yavuz bundan habersiz).
+- Şeyh Galib de bir şey sezdi: "O ateş bu tekkede ısınmadı, başka bir ocakta yandı." Bonapart da Cebelitarık'taki rüyasında sezdi ama çaktırmadı (Yavuz bundan habersiz).
 - Kahveyi seviyor. Sigara içmiyor. İçkiyi pek içmiyor, burada hiç içmiyor. Kumar, uyuşturucu vs gibi alışkanlıkları aptalca buluyor nefret ediyor.
 
 ### Kişilik
@@ -342,7 +340,7 @@ Yavuz bunları biliyor; ama artık sapmalar olabilir.
 
 - Aynı günlerde Bonapart, Cebelitarık önündeki karargâhında (Algeciras) Âsaf Paşa'yı rüyasında görür. Yavuz bundan habersizdir; Bonapart vakti gelince ona anlatacak.
 - Rüyada: Yavuz'un hesaplı, soğuk öfkesi (sancak meselesi); Londra'ya ortak kara saldırısı teklifi; Avrupa (Lizbon'dan Niemen'e) Bonapart'a, Rusya/Moskova, Yunanistan, Afrika ve Asya Yavuz'a, ileride Amerika. Louisiana satışı, Saint-Domingue ve 1812 Moskova felaketi kehaneti. Jüpiter'in bir gezegen olduğu, Uranüs'ün ötesindeki gezegeni bir Fransız'ın kalemle bulacağı, Ceres, başka güneşler ve galaksiler, Ay'a ayak basan insanlar. "Bir avuç maddenin içindeki ateş" konusunda Yavuz kapıyı kapatır.
-- Bonapart, Yavuz'un hiç Tanrı'dan söz etmediğini fark eder, onun inançsızlığını sezer ama çaktirmaz.
+- Bonapart, Yavuz'un hiç Tanrı'dan söz etmediğini fark eder, onun inançsızlığını sezer ama çaktırmaz.
 - Bonapart her şeyi hatırlayarak uyanır. Bourrienne'e Laplace için Uranüs'ün ötesini hesaplamasını isteyen bir mektup, İstanbul'a da tek satırlık bir mektup yazdırır: "Moskova sizin olsun."
 
 ## 9. 11 ayın arka planı: Gizli kozlar (Ocak–Aralık 1798)
@@ -378,7 +376,7 @@ Yavuz Ocak 1798'in ortasında geldi; 2. Kitap 1 Aralık 1798 gecesi bitti. Arada
 
 - Optik telgraf (Chappe usulü kuleler): İstanbul–Çanakkale 18 kule, ayrıca İstanbul–Edirne ve İstanbul–İzmit hatları. Bir haber dakikalar içinde ulaşıyor.
 - Hafiye teşkilatı: Pera, Malta, Viyana ve Petersburg'da ağ; İngiliz postasını açan bir şifre odası.
-- Yavuz'un talebi ve desteğiyle 21. yüzyıldaki gibi mümkün olduğunca modern teçhizat ve modern eğitim ile donatılmış, eğitilmiş CIA tarzı çekirdek bir elit ajan grubu ve ona bağlı özel gizli bir askeri bir tim: SAT komandoları, DELTA Force misali o dönem için üst düzey elit bir tim.  bu ikisinin varlığından yalnızca Yavuz'un, Sultanın ve Hüseyin paşanın haberi var ve yalnızca bu üç kişiye bağlılar.&#32;
+- Yavuz'un talebi ve desteğiyle 21. yüzyıldaki gibi mümkün olduğunca modern teçhizat ve modern eğitim ile donatılmış, eğitilmiş CIA tarzı çekirdek bir elit ajan grubu ve ona bağlı özel gizli bir askeri bir tim: SAT komandoları, DELTA Force misali o dönem için üst düzey elit bir tim.  bu ikisinin varlığından yalnızca Yavuz'un, Sultanın ve Hüseyin paşanın haberi var ve yalnızca bu üç kişiye bağlılar.
 - Hamburg ve Amsterdam gazetelerinde satın alınmış kalemler Yavuz'un dezenformasyonunu basıyor.
 
 **Sağlık**
@@ -441,7 +439,7 @@ Ad üç şeye gönderme: Et Meydanı'ndaki yıldırım makinesi, Yıldırım Bay
 - **Asıl mesaj:** Masum elitlere güvenli sürgün teklifi; baloda kulağa fısıldanan bir isim listesi. Kimse yüksek sesle söylemez, herkes anlar: “Geliyoruz.”
 - **Mekan:** Devonshire House; ev sahibesi Düşes Georgiana. Masum elit adayları: Wilberforce, Fox ve savaşa karşı Whig’ler, Georgiana.
 - **Bilim:** Yavuz’un kendi zamanında saygıyla takip ettiği isimler. Herschel (1800 başında kızılötesini keşfettiği deney; kız kardeşi Caroline’a bir gökbilimci gibi davranılması; “George’un Yıldızı”na Uranüs demesi, ötesinde bir gezegen iması). Cavendish (“Kalabalık” dediği baloya yalnızca Yavuz için gelir; Dünya’nın yoğunluğu 5,45 vs bugünkü 5,51).
-- **Bonaparte:** Kapıdan Yavuz’un kâtibi olarak girer (Elgin’in Yavuz’u kâtip sanmasının tersi). Gecenin ortasında bir Gillray “Little Boney” karikatürünün önünde “Hiç benzemiyor” der; Georgiana tanır, kadeh düşer; salon kimin içeride olduğunu öğrenir. Yavuz için “sözde dost” — bunu kimseye çaktırmaz.
+- **Bonapart:** Kapıdan Yavuz’un kâtibi olarak girer (Elgin’in Yavuz’u kâtip sanmasının tersi). Gecenin ortasında bir Gillray “Little Boney” karikatürünün önünde “Hiç benzemiyor” der; Georgiana tanır, kadeh düşer; salon kimin içeride olduğunu öğrenir. Yavuz için “sözde dost” — bunu kimseye çaktırmaz.
 - **Kilitler:** Görünen kilit Yedikule’deki İngiliz esirler; görünmeyen kilit Yavuz’un kendi teşkilatı: hizmetkâr/uşak/arabacı kılığında Yıldırım Timi (Tatar Murad, telsizler), Thames’te beyaz bayraklı gemi ve kazanı yanık Cezve, Gölge Odası’nın Londra’daki adamları ve kaçış yolları. Kimse silah çekmez; Wickham bir uşağın gözünün hep Pitt’in muhafızında olduğunu fark eder.
 - **Gerilim:** Dundas’ın “öldürelim”i, Pitt’in “henüz değil”i o gece sınanır.
 - **Görünüş:** Siyah takım, ateş mavisi kravat; asıl gösteriş, salonda kimsenin bilmediği şeyleri bilmek.

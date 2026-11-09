@@ -1,4 +1,4 @@
-## Yavuz Ateş – 2. Kitap: Ada
+# Yavuz Ateş – 2. Kitap: Ada
 
 ### Bölüm 1: Gizli Antlaşma
 
@@ -540,7 +540,7 @@ Bonapart’ın sağ eli, istemsizce, sol dizinin üstüne gitti. Sonra hemen ger
 
 “Bir casus da bilebilir bunu,” dedi. Sesi değişmemişti.
 
-“Bilebilir.” Yavuz hafifçe öne eğildi. “Ama bir casus şunu bilemez, General. Paris’ten ayrılmadan önce Talleyrand size söz verdi. Siz Mısır’a giderken kendisinin İstanbul’a elçi olarak geleceğine. Babıâli’yi oyalayacağına, Hünkârımızı Mısır’ın kaybına razı edeceğine. Bu sözü size baş başa verdi. Direktuvar’ın bile haberi yok.”
+“Bilebilir.” Yavuz hafifçe öne eğildi. “Ama bir casus şunu bilemez, General. Paris’ten ayrılmadan önce Talleyrand size söz verdi. Siz Mısır’a giderken kendisinin İstanbul’a elçi olarak geleceğine. Bâb-ı Âli’yi oyalayacağına, Hünkârımızı Mısır’ın kaybına razı edeceğine. Bu sözü size baş başa verdi. Direktuvar’ın bile haberi yok.”
 
 Bonapart’ın gözleri kısıldı.
 
@@ -858,7 +858,7 @@ Yavuz ise başka bir şey düşünüyordu.
 
 *Benim ilmimin üstüne Fransız bayrağı örtüyorum.*
 
-Son satırların altına iki imza atıldı. Biri hızlı, sert, kâğıdı yırtacakmış gibi: *Bonaparte.* Öbürü Yavuz’un tükenmez kalemiyle, Latin harfleriyle: *Âsaf Paşa.* Altına da kâtip Ömer, Osmanlıca, aynı adı yazdı.
+Son satırların altına iki imza atıldı. Biri hızlı, sert, kâğıdı yırtacakmış gibi: *Bonapart.* Öbürü Yavuz’un tükenmez kalemiyle, Latin harfleriyle: *Âsaf Paşa.* Altına da kâtip Ömer, Osmanlıca, aynı adı yazdı.
 
 Bonapart kâğıda baktı. Sonra Yavuz’un elindeki kaleme.
 
@@ -1484,11 +1484,11 @@ Nelson’ın tek gözü parladı.
 
 Masanın yanında duran bayrak kaptanı Edward Berry öne eğildi. “Fransızlar Çanakkale’yi zorlamaya kalkmış olmalı, efendim. İstanbul’a gitmek için. Ve Türkler onları geri püskürtmüş.”
 
-“Ya da,” dedi Nelson, gözlerini haritadan ayırmadan, “Bonaparte, Türk’ün kapısını çalmış, Türk de onu kovmuş. Ve şimdi güneybatıya gidiyor.” Parmağını haritada gezdirdi. Ege’den aşağı, Mora’nın güneyinden geçerek. “Malta. Ya da Mısır.”
+“Ya da,” dedi Nelson, gözlerini haritadan ayırmadan, “Bonapart, Türk’ün kapısını çalmış, Türk de onu kovmuş. Ve şimdi güneybatıya gidiyor.” Parmağını haritada gezdirdi. Ege’den aşağı, Mora’nın güneyinden geçerek. “Malta. Ya da Mısır.”
 
 “Mısır mı, efendim?”
 
-“Mısır, Berry. Bu adam Hindistan’ı istiyor. Paris’teki herkes bunu biliyor, yalnızca kimse söylemiyor.” Nelson doğruldu. “Türkler onu kapısından kovduysa, Mısır’ın da kapısında karşılayacaklardır. Bu, Sultan Selim’in artık bizim yanımızda olduğu demek.” Bir an durdu. Yüzünde yorgun, sert bir tebessüm belirdi. “Smith’e yazın. İstanbul’a. Sultan’ın kalelerinin Bonaparte’ı topa tuttuğunu yazın. Babıâli’ye teşekkürlerimizi iletmesini yazın. Ve bir ittifak teklifinin zamanının geldiğini.”
+“Mısır, Berry. Bu adam Hindistan’ı istiyor. Paris’teki herkes bunu biliyor, yalnızca kimse söylemiyor.” Nelson doğruldu. “Türkler onu kapısından kovduysa, Mısır’ın da kapısında karşılayacaklardır. Bu, Sultan Selim’in artık bizim yanımızda olduğu demek.” Bir an durdu. Yüzünde yorgun, sert bir tebessüm belirdi. “Smith’e yazın. İstanbul’a. Sultan’ın kalelerinin Bonapart’ı topa tuttuğunu yazın. Bâb-ı Âli’ye teşekkürlerimizi iletmesini yazın. Ve bir ittifak teklifinin zamanının geldiğini.”
 
 Berry kalemi aldı.
 
@@ -1590,7 +1590,7 @@ Kayıkta, Haliç’in sularında süzülürken Hüseyin Paşa Yavuz’a eğildi.
 
 “Ama sen ustalara...”
 
-“Ustalara söyledim. Ve ustalar kahvelerde konuşacak. Kahvelerde konuşulan, Galata’ya gider. Galata’ya giden, Pera’ya gider.” Yavuz suya baktı. “Ve bir ay sonra Pera’daki bir İngiliz, Londra’ya şöyle yazacak: Osmanlı tersanesi Fransız mühendislerin elinde. Gemilerini bakırla kaplıyorlar. Bonaparte’ın adamları her yerde.”
+“Ustalara söyledim. Ve ustalar kahvelerde konuşacak. Kahvelerde konuşulan, Galata’ya gider. Galata’ya giden, Pera’ya gider.” Yavuz suya baktı. “Ve bir ay sonra Pera’daki bir İngiliz, Londra’ya şöyle yazacak: Osmanlı tersanesi Fransız mühendislerin elinde. Gemilerini bakırla kaplıyorlar. Bonapart’ın adamları her yerde.”
 
 Paşa bir süre ona baktı.
 
@@ -1758,7 +1758,7 @@ Yavuz okudu. Önce Fransızca, içinden. Sonra Türkçe, yüksek sesle:
 
 *Bir şey daha. Dün gece Malta’nın surlarından baktım. Kendi yıldızıma. Laplace’ın dürbününü bende bırakmamış olmasına çok kızdım. Dört ayı görmek istiyorum.*
 
-*Bonaparte*”
+*Bonapart*”
 
 Yavuz mektubu katladı.
 
@@ -1816,7 +1816,7 @@ Rus elçisi Vasili Tomara, Atıf Efendi’nin Bebek’teki yalısına gece geldi
 
 Ellili yaşlarında, kır saçlı, ince yüzlü, Rum asıllı bir adamdı. Türkçeyi Rum ağzıyla, ama akıcı konuşuyordu. Elçilik salonlarında yıllardır bir Rus kartalının gölgesinde dolaşmış, sözleri her zaman ölçerek söyleyen bir diplomattı. Yalının selamlığına girdiğinde, odada yalnızca Atıf Efendi ve uzun boylu bir adam vardı. Kâtip yoktu. Tercüman yoktu.
 
-“Âsaf Paşa,” dedi Tomara, hafifçe eğilerek. Gözleri Yavuz’u tepeden tırnağa süzüyordu. “Adınızı bütün İstanbul konuşuyor. Papa’yı bilen adam. Bern’i bilen adam. Ve Çanakkale’de Bonaparte’ı topa tutan adam.”
+“Âsaf Paşa,” dedi Tomara, hafifçe eğilerek. Gözleri Yavuz’u tepeden tırnağa süzüyordu. “Adınızı bütün İstanbul konuşuyor. Papa’yı bilen adam. Bern’i bilen adam. Ve Çanakkale’de Bonapart’ı topa tutan adam.”
 
 “Topa tutan kalelerdi, Ekselans.”
 
@@ -1844,7 +1844,7 @@ Tomara’nın yüzü kıpırdamadı. Ama kahve fincanını tutan eli durdu.
 
 Yavuz bu soruyu cevapsız bıraktı.
 
-“Bonaparte Malta’yı aldı,” dedi bunun yerine. “Haziranın sonunda. Şövalyeler adadan kovuldu. Haber birkaç hafta içinde Petersburg’a ulaşacak. Ve Çarınız öfkeden deliye dönecek. Kendi sevgili şövalyelerini bir Fransız generalinin kovduğunu duyunca.” Durdu. “Ve o öfkeyle, Ekselans, İngiltere’nin kollarına koşacak. İngiliz ile ittifak yapacak. Fransız’a karşı. Rus donanması İngiliz donanmasının yanında Akdeniz’e inecek.”
+“Bonapart Malta’yı aldı,” dedi bunun yerine. “Haziranın sonunda. Şövalyeler adadan kovuldu. Haber birkaç hafta içinde Petersburg’a ulaşacak. Ve Çarınız öfkeden deliye dönecek. Kendi sevgili şövalyelerini bir Fransız generalinin kovduğunu duyunca.” Durdu. “Ve o öfkeyle, Ekselans, İngiltere’nin kollarına koşacak. İngiliz ile ittifak yapacak. Fransız’a karşı. Rus donanması İngiliz donanmasının yanında Akdeniz’e inecek.”
 
 Tomara bir şey söylemedi.
 
@@ -1864,7 +1864,7 @@ Odada uzun, ağır bir sessizlik oldu. Yalının altında Boğaz’ın suları �
 
 “Ne istiyorsunuz?” dedi Tomara sonunda.
 
-“Çarınıza bir mektup götürmenizi, Ekselans. Benden. Ve bu mektupta şunu yazacağım: Devlet-i Aliyye, Çar Pavel’in Malta şövalyelerinin Büyük Üstadı olmasını tanır. Bonaparte’ın şövalyeleri Malta’dan kovması, Çarın onayı olmadan yapılmış bir şeydir ve Çarın hakkını ortadan kaldırmaz. İngiltere yıkıldığı gün, Malta’nın akıbeti, Çar’ın, Fransa’nın ve Devlet-i Aliyye’nin aralarında konuşacağı bir mesele olacaktır.” Durdu. “Ve İngiliz’in bu masada yeri olmayacaktır.”
+“Çarınıza bir mektup götürmenizi, Ekselans. Benden. Ve bu mektupta şunu yazacağım: Devlet-i Aliyye, Çar Pavel’in Malta şövalyelerinin Büyük Üstadı olmasını tanır. Bonapart’ın şövalyeleri Malta’dan kovması, Çarın onayı olmadan yapılmış bir şeydir ve Çarın hakkını ortadan kaldırmaz. İngiltere yıkıldığı gün, Malta’nın akıbeti, Çar’ın, Fransa’nın ve Devlet-i Aliyye’nin aralarında konuşacağı bir mesele olacaktır.” Durdu. “Ve İngiliz’in bu masada yeri olmayacaktır.”
 
 “Karşılığında?”
 
@@ -1872,9 +1872,9 @@ Odada uzun, ağır bir sessizlik oldu. Yalının altında Boğaz’ın suları �
 
 Tomara uzun süre bir şey söylemedi. Gözlerini Yavuz’un yüzünden ayırmıyordu.
 
-“Bonaparte bunu kabul eder mi?” dedi. “Malta’yı bir gün bırakmayı?”
+“Bonapart bunu kabul eder mi?” dedi. “Malta’yı bir gün bırakmayı?”
 
-“Bonaparte’a ben yazarım, Ekselans.”
+“Bonapart’a ben yazarım, Ekselans.”
 
 “Ve sizi dinler mi?”
 
@@ -2832,7 +2832,7 @@ Yavuz önce Malta’dan gelen mektubu okudu. Bonapart’ın sert, aceleci el yaz
 
 *Bir de, Âsaf Paşa: Nelson Malta’nın önüne geldiğinde, onu bekleyen biri olacak. Bunu da size söylemek isterim.*
 
-*Bonaparte*
+*Bonapart*
 
 Yavuz mektubu katladı.
 
@@ -3754,7 +3754,7 @@ Bonapart’ın el yazısı her zamankinden de hızlı, her zamankinden de sertti
 
 *Ve sonra, Âsaf Paşa, sonra İrlanda.*
 
-*Bonaparte*
+*Bonapart*
 
 Yavuz mektubu bitirdi. Katladı. Bir süre hiçbir şey söylemedi.
 
@@ -4372,7 +4372,7 @@ Bonapart’ın mektubu Ekim’in ortasında geldi. Cebelitarık’ın önünden.
 
 *Bir de: Bompart, İrlanda için Brest’ten çıkmaya hazırlanıyor. Wolfe Tone gemide. Üç bin asker. Siz bana Ebukır’ı yazmıştınız. Şimdi bana İrlanda’yı yazın.*
 
-*Bonaparte*
+*Bonapart*
 
 Yavuz mektubu iki kez okudu. Sonra katladı.
 

@@ -4796,7 +4796,7 @@ Okumaya başladı. Önce kendi içinden, sonra yüksek sesle, Türkçeye çevire
 
 *Ben size geleceğim.*
 
-*Bonaparte*"
+*Bonapart*"
 
 Yavuz okumayı bitirdi. Odada derin bir sessizlik oldu.
 
