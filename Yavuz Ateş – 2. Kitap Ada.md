@@ -434,7 +434,7 @@ Bozcaada Kalesi, adanın kuzeydoğu ucunda, küçük limanın hemen üstünde, d
 
 Yavuz kalenin iç burcunun en üst katındaki odayı seçmişti. Duvarları beyaz badanalı, tavanı ahşap kirişli, yerleri kilim kaplı bir odaydı. Bir penceresi limana, bir penceresi de açık denize, Fransız donanmasına bakıyordu. Ortada alçak bir sedir, karşısında iki minder vardı. Yavuz dizdara iki sandalye de getirtmişti. *Frenk minderde oturmaz,* diye düşünmüştü. *Ama oturamayacağı bir yerde de konuşmaz.*
 
-Yanında on iki kişi vardı. Atıf Efendi, kâtip Ömer, Mahmud, Hüseyin Paşa’nın seçtiği dokuz levent. Hüseyin Paşa kendisi gelmemişti. Kaptan-ı Derya’nın gemisinden inip bir Frenk generalini beklemesi Devletin şanına yakışmazdı. Selimiye’de, Boğaz’ın ağzında, gözü dürbününde bekliyordu.
+Yanında on iki kişi vardı. Atıf Efendi, kâtip Ömer ve Hüseyin Paşa’nın seçtiği on levent. Hüseyin Paşa kendisi gelmemişti. Kaptan-ı Derya’nın gemisinden inip bir Frenk generalini beklemesi Devletin şanına yakışmazdı. Selimiye’de, Boğaz’ın ağzında, gözü dürbününde bekliyordu.
 
 Mahmud ise kalede değil, limanın önündeki kırlangıcındaydı. Pelerininin altında ısı dürbünü, kulağında telsiz.
 
@@ -758,7 +758,7 @@ Yavuz telsizi yeniden kaldırdı.
 
 Bu kez sessizlik daha uzun sürdü.
 
-“...Paşam,” dedi Mahmud’un sesi. Bir tereddüt vardı içinde. “Kayalıkların arkasında, küçük bir koyda, iki büyük filika var. Her birinde yirmi, belki yirmi beş kişi. Hepsi oturuyor, hiç kıpırdamıyor. Yanlarında uzun şeyler var. Tüfek olmalı. Güneşten değil, Paşam. Sabahtan beri oradalar. Taşlar soğumuş, onlar sıcak.”
+“...Paşam,” dedi Mahmud’un sesi. Bir tereddüt vardı içinde. “Kayalıkların arkasında, küçük bir koyda, iki büyük filika var. Her birinde yirmi, belki yirmi beş kişi. Hepsi oturuyor, hiç kıpırdamıyor. Yanlarında uzun şeyler var. Tüfek olmalı. Güneşten değil, Paşam. Sabahtan beri oradalar. Taşlar güneşte ısınmış, ama onlar taştan da sıcak.”
 
 Yavuz telsizi indirdi. Bonapart’a döndü. Hiçbir şey söylemedi. Sadece baktı.
 
@@ -1086,7 +1086,7 @@ Yavuz mektubu aldı. Açtı. Ömer’e uzattı. Ömer okumaya başladı. İlk sa
 
 Ömer yutkundu. Okudu:
 
-“*Âsaf Paşa Hazretleri’ne. Siz gittiğiniz gecenin ertesi gecesi, Hünkârımız Has Oda’da fenalaştı. Ateşi var, kusuyor, kendinden geçiyor. Hekimbaşı Efendi başından ayrılmıyor. Has Mutfak’tan Hünkârımıza giden her şey Hekimbaşı’nın talebesinin elinden geçmişti. Ama Hekimbaşı yine de zehirden şüpheleniyor. Hünkârımız kendine geldiği bir anda sizi istedi. Yalnızca sizi.*”
+“*Âsaf Paşa Hazretleri’ne. Siz gittiğiniz günün gecesi, Hünkârımız Has Oda’da fenalaştı. Ateşi var, kusuyor, kendinden geçiyor. Hekimbaşı Efendi başından ayrılmıyor. Has Mutfak’tan Hünkârımıza giden her şey Hekimbaşı’nın talebesinin elinden geçmişti. Ama Hekimbaşı yine de zehirden şüpheleniyor. Hünkârımız kendine geldiği bir anda sizi istedi. Yalnızca sizi.*”
 
 Ömer okumayı bıraktı. Elleri titriyordu.
 
@@ -1180,7 +1180,7 @@ Yavuz döşeğin yanına diz çöktü. Sultan’ın bileğini tuttu. Nabız hız
 
 “Ne zaman başladı?”
 
-“Dört gece önce, Paşam. Yatsıdan sonra. Hünkârımız Has Oda’da yalnızdı, Mesnevî okuyordu. Gece yarısına doğru haykırdı. İçeri girdiklerinde yerde, kıvranıyormuş. Kusuyordu. Sonra...” Hekimbaşı durdu. “Sonra ishal başladı. Su gibi. Bir gecede bedeninin suyu bitti. Sabaha karşı ellerinin ve ayaklarının kasıldığını söyledi. Karnındaki ağrının bir kor gibi yandığını.”
+“Beş gece önce, Paşam. Siz gittiğiniz gün. Yatsıdan sonra. Hünkârımız Has Oda’da yalnızdı, Mesnevî okuyordu. Gece yarısına doğru haykırdı. İçeri girdiklerinde yerde, kıvranıyormuş. Kusuyordu. Sonra...” Hekimbaşı durdu. “Sonra ishal başladı. Su gibi. Bir gecede bedeninin suyu bitti. Sabaha karşı ellerinin ve ayaklarının kasıldığını söyledi. Karnındaki ağrının bir kor gibi yandığını.”
 
 “Ne verdiniz?”
 
@@ -1314,7 +1314,7 @@ Yavuz bir şey söyleyemedi.
 
 “Biliyorum, Hünkârım.”
 
-“Bir şey daha.” Sultan’ın sesi alçaldı. “Mahmud’u kafesten çıkaracaksın. Gizlice. Her gün bir saat. Has Bahçe’ye, senin yanına. Ona ne öğretiyorsan öğret. Işıkları göster. Haritaları göster. Tersane’yi, Tophane’yi göster. Ve ona, benim ona öğretemediğim her şeyi öğret.” Durdu. “Ben ona bir Devletin nasıl kurtarılacağını hayal etmeyi öğrettim. Sen ona nasıl kurtarılacağını öğreteceksin.”
+“Bir şey daha.” Sultan’ın sesi alçaldı. “Mahmud’u kafesten çıkaracaksın. Gizlice. Haftada iki gün. Has Bahçe’ye, senin yanına. Ona ne öğretiyorsan öğret. Işıkları göster. Haritaları göster. Tersane’yi, Tophane’yi göster. Ve ona, benim ona öğretemediğim her şeyi öğret.” Durdu. “Ben ona bir Devletin nasıl kurtarılacağını hayal etmeyi öğrettim. Sen ona nasıl kurtarılacağını öğreteceksin.”
 
 Yavuz başını eğdi. Sultan’ın kaftanının eteğini öpmek istedi. Ama Sultan yatakta yatıyordu, kaftanı yoktu. Onun yerine Sultan’ın yorganın üstündeki titreyen elini aldı ve iki elinin arasında tuttu.
 
@@ -1466,9 +1466,9 @@ Yavuz bu yemini okudu. Ve kendi içinde, sessizce, ona aynı yeminle cevap verdi
 
 ---
 
-Aynı günlerde, İstanbul’dan beş yüz mil uzakta, Sicilya’nın doğusunda, yetmiş dört toplu bir İngiliz savaş gemisinin kıç kamarasında, otuz dokuz yaşında, tek kollu bir adam bir rapor okuyordu.
+Birkaç hafta sonra, Temmuz’un ortasında, İstanbul’dan beş yüz mil uzakta, Sicilya’nın doğusunda, yetmiş dört toplu bir İngiliz savaş gemisinin kıç kamarasında, otuz dokuz yaşında, tek kollu bir adam bir rapor okuyordu.
 
-Horatio Nelson’ın sağ kolu, bir yıl önce Tenerife’de bir İspanyol gülleyle parçalanmış, dirseğin üstünden kesilmişti. Gömleğinin boş kolu göğsüne iğnelenmişti. Sağ gözü dört yıl önce Korsika’da kör olmuştu. Kalan tek gözü yorgun ve kızarıktı. Altı haftadır Akdeniz’in her köşesinde bir hayaleti arıyordu. Dört yüz gemilik bir Fransız donanması Toulon’dan çıkmış ve yok olmuştu.
+Horatio Nelson’ın sağ kolu, bir yıl önce Tenerife’de bir İspanyol gülleyle parçalanmış, dirseğin üstünden kesilmişti. Gömleğinin boş kolu göğsüne iğnelenmişti. Sağ gözü dört yıl önce Korsika’da kör olmuştu. Kalan tek gözü yorgun ve kızarıktı. İki aydır Akdeniz’in her köşesinde bir hayaleti arıyordu. İskenderiye’ye inmiş, Girit’i dolaşmış, eli boş Sicilya’ya dönmüştü. Dört yüz gemilik bir Fransız donanması Toulon’dan çıkmış ve yok olmuştu.
 
 Masanın karşısında genç bir firkateyn kaptanı ayakta duruyordu. Yüzü güneşten kavrulmuş, üniforması tuzdan sertleşmişti. Raporu kendisi yazmıştı. Ama şimdi, kendi ağzından bir kez daha anlatıyordu.
 
@@ -1494,7 +1494,7 @@ Berry kalemi aldı.
 
 Nelson yeniden haritaya döndü. Tek gözü Malta’nın küçük noktasına takıldı.
 
-“Ve rotayı değiştirin, Berry. Doğuya. Malta’ya. Onu orada bulacağım.”
+“Ve rotayı değiştirin, Berry. Güneye. Malta’ya. Onu orada bulacağım.”
 
 Gemide kimse bilmiyordu ki, o haritanın öbür ucunda, İstanbul’un bir sarayında, uzun boylu, sakin yüzlü bir adam, Nelson’ın tam olarak bu cümleyi kuracağını hesaplamıştı.
 
@@ -1556,7 +1556,7 @@ Mahmud, Yavuz’un kolunu çekti. Usulca. Bir şehzadenin değil, bir çocuğun 
 
 Yavuz ona baktı. Bir an duraksadı. Sonra yavaşça gülümsedi.
 
-“Aynı güç, Şehzadem. Benim kutularımın içindeki de. Bulut gürlediğinde gökte çakan da. Hepsi aynı.”
+“Aynı güç, Ağa. Benim kutularımın içindeki de. Bulut gürlediğinde gökte çakan da. Hepsi aynı.”
 
 Mahmud’un gözleri büyüdü. Bir şey söylemedi. Ama Yavuz o gözlerde, iki yüz yıl ötede kalmış bir başka çocuğun, gece yarısı mutfakta kitaplarının başında oturan kardeşi Ömer’in bakışını gördü.
 
@@ -1630,7 +1630,7 @@ Kafasındaki rakamla aynıydı. Ama bunu kimseye söylemedi.
 
 *Aleti onlara öğretemem,* diye düşündü. *Ama üçgeni öğretebilirim. Alet bir gün biter. Üçgen hiç bitmez.*
 
-Sonra barut. Hacı Nuri’nin her zamanki gibi kepçeyle, göz kararı doldurduğu barutun yerine, Yavuz bir terazi getirtti. Baruthane’den yeni gelen, saltpeteri üç kez kaynatılıp süzülmüş, eşit tanelere elenmiş, kızılağaç kömüründen yapılmış barut. Her topa, dirhemi dirhemine aynı ağırlıkta.
+Sonra barut. Hacı Nuri’nin her zamanki gibi kepçeyle, göz kararı doldurduğu barutun yerine, Yavuz bir terazi getirtti. Baruthane’den yeni gelen, güherçilesi üç kez kaynatılıp süzülmüş, eşit tanelere elenmiş, kızılağaç kömüründen yapılmış barut. Her topa, dirhemi dirhemine aynı ağırlıkta.
 
 Sonra gülle. Yavuz bir demir halka getirtti. Gülleleri tek tek halkadan geçirdi. Biraz büyük olanlar geçmedi, biraz küçük olanlar fazla boşlukla geçti. Sadece tam ölçüde olanları ayırdı.
 
@@ -2162,7 +2162,9 @@ Mahmud bir adım öne çıktı. Hiçbir şey yapmadı. Sadece öne çıktı. Zan
 
 “Bir adam geldi,” dedi Venedikli hızla. “Mayıs’ın sonunda. Yüzü örtülüydü, bir Türk’tü. Kaftanı sadeydi ama kumaşı pahalıydı. Elinde eski, çatlak bir başpare vardı. Bir ney’in ağızlığı. Aynısını istedi. Ölçüsü ölçüsüne, ağırlığı ağırlığına. Kemikten. ‘İçi oyuk olsun,’ dedi. ‘Dudağın değdiği yerin içi, ince bir oluk.’ Ben de neden diye sormadım, signore. Para iyiydi.”
 
-*İçi oyuk,* diye düşündü Yavuz. *Zehri yerleştirmek için. Mumla kapatmış, cilalamış. Her üfleyişte dudaklar ıslanır, mum yumuşar, zehir azar azar sızar. Bir gecede değil. Haftalarca.*
+*İçi oyuk,* diye düşündü Yavuz. *Zehri yerleştirmek için. Mumla kapatmış, cilalamış. Her üfleyişte dudaklar ıslanır, mum yumuşar, zehir azar azar sızar. Bir gecede değil. Haftalarca. Adı konamayan bir hastalık gibi.*
+
+*Ama yeni mum ilk gecede fazla yumuşamış, zehir bir kerede gelmişti. Hesap tutmamıştı. Sultan’ı o hata kurtarmıştı.*
 
 “Parayı nasıl ödedi?”
 
@@ -2186,7 +2188,7 @@ Yavuz poliçeyi katlayıp kaftanının içine koydu.
 
 Aynı gece, Bâb-ı Defterî’nin arşivinde, iki adam hâlâ uyumamıştı.
 
-Atıf Efendi ile kâtip Ömer, üç haftadır her gece buraya geliyordu. Yavuz’un isteğiyle. Sultan zehirlendiği gece Yavuz, Atıf Efendi’ye tek bir cümle söylemişti: *Has Oda’nın etrafında dönen her akçeyi bulun.* Atıf Efendi o cümlenin ne kadar büyük olduğunu anlamış ama hiçbir şey sormamıştı.
+Atıf Efendi ile kâtip Ömer, beş haftadır her gece buraya geliyordu. Yavuz’un isteğiyle. Zehir haberinin geldiği sabah, Selimiye’nin güvertesinde, ata binmeden önce Yavuz, Atıf Efendi’ye tek bir cümle söylemişti: *Has Oda’nın etrafında dönen her akçeyi bulun.* Atıf Efendi o cümlenin ne kadar büyük olduğunu anlamış ama hiçbir şey sormamıştı.
 
 Arşiv, rutubet ve toz kokan, tavana kadar defterlerle dolu, uzun bir taş odaydı. Defterlerin sırtlarında yıllar, eyaletler, mukataalar yazıyordu. Ömer’in önünde, mumun ışığında, açık duran üç defter vardı. Atıf Efendi’nin önünde iki tane daha.
 
@@ -2198,7 +2200,7 @@ Atıf Efendi elini kaldırdı. “Yavaş, Ömer. Baştan anlat. Paşa’nın da 
 
 Ömer derin bir nefes aldı.
 
-“Barut, Paşam,” dedi. “Hünkârımız üç yıl önce Azadlı’da yeni bir baruthane yaptırdı. Nizam-ı Cedid için. Barutun yapılması için de güherçile lazım. Güherçile Anadolu’dan gelir, Paşam, mukataayla. Yani bir adam, Devletten bu işin hakkını satın alır. Güherçileyi toplar, baruthaneye teslim eder, parasını Hazine’den alır.”
+“Barut, Paşam,” dedi. “Hünkârımız dört yıl önce Azadlı’da yeni bir baruthane yaptırdı. Nizam-ı Cedid için. Barutun yapılması için de güherçile lazım. Güherçile Anadolu’dan gelir, Paşam, mukataayla. Yani bir adam, Devletten bu işin hakkını satın alır. Güherçileyi toplar, baruthaneye teslim eder, parasını Hazine’den alır.”
 
 “Anlıyorum.”
 
@@ -2438,9 +2440,9 @@ Sonra Ömer öne çıktı.
 
 Genç kâtip titriyordu. Hayatında ilk kez Divan’ın ortasında, bütün erkânın önünde konuşacaktı. Ama Yavuz’un ona baktığını gördü. Ve titremesi durdu.
 
-İki kâğıdı Sadrazam’ın önüne koydu. Ney’in içinden çıkan rulo ve mukataa defterinin derkenarı. Sonra Yavuz, tableti Ömer’e uzattı.
+İki kâğıdı Sadrazam’ın önüne koydu. Ney’in içinden çıkan rulo ve mukataa defterinin derkenarı. Sonra Yavuz, telefonunu Ömer’e uzattı.
 
-Ömer tableti iki eliyle tuttu ve ekranı Sadrazam’a, sonra Şeyhülislam’a, sonra kubbe vezirlerine çevirdi.
+Ömer telefonu iki eliyle tuttu ve ekranı Sadrazam’a, sonra Şeyhülislam’a, sonra kubbe vezirlerine çevirdi.
 
 Ekranda, bir avuç büyüklüğünde, iki kef harfi yan yana duruyordu. Mürekkebin her lifi görünüyordu. İkisinin ucunda da aynı küçük, kıvrık kanca vardı.
 
@@ -2472,13 +2474,13 @@ Kimse konuşmadı.
 
 Kafesin arkasından hiçbir ses gelmedi.
 
-“Ben Devlete ihanet etmedim,” dedi Silahdar. Sesi yeniden soğumuştu. “Devleti bir sihirbazın elinden kurtarmak istedim. Hünkâr’ı o adam çoktan almıştı. Gözlerini, kulaklarını, aklını. Hünkâr düşerse, sihirbaz da düşer. Bunu ben söylemedim. Onun boynunda taşıdığı yüzük söylüyor. *Ben düşersem sen de düşersin.*” Durdu. “Ben bir neyi susturdum, erkân. O adam bu Devletin ruhunu susturacak.”
+“Ben Devlete ihanet etmedim,” dedi Silahdar. Sesi yeniden soğumuştu. “Arz Odası’nın gözetimini bana Hünkâr verdi. Yanni’nin kime çalıştığını, Yusuf Efendi’nin adıyla elçiliğe giden o sahte mektubu, *Pelican*’ı, hepsini bildim. İngiliz’in elçisi bunların tek birini benden duymadı. Devleti bir sihirbazın elinden kurtarmak istedim. Hünkâr’ı o adam çoktan almıştı. Gözlerini, kulaklarını, aklını. Hünkâr düşerse, sihirbaz da düşer. Bunu ben söylemedim. Onun boynunda taşıdığı yüzük söylüyor. *Ben düşersem sen de düşersin.*” Durdu. “Ben bir neyi susturdum, erkân. O adam bu Devletin ruhunu susturacak.”
 
 Kubbealtında derin, ağır bir sessizlik oldu.
 
 Yavuz, Silahdar’ın karşısına geçti. Yüzünde hiçbir ifade yoktu. Sesi alçak ve sakindi.
 
-“Ağa. Bir neyi susturmadınız. Bir insanın nefesini kestiniz. Ve o insanın nefesi kesilince kim gelecekti? Kafesteki Mustafa. Ocak’ın Mustafası. İngiliz’in Mustafası.” Bir an durdu. “Siz Devleti bir sihirbazdan kurtarmak istemediniz. Kendi kapınızı geri istediniz. Ve onu geri almak için, kafesteyken size kitap getirttiği adamı, İngiliz’in altınıyla zehirlediniz.”
+“Ağa. Bir neyi susturmadınız. Bir insanın nefesini kestiniz. Ve o insanın nefesi kesilince kim gelecekti? Kafesteki Mustafa. Ocak’ın Mustafası. İngiliz’in Mustafası.” Bir an durdu. “O sırları Smith’e söylemediniz, doğru. Söyleyemezdiniz. Onları bilen birkaç kişiden biriydiniz; Smith ertesi gün tek bir adım atsa, parmak size dönerdi. Sustuğunuz yerde Devleti değil, kendinizi korudunuz. Siz Devleti bir sihirbazdan kurtarmak istemediniz. Kendi kapınızı geri istediniz. Ve onu geri almak için, kafesteyken size kitap getirttiği adamı, İngiliz’in altınıyla zehirlediniz.”
 
 Silahdar Ağa’nın yüzü ilk kez kıpırdadı.
 
@@ -2728,7 +2730,7 @@ Atıf Efendi’nin kaşları kalktı. Sonra, anladığında, kısa ve kuru bir s
 
 Has Bahçe’nin en ücra köşesinde, sarnıcın yanındaki eski çiçekçi köşkünde, her salı ve cuma, ikindiden sonra bir ders yapılıyordu.
 
-Bu dersi sarayda yalnızca beş kişi biliyordu. Sultan, Yavuz, Atıf Efendi, Kapıağası ve kafeste şehzadeye hizmet eden, Kapıağası’nın en güvendiği yaşlı bir lala. Lala, şehzadeyi kafesin arka kapısından, bahçe duvarlarının dibinden, karanlık bir dehlizden geçirerek getirir, iki saat sonra aynı yoldan geri götürürdü.
+Bu dersi sarayda yalnızca beş kişi biliyordu. Sultan, Yavuz, Atıf Efendi, Kapıağası ve kafeste şehzadeye hizmet eden, Kapıağası’nın en güvendiği yaşlı bir lala. Lala, şehzadeyi kafesin arka kapısından, bahçe duvarlarının dibinden, karanlık bir dehlizden geçirerek getirir, iki saat sonra aynı yoldan geri götürürdü. Saray dışında bir tek Hüseyin Paşa biliyordu; şehzadeyi Tersane’ye Enderun ağası kılığında götürdükleri o ilk sabah, kayığına onu kendi eliyle almıştı.
 
 Şehzade Mahmud on üç yaşındaydı. Uzun boylu, zayıf, kara gözlüydü. Ağzı inatçı, kaşları kalındı. Yavuz onu ilk gördüğünde bir an durmuştu. Müzelerdeki o portreyi, sarıklı ve uzun sakallı, iri gözlü padişahı düşünmüştü. *Yeniçeri Ocağı’nı kaldıracak adam.* Şimdi önünde, kendi yaşından büyük görünmeye çalışan, merakını saklamayı henüz öğrenememiş bir çocuk vardı.
 
@@ -2832,6 +2834,8 @@ Yavuz önce Malta’dan gelen mektubu okudu. Bonapart’ın sert, aceleci el yaz
 
 *Bir de, Âsaf Paşa: Nelson Malta’nın önüne geldiğinde, onu bekleyen biri olacak. Bunu da size söylemek isterim.*
 
+*Paris İrlanda’ya iki kafile hazırlıyor. Humbert Rochefort’tan, Bompart Brest’ten. Wolfe Tone, Bompart’ın gemisinde olacak. Siz bana Ebukır’ı yazmıştınız. Şimdi bana İrlanda’yı yazın.*
+
 *Bonapart*
 
 Yavuz mektubu katladı.
@@ -2861,6 +2865,24 @@ Sultan, yastıklarının arasından, titrek elini hafifçe kaldırdı.
 Hüseyin Paşa bir süre Sultan’a baktı. Sonra başını eğdi. Gözleri parlıyordu.
 
 “Baş üstüne, Hünkârım.”
+
+---
+
+Yavuz, Bonapart’ın cevabını o gece, Has Bahçe’deki odasında yazdı. Desaix’ye, İskenderun’a, Mahmud’a dair satırları bitirince kalemi bir süre kâğıdın üstünde tuttu. Sonra yazdı.
+
+*İrlanda’ya gelince.*
+
+*Humbert’e yetişemezsiniz. Bu mektup size vardığında o çoktan denizde olacak. Ağustos’un sonunda Killala Körfezi’ne çıkacak, Eylül’ün başında teslim olacak. Ama oranın köylüleri Fransızları bir kez görmüş olacak ve unutmayacak.*
+
+*Bompart’a yetişirsiniz. Eylül’ün ortasında Brest’ten çıkacak. Kuzey’e, Donegal’e, Lough Swilly’ye gitmeyi düşünüyor. Gitmesin. Ekim’in on ikisinde, Tory Adası’nın açıklarında, Amiral Warren onu bekleyecek. Daha çok gemiyle, daha iyi rüzgârla. Bompart’ın filosu orada dağıtılacak. Wolfe Tone esir düşecek. Ve kendi boğazını bir çakıyla kesecek.*
+
+*Batıya gitsin. Killala’ya. Humbert’in çıktığı yere. Warren orayı beklemiyor. Emri Paris’e hemen yazın; Eylül’ün ortasından önce Brest’te olsun.*
+
+Mektubu mühürledi. Sonra bir süre lambanın ışığında oturdu.
+
+*Bir adamın ölümünü bir mektuba yazdım,* diye düşündü. *Wolfe Tone. Bir hapishanede, bir çakıyla. Ve şimdi o adam, bu mektup yüzünden, belki bir gün daha fazla yaşayacak. Belki bir yıl. Belki yirmi.*
+
+*Tarihi değiştirmek bu. Bir kalemle. Bir lambanın ışığında. Kimse görmeden.*
 
 ---
 
@@ -2912,7 +2934,7 @@ Mahmud ona baktı. Yavuz’un bu saati hiç çıkarmadığını biliyordu. Gece 
 
 Mahmud bir şey söyleyemedi. Bileğindeki saate baktı. Ekranında küçük, beyaz rakamlar yanıyordu.
 
-“Bir şey daha,” dedi Yavuz. Sesini alçalttı. “Tipu Sultan’ın karşısında Kalküta’dan yeni bir genel vali var. Mornington. Ve onun bir kardeşi var. Kalın kaşlı, uzun burunlu, otuzunu yeni geçmiş bir albay. Wellesley.” Durdu. “O adamı hafife alma, Mahmud. Bir gün, benim bildiğim dünyada, bütün Avrupa’nın en büyük generali olacak. Bonapart’ı bile yenecek. Ama şimdi, henüz, bir albay. Ve senin ondan önce davranman lazım.”
+“Bir şey daha,” dedi Yavuz. Sesini alçalttı. “Tipu Sultan’ın karşısında Kalküta’dan yeni bir genel vali var. Mornington. Ve onun bir kardeşi var. Kalın kaşlı, uzun burunlu, otuzuna merdiven dayamış bir albay. Wellesley.” Durdu. “O adamı hafife alma, Mahmud. Bir gün, benim bildiğim dünyada, bütün Avrupa’nın en büyük generali olacak. Bonapart’ı bile yenecek. Ama şimdi, henüz, bir albay. Ve senin ondan önce davranman lazım.”
 
 “Ne kadar önce, Paşam?”
 
@@ -3038,7 +3060,7 @@ Silahdar’ın yeri boştu. Yerine kimse atanmamıştı. Kapının iki yanında 
 
 Kazanların sesi hâlâ geliyordu. Artık devrilmiyorlardı. Dövülüyorlardı. Kepçelerle, kılıç kabzalarıyla, taşlarla. Ağır, ritmik, metalik bir uğultu, şehrin üstünde bir kalp atışı gibi gidip geliyordu.
 
-“Otuz bir yıl önce,” dedi Sultan, dönmeden. “Ben on yaşındayken. Babamın zamanında. Bu sesi bir kez duymuştum. Kafesin penceresinden. Bir sadrazamın kellesini istediler. Babam verdi.” Durdu. “O gece kafeste annem beni kucağına alıp kulaklarımı kapamıştı.”
+“Otuz yıl önce,” dedi Sultan, dönmeden. “Ben altı yaşındayken. Babamın zamanında, daha kafese girmeden. Bu sesi bir kez duymuştum. Harem’in kafesli penceresinden. Bir sadrazamın kellesini istediler. Babam verdi.” Durdu. “O gece annem beni kucağına alıp kulaklarımı kapamıştı.”
 
 “Hünkârım.”
 
@@ -3154,7 +3176,7 @@ Yavuz kâğıda bir şey çizmeye başladı. Bir silindir. Silindirin etrafına 
 
 “Ne kadar istersen.”
 
-“Ve bir de...” Yavuz başını kaldırdı. “Yüz zira uzunluğunda, ince, düz bir kalas. Kuru. Çatlaksız. Mümkünse ıhlamur.”
+“Ve bir de...” Yavuz başını kaldırdı. “İki zira uzunluğunda, ince, düz bir kalas. Kuru. Çatlaksız. Mümkünse ıhlamur.”
 
 Hüseyin Paşa kâğıda baktı. Sonra Yavuz’a. Sonra yeniden kâğıda.
 
@@ -3190,13 +3212,13 @@ Abdullah bir şey söylemedi. Ama elleri işe başladı. Yavuz onun yüzünü iz
 
 Hacı Nuri Usta, ıhlamur kalasın etrafına bobin telini sararken Yavuz’un yanına geldi. Kalasın üstüne, Yavuz’un tarifiyle, yüzlerce sargı, birbirine değmeden, sık sık dizilmişti. İhtiyar topçu, kalası elinde çeviriyor, sargıları sayıyordu.
 
-“Paşam,” dedi. “Ben otuz beş yıldır topçuyum. Barutu bilirim. Ateşi bilirim. Ama bu...” Kalasa baktı. “Bu ne yapacak?”
+“Paşam,” dedi. “Ben kırk yıldır topçuyum. Barutu bilirim. Ateşi bilirim. Ama bu...” Kalasa baktı. “Bu ne yapacak?”
 
 “Gök gürültüsü yapacak, Usta.”
 
 Usta ona baktı. Sonra kalasa. Sonra yine ona.
 
-“Sen bana ilk güllede vurmayı öğrettin,” dedi yavaşça. “Ben de herkese yalan dediler, yaptım. Şimdi bana bir kalastan gök gürültüsü çıkacak diyorsun.” Durdu. Ak sakalını sıvazladı. “Sar o zaman. Ben de sayayım.”
+“Sen bana ilk güllede vurmayı öğrettin,” dedi yavaşça. “Herkes yalan dedi, ben yaptım. Şimdi bana bir kalastan gök gürültüsü çıkacak diyorsun.” Durdu. Ak sakalını sıvazladı. “Sar o zaman. Ben de sayayım.”
 
 ---
 
@@ -3208,7 +3230,7 @@ Telsiz cızırdadı.
 
 “Paşam.” Hasan’dı. Sesi yorgun ama sakinleşmişti. “Paşam, meydanda bir şey oldu. Bir adam ortalara konuşuyor. Bir odabaşı. Kara bıyıklı, iri. Bir kazanın üstüne çıkmış. Adamlar ona Kalaycı diyor. Kalaycı Ahmed.”
 
-Yavuz kaftanının içinden bir kâğıt çıkardı. Ömer’in defterden çıkardığı liste. On bir isim. Parmağı yedinci satırda durdu.
+Yavuz kaftanının içinden bir kâğıt çıkardı. Ömer’in defterden çıkardığı liste. On üç isim. Parmağı yedinci satırda durdu.
 
 *Kalaycı Ahmed. Kırk Dokuzuncu Orta. Dört ayda iki yüz kırk altın.*
 
@@ -3354,7 +3376,7 @@ Bakır çubuğu yere bıraktı.
 
 Meydan susmuştu. Ön safta diz çöken adamlar başlarını kaldırmış, dinliyordu.
 
-“Ve tuttular. Bizim zamanımızda biz yıldırımları topladık. Şişelere doldurduk. Depoladık. Sonra o yıldırımla şehirlerimizi aydınlattık, gemilerimizi yürüttük, birbirimizle dünyanın bir ucundan öbür ucuna konuştuk. Bu gece Arz Odası’nı gündüze çeviren de, Galata Kulesi’nden saraya ses götüren de o yıldırım.” Bir an durdu. Sesi alçaldı. “Ve o ilmin dinamiğini, usulünü, prensibini bilen sağlam mühendislerden biri de benim.”
+“Ve tuttular. Bizim zamanımızda biz yıldırımları topladık. Şişelere doldurduk. Depoladık. Sonra o yıldırımla şehirlerimizi aydınlattık, gemilerimizi yürüttük, birbirimizle dünyanın bir ucundan öbür ucuna konuştuk. O gece Arz Odası’nı gündüze çeviren de, Galata Kulesi’nden saraya ses götüren de o yıldırım.” Bir an durdu. Sesi alçaldı. “Ve o ilmin dinamiğini, usulünü, prensibini bilen sağlam mühendislerden biri de benim.”
 
 Arkasındaki ıhlamur kalasa döndü. Eliyle gösterdi.
 
@@ -3582,7 +3604,7 @@ Bir hayaleti kovalamıştı. Sicilya’dan İskenderiye’ye, İskenderiye’den
 
 *Buldum seni,* diye düşünmüştü Nelson.
 
-Şimdi dürbününde, koyun içinde, sıra sıra demirlemiş on üç Fransız hattı gemisi görüyordu. Ortada, ötekilerden büyük, üç güverteli, yüz yirmi toplu *L’Orient.* Brueys’in sancak gemisi.
+Şimdi dürbününde, koyun içinde, sıra sıra demirlemiş sekiz Fransız hattı gemisi görüyordu. Haber on üç diyordu; ötekiler Korfu’ya mı gitmişti, Toulon’a mı dönmüştü, bilmiyordu. Sekiz de yeterdi. Ortada, ötekilerden büyük, üç güverteli, yüz yirmi toplu *L’Orient.* Brueys’in sancak gemisi.
 
 “Sıkı bir hat, efendim,” dedi yanındaki adam. Kaptan Edward Berry. *Vanguard*’ın kumandanı. “Karaya çok yakın demirlemişler.”
 
@@ -3618,7 +3640,7 @@ Güneş batıya eğilirken Nelson saldırı emrini verdi.
 
 ---
 
-On üç İngiliz hattı gemisi, akşamın kızıl ışığında, tek sıra hâlinde Marsaxlokk koyuna girdi.
+On üç İngiliz hattı gemisi, akşamın kızıl ışığında, tek sıra hâlinde Marsaxlokk koyuna girdi. Elli toplu *Leander* ile *Mutine* briki dışarıda, hattın gerisinde kaldı.
 
 *Goliath* öndeydi. Kaptan Foley, Nelson’ın planına göre, Fransız hattının başını dolaşacak, hatla kara arasındaki dar suya girecekti. Arkasından *Zealous*, *Orion*, *Theseus*. *Vanguard* altıncı sıradaydı. Dışarıdan, denizden girecek, Fransız gemilerini iki ateş arasına alacaktı.
 
@@ -3728,7 +3750,7 @@ Haber İstanbul’a on dokuz gün sonra ulaştı.
 
 Sonra Bâb-ı Âli’ye. Sonra Has Oda’ya.
 
-Ve en son, Bonapart’ın kendi mektubu. Bir Fransız sloopuyla, doğrudan Tersane’ye.
+Ve en son, Bonapart’ın kendi mektubu. Bir Fransız korvetiyle, doğrudan Tersane’ye.
 
 Yavuz mektubu Has Oda’da, Sultan’ın yatağının başında okudu. Sadrazam ve Atıf Efendi de oradaydı. Hüseyin Paşa pencerenin önünde ayakta duruyordu. Kollarını kavuşturmuş, yüzü taş gibi.
 
@@ -3742,11 +3764,11 @@ Bonapart’ın el yazısı her zamankinden de hızlı, her zamankinden de sertti
 
 *Size teşekkür etmem gerekiyor ve teşekkür ediyorum. Ebukır diye bir körfezde ne yapacağını bana siz yazmıştınız. Hattın başını dolaşacağını, içeriden gireceğini, akşam saldıracağını. Hepsini yaptı. Bir kelimesi bile eksik değildi. Brueys’e kütük setini kurdurdum, Villeneuve’ü Gozo’nun arkasına sakladım. Nelson tam da sizin anlattığınız yerden, tam da sizin anlattığınız saatte girdi.*
 
-*On bir gemisini aldım. İkisi yandı. Kaçabilen yalnızca ikisi.*
+*On bir hattı gemisini aldım. İkisi yandı. Kaçabilen yalnızca iki küçük gemi oldu, Leander ile Mutine.*
 
 *Akdeniz artık İngiliz’in değil.*
 
-*Bir şey daha söylemeliyim. Size kızacağınızı bildiğim bir şey. Nelson’ın Türk filosu beklediğini biliyordum. Smith’in mektubunu onun gemisinden çıkardık. Ben de ona Türk filosu gönderdim. İki firkateyn. Sizin sancağınızla.*
+*Bir şey daha söylemeliyim. Size kızacağınızı bildiğim bir şey. Nelson’ın Türk filosu beklediğini biliyordum. Smith’in ona yazdığı mektubun ikinci suretini, Napoli yolunda bir İngiliz kurye gemisinden çıkardık. Ben de ona Türk filosu gönderdim. İki firkateyn. Sizin sancağınızla.*
 
 *Ahitname’de, sizin sancağınız altında yürüyeceğiz dememiş miydik, Âsaf Paşa? Ben sadece biraz erken yürüdüm.*
 
@@ -3774,7 +3796,7 @@ Sadrazam Yavuz’a döndü.
 
 “Sen bunu biliyor muydun, Âsaf Paşa?”
 
-Yavuz bir an sustu. Malta’dan gelen ilk mektubu hatırladı. *Nelson Malta’nın önüne geldiğinde, onu bekleyen biri olacak.*
+Yavuz bir an sustu. Malta’dan gelen o önceki mektubu hatırladı. *Nelson Malta’nın önüne geldiğinde, onu bekleyen biri olacak.*
 
 “Bir şey yapacağını biliyordum, Paşam,” dedi. “Ne yapacağını bilmiyordum.”
 
@@ -3846,7 +3868,7 @@ Türkçe değildi.
 
 Yavuz kıpırdamadı.
 
-“*The boy is well. Please don’t worry. He has been showing me how your little box works. A clever lad. He tells me he can light a lamp without fire.*” Bir an sessizlik. “*I promised you we would meet again in London. I am afraid I cannot wait that long.*”
+“*The boy is well. Please don’t worry. He has been showing me how your little box works. A clever lad. He tells me he can light a lamp without fire.*” Bir an sessizlik. “*You promised me we would meet again in London. I am afraid I cannot wait that long.*”
 
 Sonra başka bir ses. Uzaktan, boğuk, titreyen. Bir çocuğun sesi.
 
@@ -4088,13 +4110,13 @@ Tırnağını çentiğe soktu. Levhayı kaldırdı.
 
 Gizli bölme açıldı.
 
-Üç şey vardı içinde. Köpük yuvalara oturtulmuş.
+Dört şey vardı içinde. Köpük yuvalara oturtulmuş.
 
 Bir kese. Ağır, deri, ağzı sıkıca bağlı. İçinde, hazırlık yaparken kendi zamanının antikacılarından tek tek topladığı Osmanlı altınları.
 
 Siyah, kompakt, tek elle tutulacak kadar küçük bir tabanca. Yanında iki dolu şarjör. Fazlası değil.
 
-Ve kuş kanadı gibi katlanmış dört kollu, avuç büyüklüğünde, gri bir makine. Ön tarafında, karanlıkta bir göz gibi parlayan küçük, yuvarlak bir mercek.
+Ve kuş kanadı gibi katlanmış dört kollu, avuç büyüklüğünde, gri bir makine. Ön tarafında, karanlıkta bir göz gibi parlayan küçük, yuvarlak bir mercek. Yanındaki yuvada, aynısından bir tane daha.
 
 Yavuz uzun süre ona baktı.
 
@@ -4102,7 +4124,7 @@ Yavuz uzun süre ona baktı.
 
 *Ve bilmemeli.*
 
-Dronu çıkardı. Kollarını açtı. Pilini taktı. Telefonunu açtı ve ekranda, yıllardır görmediği o küçük uygulama simgesine dokundu.
+Dronlardan birini çıkardı. Öbürü yuvasında kaldı. Kollarını açtı. Pilini taktı. Telefonunu açtı ve ekranda, yıllardır görmediği o küçük uygulama simgesine dokundu.
 
 Ekranda bir görüntü belirdi. Odanın tavanı. Lambanın yumuşak ışığı. Kendi yüzü, aşağıdan bakan bir açıdan.
 
@@ -4326,7 +4348,7 @@ Atıf Efendi uzun süre ona baktı. Sonra tespihini yeniden çekmeye başladı. 
 
 Thomas Walsh, Ekim’in ilk haftasında, Kız Kulesi’nden çıktı.
 
-Bir Fransız sloopu Tersane’de bekliyordu. Toulon’a gidecekti. Oradan Walsh, karadan, Brest’e. Brest’ten de, eğer şansı yaver giderse, bir gün, İrlanda’ya.
+Bir Fransız korveti Tersane’de bekliyordu. Toulon’a gidecekti. Oradan Walsh, karadan, Brest’e. Brest’ten de, eğer şansı yaver giderse, bir gün, İrlanda’ya.
 
 İskelede Yavuz’la vedalaştı. Kızıl saçlarını kestirmiş, sakalını almıştı. Üstünde Yavuz’un ona verdirdiği sade, Frenk kesimi bir ceket vardı. Cebinde, Atıf Efendi’nin eliyle yazılmış, Fransızca bir yol kâğıdı. Ve Yavuz’un kendi elinden, Latin harfleriyle yazılmış, katlanmış bir kâğıt.
 
@@ -4334,7 +4356,7 @@ Bir Fransız sloopu Tersane’de bekliyordu. Toulon’a gidecekti. Oradan Walsh,
 
 “Ne yazıyor?”
 
-“Bir isim. Ve bir adres. Fransız ordusunda bir İrlandalı subay. Adjudant-général Smith diye kayıtlı. Ama gerçek adı başka.”
+“Bir isim. Ve bir adres. Brest’te, İrlanda’ya erzak ve takviye toplayan bir Fransız komiser. Bir de bir tanıtma mektubu. Fransız ordusunda bir İrlandalı subaya. Adjudant-général Smith diye kayıtlı. Ama gerçek adı başka.” Bir an durdu. “Onu Brest’te bulamazsınız. Çoktan denizde. Ama komiserin gemileri onun peşinden gidecek. Siz de onlarla.”
 
 Walsh kâğıdı göğüs cebine koydu. Bir süre Yavuz’a baktı.
 
@@ -4356,7 +4378,7 @@ Yavuz elini sıktı.
 
 “Gelirim, Mr. Walsh.”
 
-Sloopun yelkenleri açıldı. Haliç’in ağzından, Sarayburnu’nun önünden, Marmara’ya doğru süzüldü. Kıçında, kızıl saçlı bir adam, bir süre daha, İstanbul’a bakmaya devam etti.
+Korvetin yelkenleri açıldı. Haliç’in ağzından, Sarayburnu’nun önünden, Marmara’ya doğru süzüldü. Kıçında, kızıl saçlı bir adam, bir süre daha, İstanbul’a bakmaya devam etti.
 
 ---
 
@@ -4370,7 +4392,7 @@ Bonapart’ın mektubu Ekim’in ortasında geldi. Cebelitarık’ın önünden.
 
 *Ama artık oyunu bırakalım. Nelson’ın filosu yok. Akdeniz’de İngiliz yok. Cebelitarık düşünce, Manş’a kadar önümde tek bir İngiliz gemisi kalmayacak. Bu, sizin de beklediğiniz an değil mi? Devlet-i Aliyye’nin donanmasını açıkça yanımda görmek istiyorum. Hüseyin Paşa’nın gemilerini. O bakır kaplı, ilk güllede vuran gemileri. Fransız usulü diyorlarmış. Bana kimse sormadı ama ben de öyle diyorum.*
 
-*Bir de: Bompart, İrlanda için Brest’ten çıkmaya hazırlanıyor. Wolfe Tone gemide. Üç bin asker. Siz bana Ebukır’ı yazmıştınız. Şimdi bana İrlanda’yı yazın.*
+*Bir de: Bompart Eylül’ün on altısında Brest’ten çıktı. Wolfe Tone gemide. Üç bin asker. Emri sizin Ağustos mektubunuzdan, kendi elimle yazıp Paris’e yolladım: Lough Swilly’ye değil, Killala’ya. Tory Adası’ndan uzak. Ne olduğunu benden önce öğreneceğinizden şüphem yok.*
 
 *Bonapart*
 
@@ -4382,27 +4404,21 @@ Cevabını o gece yazdı. Kendi eliyle, Fransızca.
 
 *Devlet-i Aliyye henüz tarafsızdır. Bunu bilerek sancağımızı kullandınız; bilerek cevabını da alacaksınız. Donanmamız İngiliz’le Fransız’ın gerçekten birbirine girdiğini gördüğü gün sahaya çıkacak. O gün geldiğinde, beklemenize gerek kalmayacak. Görürsünüz.*
 
-*İrlanda’ya gelince.*
-
-*Bompart, Kuzey’e, Donegal’e, Lough Swilly’ye gitmeyi düşünüyor. Gitmesin. Ekim’in on ikisinde, Tory Adası’nın açıklarında, Amiral Warren onu bekleyecek. Daha çok gemiyle, daha iyi rüzgârla. Bompart’ın filosu orada dağıtılacak. Wolfe Tone esir düşecek. Ve kendi boğazını bir çakıyla kesecek.*
-
-*Batıya gitsin. Killala Körfezi’ne. Humbert’in Ağustos’ta çıktığı yere. Oranın köylüleri Fransızları bir kez gördü ve unutmadı. Warren orayı beklemiyor.*
-
 *Ve bir şey daha, Général. Ben size kimin ne yapacağını söylüyorum. Siz de bana, bir dahaki sefere, kendi ne yapacağınızı söyleyeceksiniz. Önceden.*
 
 *Âsaf Paşa*
 
 Mektubu mühürledi. Sonra bir süre lambanın ışığında oturdu.
 
-*Bir adamın ölümünü bir mektuba yazdım,* diye düşündü. *Wolfe Tone. Bir hapishanede, bir çakıyla. Ve şimdi o adam, bu mektup yüzünden, belki bir gün daha fazla yaşayacak. Belki bir yıl. Belki yirmi.*
+*Eylül’ün on altısı,* diye düşündü. *Ekim’in on ikisi çoktan geçti. Bompart ya Killala’dadır ya Tory’nin dibinde.*
 
-*Tarihi değiştirmek bu. Bir kalemle. Bir lambanın ışığında. Kimse görmeden.*
+*Bilmenin yolu yok. Haber Kasım’dan önce gelmez.*
 
 ---
 
 Killala Körfezi, Ekim’in on birinde, gri ve yağmurluydu.
 
-Kırk beş yaşında, ince yüzlü, uzun burunlu, kısa boylu bir adam, *Hoche*’un kıç güvertesinde, Fransız adjudant-général üniformasının içinde, yağmurun altında ıslanarak, kıyıya bakıyordu.
+İnce yüzlü, uzun burunlu, kısa boylu bir adam, *Hoche*’un kıç güvertesinde, Fransız adjudant-général üniformasının içinde, yağmurun altında ıslanarak, kıyıya bakıyordu.
 
 Theobald Wolfe Tone otuz beş yaşındaydı. Ama bu sabah kendini yetmiş yaşında hissediyordu. Ve aynı zamanda on beş.
 
@@ -4456,7 +4472,7 @@ Sultan Selim Kasım’da biraz daha zayıflamıştı. Bastonla artık birkaç ad
 
 Sultan bir süre sustu. Sonra yorganın üstündeki ellerine baktı.
 
-“Sen bana bir gün söylemiştin,” dedi. “Sofa Köşkü’nde. İlk gece. *İngiltere’yi haritadan silmek istiyorum.* Ben de sana, *sen bana bir gecede iki kıtayı vaat ediyorsun,* demiştim.” Hafifçe gülümsedi. “On bir ay oldu.”
+“Sen bana bir gün söylemiştin,” dedi. “Arz Odası’nda. İlk gece. *İngiltere’yi haritadan silmek istiyorum.* Ben de sana, *sen bana bir gecede iki kıtayı vaat ediyorsun,* demiştim.” Hafifçe gülümsedi. “On bir ay oldu.”
 
 “On bir ay, Hünkârım.”
 
@@ -4492,7 +4508,7 @@ Odada çıt çıkmadı.
 
 Yavuz bir an düşündü.
 
-*Malta,* diye düşündü. *Bonapart Nelson’ın gemisinden Smith’in mektubunu çıkardı. Ve İngilizler de, Malta’dan kaçan o iki gemiyle, kim bilir ne çıkardı. Bonapart’ın masasında, L’Orient’in kamarasında, ahitnamenin bir sureti. Ya da bir subayın ağzı. Bir mahkûm. Bir kaçak.*
+*Malta,* diye düşündü. *Bonapart, Smith’in Nelson’a yazdığı mektubu bir İngiliz kurye gemisinden çıkardı. Ve İngilizler de, Malta’dan kaçan o iki gemiyle, kim bilir ne çıkardı. Bonapart’ın masasında, L’Orient’in kamarasında, ahitnamenin bir sureti. Ya da bir subayın ağzı. Bir mahkûm. Bir kaçak.*
 
 *Fark etmez. Biliyorlar.*
 
@@ -4532,7 +4548,7 @@ Sir Sidney Smith.
 
 Yavuz termal monokülü gözüne dayadı.
 
-Gece, monokülün gözünde, soğuk ve gri bir deniz oldu. Ve o denizin üstünde, bembeyaz, parlak, sıcak bir şekil. İki direkli, iki güverteli bir gemi. Güvertede kıpırdayan, beyaz noktalar. Nöbetçiler. Kıç kamarada daha büyük, daha parlak bir leke. Bir mangal. Belki bir lamba. Bir masa başında oturan, yazan, düşünen biri.
+Gece, monokülün gözünde, soğuk ve gri bir deniz oldu. Ve o denizin üstünde, bembeyaz, parlak, sıcak bir şekil. Üç direkli, iki güverteli bir gemi. Güvertede kıpırdayan, beyaz noktalar. Nöbetçiler. Kıç kamarada daha büyük, daha parlak bir leke. Bir mangal. Belki bir lamba. Bir masa başında oturan, yazan, düşünen biri.
 
 Monokülü indirdi.
 
@@ -4546,7 +4562,7 @@ Hacı Nuri Usta yanına geldi. İhtiyar topçunun ak sakalı rüzgârda dalgalan
 
 “Neresini?”
 
-Usta bir an duraksadı. Sonra, yüzünde, Yavuz’un ilk kez gördüğü bir ifade belirdi. Otuz beş yıllık bir topçunun gururu.
+Usta bir an duraksadı. Sonra, yüzünde, Yavuz’un ilk kez gördüğü bir ifade belirdi. Kırk yıllık bir topçunun gururu.
 
 “Nereyi isterseniz, Paşam.”
 
@@ -4940,7 +4956,7 @@ Ve her şeyi hatırladı.
 
 Kayayı, küreyi, Jüpiter’in dört ayını, Ay’a giden adamları, Louisiana’yı, Saint-Domingue’i, Moskova’nın yanışını, karda donmuş otuz bin adamı. Bir avuç maddenin içinde saklı ateşi ve onun önünde kapanan o kapıyı. Ve gözleri.
 
-Kalktı, çadırdan çıktı. Rüzgâr esiyordu. Her zamanki gibi. Doğu ufkunda sarımsı beyaz bir ışık henüz sönmemişti.
+Kalktı, çadırdan çıktı. Rüzgâr esiyordu. Her zamanki gibi. Batı ufkunda, batmak üzere, sarımsı beyaz bir ışık henüz sönmemişti.
 
 “Bourrienne! Kalem, kâğıt. Laplace’a bir mektup. Herschel’in gezegeninin yörüngesinde bir sapma var mı, hesaplasın. Ötesinde bir şey olup olmadığını.”
 
