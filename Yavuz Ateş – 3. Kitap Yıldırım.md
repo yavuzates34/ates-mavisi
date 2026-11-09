@@ -178,7 +178,7 @@ Sultan bir süre sessiz kaldı. Sonra, çok yavaş, titreyen sağ elini yorganı
 
 Sultan ilk kez başını çevirdi. Kandilin ışığında yüzü bal mumu gibi solgundu, ama gözleri bir çocuğunkiler kadar parlaktı.
 
-“Bir saray dolusu adamın bilmediği bir şeyi,” dedi, “bu gece dünyada ilk ben biliyorum. Londra’dan önce. Paris’ten önce. Smith’ten önce.” Bir an durdu. “On iki yıl kafeste yaşadım, Efendi. Her şeyi en son öğrenen adamdım.”
+“Bir saray dolusu adamın bilmediği bir şeyi,” dedi, “bu gece dünyada ilk ben biliyorum. Londra’dan önce. Paris’ten önce. Smith’ten önce.” Bir an durdu. “On beş yıl kafeste yaşadım, Efendi. Her şeyi en son öğrenen adamdım.”
 
 Atıf Efendi başını eğdi. Bir şey söyleyemedi.
 
@@ -818,7 +818,7 @@ Sidney’nin dudaklarının kenarında o tanıdık, şığ, kendini beğenmiş t
 
 Yavuz bir an duraksadı. Sonra, ilk kez, tam olarak dürüst bir şey söylemeye karar verdi.
 
-“Benim bildiğim dünyada, Sir Sidney, beş ay sonra, Akka’nın surlarında duracaktınız. Bonapart’ın karşısında. Mısır’ı almış, Suriye’ye yürümüş, İstanbul’a, oradan Hindistan’a gitmeyi düşünen bir Bonapart’ın. Cezzar Ahmed Paşa’nın yanında, iki ay boyunca. Ve onu durduracaktınız. Bonapart yıllar sonra, bir adada, sürgünde, sizin için şu cümleyi kuracaktı: O adam yüzünden kaderimi kaçırdım.”
+“Benim bildiğim dünyada, Sir Sidney, dört ay sonra, Akka’nın surlarında duracaktınız. Bonapart’ın karşısında. Mısır’ı almış, Suriye’ye yürümüş, İstanbul’a, oradan Hindistan’a gitmeyi düşünen bir Bonapart’ın. Cezzar Ahmed Paşa’nın yanında, iki ay boyunca. Ve onu durduracaktınız. Bonapart yıllar sonra, bir adada, sürgünde, sizin için şu cümleyi kuracaktı: O adam yüzünden kaderimi kaçırdım.”
 
 Sidney Smith kıpırdamadı. Kadehi tutan eli hareketsizdi.
 
@@ -2098,7 +2098,7 @@ Sepetçiler Köşkü’nün sedirinde, yastıklara yaslanmış, üstüne iki kat
 
 Onu buraya, sabah ezanından önce, dört bostancı bir taht-ı revanla taşımıştı. Hekimbaşı itiraz etmişti. Sultan yalnızca bir kez elini kaldırmış, Hekimbaşı susmuştu.
 
-“Benim donanmam,” demişti Sultan. “Onun için kafeste on iki yıl bekledim. Gidişini göreceğim.”
+“Benim donanmam,” demişti Sultan. “Onun için kafeste on beş yıl bekledim. Gidişini göreceğim.”
 
 Yavuz sedirin yanında, ayakta duruyordu. Arkasında Hüseyin Paşa. Kaptan-ı Derya’nın bütün rütbeleriyle, kaftanı ve sorguçlu kavuğuyla, bir düğün sabahının damadı gibi.
 
