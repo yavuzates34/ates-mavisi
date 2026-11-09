@@ -4516,7 +4516,7 @@ Kâğıt bir sarraf defterinin kopyasıydı. Galata’da, Sarraf Mıgırdiç’i
 
 Ali her şeyi anlattı. Mumları. Mektupları. Yanni’yi. Ve bir akşam, Hüsrev Ağa’nın kendisine bir mendile sarılı olarak verdiği, Galata işi, kemikten yeni bir başpareyi. Ve bu başpareyi, Ağa’nın emriyle, Has Oda’nın ney sandığını tozlarken, Hünkârın kendi neyinin eski başparesiyle nasıl değiştirdiğini.
 
-“Ne olduğunu bilmiyordum, Efendi,” dedi hıçkırıklarla. “Ağa, ‘Eskisi çatlamış, Hünkârımızın dudaklarını kesmesin’ dedi. Yemin ederim. Bilmiyordum.”
+“Ne olduğunu bilmiyordum, Efendi,” dedi hıçkırıklarla. “Ağa, ‘Galata Mevlevîhânesi Hünkârımıza hediye göndermiş. Eskisi çatlamış, Hünkârımızın dudaklarını kesmesin. Sandığı tozlarken tak, Hünkârımıza ben arz ederim’ dedi. Yemin ederim. Bilmiyordum.”
 
 Musa Kamhi onu uzun uzun dinledi. Sonra, çok sakin bir sesle, bir tek soru sordu.
 
@@ -4536,7 +4536,11 @@ Hüsrev Ağa ortada, ayakta duruyordu. Zincirsiz. Yanında kendi seçtiği vekil
 
 Dava üç saat sürdü.
 
-Ceneviz sarrafının defteri. Bebek’teki konak arsasının masraf defteri, kuruşu kuruşuna. Haseki Ali’nin yeminli ifadesi. Galatalı kemik tornacısı Zanetto’nun, o başpareyi hangi poliçeyle, kimin adına yaptığına dair ifadesi. Ve Has Oda’nın ney sandığının bekçisinin, o hafta sandığı Ali’den başka kimsenin tozlamadığına dair ifadesi. Ve son olarak, Musa Kamhi’nin Pera’da çıkardığı kopya.
+Ceneviz sarrafının defteri. Bebek’teki konak arsasının masraf defteri, kuruşu kuruşuna. Haseki Ali’nin yeminli ifadesi. Galatalı kemik tornacısı Zanetto’nun ifadesi: o başpareyi geçen yaz Sarraf Mıgırdiç’in, yani Silahdar Süleyman Ağa’nın sarrafının poliçesiyle yapmıştı, ama bitmiş işi dükkânından almaya gelen, yüzü örtülü Türk değil, kırmızı külahlı bir bostancıydı. Geçen yaz bunu ona kimse sormamıştı. Ve Has Oda’nın ney sandığının bekçisinin, o hafta sandığı Ali’den başka kimsenin tozlamadığına dair ifadesi. Ve son olarak, Musa Kamhi’nin Pera’da çıkardığı kopya.
+
+Zanetto’nun ifadesinden sonra Musa Kamhi Divan’a kısa konuştu.
+
+“Başpareyi Silahdar Ağa ödedi, Efendiler. Hünkârımızın neyine Hüsrev Ağa taktırdı. Biri keseydi, öbürü el. Silahdar Ağa geçen yaz bu kubbenin altında ‘Başpare doğru’ dedi ve sustu. Ortağının adını dilsizlerin arasına götürdü.” Bir an durdu. “O gün Hüsrev Ağa da buradaydı. Ayakta. Geride.”
 
 Yavuz bu son belgeyi Divan’a sunarken bir şey yaptı.
 
