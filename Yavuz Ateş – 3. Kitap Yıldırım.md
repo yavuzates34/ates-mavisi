@@ -4020,9 +4020,9 @@ Arz olunur.
 
 *Ben neredeydim o gün?*
 
-Yavuz biliyordu. Hatırlaması gerekmiyordu bile. Haziran’ın sonu. Topkapı’da. İlk aylar. Sultan’ı henüz yeni yeni ikna ediyordu. Mezarcı Sokak’taki ilk atölyenin duvarları henüz yeni köşelenmişti. Bonapart Mısır’a doğru yelken açmıştı ve bütün dünya İskenderiye’ye bakıyordu. Ve o, Yavuz Ateş Yıldız, iki yüz yılın tarihini kafasında taşıyan, Navarin’i, Patrik Grigorios’u, Mora’yı, her şeyi bilen adam, o gün ne yaptığını hatırlamıyordu bile.
+Yavuz biliyordu. Hatırlaması gerekmiyordu bile. Haziran’ın sonu. Topkapı’da. Has Oda’da, zehirlenmiş bir Hünkârın döşeğinin başında. Bozcaada’dan atla dönmüştü, dizlerinin içi hâlâ kanıyordu. Ahitname daha mühürlenmemişti. Bonapart Malta’yı alıyordu ve bütün dünya Malta’ya, Nelson’a bakıyordu. Ve o, Yavuz Ateş Yıldız, iki yüz yılın tarihini kafasında taşıyan, Navarin’i, Patrik Grigorios’u, Mora’yı, her şeyi bilen adam, o günlerin her saatini hatırlıyordu. Torbadan inen damlaları. Bir kuşun yüreği gibi atan nabzı. Ama Belgrad’ı bir kez bile düşünmemişti.
 
-*Çünkü aklıma gelmedi. Rigas’ı biliyordum. Okulda okudum. Bir şiirinin adını bile biliyorum. Thourios. Ama tarihini bilmiyordum. Haziran mı, Temmuz mu, hangi yıl. Doğru dürüst bir kez bile düşünmedim. Çünkü o gün benim için Mısır vardı, Bonapart vardı, Nelson vardı. Büyük adamlar. Büyük donanmalar.*
+*Çünkü aklıma gelmedi. Rigas’ı biliyordum. Okulda okudum. Bir şiirinin adını bile biliyorum. Thourios. Ama tarihini bilmiyordum. Haziran mı, Temmuz mu, hangi yıl. Doğru dürüst bir kez bile düşünmedim. Çünkü o gün benim için bir ahitname vardı, Malta vardı, Bonapart vardı, Nelson vardı. Büyük adamlar. Büyük donanmalar. Bir de Hünkârın nabzı.*
 
 *Ve Belgrad’da, Tuna’nın kıyısında, bir kulenin içinde, belki bu yeni dünyada benim en iyi müttefikim olabilecek tek adam boğuluyordu. Bir Hünkâr fermanıyla. Benim Hünkârımın fermanıyla.*
 
@@ -4352,9 +4352,11 @@ Sultan Selim minderinde doğrulmuş, kucağında bir yastıkla, onu dinliyordu. 
 
 Yavuz yere, halının üstüne, büyük bir harita açtı. Avrupa değil bu kez. Dünya. Akdeniz’in altında, Mısır’ın kumlarının altında, Kafkas dağlarının doğusunda, haritanın o güne kadar Has Oda’da hiç açılmamış kısımları. Hint Okyanusu. Afrika’nın güney ucu. Ve bir üçgen gibi aşağıya sarkan, devasa bir yarımada.
 
-“İngiltere’nin para kesesi burasıdır,” dedi Yavuz, parmağını Bengal’in üstüne koyarak. “Avrupa’daki savaşı bu kese ödeyecek. Pitt’in gece uykusunu kaçıran tek şey Bonapart değil. Bonapart’ın Mısır’dan bu keseye uzanan eli. Geçen yıl Bonapart, Kahire’den Maysur Sultanı Tipu’ya bir mektup yazdı. İngilizler o mektubu yakaladı. Ve o mektup yüzünden, şu an, Hindistan’da, Maysur’un başkenti Seringapatam’ın surlarının önünde kırk bin kişilik bir ordu var.”
+“İngiltere’nin para kesesi burasıdır,” dedi Yavuz, parmağını Bengal’in üstüne koyarak. “Avrupa’daki savaşı bu kese ödeyecek. Pitt’in gece uykusunu kaçıran tek şey Bonapart değil. Bonapart’ın bu keseye uzanan eli. Geçen yaz, Malta’dan sonra, İngilizler Bozcaada ahdini öğrendi. Dördüncü maddesini de. Maysur Sultanı Tipu’ya, Osmanlı sancağı altında, bir Fransız kolordusu. Ve o madde yüzünden, bu bahar, Hindistan’da, Maysur’un başkenti Seringapatam’ın surlarının önüne kırk bin kişilik bir ordu yığdılar.”
 
 Bir an durdu.
+
+*Ordu artık surların önünde değil, içinde. Mayıs’ın dördünden beri. Ama bunu bu odada söyleyemem. Önce bir mektubun gelmesi gerek.*
 
 “Dundas bu korkuyla yaşıyor, Hünkârım. Hindistan işlerinin nazırı. Bir Fransız askerinin Süveyş’ten Kızıldeniz’e indiğini duysa, üç gece uyuyamaz. Bir Osmanlı donanmasının Ceb-i Târik’ten güneye, Ümit Burnu’na doğru yelken açtığını duysa, bir hafta.”
 
@@ -4672,13 +4674,13 @@ Kapı vuruldu.
 
 Atıf Efendi’ydi. Elinde, tozlu, mühürleri kırılmış, uzun bir yolculuğun her izini taşıyan bir mektup.
 
-“Bağdat üzerinden, Paşam. Basra’dan. Mahmud Efendi’den. Yirmi altı günde geldi.”
+“Bağdat üzerinden, Paşam. Basra’dan. Mahmud Efendi’nin mektubu. Basra’daki Gölge Tatar’la yollamış. Yirmi altı günde geldi.”
 
-Yavuz mektubu aldı. Basra’daki Gölge’nin sık, ince, kâtip el yazısı. Tarihi Mayıs’ın beşi.
+Yavuz mektubu aldı. İki kâğıttı. Üstteki, Basra’daki Gölge’nin sık, ince, kâtip el yazısıyla kısa bir not: *Maskat’tan bir Arap teknesi getirdi. Aynı gün Tatar’a verdim. Basra, Mayıs’ın on beşi.* Alttaki Mahmud’undu. Kendi eli. İri harfler, denize doğru eğilen satırlar. Tarihi Mayıs’ın beşi. Maskat.
 
 Okudu.
 
-*Bombay’dan gelen bir Ermeni tacirinin gemisinden: İngiliz ordusu Seringapatam’ı kuşatmış. Kuşatma bir aydır sürüyor. Başlarında General Harris, yanında Hindistan Genel Valisi’nin kardeşi genç bir albay, Wellesley. Toplar surları dövüyor. Tipu Sultan teslim olmayı reddetmiş. Tacir, surlarda bir gedik açıldığını duyduğunu söylüyor. Maysur Sultanı bir mektubunda, Osmanlı Halifesi’nden, Hünkârımızdan, yardım istemiş. O mektup Cidde’de bir yerde duruyormuş…*
+*Paşam. Hâlâ Maskat’tayız. İmam limanını bize açmıyor. İngiliz’le geçen Ekim’de, Bombay’ın elçisi Mehdi Ali Han eliyle yaptığı ahit, Fransız’ı ve dostlarını limanlarından men ediyor; İmam “Ahdimi bozamam” diyor, başka bir şey demiyor. Kolordu gemilerde. General Desaix sabırsız, Kara Ali Reis rüzgâra sövüyor. Muson başlamak üzere; Malabar kıyısı Eylül’e kadar kapanacak. Bombay’dan gelen bir Ermeni tacirinin gemisinden: İngiliz ordusu Nisan’ın başından beri Seringapatam’ı kuşatıyor. Başlarında General Harris, yanında Hindistan Genel Valisi’nin kardeşi genç bir albay, Wellesley. Toplar surları dövüyor. Tipu Sultan teslim olmayı reddetmiş. Maysur Sultanı’nın buradaki vekili söyledi: Efendisi, Osmanlı Halifesi’ne, Hünkârımıza, yardım isteyen bir mektup yazmış. O mektup Cidde’de, hac gemilerini bekleyen bir tacirin elinde duruyormuş… Rüzgâr döner dönmez gideceğiz, Paşam. Yetişeceğiz.*
 
 Yavuz mektubu indirdi.
 
@@ -4690,9 +4692,11 @@ Biliyordu. Hatırlaması gerekmiyordu bile. Bu tarihi okulda öğrenmemişti, so
 
 *Bin yedi yüz doksan dokuz. Mayıs’ın dördü. Öğleden sonra. Gedik. Hücum. Tipu Sultan, Su Kapısı’nın yakınında, kendi adamlarıyla birlikte, vurulur. Akşam olmadan.*
 
-*Mahmud bu mektubu yazdığında, adam bir gündür ölüydü.*
+*Mahmud bu mektubu yazdığında, adam bir gündür ölüydü. Ve Mahmud hâlâ rüzgâr bekliyordu. Yetişeceğiz, diye yazmıştı.*
 
-*Ve ben, bu mektup yoldayken, Mayıs’ın dördünde, bir Raguza gemisinde, Bozcaada açığında, siyah bir takım elbiseyle, bir İngiliz lorduna Asya’yı anlatıyordum.*
+*Bir yıldır bu günü biliyordum. Bütün o yol, İskenderun, Fırat, Basra, Maskat, bu güne yetişmek içindi. Kolorduyu Mayıs’ın dördünden önce Malabar’a koymak için. Maskat’ı da biliyordum. İngiliz elçisinin Ekim’de İmamın kapısına varacağını. Ondan önce davranmaya çalıştım. Yetişemedik. Ne elçiye, ne rüzgâra.*
+
+*Ve ben, o gün, Mayıs’ın dördünde, bir Raguza gemisinde, Bozcaada açığında, siyah bir takım elbiseyle, bir İngiliz lorduna Asya’yı anlatıyordum.*
 
 Sultan onun yüzüne bakıyordu.
 
@@ -4702,7 +4706,7 @@ Yavuz bir an sustu.
 
 *Yalan söyleme.*
 
-“Maysur Sultanı öldü, Hünkârım,” dedi. “Bir ay önce. Mektup bunu henüz bilmiyor. Ama ben biliyorum.”
+“Maysur Sultanı öldü, Hünkârım,” dedi. “Beş hafta önce. Mektup bunu henüz bilmiyor. Ama ben biliyorum.”
 
 Sultan bir şey sormadı. Nasıl bildiğini, nereden bildiğini. Bir yıldır sormadığı gibi.
 
@@ -4722,7 +4726,7 @@ Yavuz bekledi. Dudakları kıpırdamadan. Ve Sultan bitirdiğinde, ikisi de, bun
 
 Yavuz bir an düşündü.
 
-“Var, Hünkârım. Birkaç tane. İngiliz onları Vellore’da bir kaleye kapatacak. Ve yedi yıl sonra, o kalede, sipahiler ayaklanacak.” Bir an durdu. “Kaplan öldü. Ama yavruları hâlâ orada.”
+“Var, Hünkârım. Birkaç tane. İngiliz onları Vellore’da bir kaleye kapatacak. Ve yedi yıl sonra, o kalede, sipahiler ayaklanacak.” Bir an durdu. “Maysur Kaplanı öldü. Ama yavruları hâlâ orada.”
 
 Sultan uzun bir süre pencereden, karanlığa, Boğaz’ın ötesine, çok uzaklara baktı.
 
@@ -4776,11 +4780,11 @@ Masanın üstünde, bir mumun ışığında, iki dosya yan yana duruyordu.
 
 Biri ince. Üstünde küçük harflerle: *Yedi Ada için.*
 
-Biri yeni. Boş. Üstüne az önce, kendi el yazısıyla, tek bir kelime yazmıştı.
+Biri yeni. Boş. Seringapatam’ın, Maskat’ın, Cidde’de bekleyen o mektubun dosyası. Üstüne az önce, kendi el yazısıyla, tek bir kelime yazmıştı.
 
 *Kaplan.*
 
-Ve takvimde, kendi kafasındaki o eski, zehrin yaktığı ama hâlâ içinde bazı tarihleri taşıyan takvimde, bir günün üstüne bir çizgi çekti.
+Ve takvimde, kendi kafasındaki o eski, yarısı silinmiş ama bazı tarihleri hiç silinmeyen takvimde, bir günün üstüne bir çizgi çekti.
 
 *Manş’ta altı gemi eksik.*
 
