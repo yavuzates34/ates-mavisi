@@ -55,7 +55,8 @@ Birinci kitabın tam metni: [Yavuz Ateş – 1. Kitap: Mühür](https://claude.a
 - Öfkesi hesaplı: soğuk, ölçülü, yeşil-mavi gözlerinin dibinde sabit duran bir öfke. Bağırmaz, masaya vurmaz; ne zaman ve nereye düşeceği önceden hesaplanmıştır. Bonapart bile bu öfkeden ürperdi.
 - Güçsüzken sabırla bekliyor, güçlenince hesap kesiyor. "Tek gülle" prensibiyle hareket ediyor.
 - Satranç oyuncusu ve casusbaşı gibi düşünüyor. Manipülasyonda ve dezenformasyonda usta. Korkuyu bir gülle gibi kullanır: bir kez doğru yere atar, bir daha atmasına gerek kalmaz.
-- Et Meydanı yemini: Devlete isyan ya da ihanet edenin derisini yüzeceğini, onu mum alevinde bir ömür diri diri yakacağını ilan etti. Bu bir gözdağıdır; gücünü söylentiden alır (Kalaycı Ahmed'in hücresinde her gece yanan mum).
+- Et Meydanı yemini: Devlete isyan ya da ihanet edenin derisini yüzeceğini, onu mum alevinde bir ömür diri diri yakacağını ilan etti. Bu bir gözdağıdır; gücünü söylentiden alır (Kalaycı Ahmed'in hücresinde her gece yanan mum). Yemin hiç uygulanmadı ve uygulanmayacak; yalnızca korku salmak içindir.
+- İbret-i âlem kuralı: Yavuz cani değil, medeni bir insandır ("atam gibi medeni bir insanım"); ama hainlere acımaz. Hain, yolsuz ve isyancı usulle ve kanıtla yargılanır; yeri gelir akılla, yeri gelir sopayla en ağır cezayı alır ve ceza ibret-i âlem olur. İşkence yoktur, ailesine dokunulmaz (Rüstem Ağa, Silahdar, Pisani, Hüsrev Ağa davaları bu çizgide). Kaynak: Yavuz, 9 Kasım 2026.
 - Duygusal yanları: aile özlemi, Sultan'a duyduğu sevgi, Hasan'a ve Mahmud "kaplan"a koruyucu bağlılık.
 - En büyük korkusu ölmek değil; aletlerinin ve bilgisinin düşman eline geçmesi.
 
