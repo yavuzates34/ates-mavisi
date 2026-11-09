@@ -3922,7 +3922,7 @@ Kubbealtı sustu.
 
 Yavuz kaftanının içinden ince, yağlı kâğıda sarılmış bir paket çıkardı.
 
-“Efendiler,” dedi. Sesi yükselmedi. “Dört gün önce, Hüseyin Paşa’nın filosundan geride kalan iki kırlangıç, Matapan Burnu’nun açığında, Napoli bandralı bir polakayı durdurdu.” Paketi açtı. “Kırlangıçların birbirine ne söylediğini, birinin bayraklarını öbürünün nasıl okuduğunu, nasıl kıstırdıklarını bir başka gün anlatırım. Ama polakanın kaptanının ambarında, bir zeytinyağı fıçısının dibine çakılmış bir tenekenin içinde, bu vardı.”
+“Efendiler,” dedi. Sesi yükselmedi. “On gün önce, Hüseyin Paşa’nın filosundan geride kalan iki kırlangıç, Matapan Burnu’nun açığında, Napoli bandralı bir polakayı durdurdu.” Paketi açtı. “Kırlangıçların birbirine ne söylediğini, birinin bayraklarını öbürünün nasıl okuduğunu, nasıl kıstırdıklarını bir başka gün anlatırım. Ama polakanın kaptanının ambarında, bir zeytinyağı fıçısının dibine çakılmış bir tenekenin içinde, bu vardı.”
 
 Kâğıt İngilizceydi. Üstünde Musa Kamhi’nin çözdüğü bir şifrenin Türkçesi vardı.
 
@@ -4004,7 +4004,7 @@ Yavuz cevap vermedi.
 
 Yorgi gittikten sonra Yavuz sandığın dibindeki o son kâğıdı aldı.
 
-Belgrad muhafızı Osman Paşa’nın, İstanbul’a yazdığı, kısa, münasebetsizce sıradan bir rapor. Bin yedi yüz doksan sekiz, Haziran’ın yirmi dördü. *Avusturya devletinden teslim alınan Rigas namındaki fesatçı ve yoldaşları sekiz nefer, Nebojsa kulesinde, emr-i âli mûcebince, boğdurulmuş ve cesetleri Tuna’ya atılmıştır. Arz olunur.*
+Belgrad muhafızı Hacı Mustafa Paşa’nın, İstanbul’a yazdığı, kısa, münasebetsizce sıradan bir rapor. Bin yedi yüz doksan sekiz, Haziran’ın yirmi dördü. *Avusturya devletinden teslim alınan Rigas namındaki fesatçı ve yoldaşları sekiz nefer, Nebojsa kulesinde, emr-i âli mûcebince, boğdurulmuş ve cesetleri Tuna’ya atılmıştır. Arz olunur.*
 
 Arz olunur.
 
@@ -4102,7 +4102,7 @@ Patrik onu dikkatle süzdü. “Ne istiyorsunuz?”
 
 Yavuz parmaklarını tek tek açtı.
 
-“Bir. Bu mektubun Rumca bir çevirisi. Basılmış. Patrikhane’nin matbaasında, sizin mührünüzle. Bin nusha. Belki iki bin. Ve bu çeviri, önümüzdeki pazar, Mora’daki, Mani’deki, Yedi Ada’daki, Rumeli’deki her kilisede, ayinden sonra, kürsüden okunacak. Papazların kendi ağzıyla. İngiliz’in Rum köylüsünü nasıl gördüğünü, Rum köylüsü kendi kulaklarıyla duysun. ‘İsyanın kazanması gerekmez.’ Bu cümle. Bu cümleyi her Manyat duysun.”
+“Bir. Bu mektubun Rumca bir çevirisi. Basılmış. Patrikhane’nin matbaasında, sizin mührünüzle. Bin nusha. Belki iki bin. Ve bu çeviri, önümüzdeki pazar değil, ondan sonraki pazar, Mora’daki, Mani’deki, Yedi Ada’daki, Rumeli’deki her kilisede, ayinden sonra, kürsüden okunacak. Papazların kendi ağzıyla. İngiliz’in Rum köylüsünü nasıl gördüğünü, Rum köylüsü kendi kulaklarıyla duysun. ‘İsyanın kazanması gerekmez.’ Bu cümle. Bu cümleyi her Manyat duysun.”
 
 Metropolitlerden biri bir şey mırıldandı. Patrik eliyle onu susturdu.
 
@@ -4192,7 +4192,7 @@ Yavuz sormadı da.
 
 Patrik elini çekti.
 
-“Mektup pazar okunacak,” dedi. “Her kilisede. Kendi ağzımla da yazacağım. Ve Mani’ye kendi yeğenimi göndereceğim, Kumunduros Bey’e. Onu tanırım. Kafası kaya gibi serttir ama aptal değildir.”
+“Mektup o pazar okunacak,” dedi. “Her kilisede. Kendi ağzımla da yazacağım. Ve Mani’ye kendi yeğenimi göndereceğim, Kumunduros Bey’e. Onu tanırım. Kafası kaya gibi serttir ama aptal değildir.”
 
 Yavuz ayağa kalktı. Eğildi.
 
@@ -4238,7 +4238,7 @@ General Louis Chabot, kırk beş yaşlarında, yanık yüzlü, sert bakışlı, 
 
 Kadir Bey kılıcı almadı.
 
-Eliyle nazikçe geri itti. Sonra, bir tercümanın ağzından, Paşa’nın bir gün önce gelen mektubunda yazdığı cümleyi kelimesi kelimesine söyledi.
+Eliyle nazikçe geri itti. Sonra, bir tercümanın ağzından, Paşa’nın İstanbul’dan çıkarken eline verdiği mektupta yazdığı cümleyi kelimesi kelimesine söyledi.
 
 “General. Bu kaleyi bize bir savaş vermedi. Bir dostluk verdi. Dostluğun kılıcı alınmaz. Kendi kılıcınızla, kendi bayrağınızla, kendi davullarınızla çıkarsınız. Gemileriniz Ankona’ya kadar bizim korumamızdadır.”
 
@@ -4254,7 +4254,7 @@ Kadir Bey gülümsedi. “Sıraya girsin. Önünde Londra’nın yarısı var.�
 
 Fransız bayrağı indirildiğinde Spianada’da toplanan kalabalık sustu.
 
-Kalabalık büyüktü. Korfulu Rumlar, Venedik döneminden kalma eski ailelerin çocukları, çarşının Yahudileri, adanın içlerinden gelen köylüler, balıkçılar, papazlar. Hepsi, bayrağın yerine kırmızı zemin üstünde beyaz hilal ve yıldızlı Osmanlı sancağının çıkmasını bekliyordu. Ve hepsinin yüzünde aynı korku vardı.
+Kalabalık büyüktü. Korfulu Rumlar, Venedik döneminden kalma eski ailelerin çocukları, çarşının Yahudileri, adanın içlerinden gelen köylüler, balıkçılar, papazlar. Hepsi, bayrağın yerine kırmızı zemin üstünde beyaz hilalli Osmanlı sancağının çıkmasını bekliyordu. Ve hepsinin yüzünde aynı korku vardı.
 
 *Şimdi Türk gelecek. Ve Türk geldiği her yerde çan kuleleri susar.*
 
@@ -4272,7 +4272,7 @@ Altında, Rumca ve Türkçe, iki dilde, kısa bir yazı.
 
 Kalabalık bir an hiçbir şey anlamadı.
 
-Sonra Korfu Metropoliti, Fener’den bir hafta önce gelmiş, Patrik Neofitos’un mühürlü mektubunu taşıyan yaşlı adam, Spianada’nın ortasındaki küçük bir kürsüye çıktı ve, önce Rumca, sonra İtalyanca, Bâb-ı Âli’nin fermanını okudu.
+Sonra Korfu Metropoliti, Kadir Bey’in kalyonuyla Fener’den dönmüş, Patrik Neofitos’un mühürlü mektubunu taşıyan yaşlı adam, Spianada’nın ortasındaki küçük bir kürsüye çıktı ve, önce Rumca, sonra İtalyanca, Bâb-ı Âli’nin fermanını okudu.
 
 Kendi meclisi. Kendi senatosu. Kendi kanunları. Kendi yargıçları. Kendi dili. Kendi kiliseleri, kendi çanları. Osmanlı garnizonu yok. Voyvoda yok. Yılda bir haraca, Raguza gibi. Ve Osmanlı donanmasının koruması.
 
@@ -4290,7 +4290,7 @@ Ve kalabalık, çanların altında, önce sessizce, sonra yüksek sesle ağlamay
 
 Aslında Mora, Korfu’dan önce sarsılmıştı.
 
-Mayıs’ın beşinde, pazar sabahı, Mora’nın, Mani’nin, Rumeli’nin her kilisesinde, ayinden sonra, papazlar ellerinde bir kâğıtla kürsüye çıkmış, Patrikhane’nin mührüyle basılmış Foresti mektubunu köylüye Rumca okumuştu.
+Mayıs’ın on ikisinde, pazar sabahı, Mora’nın, Mani’nin, Rumeli’nin her kilisesinde, ayinden sonra, papazlar ellerinde bir kâğıtla kürsüye çıkmış, Patrikhane’nin mührüyle basılmış Foresti mektubunu köylüye Rumca okumuştu.
 
 *İsyanın kazanması gerekmez. Kazanamaz zaten.*
 
@@ -4320,7 +4320,7 @@ Yedi Ada Cumhuriyeti’nin ilk yargıcı, ertesi sabah bu mektubu bulup mühürl
 
 ---
 
-Yavuz mektubu Musa Kamhi’nin elinden aldığında Mayıs’ın yirmi biriydi.
+Yavuz mektubu Musa Kamhi’nin elinden aldığında Mayıs’ın otuz biriydi.
 
 Okudu. Bir kez. Sonra bir daha.
 
@@ -4370,7 +4370,7 @@ Planı bir saatte anlattı.
 
 İki parçası vardı. Ve iki parçanın birbirinden habersiz olması, bütün planın kalbiydi.
 
-Birinci parça Ceb-i Târik’teydi. Hüseyin Paşa ertesi sabah oraya, Patrona’ya, bir ferman gönderecekti. Bahr-i Zafer’le iki firkateyn, “uzun bir sefer için” altı aylık erzak alacaktı. Lizbon’daki Ceneviz tüccarlardan, açıkça, pazarlıkla, Afrika’nın batı ve güney kıyılarının, Ümit Burnu’nun, Madagaskar’ın Portekiz deniz haritaları satın alınacaktı. Pahalıya. Herkesin göreceği şekilde. Ve tayfalar, Ceb-i Târik’in meyhanelerinde, “Hint’e gidiyoruz” diye konuşacaktı. Kimse onlara söylemeyecekti. Ama tayfa her zaman bilir. Ve tayfa her zaman konuşur.
+Birinci parça Ceb-i Târik’teydi. Hüseyin Paşa ertesi sabah oraya, filonun başında bıraktığı Riyale Bey’e, bir ferman gönderecekti. Bahr-i Zafer’le iki firkateyn, “uzun bir sefer için” altı aylık erzak alacaktı. Lizbon’daki Ceneviz tüccarlardan, açıkça, pazarlıkla, Afrika’nın batı ve güney kıyılarının, Ümit Burnu’nun, Madagaskar’ın Portekiz deniz haritaları satın alınacaktı. Pahalıya. Herkesin göreceği şekilde. Ve tayfalar, Ceb-i Târik’in meyhanelerinde, “Hint’e gidiyoruz” diye konuşacaktı. Kimse onlara söylemeyecekti. Ama tayfa her zaman bilir. Ve tayfa her zaman konuşur.
 
 “Lizbon’da her İngiliz konsolosunun bir kulağı var,” dedi Yavuz. “Bu kulak, o haritaları duyacak.”
 
@@ -4400,7 +4400,7 @@ Bostancıbaşı Hüsrev Ağa.
 
 “Biliyorum, Hünkârım.”
 
-“On üç yılımı kayığında geçirdim. Şehzadeliğimde, kafesten ilk çıktığım gün, beni Boğaz’da ilk gezdiren o oldu.” Sultan’ın sesi bir an kırıldı. “Bana yunusları o gösterdi.”
+“On yılımı kayığında geçirdim. Kafesten çıkıp tahta oturduğum gün, beni Boğaz’da ilk gezdiren o oldu.” Sultan’ın sesi bir an kırıldı. “Bana yunusları o gösterdi.”
 
 Kimse bir şey söylemedi.
 
@@ -4412,7 +4412,7 @@ Yavuz haritanın üstünde, Bengal’den Has Oda’ya kadar parmağını gezdird
 
 “Ama bu konuşma, Hünkârım, yalnızca bu odada yapılacak. Dünyada yalnızca dört kişi bilecek. Siz, Sadrazam Paşa, ben, ve kapıdaki adam. Bonapart’ın Kızıldeniz’e on iki bin kişi indireceği, Ekim’de Bombay’da buluşacağımız. Bu bir yalan. Ve bu yalanın her kelimesi, bir parmak izi.”
 
-Musa Kamhi ilk kez ağzını açtı. “Eğer bu cümleler, iki hafta içinde, Pera’da, Yanni’nin elinde, mumlanmış bir mektupta bulunursa…”
+Musa Kamhi ilk kez ağzını açtı. “Eğer bu cümleler, iki hafta içinde, Pera’da, Bahçe’nin kuryesinin elinde, mumlanmış bir mektupta bulunursa…”
 
 “…o zaman o mektubu bu odadan başka bir yerden yazmak imkânsızdır,” dedi Yavuz. “Bir haseki uyduramaz. Bir mum uyduramaz. Yalnızca o kapı duyabilir.”
 
@@ -4432,11 +4432,11 @@ Kapının öbür tarafında, kafesin arkasında, Tatar Murad’ın bir adamını
 
 ---
 
-Altı gün sonra, Mayıs’ın yirmi sekizinde, sabahın ilk saatlerinde, Musa Kamhi Yavuz’un kapısını çaldı.
+Altı gün sonra, Haziran’ın yedisinde, sabahın ilk saatlerinde, Musa Kamhi Yavuz’un kapısını çaldı.
 
 Elinde bir kâğıt vardı. Kopya. Mürekkebi hâlâ ıslak.
 
-“Dün gece, Pera’da, Yanni’nin elinden. Aslını yeniden mühürledik, bu sabah İzmir’e giden bir Levant Kumpanyası teknesine verildi. İzmir’den Malta’ya, Malta’dan Lizbon’a, Lizbon’dan Falmouth’a. Bir ay. Belki daha az.”
+“Dün gece, Pera’da, Bahçe’nin kuryesinin elinden. Yanni mahkemede tanıklık edince yerine tuttukları Sakızlı bir kayıkçı. Aslını yeniden mühürledik, bu sabah İzmir’e giden bir Levant Kumpanyası teknesine verildi. İzmir’den Malta’ya, Malta’dan Lizbon’a, Lizbon’dan Falmouth’a. Bir buçuk ay. Rüzgâr iyi giderse daha az.”
 
 Yavuz kopyayı aldı. İngilizceydi. Musa şifresini çözmüş, altına satır satır Türkçesini yazmıştı.
 
@@ -4450,7 +4450,7 @@ Yavuz kopyayı masaya koydu.
 
 “Musa Efendi,” dedi. “Lizbon’dan bir haber var mı?”
 
-“Dün akşam geldi, Paşam. İngiliz konsolosu Ceneviz tüccar Spinola’dan, bizim aldığımız haritaların bir listesini istemiş. Para ödeyerek. Ve aynı gün Falmouth’a bir paket gemisi kalkmış.”
+“Olamaz, Paşam. Fermanımız daha Ceb-i Târik yolunda. Ama oraya vardığında olacak olanı biliyoruz. İngiliz konsolosu, Ceneviz tüccar Spinola’dan, bizim aldığımız haritaların bir listesini isteyecek. Para ödeyerek. Ve ertesi gün Falmouth’a bir paket gemisi kalkacak.”
 
 Yavuz başını salladı.
 
@@ -4460,7 +4460,7 @@ Yavuz başını salladı.
 
 Yavuz pencereden, Boğaz’a, Marmara’ya, çok uzaklara baktı.
 
-“Bir ay sonra, Musa Efendi, Manş’taki filodan altı kalyon eksik olacak. Belki sekiz. Ve Akdeniz’deki filodan iki. Hepsi Hint Okyanusu’nda, olmayan bir Osmanlı donanmasını arayacak. Bir yıl. Belki iki. Ve Dundas’ın kesesinden, her ay, bir Ceb-i Târik garnizonunun bir yıllık maaşı kadar para akacak. Hiçbir şey için.”
+“Yaz bitmeden, Musa Efendi, Manş’taki filodan altı kalyon eksik olacak. Belki sekiz. Ve Akdeniz’deki filodan iki. Hepsi Hint Okyanusu’nda, olmayan bir Osmanlı donanmasını arayacak. Bir yıl. Belki iki. Ve Dundas’ın kesesinden, her ay, bir Ceb-i Târik garnizonunun bir yıllık maaşı kadar para akacak. Hiçbir şey için.”
 
 Bir an durdu.
 
@@ -4486,15 +4486,15 @@ Oyuk boştu.
 
 Bir an durdu. Sonra, çok yavaş, doğrulup arkasına döndü.
 
-Kayıkhanenin kapısında bir fener yandı. Sonra bir tane daha. Sonra on iki tane. Yıldırım Timi’nin adamları, siyah kaftanlarıyla, taş duvarların dibinde, sessizce çıkmışlardı. Kimse bir silah çekmemişti. Gerek yoktu.
+Kayıkhanenin kapısında bir fener yandı. Sonra bir tane daha. Sonra on iki tane. Yıldırım Timi’nin adamları, siyah giysileriyle, taş duvarların dibinde, sessizce çıkmışlardı. Kimse bir silah çekmemişti. Gerek yoktu.
 
-Ortada, fenerlerin ışığının tam ortasında, siyah bir kaftanla Yavuz duruyordu. Yanında Tatar Murad.
+Ortada, fenerlerin ışığının tam ortasında, siyah gömlek ve kargo pantolonla Yavuz duruyordu. Yanında Tatar Murad.
 
 “Aradığınız mektup bende, Ağa,” dedi Yavuz. “Ama okumak isterseniz bir kopyasını da verebilirim. Aslı şu an Marmara’da, İzmir yolunda.”
 
 Hüsrev Ağa bir süre bir şey söylemedi.
 
-Altmışına yakın, yaşlı ama dimdik, beyaz sakalı özenle taranmış, yirmi yıldır sarayın bahçelerinde yürümüş bir adamın ağır sakinliğiyle duruyordu.
+Altmışına yakın, iri yarı, hâlâ dimdik, kır bıyığı ve kır sakalı özenle taranmış, yirmi yıldır sarayın bahçelerinde yürümüş bir adamın ağır sakinliğiyle duruyordu.
 
 “Bir mektup için mi, Paşa?” dedi sonunda. Sesi şaşırtıcı derecede yumuşaktı. “Bir bostancının mektubu için Hünkârın dümencisini mi tutukluyorsunuz?”
 
@@ -4514,7 +4514,7 @@ Haseki Ali ertesi sabah, Musa Kamhi’nin odasında, önüne konan tek bir kâğ
 
 Kâğıt bir sarraf defterinin kopyasıydı. Galata’da, Sarraf Mıgırdiç’in değil, bir başkasının, Pera’da İngiliz tacirlerinin hesabını tutan bir Ceneviz sarrafının defteri. Ve defterde, iki yıl boyunca, her üç ayda bir, bir ‘Bahçıvan’ hesabına yatırılan altınlar. Ve bu altınların her seferinde, ertesi gün, Hüsrev Ağa’nın Bebek’teki konak arsasına, yeni bir duvar, yeni bir çeşme, yeni bir tavan için ödenmesi.
 
-Ali her şeyi anlattı. Mumları. Mektupları. Yanni’yi. Ve bir akşam, Hüsrev Ağa’nın kendisine bir mendile sarılı olarak verdiği, Galata işi, kemikten yeni bir başpareyi. Ve bu başpareyi, Ağa’nın emriyle, Has Oda’nın ney sandığını tozlarken, Hünkârın kendi neyinin eski başparesiyle nasıl değiştirdiğini.
+Ali her şeyi anlattı. Mumları. Mektupları. Yanni mahkemede tanıklık edince yerine tutulan Sakızlı kayıkçıyı. Ve bir akşam, Hüsrev Ağa’nın kendisine bir mendile sarılı olarak verdiği, Galata işi, kemikten yeni bir başpareyi. Ve bu başpareyi, Ağa’nın emriyle, Has Oda’nın ney sandığını tozlarken, Hünkârın kendi neyinin eski başparesiyle nasıl değiştirdiğini.
 
 “Ne olduğunu bilmiyordum, Efendi,” dedi hıçkırıklarla. “Ağa, ‘Galata Mevlevîhânesi Hünkârımıza hediye göndermiş. Eskisi çatlamış, Hünkârımızın dudaklarını kesmesin. Sandığı tozlarken tak, Hünkârımıza ben arz ederim’ dedi. Yemin ederim. Bilmiyordum.”
 
@@ -4528,7 +4528,7 @@ Ve cevap vermemesi, cevabın kendisiydi.
 
 ---
 
-Divan Haziran’ın birinde toplandı.
+Divan Haziran’ın onunda toplandı.
 
 Kubbealtı bu sefer kalabalık değildi. Yalnızca Divan’ın üyeleri, Şeyhülislam, iki Kazıasker, İstanbul kadısı. Ve kafesin arkasında, ilk kez, bir değil iki gölge. Sultan’ın gölgesi. Ve onun hemen yanında, daha küçük, daha zayıf, bir başkasının. Bir hizmetkarın, belki bir hekimin. Bir Hünkârın zehirlendikten sonra yalnız oturmaması gerektiğini bilen bir gölge.
 
@@ -4544,7 +4544,7 @@ Zanetto’nun ifadesinden sonra Musa Kamhi Divan’a kısa konuştu.
 
 Yavuz bu son belgeyi Divan’a sunarken bir şey yaptı.
 
-“Efendiler,” dedi. “Bu mektubun içeriği bir devlet sırrıdır. Okunmayacak. Yalnızca Şeyhülislam Efendi Hazretleri’ne ve iki Kazıasker Efendi’ye, mühürlü olarak, kendi elleriyle okumaları için verilecek. Ve onlar size yalnızca şunu söyleyecekler: Bu mektupta yazılanlar, Mayıs’ın yirmi ikisinde, Has Oda’da, kapılar kapalıyken, dört kişinin arasında konuşulmuştur. Ve o dört kişiden biri Hünkârımızdır, biri Sadrazam Paşa’dır, biri benim. Dördüncüsü kapıdaki adamdır.”
+“Efendiler,” dedi. “Bu mektubun içeriği bir devlet sırrıdır. Okunmayacak. Yalnızca Şeyhülislam Efendi Hazretleri’ne ve iki Kazıasker Efendi’ye, mühürlü olarak, kendi elleriyle okumaları için verilecek. Ve onlar size yalnızca şunu söyleyecekler: Bu mektupta yazılanlar, Haziran’ın birinde, Has Oda’da, kapılar kapalıyken, dört kişinin arasında konuşulmuştur. Ve o dört kişiden biri Hünkârımızdır, biri Sadrazam Paşa’dır, biri benim. Dördüncüsü kapıdaki adamdır.”
 
 Şeyhülislam mühürlü kâğıdı aldı. Okudu. Kazıaskerlere uzattı. Onlar da okudu.
 
@@ -4638,7 +4638,7 @@ Sonra, gözlerini neyden kaldırmadan, çok sakin bir sesle sordu.
 
 Odada bir şey değişti. Havanın kendisi.
 
-Yavuz cevap vermeden önce, bir kez daha, Fener’deki yaşlı Patriğin önünde olduğu gibi, kendi içinde, kendine söyledi.
+Yavuz cevap vermeden önce, bir kez daha, Fener’deki Patriğin önünde olduğu gibi, kendi içinde, kendine söyledi.
 
 *Yalan söyleme.*
 
@@ -4658,7 +4658,7 @@ Ve neyi, sanki bir şey hiç sorulmamış gibi, dudaklarına götürdü.
 
 Üfledi.
 
-Zehirlendiği geceden beri ilk kez. Kırık, zayıf, titrek, iki nefeste bir kesilen, ama gerçek bir ses. Bir Segah taksiminin ilk birkaç notası. Babası Mustafa’nın, bir zamanlar, bir kafesin içindeki oğluna öğrettikleri.
+Zehirlendiği geceden beri ilk kez. Kırık, zayıf, titrek, iki nefeste bir kesilen, ama gerçek bir ses. Bir Segah taksiminin ilk birkaç notası. Babası Mustafa’nın, bir zamanlar, henüz kafese girmemiş küçük oğluna öğrettikleri.
 
 Yavuz kapının yanında, kıpırdamadan dinledi.
 
@@ -4680,11 +4680,11 @@ Atıf Efendi’ydi. Elinde, tozlu, mühürleri kırılmış, uzun bir yolculuğu
 
 “Bağdat üzerinden, Paşam. Basra’dan. Mahmud Efendi’nin mektubu. Basra’daki Gölge Tatar’la yollamış. Yirmi altı günde geldi.”
 
-Yavuz mektubu aldı. İki kâğıttı. Üstteki, Basra’daki Gölge’nin sık, ince, kâtip el yazısıyla kısa bir not: *Maskat’tan bir Arap teknesi getirdi. Aynı gün Tatar’a verdim. Basra, Mayıs’ın on beşi.* Alttaki Mahmud’undu. Kendi eli. İri harfler, denize doğru eğilen satırlar. Tarihi Mayıs’ın beşi. Maskat.
+Yavuz mektubu aldı. İki kâğıttı. Üstteki, Basra’daki Gölge’nin sık, ince, kâtip el yazısıyla kısa bir not: *Maskat’tan bir Arap teknesi getirdi. Aynı gün Tatar’a verdim. Basra, Mayıs’ın on altısı.* Alttaki Mahmud’undu. Kendi eli. İri harfler, denize doğru eğilen satırlar. Tarihi Mayıs’ın beşi. Maskat.
 
 Okudu.
 
-*Paşam. Hâlâ Maskat’tayız. İmam limanını bize açmıyor. İngiliz’le geçen Ekim’de, Bombay’ın elçisi Mehdi Ali Han eliyle yaptığı ahit, Fransız’ı ve dostlarını limanlarından men ediyor; İmam “Ahdimi bozamam” diyor, başka bir şey demiyor. Kolordu gemilerde. General Desaix sabırsız, Kara Ali Reis rüzgâra sövüyor. Muson başlamak üzere; Malabar kıyısı Eylül’e kadar kapanacak. Bombay’dan gelen bir Ermeni tacirinin gemisinden: İngiliz ordusu Nisan’ın başından beri Seringapatam’ı kuşatıyor. Başlarında General Harris, yanında Hindistan Genel Valisi’nin kardeşi genç bir albay, Wellesley. Toplar surları dövüyor. Tipu Sultan teslim olmayı reddetmiş. Maysur Sultanı’nın buradaki vekili söyledi: Efendisi, Osmanlı Halifesi’ne, Hünkârımıza, yardım isteyen bir mektup yazmış. O mektup Cidde’de, hac gemilerini bekleyen bir tacirin elinde duruyormuş… Rüzgâr döner dönmez gideceğiz, Paşam. Yetişeceğiz.*
+*Paşam. Hâlâ Maskat açığındayız. İmam limanını bize açmıyor. İngiliz’le geçen Ekim’de, Bombay’ın elçisi Mehdi Ali Han eliyle yaptığı ahit, Fransız’ı ve dostlarını limanlarından men ediyor; İmam “Ahdimi bozamam” diyor, başka bir şey demiyor. Kolordu gemilerde. General Desaix sabırsız, Kara Ali Reis rüzgâra sövüyor. Muson başlamak üzere; Malabar kıyısı Eylül’e kadar kapanacak. Bombay’dan gelen bir Ermeni tacirinin gemisinden: İngiliz ordusu Nisan’ın başından beri Seringapatam’ı kuşatıyor. Başlarında General Harris, yanında Hindistan Genel Valisi’nin kardeşi genç bir albay, Wellesley. Toplar surları dövüyor. Tipu Sultan teslim olmayı reddetmiş. Maysur Sultanı’nın buradaki vekili söyledi: Efendisi, Osmanlı Halifesi’ne, Hünkârımıza, yardım isteyen bir mektup yazmış. O mektup Cidde’de, hac gemilerini bekleyen bir tacirin elinde duruyormuş… Rüzgâr döner dönmez gideceğiz, Paşam. Yetişeceğiz.*
 
 Yavuz mektubu indirdi.
 
@@ -4738,7 +4738,7 @@ Sultan uzun bir süre pencereden, karanlığa, Boğaz’ın ötesine, çok uzakl
 
 ---
 
-Londra, Haziran’ın yirmi beşi.
+Londra, Temmuz’un yirmi beşi.
 
 Henry Dundas, Hindistan İşleri Kurulu’nun başkanı, Downing Street’teki küçük odasında, masasının üstünde yan yana duran iki kâğıda bakıyordu.
 
