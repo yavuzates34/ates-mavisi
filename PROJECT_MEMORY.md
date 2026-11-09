@@ -16,14 +16,14 @@ Yavuz Ateş alternatif tarih roman serisinin (1798 Osmanlı, zaman yolcusu mühe
 ## Current status
 
 - 1. Kitap Mühür (6 bölüm) ve 2. Kitap Ada (5 bölüm + ara sahne) tamam. 3. Kitap Yıldırım'da 4 bölüm ve 2 ara sahne (Kutu, Mühendis) var; defter planı 9 bölüm ve 2 ara sahne (Kutu, Mihaylovski).
-- 9 Kasım 2026 akşamı: dört Opus alt ajanıyla (Mühür, Ada, Yıldırım, Sohbet okuyucuları) seri boyu çelişki taraması başlatıldı; sonuçlar bekleniyor.
+- 9 Kasım 2026 akşamı: dört Opus alt ajanıyla (Mühür, Ada, Yıldırım, Sohbet okuyucuları) seri boyu çelişki taraması yapıldı; kritik bulgular satır satır doğrulandı. Ayrıntılı rapor: `Tutarlılık Taraması – 9 Kasım 2026.md`. Kitap dosyalarına henüz dokunulmadı.
 
 ## Open issues
 
-- Tarama bulguları Yavuz'a sunulacak; düzeltmeler onunla birlikte yapılacak.
+- Yavuz'un karar vermesi gerekenler: Tipu'nun ölümü ve kaybolan Desaix kolordusu, başparenin Silahdar/Hüsrev çift çözümü, Silahdar'ın bilmesi gereken sırlar, Korfu buluşması notu, 3. kitap takvimi, Wickham'ın yolculuğu, İrlanda takvimi.
 - Klasörün git remote'u yok; commit'ler yalnız yerelde.
 - 14 MB PDF commit edilmedi (büyük dosya).
 
 ## Next step
 
-- Tarama sonuçlarını doğrulayıp Yavuz'a sade liste olarak sunmak.
+- Yavuz onaylarsa net hataları düzeltmek, ardından defteri güncellemek; karar isteyen maddeleri onunla konuşmak.
