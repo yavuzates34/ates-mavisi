@@ -260,7 +260,7 @@ Cebindeki telefona dokundu ama açmadı.
 
 *Şimdi sıra Selim'de.*
 
-Pencereden dışarı baktı. Haliç'in karşısında, sabah sisinin içinden Topkapı Sarayı'nın kuleleri yükseliyordu. Orada, iki yüz yirmi sekiz yıl öncesinin bir sabahında, yirmi kuşak gerideki bir padişah henüz uyanıyordu. Kendisine neyin geldiğinden habersizdi.
+Pencereden dışarı baktı. Haliç'in karşısında, sabah sisinin içinden Topkapı Sarayı'nın kuleleri yükseliyordu. Orada, iki yüz yirmi sekiz yıl öncesinin bir sabahında, dokuz kuşak gerideki bir padişah henüz uyanıyordu. Kendisine neyin geldiğinden habersizdi.
 
 Yavuz Ateş Yıldız gülümsedi.
 
@@ -510,7 +510,7 @@ Beyaz sakallı yabancı kılıklı adam ise başını hafifçe yana eğmiş, gö
 
 Sultan Selim ise tahtında doğrulmuştu. Yüzü bu bembeyaz ışıkta solgun ve çok genç görünüyordu. Gözleri odanın bir köşesinden diğerine dolaşıyordu. Duvarlara, tavana, çinilere bakıyordu. Sanki kendi sarayını ilk kez görüyordu.
 
-"Bu odada yirmi yıldır otururum," dedi sonunda, neredeyse fısıldayarak. "Babamın zamanında da buraya gelirdim. Çocukken. Bu çinilerin bu renkte olduğunu hiç bilmezdim."
+"Bu odada sekiz yıldır otururum," dedi sonunda, neredeyse fısıldayarak. "Babamın zamanında da buraya gelirdim. Çocukken. Bu çinilerin bu renkte olduğunu hiç bilmezdim."
 
 Yavuz bir şey söylemedi. Söylenecek bir şey yoktu.
 
@@ -518,7 +518,7 @@ Sultan yavaşça elini kaldırdı ve parmaklarını ışığa tuttu. Parmakları
 
 "Ateş yok," dedi. "Atıf Efendi doğru söylemiş. Ne ateş var ne duman."
 
-"Yok, Hünkârım. Bunlar yüz bin saat yanabilir. Bir insan ömrü boyunca."
+"Yok, Hünkârım. Bunlar yüz bin saat yanabilir. Gece gündüz, on bir yıldan fazla."
 
 Sultan elini indirdi. Gözlerini Yavuz'a dikti. Bu kez gözlerindeki ifade değişmişti. Merak hâlâ oradaydı ama artık onun altında başka bir şey vardı. Yavuz bunun ne olduğunu biliyordu: hesap. Bir hükümdarın hesabı.
 
@@ -550,7 +550,7 @@ Paşa başını salladı. Bir süre düşündü. Sonra Sultan'a döndü:
 
 "Hünkârım, bir gemi bununla gece seyredebilir. Bir fenerle bir limanın ağzını aydınlatabilir. Düşman gemisi bir mil öteden görülebilir." Sonra Yavuz'a döndü. "Başka ne var o sandıklarda?"
 
-Yavuz **İLETİŞİM** yazan sandığı açtı. İçinde, köpük yuvalara yerleştirilmiş, yirmi tane kalın, siyah, el boyunda cihaz duruyordu. Her birinin tepesinde kısa, esnek bir anten vardı.
+Yavuz **İLETİŞİM** yazan sandığı açtı. İçinde, köpük yuvalara yerleştirilmiş, on dokuz tane kalın, siyah, el boyunda cihaz duruyordu. Yirminci yuva boştu; o cihaz Yavuz'un çantasındaydı. Her birinin tepesinde kısa, esnek bir anten vardı.
 
 İkisini çıkardı. Birini açtı ve küçük düğmesine bastı. Cihazdan kısa bir hışırtı geldi.
 
@@ -840,7 +840,7 @@ Sultan eğilip ekrana baktı. Gözleri haritanın üstünde dolaştı.
 
 "Bugünkü hâli, Hünkârım."
 
-"Kırım'ı da koymuşsun." Sultan'ın sesi sertleşti. "Kırım gitti. On beş yıl önce. Babam Mustafa Han o acıyla öldü."
+"Kırım'ı da koymuşsun." Sultan'ın sesi sertleşti. "Kırım gitti. On beş yıl önce. Babam Mustafa Han, onu kaybettiren harbin acısıyla öldü."
 
 "Biliyorum, Hünkârım."
 
@@ -996,7 +996,7 @@ Yusuf Agâh Efendi bir şey söylemek için ağzını açtı, ama Yavuz devam et
 
 "Bin sekiz yüz seksen iki. Mısır'da bir isyan olur. İngiltere düzeni sağlamak için geldiğini söyler. İskenderiye'yi bombalar. Kahire'ye girer. Ve bir daha çıkmaz. Yetmiş yıl kalır."
 
-"Bin dokuz yüz on beş. Büyük Savaş. İngiliz donanması ve askerleri Çanakkale'ye çıkar. Devleti tek hamlede bitirmek, İstanbul'u almak için. Ve o kıyılarda, o tepelerde yüz binlerce Mehmetçik şehit düşer. Yüz binlerce, Hünkârım. Bir neslin yarısı."
+"Bin dokuz yüz on beş. Büyük Savaş. İngiliz donanması ve askerleri Çanakkale'ye çıkar. Devleti tek hamlede bitirmek, İstanbul'u almak için. Ve o kıyılarda, o tepelerde yüz binlerce Mehmetçik şehit ve gazi olur. Yüz binlerce, Hünkârım. Bir neslin çiçeği."
 
 Küçük Hüseyin Paşa yumruklarını sıkmıştı.
 
@@ -1038,9 +1038,9 @@ Yusuf Agâh Efendi bir an daha sustu. Sonra çok alçak bir sesle konuştu:
 
 "Ve ne oldu?"
 
-"Henüz bitmedi. Bitince..." Yusuf Efendi durdu.
+"Lordlar hükmünü verdi. Hastings..." Yusuf Efendi durdu.
 
-"Bitince beraat edecek, Efendim," dedi Yavuz. "Üç yıl önce, bin yedi yüz doksan beşte beraat etti zaten. Siz oradayken."
+"Beraat etti, Efendim," dedi Yavuz. "Üç yıl önce, bin yedi yüz doksan beşte. Siz oradayken."
 
 Yusuf Agâh Efendi gözlerini kaçırdı.
 
@@ -1098,7 +1098,7 @@ Sultan bir süre ona baktı. Sonra çok hafif bir sesle konuştu:
 
 "Asya'nın ve Afrika'nın, Hünkârım. Size söz veriyorum."
 
-"Söz veriyorsun." Sultan'ın sesinde ne alay vardı ne de inanç. "Ceddim Yavuz Sultan Selim Han, Mısır'ı sekiz yılda aldı. Kanuni Sultan Süleyman Han kırk altı yıl hüküm sürdü ve Viyana'yı alamadı. Ve sen bana, bir gecede, iki kıtayı vaat ediyorsun."
+"Söz veriyorsun." Sultan'ın sesinde ne alay vardı ne de inanç. "Ceddim Yavuz Sultan Selim Han sekiz yıl hüküm sürdü ve Mısır'ı tek seferde aldı. Kanuni Sultan Süleyman Han kırk altı yıl hüküm sürdü ve Viyana'yı alamadı. Ve sen bana, bir gecede, iki kıtayı vaat ediyorsun."
 
 "Bir gecede değil, Hünkârım. Yıllar alacak. Belki bir ömür. Ama yapılabilir. Benim elimde olan bilgi ile, sizin elinizde olan Devlet ile. Yapılabilir."
 
@@ -1120,7 +1120,7 @@ Sultan Selim uzun süre düşündü. Gözleri Yavuz'un üstündeydi, ama bakış
 
 Sultan sonra Küçük Hüseyin Paşa'ya döndü:
 
-"Paşa. Elindeki aleti Mahmud'a geri ver. Ve Mahmud bu gece gördüğünü, duyduğunu kimseye söylemesin. Kimseye."
+"Paşa. Elindeki aleti Yavuz Ateş'e geri ver. Ve Mahmud bu gece gördüğünü, duyduğunu kimseye söylemesin. Kimseye."
 
 "Baş üstüne, Hünkârım."
 
@@ -1350,7 +1350,7 @@ Kalkarken durdu ve Yavuz'a döndü.
 
 ---
 
-Ertesi sabah bahçeye bir hekim geldi.
+Üç gün boyunca kimse kapısını çalmadı. Dördüncü sabah bahçeye bir hekim geldi.
 
 Yavuz onu uzaktan gördü. Uzun boylu, zayıf, yaşlı bir adamdı. Sırtında koyu yeşil bir cübbe, başında büyük, beyaz bir sarık vardı. Yanında iki genç talebe yürüyordu. Biri bir kitap, diğeri deri bir çanta taşıyordu.
 
@@ -1514,7 +1514,7 @@ Hekimbaşı kaşlarını kaldırdı.
 
 "Küflenir. Elbette."
 
-"O küfün içinde bir ilaç var, Efendim. Bu tanelerin atası. Benim zamanımda bunu bulan adamın adı Fleming'di. Bir kavun küfünden bulmuşlardı. Ben size o küfü nasıl ayıracağınızı, nasıl çoğaltacağınızı, ilacı ondan nasıl çıkaracağınızı göstereceğim. Kolay değil. Zaman alır. Belki yıllar. Ama yapılır. Ve yapıldığında..."
+"O küfün içinde bir ilaç var, Efendim. Bu tanelerin atası. Benim zamanımda bunu bulan adamın adı Fleming'di. Unuttuğu bir cam kabın içinde üreyen küfte bulmuştu. En bereketli küfü ise yıllar sonra çürümüş bir kavunun üstünde buldular. Ben size o küfü nasıl ayıracağınızı, nasıl çoğaltacağınızı, ilacı ondan nasıl çıkaracağınızı göstereceğim. Kolay değil. Zaman alır. Belki yıllar. Ama yapılır. Ve yapıldığında..."
 
 "Ve yapıldığında?"
 
@@ -1526,7 +1526,7 @@ Hekimbaşı uzun süre sustu. Sonra Yavuz'un hiç beklemediği bir şey yaptı. 
 
 ---
 
-O akşam Has Bahçe'ye döndüğünde Yavuz çok yorgundu ama mutluydu. Üç gündür ilk kez gerçekten bir şey başardığını hissediyordu. Işıklar, telsizler, haritalar... Bunlar gösterilerdi. Ama bu başka bir şeydi. Bir adamın bacağıydı bu. Bir adamın hayatıydı.
+O akşam Has Bahçe'ye döndüğünde Yavuz çok yorgundu ama mutluydu. Saraya geldiğinden beri ilk kez gerçekten bir şey başardığını hissediyordu. Işıklar, telsizler, haritalar... Bunlar gösterilerdi. Ama bu başka bir şeydi. Bir adamın bacağıydı bu. Bir adamın hayatıydı.
 
 Odasına girip yatağının üstüne oturdu. Bir süre karanlığın içinde, sessizce oturdu. Sonra kalkıp **GÜÇ-1** kutusundan bir lambayı yaktı. Oda yumuşak, beyaz bir ışıkla doldu.
 
@@ -1874,7 +1874,7 @@ Has Bahçe'deki odasında, lambanın yumuşak beyaz ışığının altında, sı
 
 *Bir hafta önce yola çıkmış bir gemi.*
 
-Ocak ayıydı. Kış. Ege'nin en hırçın mevsimi. Bir yelkenli Ocak'ta İstanbul'dan Malta'ya ne kadar sürede gider?
+Ocak bitmişti ama kış bitmemişti. Ege'nin en hırçın mevsimi. Bir yelkenli Ocak'ta İstanbul'dan Malta'ya ne kadar sürede gider?
 
 Dizüstündeki yerel yapay zekâya sordu. Cevap belirsizdi, ama bir fikir veriyordu: Rüzgâr uygun giderse iki hafta. Fırtınaya yakalanırsa, limanlarda beklerse dört hafta, belki daha fazla. Ve bir İngiliz tüccar gemisi... Bir İngiliz tüccar gemisi Malta'ya doğrudan gitmezdi. Yolda bir yere uğrardı. Mal alırdı, mal satardı. Çünkü İngiliz önce tüccardı.
 
@@ -2088,7 +2088,7 @@ Yavuz dört telsiz daha çıkardı. Bunların yanına iki yedek pil paketi ve ka
 
 Paşa başını salladı.
 
-"Piller," dedi Yavuz, Mahmud'a dönerek. "Her gün bu küçük levhayı güneşe aç. Pilleri dolu tut. Kullanmadığın zaman telsizleri kapat. Ve bunları hiç, ama hiç kimsenin göremeyeceği bir yerde sakla. Bir sandığın içinde, bir kürkün altında, bir yatağın içinde. Gemide çalışan hiçbir kimse, reis bile, bunları görmeyecek. Kullanırken de pelerinin altında, kamaranın içinde, yalnızken kullan."
+"Piller," dedi Yavuz, Mahmud'a dönerek. "Her gün bu küçük levhayı güneşe aç. Pilleri dolu tut. Kullanmadığın zaman telsizleri kapat. Ve bunları hiç, ama hiç kimsenin göremeyeceği bir yerde sakla. Bir sandığın içinde, bir kürkün altında, bir yatağın içinde. Gemide çalışan hiçbir kimse bunları görmeyecek. Kara Ali Reis de yalnızca kendi telsizini görecek, o kadar. Kullanırken de pelerinin altında, kamaranın içinde, yalnızken kullan."
 
 "Anladım, efendi."
 
@@ -2110,7 +2110,7 @@ Mahmud elini göğsüne koydu.
 
 Paşa'nın planı basitti ve hızlıydı.
 
-İki hafif gemi gidecekti. Kırlangıç denen, hem kürekle hem yelkenle giden, dar ve uzun teknelerdi bunlar. Rüzgâr olsun olmasın, her koşulda hızlıydılar. Birinde Mahmud olacaktı, diğerinde Paşa'nın güvendiği yaşlı bir reis, Kara Ali Reis. Kara Ali Reis aletleri görmeyecek, sadece Mahmud'un emirlerine uyacaktı. Mahmud'un emirleri de Kara Ali'ye bir tayfanın kayıkla getirdiği kâğıtlarla iletilecekti. Ya da öyle görünecekti.
+İki hafif gemi gidecekti. Kırlangıç denen, hem kürekle hem yelkenle giden, dar ve uzun teknelerdi bunlar. Rüzgâr olsun olmasın, her koşulda hızlıydılar. Birinde Mahmud olacaktı, diğerinde Paşa'nın güvendiği yaşlı bir reis, Kara Ali Reis. Kara Ali Reis dürbünü görmeyecek, kendisine verilecek telsizden başka hiçbir alete el sürmeyecek, sadece Mahmud'un emirlerine uyacaktı. Mahmud'un emirleri de Kara Ali'ye bir tayfanın kayıkla getirdiği kâğıtlarla iletilecekti. Ya da öyle görünecekti.
 
 Gemilerin tayfaları korsan kılığına girecekti. Mora'nın güneyinden gelmiş Mani korsanları ya da Cezayirli dönmeler. Bayraklar indirilecek, Osmanlı'ya dair hiçbir iz bırakılmayacaktı.
 
@@ -2346,7 +2346,7 @@ Yavuz cevap vermedi. Gözleri mangalın kızıl kömürlerine takıldı.
 
 Sultan başını salladı. Yavaşça. Ağır ağır.
 
-"Ben de babamı bir daha göremedim," dedi. "On beş yaşındaydım öldüğünde. Kafeste, şehzadeler dairesinde yaşıyordum. Haber geldi, babam Sultan Mustafa Han vefat etmiş. Bir daha onu görmedim. Cenazesine bile çıkamadım." Durdu. "On iki yıl kafeste yaşadım. Amcam Abdülhamid Han'ın saltanatında. Dışarı çıkmadan, kimseyle konuşmadan. Sadece kitaplarım, ney'im ve mektuplarım vardı. Fransa kralına bile mektup yazdım, biliyor musun? Gizlice. Ona Devletin nasıl kurtarılacağını sordum."
+"Ben de babamı bir daha göremedim," dedi. "On iki yaşındaydım öldüğünde. Haber geldi, babam Sultan Mustafa Han vefat etmiş. Aynı gün beni kafese, şehzadeler dairesine kapattılar. Son bir kez yüzünü göremedim. Cenazesine bile çıkamadım." Durdu. "On beş yıl kafeste yaşadım. Amcam Abdülhamid Han'ın saltanatında. Dışarı çıkmadan, kimseyle konuşmadan. Sadece kitaplarım, ney'im ve mektuplarım vardı. Fransa kralına bile mektup yazdım, biliyor musun? Gizlice. Ona Devletin nasıl kurtarılacağını sordum."
 
 "Biliyorum, Hünkârım. On altıncı Louis'ye."
 
@@ -2438,7 +2438,7 @@ Yavuz derin bir nefes aldı. Bu soruyu bekliyordu. Cevabı da haftalardır düş
 
 "Anlat."
 
-Yavuz etrafına baktı. Odanın köşesinde, bir duvarda, küçük, yuvarlak, gümüş çerçeveli bir ayna asılıydı. Kalktı, aynayı duvardan aldı. Sonra mangaldan bir kandil aldı ve kandilin ışığını aynaya tuttu. Aynanın içinde kandilin alevi, bir ikinci alev gibi titredi.
+Yavuz etrafına baktı. Odanın köşesinde, bir duvarda, küçük, yuvarlak, gümüş çerçeveli bir ayna asılıydı. Kalktı, aynayı duvardan aldı. Sonra duvardan bir kandil aldı, mangalın korundan yaktı ve kandilin ışığını aynaya tuttu. Aynanın içinde kandilin alevi, bir ikinci alev gibi titredi.
 
 "Bakın, Hünkârım. Bu kandilin alevi bir. Ama bu aynada ikinci bir alev var. Şimdi bir ayna daha koysak, üçüncü bir alev olur. Bin ayna koysak, bin alev olur. Her biri aynı alev. Ama her biri ayrı."
 
@@ -2516,7 +2516,7 @@ Yavuz bir an durdu. Sonra çantasından dizüstü bilgisayarını çıkardı. A�
 
 "Emin misiniz?"
 
-"Yavuz Ateş," dedi Sultan. Sesi soğuk ve netti. "Ben on iki yıl kafeste yaşadım. Babamı kaybettim. Bir Devletin çöküşünü her gün, her saat gözlerimle görüyorum. Ve sen bana, bu gece, Sevr diye bir antlaşmanın haritasını gösterdin. Bundan daha ağırını söyleyemezsin."
+"Yavuz Ateş," dedi Sultan. Sesi soğuk ve netti. "Ben on beş yıl kafeste yaşadım. Babamı kaybettim. Bir Devletin çöküşünü her gün, her saat gözlerimle görüyorum. Ve sen bana, bu gece, Sevr diye bir antlaşmanın haritasını gösterdin. Bundan daha ağırını söyleyemezsin."
 
 Yavuz başını eğdi.
 
@@ -2548,7 +2548,7 @@ Sultan gözlerini açtı. Yüzü bembeyazdı. Ama sesi sakindi.
 
 "O tahta çıkacak, Hünkârım. Siz de kafese döneceksiniz."
 
-"Kafese." Sultan kelimeyi tükürür gibi söyledi. "On iki yıl yaşadığım o yere. Yeniden."
+"Kafese." Sultan kelimeyi tükürür gibi söyledi. "On beş yıl yaşadığım o yere. Yeniden."
 
 "Bir yıl, Hünkârım. Bir yıldan biraz fazla."
 
@@ -2592,7 +2592,7 @@ Sultan Selim ağlamıyordu. Gülüyordu.
 
 Sessiz, acı, kendi kendine bir gülüştü bu. Omuzları sarsılıyordu. Gözleri kapalıydı.
 
-"Kırk altı," dedi sonunda. "Babam elli yedi yaşında öldü. Dedem Ahmed Han altmış yaşında. Ben kırk altı yaşında, kendi sarayımda, kendi kuzenimin emriyle öleceğim. Bir cariyenin kollarında."
+"Kırk altı," dedi sonunda. "Babam elli altı yaşında öldü. Dedem Ahmed Han altmış iki yaşında. Ben kırk altı yaşında, kendi sarayımda, kendi kuzenimin emriyle öleceğim. Bir cariyenin kollarında."
 
 Gözlerini açtı. Yaşlıydılar ama yaşlar akmıyordu.
 
@@ -2746,7 +2746,7 @@ Sultan bir şey söylemedi. Yavuz'un söylediği doğruydu ve bunu biliyordu.
 
 "Ve ben?"
 
-"Siz Fransa'ya savaş ilan edeceksiniz, Hünkârım. İngiltere ile, Rusya ile ittifak yapacaksınız. Kendi Devletinizin en büyük düşmanı olan Rus ile. Rus donanması, tarihte ilk ve son kez, Boğaz'dan geçip Akdeniz'e inecek. Sizin izninizle. Sizin donanmanızla birlikte."
+"Siz Fransa'ya savaş ilan edeceksiniz, Hünkârım. İngiltere ile, Rusya ile ittifak yapacaksınız. Kendi Devletinizin en büyük düşmanı olan Rus ile. Rus donanması, tarihte ilk kez, Boğaz'dan geçip Akdeniz'e inecek. Sizin izninizle. Sizin donanmanızla birlikte."
 
 Sultan'ın yüzü kıpkırmızı olmuştu.
 
@@ -3002,7 +3002,7 @@ Ambarda İzmir'in incirleri, kuru üzümleri ve palamut çuvalları vardı. Kı�
 
 Walsh kitabını okumuyordu. Kitap sadece bir bahaneydi. Aklı başka yerdeydi.
 
-Mister Smith ona yola çıkmadan önce, elçiliğin karanlık bir odasında, alçak sesle şunu söylemişti: "Bu mektubu Malta'da Kaptan Ball'un adamına vereceksin. Ondan sonra Cebelitarık'a, oradan Londra'ya gidecek. Lord Grenville'in eline. Ve Thomas... Bu mektupta ne yazdığını kimseyle konuşma. Kimseyle. Ben de inanmıyorum ama Grenville'in bilmesi lazım."
+Mister Smith ona yola çıkmadan önce, elçiliğin karanlık bir odasında, alçak sesle şunu söylemişti: "Bu mektubu Malta'da bizim adamımıza vereceksin. Ondan sonra Cebelitarık'a, oradan Londra'ya gidecek. Lord Grenville'in eline. Ve Thomas... Bu mektupta ne yazdığını kimseyle konuşma. Kimseyle. Ben de inanmıyorum ama Grenville'in bilmesi lazım."
 
 Walsh mektubu okumuştu. Kendi elleriyle astarına dikmeden önce. Ve o geceden beri doğru dürüst uyuyamamıştı.
 
@@ -3088,7 +3088,7 @@ Mahmud bir kahkaha attı. Kâğıdı kuşağının arasına sıkıştırdı. Son
 
 Baskının geri kalanı tam bir korsan yağması gibi yapıldı. Paşa böyle emretmişti.
 
-Kaptanın kasası açıldı. İçinden üç yüz altın ve bir kese gümüş çıktı. Ambardan birkaç çuval kuru üzüm ve incir taşındı. İkinci kaptanın gümüş cep saati, Harding'in kılıcı ve tabancaları da alındı. Üç tayfa "fidye için" rehin alındı. Biri Maltalı, biri Cenevizli, biri de Walsh'tı.
+Kaptanın kasası açıldı. İçinden üç yüz altın ve bir kese gümüş çıktı. Ambardan birkaç çuval kuru üzüm ve incir taşındı. İkinci kaptanın gümüş cep saati, Harding'in kılıcı ve tabancaları da alındı. Üç kişi "fidye için" rehin alındı. Biri Maltalı bir tayfa, biri Cenevizli bir tayfa, biri de Walsh'tı.
 
 Ama *Pelican*'ın yelkenlerine dokunulmadı. Dümenine dokunulmadı. Kimse öldürülmedi.
 
@@ -3348,9 +3348,9 @@ Yavuz bir an durdu. Sesi değişti.
 
 "O yıllarda Devlet, iki büyük savaş gemisi sipariş etmişti, Paşam. İngiltere'deki tersanelere. Zırhlı, dev, her biri sizin bütün donanmanızdan daha güçlü gemiler. Biri *Sultan Osman*, diğeri *Reşadiye*."
 
-"Reşadiye," dedi Paşa. "Senin memleketinin adı."
+"Reşadiye," dedi Paşa. "Senin memleketinin adı. Bir akşam anlatmıştın."
 
-"Benim memleketimin adı, Paşam." Yavuz'un sesi kısıldı. "İkisi de o zamanın padişahı Sultan Reşad'ın adından gelir. Ve o gemiler için para nasıl toplandı biliyor musunuz? Halk verdi, Paşam. Anadolu'nun köylüleri, İstanbul'un esnafı. Kadınlar küpelerini, bileziklerini, nişan yüzüklerini sattı. Çocuklar kumbaralarını kırdı. Okullarda, camilerde, kahvelerde kumbaralar dolaştırıldı. Bir milletin son kuruşları, Paşam. Rus'a karşı denizde bir güç olsun diye."
+"Benim memleketimin adı, Paşam." Yavuz'un sesi kısıldı. "Gemi de memleketim de adını o zamanın padişahı Sultan Reşad'dan alır. Ve o gemiler için para nasıl toplandı biliyor musunuz? Halk verdi, Paşam. Anadolu'nun köylüleri, İstanbul'un esnafı. Kadınlar küpelerini, bileziklerini, nişan yüzüklerini sattı. Çocuklar kumbaralarını kırdı. Okullarda, camilerde, kahvelerde kumbaralar dolaştırıldı. Bir milletin son kuruşları, Paşam. Rus'a karşı denizde bir güç olsun diye."
 
 "Ve?"
 
@@ -3382,7 +3382,7 @@ Paşa yavaşça döndü.
 
 Yavuz'un yüzünde acı bir ifade belirdi.
 
-"O gemiye Osmanlı bayrağı çekilmişti ama kumandanı hâlâ bir Alman amiraliydi, Paşam. Tayfalarının çoğu hâlâ Almandı. Ve bir gün, o Alman amiral, *Yavuz Sultan Selim* ile Karadeniz'e çıktı. Hiç kimseye sormadan, Devletin bilgisi olmadan, Rusya'nın kıyılarını bombaladı. Sivastopol'u, Odessa'yı. Ve böylece Devlet-i Aliyye, bir Alman amiralin emriyle, savaşa girmiş oldu. Kimse istemeden, kimse karar vermeden. Bir oldu bitti ile."
+"O gemiye Osmanlı bayrağı çekilmişti ama kumandanı hâlâ bir Alman amiraliydi, Paşam. Tayfalarının çoğu hâlâ Almandı. Ve bir gün, o Alman amiral, *Yavuz Sultan Selim* ile Karadeniz'e çıktı. Hiç kimseye sormadan, Devletin bilgisi olmadan, Rusya'nın kıyılarını bombaladı. Sivastopol'u o, Odessa'yı yanındaki gemiler. Ve böylece Devlet-i Aliyye, bir Alman amiralin emriyle, savaşa girmiş oldu. Kimse istemeden, kimse karar vermeden. Bir oldu bitti ile."
 
 Paşa hiçbir şey söylemedi. Yüzü taş gibiydi.
 
@@ -3616,7 +3616,7 @@ Ve sonra, istemsizce, gözü takvimin ilerisine kaydı.
 
 **15 Nisan.**
 
-*Doğum günüm,* diye düşündü. *Yirmi yedi yaşına gireceğim. Ama iki yüz iki yıl önce doğmadan önce.*
+*Doğum günüm,* diye düşündü. *Yirmi yedi yaşına gireceğim. Doğmama daha iki yüz iki yıl varken.*
 
 Bu düşünce onu bir an güldürdü. Sonra hüzünlendirdi. Annesi her doğum gününde ona bir pasta yapardı. Kakaolu, üstü fındıklı bir pasta. Ablaları Derya ve Seda ona hediye alırdı. Babası kucaklayıp "Aslanım benim" derdi. Kardeşi Ömer de her yıl aynı şakayı yapardı: "Yaşlandın abi, saçların dökülecek yakında."
 
@@ -4066,7 +4066,7 @@ Hüseyin Paşa'nın kaşları kalktı.
 
 Sultan'ın yüzü bembeyaz oldu.
 
-"Rüstem," dedi çok alçak bir sesle. "Rüstem, benim soframa yirmi yıldır meyve getirir. Babamın zamanında da getirirdi. Ben kafesteyken bile bana kiraz getirirdi. Gizlice. Babamın emriyle."
+"Rüstem," dedi çok alçak bir sesle. "Rüstem, benim soframa yirmi yıldır meyve getirir. Ben kafesteyken bile bana kiraz getirirdi. Gizlice. Amcamın adamlarından saklayarak."
 
 "Biliyorum, Hünkârım. O yüzden emin olmak istiyorum."
 
@@ -4100,7 +4100,7 @@ Atıf Efendi'nin gözleri parladı. Hüseyin Paşa öne eğildi.
 
 "Ve Rüstem Ağa'ya?"
 
-"Rüstem Ağa'ya, on iki Nisan gecesi, Rumelikavağı'ndan, *Santa Lucia* adında, Venedik bandıralı bir gemiyle gideceği söylenecek."
+"Rüstem Ağa'ya, on iki Nisan gecesi, Rumelikavağı'ndan, *Santa Lucia* adında bir Venedik gemisiyle gideceği söylenecek."
 
 Sultan bir süre düşündü.
 
@@ -4116,7 +4116,7 @@ Yavuz gülümsedi.
 
 ---
 
-Yanni, Galata'lı Rum tercüman, iki gündür Bostancıbaşı'nın zindanından çıkmıştı.
+Yanni, Galata'lı Rum tercüman, Bostancıbaşı'nın zindanından çıkalı iki ay olmuştu.
 
 Yavuz'un ona verdiği söz tutulmuştu. Atıf Efendi'nin sözü. Yanni sağ çıkmıştı. Ama bir şartla.
 
@@ -4124,7 +4124,7 @@ Kız Kulesi'nde, Walsh'u sorgulamadan önce, Yavuz Yanni'yle de uzun bir konuşm
 
 "İngilizler mektubun kaybolduğunu biliyor mu?" diye sormuştu Yavuz.
 
-"Bilmiyorlar, Paşam," demişti Yanni. "İkinci mektubu, Atıf Efendi'nin yazdığı sahte mektubu ben götürdüm. Pisani'ye verdim. Pisani hiçbir şeyden şüphelenmedi. Hatta rahatladı. 'Demek ki o adam bir şarlatanmış,' dedi."
+"Bilmiyorlar, Paşam," demişti Yanni. "İkinci mektubu, kâtip Ömer'in yazdığı sahte mektubu ben götürdüm. Pisani'ye verdim. Pisani hiçbir şeyden şüphelenmedi. Hatta rahatladı. 'Demek ki o adam bir şarlatanmış,' dedi."
 
 "Güzel. Şimdi sen elçiliğe gitmeye devam edeceksin, Yanni. Her zamanki gibi tercümanlık yapacaksın. Ama artık iki efendin var. Biri İngiliz, biri ben. İngiliz'den aldığın parayı almaya devam et. Benden de alacaksın. İki katı."
 
@@ -4414,7 +4414,7 @@ Sultan gülümsedi.
 
 "Pastayı ben söyledim, Paşam," dedi kâtip Ömer. Utangaç bir sesle. "Siz bana bir gün kardeşinizden bahsetmiştiniz. Annenizin her doğum gününde size kakaolu, fındıklı bir pasta yaptığını söylemiştiniz. Ben de Has Mutfak'ın aşçıbaşısına tarif ettim. Bilmediğim yerleri uydurdum. Kakaoyu da Hüseyin Paşa buldu. Bir Felemenk gemisinden."
 
-"Kakao bulmak," dedi Hüseyin Paşa gür sesiyle, "bir İngiliz briki yağmalamaktan zordu!"
+"Kakao bulmak," dedi Hüseyin Paşa gür sesiyle, "Defterdar'dan akçe koparmaktan zordu!"
 
 Odada bir kahkaha yükseldi.
 
@@ -4430,7 +4430,7 @@ Yavuz durduğu yerde kaldı. Gözleri doldu. Saklamaya çalışmadı.
 
 Gece güzel geçti.
 
-Hekimbaşı, Yavuz'un kalafatçısının artık yürüdüğünü, hatta Tersane'de yeniden çalışmaya başladığını anlattı. Abdullah, küf tabağını bir kutunun içinde getirmişti. Herkes ona baktı ama kimse dokunmadı. Hasan, LED lambasını yakıp söndürerek bir gösteri yaptı. Hüseyin Paşa, *Pelican* baskınını, Mahmud'un nasıl kızıl saçlı İngiliz'in elinden mektubu kaptığını, abartarak, kahkahalarla anlattı. Atıf Efendi, Bâb-ı Âli'de dolaşan söylentileri, Yavuz hakkında uydurulan masalları anlattı.
+Hekimbaşı, Yavuz'un kalafatçısının artık yürüdüğünü, hatta Tersane'de yeniden çalışmaya başladığını anlattı. Abdullah, küf tabağını bir kutunun içinde getirmişti. Herkes ona baktı ama kimse dokunmadı. Hasan, LED lambasını yakıp söndürerek bir gösteri yaptı. Hüseyin Paşa, Mahmud'un Ege'de çıktığı bir balık avını, kızıl pullu koca bir balığın ağzındaki oltayı nasıl kaptığını, abartarak, kahkahalarla anlattı. Hikâyenin aslını sofrada pek az kişi biliyordu; ötekiler Paşa'nın balık hikâyelerine alışkındı. Atıf Efendi, Bâb-ı Âli'de dolaşan söylentileri, Yavuz hakkında uydurulan masalları anlattı.
 
 Sonra Sultan kalktı. Odanın köşesindeki bir sandığın başına gitti. Sandıktan uzun, ince, kadife bir kılıfa sarılı bir şey çıkardı.
 
@@ -4672,7 +4672,7 @@ Rüstem Ağa yerde diz çökmüştü. Yüzü gözyaşlarından ve kandan ıslanm
 
 Sultan'ın yüzünde bir şey kıpırdadı. Bir acı, bir hüzün, bir anı.
 
-"Getirmiştin," dedi alçak sesle. "Ve o kirazlar, benim on iki yıllık kafes hayatımın en tatlı şeyleriydi, Rüstem."
+"Getirmiştin," dedi alçak sesle. "Ve o kirazlar, benim on beş yıllık kafes hayatımın en tatlı şeyleriydi, Rüstem."
 
 Bir an durdu.
 
@@ -4752,7 +4752,7 @@ Gömleğinin altına uzandı ve Sultan'ın yüzüğüne dokundu. Soğuk, ağır 
 
 Mahmud, on bir Haziran'da döndü.
 
-Kırlangıcı sabahın erken saatlerinde, korsan bayrağını indirmiş, Osmanlı bayrağını çekmiş olarak Tersane'ye yanaştı. Mahmud iskeleye atladığında, rüzgârdan ve güneşten yanmış yüzüyle, sırtındaki tuzlu peleriniyle, iki ay öncesinden daha zayıf ve daha yaşlı görünüyordu. Ama gözleri her zamanki gibi parlaktı.
+Kırlangıcı sabahın erken saatlerinde, korsan bayrağını indirmiş, Osmanlı bayrağını çekmiş olarak Tersane'ye yanaştı. Bozcaada'yı dört gün önce geride bırakmış, Boğaz'ı ve Marmara'yı poyraza karşı, kürek çekerek çıkmıştı. Mahmud iskeleye atladığında, rüzgârdan ve güneşten yanmış yüzüyle, sırtındaki tuzlu peleriniyle, iki ay öncesinden daha zayıf ve daha yaşlı görünüyordu. Ama gözleri her zamanki gibi parlaktı.
 
 Göğsünde, deri bir kılıfın içinde, bir mektup taşıyordu.
 
@@ -4760,7 +4760,7 @@ Hüseyin Paşa onu doğrudan saraya getirdi. Has Oda'ya. Sultan, Yavuz ve Atıf 
 
 Mahmud Sultan'ın önünde diz çöktü. Kılıfı açtı. İçinden katlanmış, mühürlü bir kâğıt çıkardı ve iki eliyle Sultan'a uzattı.
 
-Sultan mektubu aldı. Mühre baktı. Kırmızı bir mum, üstünde bir kartal.
+Sultan mektubu aldı. Mühre baktı. Kırmızı bir mum, üstünde elinde mızrak tutan bir kadın.
 
 Mührü kırdı. Kâğıdı açtı. Fransızcaydı. Sultan okuyamıyordu. Mektubu Yavuz'a uzattı.
 
@@ -4782,7 +4782,7 @@ Okumaya başladı. Önce kendi içinden, sonra yüksek sesle, Türkçeye çevire
 
 *Mektubunuzu üç kez okudum. Sonra yaktım. Sonra pişman oldum, çünkü bir daha okumak istedim.*
 
-*Siz benim planlarımı biliyorsunuz. Bunları Paris'te benden, Talleyrand'dan ve Direktüvar'dan üç kişiden başka kimse bilmiyor. Talleyrand'ın bana ihanet ettiğini düşündüm. Ama Talleyrand, Nelson adında bir amirali bilemezdi. Ve Ebukır adında bir körfezi. Ben bile bilmiyordum.*
+*Siz benim planlarımı biliyorsunuz. Bunları Paris'te benden, Talleyrand'dan ve Direktüvar'dan başka kimse bilmiyor. Talleyrand'ın bana ihanet ettiğini düşündüm. Ama Talleyrand, Nelson adında bir amirali bilemezdi. Ve Ebukır adında bir körfezi. Ben bile bilmiyordum.*
 
 *Siz kimsiniz, Âsaf Paşa?*
 
@@ -4836,7 +4836,7 @@ Sonra, hayatında ilk kez, bu zamana geldiğinden beri ilk kez, gerçekten, dür
 
 "Hayır."
 
-Pencereden dışarıya, Marmara'ya, ufka baktı. Güneş Adalar'ın üstünden yükseliyordu. Deniz sakin ve masmaviydi.
+Pencereden dışarıya, Marmara'ya, ufka baktı. Güneş Üsküdar'ın tepelerinin üstünden yükseliyordu. Deniz sakin ve masmaviydi.
 
 *Kitabın sonunu okumuştum,* diye düşündü. *Ama artık kitap değişti. Ben değiştirdim.*
 
