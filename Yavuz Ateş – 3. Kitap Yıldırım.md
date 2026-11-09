@@ -1502,7 +1502,7 @@ Eleni ona baktı.
 
 Yorgos yutkundu.
 
-“Kuzeye değil, teyze. Znaim yoluna değil. Batıya. Tuna boyunca. Krems’e, oradan Linz’e. Seyis duymuş. Passau, Regensburg, Nürnberg. Oradan Ren’e.”
+“Kuzeye değil, teyze. Znaim yoluna değil. Batıya. Tuna boyunca. Krems’e, oradan Linz’e. Seyis duymuş. Passau, Regensburg, Nürnberg. Oradan kuzeye, Hannover’e. Denize.”
 
 Eleni bir süre kıpırdamadan durdu. Kar başörtüsünün üstüne birikiyordu.
 
@@ -1568,7 +1568,7 @@ Masanın karşı ucunda, ayakta, John Spencer Smith konuşuyordu.
 
 Dört saattir konuşuyordu.
 
-Trieste’den Viyana’ya, Viyana’dan Hamburg’a, Hamburg’dan karlı yollarda, buzlu bir Kuzey Denizi’nde, altı hafta. Ve altı hafta boyunca kafasında bu geceyi kurmuştu. Her cümleyi. Her tarihi. Her adı.
+Trieste’den Viyana’ya, Viyana’dan karlı yollarda Hannover’e, Elbe donmuş olduğu için Danimarka’nın Husum limanına, oradan buzlu bir Kuzey Denizi’nde, altı hafta. Ve altı hafta boyunca kafasında bu geceyi kurmuştu. Her cümleyi. Her tarihi. Her adı.
 
 Hepsini anlattı.
 
@@ -2594,7 +2594,7 @@ Bir an durdu.
 
 ---
 
-Londra’da, Nisan’ın on dördünde, Thames’in üstüne gün boyu ince, soğuk bir yağmur yağdı.
+Londra’da, Mart’ın on sekizinde, Thames’in üstüne gün boyu ince, soğuk bir yağmur yağdı.
 
 Somerset House’un nehre bakan uzun cephesi, akşama doğru, yağmurun ve sisin içinde, gri bir saray gibi duruyordu. Alt katlarda Bahriye Dairesi’nin kâtipleri mumlarını söndürüp evlerine gitmişti. Üst katta, Strand’e bakan kanatta, Kraliyet Cemiyeti’nin toplantı salonunun yanındaki küçük, kitaplarla dolu bir odada ise henüz kimse eve gitmemişti.
 
@@ -2602,7 +2602,7 @@ Odanın ortasında, yeşil çuha kaplı bir masanın üstünde, bir kutu duruyor
 
 Avucun içine sığacak kadar küçük. Siyah. Ne tahta ne demir ne boynuz. Kenarları yumuşak, yuvarlak, hiçbir zanaatkârın eliyle yontulamayacak kadar düzgün. Bir yanından, bir serçe parmağı boyunda, kıvrılabilen siyah bir çubuk uzanıyordu. Önünde, üst yarısında, cam gibi ama cam olmayan, gri, boş, ölü bir pencere. Alt yarısında, düzgün sıralar halinde, tek tek kabartılmış, üzerlerinde rakamlar ve harfler bulunan küçük düğmeler.
 
-Arka kapağı yoktu. Viyana’da, Kasım’da, bir saatçi onu sökmüş, içindeki ne olduğu bilinmeyen ağır küçük bir parçayı çıkarmış, sonra yerine koymaya cesaret edememişti. O parça ayrı bir kese içinde, kutunun yanında duruyordu.
+Arka kapağı yoktu. Pera’da, Kasım’da, bir gece yarısı, Cenevizli bir saatçi onu sökmüş, içindeki ne olduğu bilinmeyen ağır küçük bir parçayı çıkarmış, sonra yerine koymaya cesaret edememişti. O parça ayrı bir kese içinde, kutunun yanında duruyordu.
 
 Ve kutunun önünde, üç adam oturuyordu.
 
@@ -2616,7 +2616,7 @@ Altmış yedi yaşındaydı. İngiltere’nin en zengin adamlarından biri ve ya
 
 Ve üçüncü sandalyede, sessiz, kibar, unutulması kolay yüzüyle, William Wickham.
 
-Kutu Londra’ya dün gece gelmişti. Viyana’dan Ren boyunca, Mainz’dan, Köln’den, Rotterdam’dan, karlı yollardan ve buzlu bir Kuzey Denizi’nden geçerek, altı hafta. Kral’ın ulağı onu doğrudan Downing Sokağı’na götürmüş, Pitt de bir saat içinde, kendi el yazısıyla, üç satırlık bir notla Somerset House’a göndermişti.
+Kutu Londra’ya dün gece gelmişti. Viyana’dan Tuna boyunca Nürnberg’e, oradan Kral’ın kendi toprağı Hannover’e, donmuş Elbe’yi aşıp Danimarka’nın Husum limanına, karlı yollardan ve buzlu bir Kuzey Denizi’nden geçerek, altı hafta. Kral’ın ulağı onu doğrudan Downing Sokağı’na götürmüş, Pitt de bir saat içinde, kendi el yazısıyla, üç satırlık bir notla Somerset House’a göndermişti.
 
 *Sir Joseph. Bunu açın. Cavendish’i çağırın. Ne olduğunu bana bu gece söyleyin.*
 
@@ -2790,9 +2790,9 @@ Wickham ilk kez konuştu. Sessiz, kibar, unutulması kolay sesiyle.
 
 Kapı vuruldu.
 
-Bir kâtip içeri girdi. Islaktı. Nefes nefeseydi. Elinde, Bahriye’nin mührünü taşıyan, yağmurdan lekelenmiş bir zarf vardı.
+Bir kâtip içeri girdi. Islaktı. Nefes nefeseydi. Elinde, Dışişleri’nin mührünü taşıyan, yağmurdan lekelenmiş bir zarf vardı.
 
-“Başbakan. Downing Sokağı’ndan sizi burada bulmamı söylediler. Lizbon’dan bir firkateyn bu akşam Portsmouth’a girdi. Kaptanı bunu kendi eliyle getirdi.”
+“Başbakan. Downing Sokağı’ndan sizi burada bulmamı söylediler. Viyana’dan bir kurye bu akşam geldi. Husum’dan, Yarmouth paketiyle. Lord Minto’nun çantasında, sizin için ayrılmış bu vardı.”
 
 Pitt zarfı aldı. Açtı. Mumun ışığına tuttu. Okudu.
 
@@ -2802,13 +2802,17 @@ Banks onun yüzüne bakıyordu. Ve Pitt’in zaten solgun olan yüzünden kalan 
 
 Pitt cevap vermedi. Mektubu masaya, kutunun yanına bıraktı. Wickham eğilip okudu. Sonra Banks’e baktı. Sonra Cavendish’e. Ve okuduğunu, alçak ve düz bir sesle, bir kâtibin bir listeyi okuması gibi, söyledi.
 
-“Cebelitarık düştü. Otuz Mart’ta. General O’Hara teslim oldu. Yardım konvoyu ele geçirildi; yirmi iki nakliye, bir tanesi bile Kaya’ya ulaşamadı. Leviathan ve Centaur alındı. Tuğamiral Duckworth esir.” Bir an durdu. “Konvoyu Osmanlı gemileri basıp dağıtmış. Gülleleri geminin içinde patlıyormuş. Ve limanı, rüzgârsız bir gecede, yelkeni olmayan, küreği olmayan, kendi kendine yürüyen, borusundan ateş püsküren bir gemi kundaklamış.”
+“Pera. Şubat’ın on dokuzu. Bahçeden.” Bir an durdu. “Tigre’yi kumdan kurtarmaya çalışıyorlar; Kepez’de iki yüz adam gece gündüz fıçı bağlıyor. Haliç’te dört gemi sefere hazırlanıyor. İki yeni kalyon, iki firkateyn. Sancak Hüseyin Paşa’nın. Gidecekleri yer Akdeniz’in ağzı, deniyor. Kaya.” Kâğıdı çevirdi. “Tophane’de kimsenin girmediği bir atölyede içi boş gülleler dökülüyor. Malta’dan kaçan subaylarımızın anlattığı gülleler. Geminin içinde patlayan.” Bir an daha durdu. “Ve Haliç’te, rüzgârsız bir gecede, yelkeni olmayan, küreği olmayan, kendi kendine akıntıya karşı yürüyen, borusundan ateş püsküren bir gemi görülmüş.”
 
 Cavendish başını kaldırdı.
 
 “Kendi kendine yürüyen,” diye tekrarladı. “Rüzgârsız.”
 
 “Buhar,” dedi Banks yavaşça. “Watt’ın makinesi. Bir gemide.”
+
+Wickham kâğıdı masaya bıraktı. Sonra, aynı düz sesle, listeye kendi satırını ekledi.
+
+“Kaya’nın konvoyu Lizbon’da toplanıyor, Başbakan. Yirmi iki nakliye. Ayın sonunda Cebelitarık Boğazı’na girecek.”
 
 Kimse bir şey eklemedi.
 
@@ -2842,7 +2846,7 @@ Kapı kapandı.
 
 Somerset House’un küçük odasında, yeşil çuhalı masanın üstünde, siyah, hafif, artık ebediyen susmuş bir kutu yatıyordu.
 
-Ve iki bin beş yüz kilometre ötede, İstanbul’da, Has Bahçe’nin bir odasında, sabahın ilk ışıkları kafesin aralıklarından sızarken, Âsaf Paşa uyuyordu.
+Ve iki bin beş yüz kilometre ötede, İstanbul’da, Has Bahçe’nin bir odasında, gecenin en derin saatinde, kandilin son ışığı kafesin aralıklarında titrerken, Âsaf Paşa uyuyordu.
 
 Kutunun o gece son nefesinde ne söylediğinden habersizdi.
 
@@ -2858,11 +2862,13 @@ Mektup Nisan’ın yirmi altısında, Galata’daki Raguza konsoloshanesinden ge
 
 Raguza Cumhuriyeti’nin İstanbul konsolosu Nikola Pozza, yetmişine yaklaşmış, titiz, küçük yapılı bir adamdı. Her cümlesine bir azizin adını katar, her azizin adından sonra kafasında bir hesap yapardı. Küçük cumhuriyeti dört yüz yıldır, Venedik’le Osmanlı arasında, iki dev arasında bir serçe gibi yaşatıyordu. Serçenin sırrı neydi diye sorana, “Kımıldamamak ve herkese aynı şarkıyı söylemek,” derdi.
 
-Mektubu Bâb-ı Âli’ye kendi eliyle getirdi. Kendi eliyle Atıf Efendi’ye verdi. Ve vedalaşırken, kapının eşiğinde, sanki havadan bahseder gibi ekledi:
+Mektup Viyana’dan, Raguza’nın oradaki ajanının çantasında, Cumhuriyet’in kendi ulağıyla Belgrad’dan, Niş’ten, Edirne’den geçerek on beş günde gelmişti. Pozza onu Bâb-ı Âli’ye kendi eliyle getirdi. Kendi eliyle Atıf Efendi’ye verdi. Ve vedalaşırken, kapının eşiğinde, sanki havadan bahseder gibi ekledi:
 
 “Cumhuriyetimiz tarafsızdır, Efendim. Tarafsız bir cumhuriyetin en kıymetli malı da sessizliğidir. Aziz Blaise’in adına yemin ederim, bu mektubu bize kimin verdiğini kimse bilmeyecek. Ne Paris, ne Viyana. Ne de sizin o çok sevdiğiniz Korsikalı.”
 
 Mektup İngilizceydi. Kısa, kibar, kusursuz.
+
+*Viyana, 11 Nisan 1799*
 
 *Ekselansları Âsaf Paşa’ya.*
 
@@ -2886,7 +2892,7 @@ Atıf Efendi uzun süre ona baktı. Otuz yıllık bir diplomatın, yeni ve tehli
 
 “Bir tuzak olabilir.”
 
-“Olamaz, Efendim.” Yavuz mektubu bir kez daha okudu. “Tuzak kuran adam ‘medeni insanlar’ diye yazmaz. Kendine güvenen adam da yazmaz. Bu iki kelimeyi, karşısındakinin vahşi olmadığını uman adam yazar.” Mektubu katladı. “Korkuyorlar, Efendim. Ve korktuklarını benden saklamaya çalışırken, korkularını bana kendi elleriyle yazıyorlar.”
+“Olamaz, Efendim.” Yavuz mektubu bir kez daha okudu. “Tuzak kuran adam ‘medeni insanlar’ diye yazmaz. Kendine güvenen adam da yazmaz. Bu iki kelimeyi, karşısındakinin vahşi olmadığını uman adam yazar.” Parmağını kâğıdın başındaki satıra koydu. “Bir de buraya bakın, Efendim. Viyana. Londra’dan değil, yoldan yazmışlar. Cevabımı beklemeden yola çıkmışlar.” Mektubu katladı. “Korkuyorlar, Efendim. Ve korktuklarını benden saklamaya çalışırken, korkularını bana kendi elleriyle yazıyorlar.”
 
 “Korkan düşman, korkmayan düşmandan tehlikelidir.”
 
@@ -3164,7 +3170,7 @@ Elgin’in yüzü kızardı.
 
 “Onu Korsikalının eline mi teslim ettiniz? Bir kralın subayını? Kral katillerine?”
 
-“Hediye ettim,” dedi Yavuz sakin bir sesle. “Teslim değil, Lordum. Hediye. Bir şartla: Sağ, onurlu ve hür kalacaktı. Kaldı. Bonapart ona bir pasaport verdi. Bir akşam yemeğine oturdular. Sonra Phélippeaux istediği yere gitti.” Bir an durdu. “Bir hediyeyle bir ödünç arasındaki farkı Bonapart’a öğretmek istedim. Öğrendi. Size de öğretebilirim, Lord Elgin, ama sizinki daha uzun sürer.”
+“Hediye ettim,” dedi Yavuz sakin bir sesle. “Teslim değil, Lordum. Hediye. Bir şartla: Sağ, onurlu ve hür kalacaktı. Kaldı. Bonapart ona bir pasaport verdi. Bir akşam yemeğine oturdular. Sonra Phélippeaux istediği yere gitti. Bunu bana Bonapart kendisi yazdı.” Bir an durdu. “Bir hediyeyle bir ödünç arasındaki farkı Bonapart’a öğretmek istedim. Öğrendi. Size de öğretebilirim, Lord Elgin, ama sizinki daha uzun sürer.”
 
 ---
 
@@ -3204,7 +3210,7 @@ Wickham, ilk kez, cevabını bulamadığı bir soruyu bıraktı. Başka bir kap�
 
 Yavuz bekledi.
 
-“Hasan’ın kutusu. Viyana’dan, Ren’den geçip Londra’ya geldi.”
+“Hasan’ın kutusu. Viyana’dan, karlı yollardan, Husum’dan geçip Londra’ya geldi.”
 
 “Tahmin ediyordum.”
 
@@ -3396,7 +3402,7 @@ Ama eli, yine de, bir süre o boş cebin üstünde kaldı.
 
 ---
 
-Holwood, Kent, Haziran’ın ikisi. Gece.
+Holwood, Kent, Haziran’ın on dokuzu. Gece.
 
 William Pitt’in kır evi, Londra’nın on iki mil güneyinde, Bromley’nin tepelerinde, meşe ağaçlarının arasında, sade, kare, kırmızı tuğlalı bir evdi. Pitt buraya Londra’dan kaçmak için gelirdi. Ağaç dikmek, bahçede kazmayla uğraşmak, kimsenin bir şey istemediği birkaç saat geçirmek için.
 
@@ -3404,7 +3410,7 @@ Bu gece kimse ağaç dikmiyordu.
 
 Kütüphanede, şöminenin önünde, yedi adam oturuyordu.
 
-William Pitt. Lord Grenville. Savaş Bakanı Henry Dundas, iri, kırmızı yüzlü, İskoç aksanı sarhoşluğun her kadehiyle biraz daha koyulaşan, Pitt’in içki arkadaşı. William Wickham. Bozcaada’dan döneli on gün olmuş, hâlâ bir şeyi sindirememiş gibi görünen Lord Elgin. Bir ayını Downing Sokağı’nın bekleme odalarında geçirmiş, artık her şeyi on kez anlatmış olan John Spencer Smith. Ve gutlu ayağını bir taburenin üstüne uzatmış, Londra’dan arabayla homurdanarak gelmiş Sir Joseph Banks.
+William Pitt. Lord Grenville. Savaş Bakanı Henry Dundas, iri, kırmızı yüzlü, İskoç aksanı sarhoşluğun her kadehiyle biraz daha koyulaşan, Pitt’in içki arkadaşı. William Wickham. Bozcaada’dan döneli on gün olmuş, hâlâ bir şeyi sindirememiş gibi görünen Lord Elgin. Dört ayını Downing Sokağı’nın bekleme odalarında geçirmiş, artık her şeyi on kez anlatmış olan John Spencer Smith. Ve gutlu ayağını bir taburenin üstüne uzatmış, Londra’dan arabayla homurdanarak gelmiş Sir Joseph Banks.
 
 Sekizinci sandalye boştu.
 
@@ -3618,7 +3624,7 @@ Sonra Wickham, çok kibar bir sesle, cevap verdi.
 
 “Ne zaman?”
 
-“Geçen Nisan. Bahçıvan. Sarayın hasekisi. On iki yıllık adamımız. Ona şeftali çekirdeğinden yapılmış, en iyi Hint zehriyle tatlandırılmış bir gül şerbeti götürdü.” Wickham bir an durdu. “Ölen Bahçıvan oldu. Kalp krizi, dediler. Bütün saray inandı.”
+“Geçen yıl, Nisan’da. Bahçıvan. Sarayın hasekisi. On iki yıllık adamımız. Ona şeftali çekirdeğinden yapılmış, en iyi Hint zehriyle tatlandırılmış bir gül şerbeti götürdü.” Wickham bir an durdu. “Ölen Bahçıvan oldu. Kalp krizi, dediler. Bütün saray inandı.”
 
 “O halde daha iyi bir bahçıvan bulun.”
 
