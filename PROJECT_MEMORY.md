@@ -12,15 +12,16 @@ Yavuz Ateş alternatif tarih roman serisinin (1798 Osmanlı, zaman yolcusu mühe
 ## Decisions and rationale
 
 - 9 Kasım 2026 20:50: Yavuz bu klasördeki Claude Code oturumuna "Kütüphaneci" adını verdi; oturum kimliği `fa42d7d9-4fd4-489d-a78b-1a79cb754111`. Kayıt: `CLAUDE.md`.
+- 9 Kasım 2026 21:28–21:35: Yavuz onayladı ve deftere işlendi: ibret-i âlem kuralı (Et Meydanı yemini yalnız gözdağı); 3. Kitap 10 bölüm + 4 ara sahne; Tipu ölü kalır, kolordu Maskat'ta takıldı, Wellesley esir ve takas yok, Selim Ekim–Kasım 1799'da ölür, Korfu ara sahnesi Ağustos 1799, Balo Bölüm 8 (Ocak 1800), Kent 9, Westminster 10. Gerekçe: Bölüm 4 sonu Tipu'nun ölümüne kurulu; balo esir değişimiyle açıldığı için çıkarmadan önce olmalı.
 
 ## Current status
 
-- 1. Kitap Mühür (6 bölüm) ve 2. Kitap Ada (5 bölüm + ara sahne) tamam. 3. Kitap Yıldırım'da 4 bölüm ve 2 ara sahne (Kutu, Mühendis) var; defter planı 9 bölüm ve 2 ara sahne (Kutu, Mihaylovski).
+- 1. Kitap Mühür (6 bölüm) ve 2. Kitap Ada (5 bölüm + ara sahne) tamam. 3. Kitap Yıldırım'da 4 bölüm ve 2 ara sahne (Kutu, Mühendis) var; defter planı artık 10 bölüm ve 4 ara sahne (Kutu, Mühendis, Mihaylovski, Korfu).
 - 9 Kasım 2026 akşamı: dört Opus alt ajanıyla (Mühür, Ada, Yıldırım, Sohbet okuyucuları) seri boyu çelişki taraması yapıldı; kritik bulgular satır satır doğrulandı. Ayrıntılı rapor: `Tutarlılık Taraması – 9 Kasım 2026.md`. Kitap dosyalarına henüz dokunulmadı.
 
 ## Open issues
 
-- Yavuz'un karar vermesi gerekenler: Tipu'nun ölümü ve kaybolan Desaix kolordusu, başparenin Silahdar/Hüsrev çift çözümü, Silahdar'ın bilmesi gereken sırlar, Korfu buluşması notu, 3. kitap takvimi, Wickham'ın yolculuğu, İrlanda takvimi.
+- Büyük kararlar verildi (yukarıda). Kalan düzeltmeler: başparenin Silahdar/Hüsrev çift çözümü, Silahdar'ın bildiği sırlar, Ara Sahne II ve Wickham takvimi, İrlanda uyarısının tarihi, Bölüm 4'teki Mısır göndermeleri, net hatalar ve yazım hataları; ardından defterin 3. kitap özetleri.
 - Klasörün git remote'u yok; commit'ler yalnız yerelde.
 - 14 MB PDF commit edilmedi (büyük dosya).
 
