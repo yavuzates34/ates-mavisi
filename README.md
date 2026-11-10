@@ -1,6 +1,6 @@
 # Ateş Mavisi
 
-Yavuz Ateş serisinin, yani Yavuz ile birlikte eğlence amacıyla yazılan alternatif tarih roman serisinin çalışma klasörü. Klasör 9 Kasım 2026'da açıldı; seri bundan sonra burada sürdürülür.
+Yavuz Ateş serisinin, yani Yavuz ile birlikte eğlence amacıyla yazılan alternatif tarih roman serisinin çalışma klasörü. Klasör 9 Kasım 2026'da açıldı fakat çok daha önceden claude sohbet oturumlarında yazıldı; seri bundan sonra burada sürdürülür.
 
 ## Dosyalar
 

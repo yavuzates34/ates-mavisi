@@ -343,6 +343,79 @@ Yavuz bunları biliyor; ama artık sapmalar olabilir.
 - Bonapart, Yavuz'un hiç Tanrı'dan söz etmediğini fark eder, onun inançsızlığını sezer ama çaktırmaz.
 - Bonapart her şeyi hatırlayarak uyanır. Bourrienne'e Laplace için Uranüs'ün ötesini hesaplamasını isteyen bir mektup, İstanbul'a da tek satırlık bir mektup yazdırır: "Moskova sizin olsun."
 
+## 8b. 3. Kitap – *Yıldırım* (Aralık 1798 – Temmuz 1799) bölüm özetleri
+
+İlk dört bölüm ve iki ara sahne yazıldı; sırada Bölüm 5 – Kaplan.
+
+### Bölüm 1 – Nusret
+
+- Aralık 1798. Direği yıkılan *Tigre* Erenköy koyunda; Sir Sidney mektupla üç gün içinde Boğaz'ı geçip ahitnamenin suretini İstanbul önünde okuyacağını bildirir. Yavuz lodosu bekler: "Tıpkı Duckworth gibi."
+- Optik telgraf ilk kez sahnede: Davutpaşa sırtındaki on yedinci kule, Adalet Kulesi'nde Ömer *Miftâh* defteriyle çözer; Kale-i Sultaniye'nin haberi bir kahve içiminde gelir. Sultan: "On beş yıl kafeste yaşadım… Her şeyi en son öğrenen adamdım."
+- Kepez'deki yıkık yel değirmeni: Volta'dan önce dört zincir kavanoz pil, kauçuk kaplı kablolar, dört şalter (Elif, Be, Te, Se) ve dalyan kazıklarının dibinde on altı bakır kazan mayın. Şalterin başında Hasan. 4 Aralık'ı 5'ine bağlayan lodos gecesi kılavuzlu gemi ilk dizilerden kaçar; Yavuz monokülle "Te"yi patlatır, *Tigre* Kepez Burnu'nun kumuna oturur. Güvertede ölüler var; Hasan monokülden görür.
+- Sidney barut odasına fitil döşer, teslim olmaz. Yıldırım Timi ilk kez sahnede: Tatar Murad ve yirmi dört adam, Belgrad Ormanı'nda eğitilmiş; yalnız Sultan, Hüseyin Paşa ve Yavuz biliyor. Yavuz siyah gömlek ve kargo pantolonla, YEDEK'in gizli bölmesinden ilk kez çıkan tabanca belinde (ateşlenmez), baskına bizzat katılır. Fitil Teğmen Wright'ın elinden alınır; o gece kimse ölmez.
+- Kıç kamarada Sir Sidney: "I was beginning to think that you would not come." Yavuz ona Akka'yı ve Phélippeaux'yu anlatır, kılıcını almaz, onu gece kimse görmeden gemiden indirir. Sabah mizanada Osmanlı sancağı. Sidney Yedikule'ye, Phélippeaux Rumeli Hisarı'na.
+- 11 Aralık Divanı: İngiliz ahidnameleri ve kapitülasyonları mülga, Spencer Smith'e üç gün. Şeyhülislam: "Ahde vefa, ahde vefa edenedir." Smith Danimarka briki *Fortuna*'yla Trieste'ye gider; baştercüman Pisani iskelede alıkonur ("Onun hesabı ayrı görülecek"). Smith kutunun Noel'de Banks'in masasında olacağını söyler; Yavuz: "Açsınlar."
+- Final, 28 Aralık: Bonapart'ın Algeciras'tan 12 frimaire (2 Aralık) tarihli tek satırı: *Moscou est à vous.* Yavuz Moskova düşüncesini kimseye söylememiştir. Sultan'ın "Bunu biliyor muydun?" sorusuna ikinci kez: "Hayır… Ve nereden bildiğini de bilmiyorum."
+- Açılan kozlar: mayın hattı, optik telgraf, Yıldırım Timi.
+
+### Bölüm 2 – Viyana
+
+- Yavuz Şeyh Galib'e Sultan'ın neyini götürür. Galib: "Rüyalar da yol bilir… Hünkâr'ı koru. Kendinden de koru." 3 Ocak 1799 sabah ezanıyla, gerçek tarihle aynı gün ölür. Sultan'a "Biliyordum" der; Selim'in ölüm tarihini artık bilmediğini söyler: "O zehir benim bildiğim takvimi yaktı."
+- Gölge Odası ilk kez sahnede: Soğukçeşme'de adsız bir kahvehanenin helasından inilen Bizans sarnıcı; Lizbon'dan Kalküta'ya harita, yeşil iğneler (Pera, İzmir, Malta, Napoli, Petersburg, Hamburg, Viyana). Şifre başı Musa Kamhi frekans analiziyle İngiliz postasını çözer; İzmir'deki Levant Kumpanyası ambarında kaçak iki yüz fıçı barut Tophane'ye.
+- 10 Ocak: Avusturya internunçiyosu Baron Herbert-Rathkeal Thugut'un üç teklifini getirir: tarafsızlık, Viyana'da arabuluculuk, Kont Fries'ten İzmir ve Selanik gümrükleri teminatıyla on milyon fiorin borç. Çantası Edirne menzilhanesinde açılır: borç Grenville'in sübvansiyonudur, Avusturya–İngiltere ittifakı bahara kadar gizli, "Borç kılıçtan ucuzdur."
+- Viyana'daki Gölge Eleni Papadopulu: kutu Kasım'dan beri Sir Morton Eden'in elçilik mahzeninde; Smith'in "Noel'de Londra'da" sözü blöf. Şubat başında Stockerau'da kutu iki saatle kaçar: Habsburg kara odası Eleni'nin limon suyu mektuplarını okumuş, ulak batı yoluna çevrilmiştir. Yavuz Eleni'yi bir kanarya gibi kullanmaya karar verir.
+- 20 Şubat, Downing Sokağı: Spencer Smith dört saat anlatır, Sidney'nin mektubunu okur. Pitt: "ilk kez bizim en akıllı olmadığımız bir odaya girdik." Wickham'ın tek sorusu: "Bu adam neyi seviyor?"
+- 26 Şubat: Avusturya'nın ikili oyunu beş kişiye açılır; Defterdar hazinenin yazın dibini göreceğini söyler. Darphane'de Efemçukuru'nun altın külçeleri (iki milyon kuruşu aşkın); sırada Sart Çayı. "Borç almayacağız."
+- Şubat'ın son haftası: Pisani Galata kadısının önünde yargılanır (Mıgırdiç'in defteri, Yanni'nin tanıklığı); yedi yıl kalebentlik, Rumeli Hisarı'ndaki Tercüme Odası burcunda kitap çevirerek, her kitap cezadan üç ay düşer. *Tigre* kumdan kurtarılır, adı *Nusret* olur. Phélippeaux, Bonapart'a "ödünç değil hediye" mektubuyla yollanacak.
+- Final: Has Bahçe'deki odasında, bostancıların gözü önünde masaya bırakılmış, benzoinli kırmızı mumla mühürlü mektup: "Mr. Yıldız… Lütfen Ömer'e selamlarımı iletin. Ve çocuğa. W. W." Yavuz: "Bahçe yaşıyor."
+- Açılan kozlar: Gölge Odası, şifre odası, madenler.
+
+### Bölüm 3 – Kaya
+
+- Musa Kamhi mumun benzoinli Venedik mumu olduğunu bulur; Zanetto onu Perşembe Pazarı'ndaki Moretti'ye bağlar. Moretti'nin defteri: 14 Şubat, "Alì, haseki del Serraglio." Yavuz Haseki Ali'yi tutuklatmaz, izletir: "O bir el. Ben kolu istiyorum." Ömer'e her şeyi söyler; Ömer: "Korktuğunuzda siz daha tehlikeli olursunuz."
+- 5 Mart: *Nusret*, *Bahr-i Zafer*, *Mes'udîye*, patlayıcı mermili firkateynler *Şimşek* ve *Saika* ve buharlı römorkör *Cezve* (adını Hüseyin Paşa koydu) Hüseyin Paşa'yla Haliç'ten çıkar; Sultan Sepetçiler Köşkü'nden uğurlar. Yavuz'un üç emri: patlayan gülle yalnız savaş gemisine, Bonapart'ın emrine değil yanına, Phélippeaux'yu Bonapart'a elden ver ve yüzüne bak.
+- 21 Mart, Algeciras: Bonapart Osmanlı sancağını 21 topla selamlatır. Yavuz'un mektubunu okurken utançtan kızarır, Phélippeaux'ya pasaport verir: "Farkı anladım." Moskova'yı "yüzüne" anlatacağını söyler. Tercüman Tercüme Odası'ndan kâtip Said.
+- 25 Mart, Tarifa: Duckworth'ün *Leviathan*'ı patlayan güllelerle yanar, *Centaur* Nusret'in hesaplı bordalarıyla direksiz kalır; 22 nakliye batırılmadan alınır, erzak Algeciras'a. Duckworth Nusret'in kıç kamarasında esir: "Ve artık hiç görmeyeceksiniz, Amiral."
+- 28 Mart'ın rüzgârsız gecesi Kazancı Osman'ın kazanıyla *Cezve* limanın zincir bariyerini kırar, dört kundak gemisini içeri çeker; liman ve garnizonun son erzakı yanar. Bonapart San Roque'den görür: "Doğru yaptın, Paşa. Ben de vermezdim."
+- 30 Mart: Vali O'Hara Kara Kapı'da teslim olur, kılıcını önce İspanyol'a verir, Bonapart'a "Toulon" der. Kaya İspanya'nın. Bonapart sancak hesabını "kendi toprağımdan" ödeyeceğini söyler; bir gün için Kara Kapı'da Osmanlı sancağı.
+- Final, aynı gece İstanbul: Yavuz ve Murad kayıkhanede Haseki Ali'nin mektubu kime verdiğini görür: Hünkâr'ın kayığının dümencisi, Bostancıbaşı.
+- Açılan kozlar: patlayıcı mermi, buhar.
+
+### Ara Sahne – Kutu
+
+- Londra, 18 Mart 1799, Somerset House. Kutu Viyana'dan Tuna, Nürnberg, Hannover, Husum ve Kuzey Denizi üzerinden altı haftada gelmiştir; Pitt onu Banks'e yollar.
+- Banks, Cavendish ve Wickham açar. Cavendish saatçinin çıkardığı pili tanır ("Kutunun yemeği bu"); mikroskopta devre kartının "ormanı"; kutunun arkasında *Made in China*.
+- Cavendish Leyden şişesiyle besler: ekranda bir an *LOW BATT*, sonra duman. Kutu ebediyen susar.
+- Pitt gelir. Cavendish: "Bunu henüz doğmamış insanlar yapmış." Kopyalanamaz. Wickham: "Yüz yılımız yok."
+- Eden'in çantasından Bahçe'nin 19 Şubat tarihli Pera raporu: *Tigre*'nin kurtarılışı, Kaya'ya gidecek filo, içinde patlayan gülleler, Haliç'te buharlı gemi.
+- Pitt: kutu ve o geceki tek kelime bu odadan çıkmayacak, "Korkan bir ülke savaşamaz." Wickham'a: "Sevdiği şeyi bulun. Ama acele edin."
+- Final: Yavuz İstanbul'da uyuyor; kutunun son sözünden habersiz.
+
+### Ara Sahne II – Mühendis
+
+- 26 Nisan 1799: Raguza konsolosu Pozza, Viyana 11 Nisan tarihli Elgin–Wickham davetini getirir: 4 Mayıs, Bozcaada'nın batı açığı, Raguza briki *Sveti Vlaho*. Atıf karşı çıkar, Yavuz gider. Bonapart'a önceden yazar ("Bir müttefike sürpriz yapılmaz… bir rüyada belki"). Sultan: "Düşmanın sofrasına oturursan ekmeğini yeme… tuzunu da reddetme."
+- Musa Kamhi'nin dosyaları: Elgin'inki kalın (32, Mart'ta Mary Nisbet'le evlendi, Atina eserlerine göz dikmiş), Wickham'ınki boş. Murad'a Bostancıbaşı'nı izleme ve Hünkâr'ı koruma emri.
+- Terzi Agop altı günde takımı diker: siyah, kuyruksuz ceket, dar ütülü pantolon, Hint muslini beyaz gömlek, Bursa ipeği ateş mavisi kravat. Düğümü babası öğretmişti, İTÜ kaydından önceki gece. "Benim memleketimin, Usta."
+- 4 Mayıs: Elgin onu Paşa'nın kâtibi sanır. "He came, Lord Elgin. He's standing right in front of you." "Yavuz Ateş Yıldız. Engineer." Tuzu alır, ekmeği yemez.
+- Elgin'in teklifini (Mısır–Suriye güvencesi, Rusya'ya karşı donanma, "lütuf" para) reddeder, Fries borcunu bildiğini gösterir. Karşılıksız verdiği: *Tigre*, *Leviathan* ve *Centaur*'un yaklaşık 1.200 esirinden yaralı ve hastalar hekimleriyle, Raguza gemileriyle Lizbon'a; sağlamlar, subaylar, Sidney ve Duckworth savaş sonuna kadar misafir.
+- Wickham'ın soruları: "Mühendishâne" (İTÜ'nün kökü, yalansız), "Çin'de mi okudunuz?" Yavuz Asya'nın uyanacağını söyler, Pitt'in "Korkan bir ülke savaşamaz" cümlesini aynen tekrarlar; Wickham bembeyaz. Elgin'i Parthenon'a dokunmaması için uyarır. "Sizden nefret etmiyorum… Ama sizi asla sevmeyeceğim. Ve asla affetmeyeceğim."
+- Elgin'in "Bir aileniz var mı?" sorusunda bir an kıpırdar; Wickham deftere *Family* yazar. Yavuz aile fotoğrafını o gün bilerek YEDEK'in gizli bölmesinde bırakmıştır.
+- 19 Haziran, Holwood: Pitt, Grenville, Dundas, Wickham, Elgin, Spencer Smith, Banks (Cavendish: "Gelmeyeceğim. Kalabalık."). Elgin'in çizimi; teoriler: Amerikalı, İlluminati, Rus, Çinli, şarlatan. Pitt'in cümlesinin sızması ya bir hain ya akıl okuma; Dundas "öldürelim", Pitt "henüz değil"; Portsmouth'ta "The Pasha Sent Us Home" şarkısı.
+- Final: Wickham, Türklerde soyadı olmadığını, "Yıldız" ailesinin hiçbir yerde bulunmadığını söyler: "Ailesi bu dünyada değil." *Family* altına *Not of this world.* Dundas: "Mühendishâne'ye kayıt ücreti ne kadar?"
+
+### Bölüm 4 – Sancak
+
+- 24 Nisan 1799: *Nusret* esir Duckworth'le Sarayburnu'na döner. Sultan artık oturabiliyor; Hüseyin Paşa'yı kollarını açarak karşılar, Cezve'nin hikâyesine zehirlenmeden beri ilk kez güler. Bonapart'ın mektubu: sancak borcu karşılığı Yedi Ada (Korfu, Paksos, Ayamavra, İthaka, Kefalonya, Zante, Kythira); Moskova'yı yüz yüze anlatacak.
+- 28 Nisan: Mani'de İngiliz tüfeği ve altınıyla Manyat isyanı, Kalamata çevresinde Müslüman köyleri yanar. Divan'da vaizler, yeni Yeniçeri Ağası ve müderrisler intikam ve Patrik'in asılmasını ister. Yavuz Patrik Grigorios'u (1821) hatırlar, Matapan'da yakalanan Foresti mektubunu okur ("Türk'ün cevabı ne kadar kanlı olursa…"); Sultan kırk gün verir.
+- Atıf'ın getirdiği Rigas evrakı: Yorgi'nin çevirisiyle *Yeni Siyasi Yönetim* ve Belgrad muhafızının 24 Haziran 1798 tarihli boğdurma raporu. Yavuz o gün Rigas'ı hiç düşünmediğini fark eder: hedef, dipnotların boğulmadığı bir devlet.
+- 1 Mayıs, Fener: Patrik Neofitos ve Mihail Sutso'ya dört şey: Foresti mektubu Patrikhane mührüyle basılıp kiliselerde okunacak; Mora'ya kırk günlük af ve iki taraf için aynı mahkeme; kocabaşılara vergi yetkisi; Osmanlı himayesinde Yedi Ada'da bir Rum cumhuriyeti. "Rigas'ı boğdurdunuz." "Evet." Patrik elini Yavuz'un başına koyar, Mani'ye yeğenini Kumunduros Bey'e gönderir. "Bir şairden. Belgrad'da boğulan."
+- 12 Mayıs pazarı Foresti mektubu kiliselerde okunur. 14 Mayıs, Korfu: Patrona Kadir Bey teslim alır (Chabot'ya yalnız on dört teslim işaretlik bir sayılı işaret kitabı nüshası verilmiştir), Chabot'nun kılıcını almaz; Spianada'da sancağın altına Yedi Ada Cumhuriyeti bayrağı, çanlar. Chabot: "Bu Paşa'yı bir gün görmek istiyorum." Kumunduros tüfeğini Vitilo'daki boş İngiliz sandıklarının üstüne bırakır. Foresti Malta'ya kaçar; Grenville'in "Mora'da çıkacak her yangın, Paşa'nın gemilerini Akdeniz'de tutacaktır" mektubu ele geçer.
+- Bombay yalanı ("öbür eli" saklayan el): Ceb-i Târik'teki Riyale Bey, Lizbon'dan Afrika ve Hint haritalarını açıkça alır. 1 Haziran'da Has Oda'da Sultan, Sadrazam ve Yavuz, kapıdaki Hüsrev Ağa duysun diye sahte bir Bonapart mektubunu konuşur: Kızıldeniz'e on iki bin kişi, Ekim'de Bombay. 7 Haziran'da mektup Bahçe'nin yeni kuryesi Sakızlı kayıkçının elinde kopyalanır, altında bir gül, yoluna devam eder.
+- Kayıkhanede Hüsrev Ağa tutuklanır ("Sen gerçekten bu dünyadan değilsin, Paşa"); Haseki Ali başpareyi Hüsrev'in emriyle taktığını itiraf eder. 10 Haziran Divanı: Ceneviz sarrafının defteri, Bebek konağı, Zanetto; Musa Kamhi: başpareyi Silahdar ödedi, Hüsrev taktırdı. Hüsrev, Yavuz'un secdede dudaklarının kıpırdamadığını haykırır; Şeyhülislam: "Biz zahire hükmederiz." İdam; Haseki Ali ömür boyu Magosa'ya kalebent. Kapıda: "Ben son değilim." İbret Taşı'nın yaftası: "Ailesine dokunulmamıştır."
+- Ertesi akşam Sultan: "Secdede dudakların kıpırdamıyor mu, Yavuz?" "Size hiç yalan söylemedim." "O yüzden sormuyorum." Zehirlenmeden beri ilk kez ney üfler. Mahmud'un 5 Mayıs tarihli Maskat mektubu: İmam İngiliz ahdi yüzünden limanı açmıyor, muson başlıyor, Tipu'nun Halife'ye yazdığı mektup Cidde'de. Yavuz Tipu'nun 4 Mayıs'ta öldüğünü söyler; Sultan: "Bul onu."
+- Final, 25 Temmuz Londra: Lizbon'daki harita listesi ve gül imzalı mektup yan yana; Dundas Manş'tan altı, Akdeniz'den iki kalyonu Hint Okyanusu'na yollatır. İstanbul'da yeni dosya: *Kaplan.* "Manş'ta altı gemi eksik."
+- Açılan kozlar: sayılı işaret kitabı, Yedi Ada Cumhuriyeti (federasyonun ilk tohumu), Bombay dezenformasyonu.
+
 ## 9. 11 ayın arka planı: Gizli kozlar (Ocak–Aralık 1798)
 
 Yavuz Ocak 1798'in ortasında geldi; 2. Kitap 1 Aralık 1798 gecesi bitti. Aradan yaklaşık 10,5 ay (320 gün) geçti. Metinde görünenlerin dışında kurulan her şey gizli kaldı; dünya yalnızca bakır kaplamayı, ilk güllede vuran topu ve Et Meydanı'ndaki yıldırımı gördü ve onlara "Fransız usulü" dedi. 3. Kitap'ta bu kozların her biri savaşın bir anında ilk kez açılır.
