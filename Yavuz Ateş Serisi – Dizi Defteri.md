@@ -2,9 +2,9 @@
 
 ## Talimat
 
-Seninle eğlence amaçlı, alternatif tarih türünde bir roman serisi yazıyoruz. 1. Kitap *Mühür* (6 bölüm) ve 2. Kitap *Ada* (5 bölüm) tamamlandı; şimdi 3. Kitap *Yıldırım*'a geçiyoruz. Bu defter serinin bütün bağlamıdır; tutarlılığı buna göre koru.
+Seninle eğlence amaçlı, alternatif tarih türünde bir roman serisi yazıyoruz. 1. Kitap *Mühür* (6 bölüm) ve 2. Kitap *Ada* (5 bölüm) tamamlandı. 3. Kitap *Yıldırım*'da 4 bölüm ve 2 ara sahne yazıldı (Nusret, Viyana, Kaya, Ara Sahne: Kutu, Ara Sahne II: Mühendis, Sancak); sırada Bölüm 5 – Kaplan. Bu defter serinin bütün bağlamıdır; tutarlılığı buna göre koru.
 
-Birinci kitabın tam metni: [Yavuz Ateş – 1. Kitap: Mühür](https://claude.ai/artifact/33rp1rUZPub93tN1pQGr59)
+Birinci kitabın eski artifact bağlantısı: [Yavuz Ateş – 1. Kitap: Mühür](https://claude.ai/artifact/33rp1rUZPub93tN1pQGr59). Güncel metinler bu klasördeki dosyalardır.
 
 ## 1. Karakter kartı – Yavuz Ateş Yıldız
 
@@ -15,6 +15,7 @@ Birinci kitabın tam metni: [Yavuz Ateş – 1. Kitap: Mühür](https://claude.a
 - Soyu, Çağa'da çıkan büyük bir yangında kayıtlar yandığı için geriye doğru izlenemiyor.
 - 1,82 boyunda, kaslı ve fit. Kumral, kısa asker tıraşlı, beyaz tenli. Gözleri yeşil-mavi, açık deniz rengi. Bıyıklı, sakalsız. Chris Evans'a benziyor.
 - Giyim: Zaman geçtikçe keten gömlek, kumaş pantolon gibi klasik, sade ve kendine özgü bir tarza yöneliyor; kendine özel terziler tuttu. Kaftan, sarık ve kavuk bir yere kadar: yalnızca Divan'da, huzurda ve törenlerde. Gece işlerinde kendi zamanından getirdiği siyah gömlek/tişört ve kargo pantolon.
+- Takım (3. Kitap, Ara Sahne II): Terzi Agop'un diktiği siyah, kuyruksuz ceketli 21. yüzyıl kesimi takım (dar, ütü çizgili pantolon, yelek), beyaz Hint muslini gömlek, Bursa ipeğinden ateş mavisi kravat. Kravat düğümünü babasından öğrendi (İTÜ kaydından önceki gece). İlk kez Bozcaada'da İngilizlerin karşısında giydi.
 - Sağ elini kullanıyor.
 
 ### Aile
@@ -43,7 +44,7 @@ Birinci kitabın tam metni: [Yavuz Ateş – 1. Kitap: Mühür](https://claude.a
 ### İnanç ve alışkanlıklar
 
 - Gerçekte inançsız, ama bunu kimseye söylemiyor ve kimseye zararı yok.
-- Gücü eline geçirene kadar namaz kılıp inançlı gibi davranıyor. Namazı çocukken babasından öğrendi. Sultan bir şeyler sezmiş olabilir ama hiç sormadı.
+- Gücü eline geçirene kadar namaz kılıp inançlı gibi davranıyor. Namazı çocukken babasından öğrendi. Sultan sezdi ve iki kez sordu: 1. Kitap'ta "Müslüman mısın, Yavuz Ateş?"; 3. Kitap Bölüm 4'te, Hüsrev Ağa Divan'da Yavuz'un secdede dudaklarının kıpırdamadığını haykırdıktan sonra, "Secdede dudakların kıpırdamıyor mu, Yavuz?" Yavuz: "Size hiç yalan söylemedim." Sultan: "O yüzden sormuyorum."
 - Şeyh Galib de bir şey sezdi: "O ateş bu tekkede ısınmadı, başka bir ocakta yandı." Bonapart da Cebelitarık'taki rüyasında sezdi ama çaktırmadı (Yavuz bundan habersiz).
 - Kahveyi seviyor. Sigara içmiyor. İçkiyi pek içmiyor, burada hiç içmiyor. Kumar, uyuşturucu vs gibi alışkanlıkları aptalca buluyor nefret ediyor.
 
@@ -148,51 +149,72 @@ Birinci kitabın tam metni: [Yavuz Ateş – 1. Kitap: Mühür](https://claude.a
 
 ## 3. Yan karakterler ve durumları
 
-| Karakter | Kim | Durumu (2. Kitap sonu, Aralık 1798) |
+| Karakter | Kim | Durumu (3. Kitap Bölüm 4 sonu, Temmuz 1799) |
 | --- | --- | --- |
-| Sultan III. Selim (37) | Şair (mahlası İlhamî), Mevlevî, ney çalar, Sûzidilârâ makamının yaratıcısı; 12 yıl kafeste yaşadı | Ney'inin başparesine konan arsenikle zehirlendi. Hayatta ama kalıcı olarak halsiz; bastonla bir iki adım atıyor, ney çalamıyor. 3. Kitap'ın 7. Bölümünde ölecek. Yavuz'a derin sevgi; Silahdar'ın son sözü ve Et Meydanı yemininden sonra içindeki ürperti büyüdü. İngiltere'ye savaş ilan eden hattı kendi titrek eliyle yazdı |
-| Sadrazam İzzet Mehmed Paşa | Mühr-i Hümâyûn'u taşıyan vezir | Yavuz'un müttefiki. Divan'da onu Yeniçeri Ağası'na karşı korudu; Et Meydanı gecesi tarafını seçti. "Yalan söyle ama yakalanma" der |
-| Atıf Efendi (\~50) | Reisülküttab, kurnaz diplomat | Yavuz'un ilk ve en güvendiği dostu. Bozcaada'da ahitnameyi o yürüttü, Silahdar'ın yolsuzluğunu Ömer'le defterlerden çıkardı. Yavuz'un sertleşmesinden biraz tedirgin. Sık sözü: "Bilmiyorsun. Ama öğreneceksin" |
-| Küçük Hüseyin Paşa | Kaptan-ı Derya, Sultan'ın sütkardeşi; gür sesli, kahkahacı denizci | Bakır kaplamalı filonun başında. Savaş ilanını Kale-i Sultaniye'de göğsüne bastırdı: "Yirmi yıldır bu kâğıdı bekliyorum." Mahmud'u on iki yaşında on iki kuruşa satın almış |
-| Kâtip Ömer (\~20) | Atıf Efendi'nin kâtibi; Yavuz'un kardeşiyle aynı ad ve yaş | Silahdar'ı el yazısındaki kef harfinden yakaladı, Divan'da ilk kez konuştu. Arka planda Tercüme Odası'nın başında. Yavuz'un içindeki kırılmayı ilk o gördü |
-| Mahmud "kaplan" (23) | Hüseyin Paşa'nın kethüdası | Tipu Sultan'a giden Osmanlı elçisi ve Desaix kolordusunun Osmanlı kumandanı. İskenderun'da Desaix'yle buluştu. Bileğinde Yavuz'un kol saati; Wellesley'ye karşı uyarıldı |
-| Kara Ali Reis | Yaşlı reis | Mahmud'la birlikte; Basra filosunu okyanusa hazırlayacak. Telsize hâlâ "şeytan icadı" diyor |
-| Desaix (30) | Fransız generali, yüzünde kılıç izi | 4.000 kişilik kolorduyla Osmanlı sancağı altında Hindistan'a gidiyor. Mahmud'u sevdi; saatteki ışığa takıldı |
+| Sultan III. Selim (37) | Şair (mahlası İlhamî), Mevlevî, ney çalar, Sûzidilârâ makamının yaratıcısı; 15 yıl kafeste yaşadı | Ney'inin başparesine konan arsenikle zehirlendi; kalıcı olarak halsiz. Nisan 1799'dan beri sedirde oturabiliyor; Cezve'nin hikâyesine zehirlenmeden beri ilk kez güldü, Haziran 1799'da ilk kez ney üfledi (kırık bir Segah taksimi). 3. Kitap'ın 7. Bölümünde ölecek. Yavuz'a derin sevgi; secdeyi sordu, "O yüzden sormuyorum" dedi. Hüsrev Ağa'nın ihanetiyle sarsıldı ("Bana yunusları o gösterdi"). Tipu'nun Cidde'deki mektubunu bulmasını emretti |
+| Sadrazam İzzet Mehmed Paşa | Mühr-i Hümâyûn'u taşıyan vezir | Yavuz'un müttefiki. Divan'da onu Yeniçeri Ağası'na karşı korudu; Et Meydanı gecesi tarafını seçti. "Yalan söyle ama yakalanma" der. Bombay yalanında Has Oda'daki sahte konuşmada rolünü kusursuz oynadı |
+| Atıf Efendi (\~50) | Reisülküttab, kurnaz diplomat | Yavuz'un ilk ve en güvendiği dostu. Bozcaada'da ahitnameyi o yürüttü, Silahdar'ın yolsuzluğunu Ömer'le defterlerden çıkardı. Yavuz'un sertleşmesinden biraz tedirgin. Sık sözü: "Bilmiyorsun. Ama öğreneceksin". Yıldırım Timi'nden habersiz. Rigas'ın evrakını Hazine-i Evrak'tan çıkarıp Yavuz'a getirdi |
+| Küçük Hüseyin Paşa | Kaptan-ı Derya, Sultan'ın sütkardeşi; gür sesli, kahkahacı denizci | Bakır kaplamalı filonun başında. Savaş ilanını Kale-i Sultaniye'de göğsüne bastırdı: "Yirmi yıldır bu kâğıdı bekliyorum." Mahmud'u on iki yaşında on iki kuruşa satın almış. Yıldırım Timi'ni bilen üç kişiden biri. *Nusret*'le Algeciras, Tarifa ve Cebelitarık'ta; Duckworth'ü esir aldı, 24 Nisan 1799'da İstanbul'a döndü. Filoyu Ceb-i Târik'te Riyale Bey'e bıraktı |
+| Kâtip Ömer (\~20) | Atıf Efendi'nin kâtibi; Yavuz'un kardeşiyle aynı ad ve yaş | Silahdar'ı el yazısındaki kef harfinden yakaladı, Divan'da ilk kez konuştu. Tercüme Odası'nın başında (Rumeli Hisarı'ndaki burç); kalebent Pisani onun gözetiminde kitap çeviriyor. Adalet Kulesi'nde optik telgrafı *Miftâh* defteriyle çözüyor. Wickham'ın mektubunda adı geçtiği için kapısında iki muhafız. Yavuz'un içindeki kırılmayı ilk o gördü |
+| Mahmud "kaplan" (23) | Hüseyin Paşa'nın eski kethüdası (yerine yeni kethüda geldi) | Tipu Sultan'a giden Osmanlı elçisi ve Desaix kolordusunun Osmanlı kumandanı. 5 Mayıs 1799'da Maskat açığında, Desaix ve Kara Ali'yle; İmam, Ekim 1798'de Mehdi Ali Han eliyle yapılan İngiliz ahdi yüzünden limanı açmıyor, kolordu gemilerde, muson başlıyor. Tipu'nun öldüğünü henüz bilmiyor ("Yetişeceğiz"). Bileğinde Yavuz'un kol saati; Wellesley'ye karşı uyarıldı |
+| Kara Ali Reis | Yaşlı reis | Mahmud'la Maskat'ta, "rüzgâra sövüyor". Telsize hâlâ "şeytan icadı" diyor |
+| Desaix (30) | Fransız generali, yüzünde kılıç izi | 4.000 kişilik kolorduyla Osmanlı sancağı altında; Maskat'ta takıldı, sabırsız. Mahmud'u sevdi; saatteki ışığa takıldı |
 | Hekimbaşı | Kırk yıllık hekim | Yavuz'un en büyük destekçilerinden. Divan'da "kırk yılıma yalancı demiş olur" diyerek onu savundu |
 | Abdullah | Halepli tıp talebesi | Penisilin küfünü buldu; Marsh testiyle başparedeki arseniği gösterdi; Et Meydanı'nda yıldırım makinesinin anahtarını o kapattı |
-| Hasan (15–16) | Bostancı acemisi, ilk "elektrikçi çırak" | Bayezıt yangın kulesinden Ocak'ı gözledi. Kalaycı Ahmed tarafından kaçırılıp İngiliz elçiliğinin mahzenine kapatıldı; Yavuz'un "yangın" baskınıyla kurtarıldı. Smith'e "kutu yalnızca Paşamın sesini tanır" yalanını söyledi |
-| Hacı Nuri Usta | Tophane'nin ak sakallı topçu ustası | İlk güllede vuruyor. *Tigre*'nin ana direğini o yıktı |
-| Şeyh Galib (41) | Galata Mevlevîhânesi postnişini, Hüsn ü Aşk'ın şairi | Başparenin torna izini o fark etti. Yavuz'un içindeki "başka ocakta yanan ateşi" sezdi. Ocak 1799'da ölecek |
+| Hasan (15–16) | Bostancı acemisi, ilk "elektrikçi çırak" | Bayezıt yangın kulesinden Ocak'ı gözledi. Kalaycı Ahmed tarafından kaçırılıp İngiliz elçiliğinin mahzenine kapatıldı; Yavuz'un "yangın" baskınıyla kurtarıldı. Smith'e "kutu yalnızca Paşamın sesini tanır" yalanını söyledi. 16 yaşında; Kepez değirmeninde mayın şalterlerinin başındaydı, "Te"yi o indirdi ve *Tigre*'nin güvertesindeki ölüleri monokülden gördü: ilk kez bir şalterle insan öldürdü. Multimetre onda. Mekteb-i Hendese'deki kapısında iki muhafız |
+| Hacı Nuri Usta | Tophane'nin ak sakallı topçu ustası | İlk güllede vuruyor. *Tigre*'nin ana direğini o yıktı. *Şimşek*'ten ilk patlayıcı gülleyi kendi eliyle atıp *Leviathan*'ı yaktı |
+| Şeyh Galib (41) | Galata Mevlevîhânesi postnişini, Hüsn ü Aşk'ın şairi | Öldü: 3 Ocak 1799, sabah ezanıyla, gerçek tarihle aynı gün. Son sözleri Yavuz'a: "Rüyalar da yol bilir… Hünkâr'ı koru. Kendinden de koru." Sultan'ın neyi göğsünün üstünde bırakıldı |
 | Müneccimbaşı | Yaşlı astrolog | Arka planda Galata rasathanesi kuruldu; Jüpiter'in uyduları ona gösterildi |
-| Şeyhülislam | — | Temkinli. Âsaf benzetmesini o kurdu. Tavır belirsiz |
-| Silahdar Süleyman Ağa | Has Oda'nın kapısında yirmi yıl | "Bahçe"nin adamı. Güherçile yolsuzluğu ve İngiliz altınıyla zehirli başpareyi o yaptırdı. Divan hükmü: mührü kırıldı, malı Azadlı işçilerine dağıtıldı, adı kitabelerden kazındı, yalısı Mekteb-i Hendese-i Azadlı oldu. Kanı dökülmedi: ömür boyu dilsizlerin arasında susacak |
+| Şeyhülislam | — | Temkinli. Âsaf benzetmesini o kurdu. Kapitülasyonların kaldırılışında "Ahde vefa, ahde vefa edenedir" dedi; Hüsrev Ağa davasında "Biz zahire hükmederiz" diyerek Yavuz'un kalbinin yargılanmasını reddetti |
+| Silahdar Süleyman Ağa | Has Oda'nın kapısında yirmi yıl | "Bahçe"nin adamı. Güherçile yolsuzluğu; zehirli başpareyi Sarraf Mıgırdiç'in poliçesiyle o yaptırıp ödedi, Hüsrev Ağa taktırdı. Divan'da Arz Odası'nın sırlarını İngiliz elçisine sızdırmadığını söyledi; ortağını ele vermemek için "Başpare doğru" deyip sustu. Divan hükmü: mührü kırıldı, malı Azadlı işçilerine dağıtıldı (sarraf Mıgırdiç Smith'e iade edildi), adı kitabelerden kazındı, yalısı Mekteb-i Hendese-i Azadlı oldu. Kanı dökülmedi: ömür boyu dilsizlerin arasında susacak |
 | Kalaycı Ahmed | 49. Orta'nın odabaşısı, Smith'ten altın alan | Et Meydanı isyanının elâbasısı. Hasan'ı kaçırdı. Kız Kulesi'nde tutuluyor; hücresinde her gece bir mum yanıyor, gerisini şehir anlatıyor |
 | Kapıağası | Akağaların başı | Şehzade Mahmud'un gizli derslerini bilen beş kişiden biri |
-| Bostancıbaşı | Saray muhafızlarının başı | Sert ve şüpheci. Durumu belirsiz |
+| Bostancıbaşı Hüsrev Ağa | Saray muhafızlarının başı; altmışına yakın, iri yarı, kır bıyık ve kır sakal; Hünkâr kayığının dümencisi | Yavuz'u ilk gece iskelede karşılayan ve üç adını duyan adam. "Bahçe"nin kökü ve Silahdar'ın ortağı: Silahdar'ın yaptırıp ödediği başpareyi Haseki Ali eliyle "Galata Mevlevîhânesi'nin hediyesi" diye Hünkâr'ın neyine taktırdı; Wickham'ın mektubunu Ali'yle Yavuz'un masasına bıraktırdı. Bombay yalanıyla yakalandı; 10 Haziran 1799'da Divan'da vekille yargılandı, Yavuz'un secdesini suçlama kalkanı yapmaya çalıştı, idam edildi; başı İbret Taşı'nda, yaftada "Ailesine dokunulmamıştır". Bebek'teki konağı sıbyan mektebi olacak. Son sözü: "Ben son değilim" |
+| Haseki Ali | Has Bahçe hasekisi | Moretti'den benzoinli mumu aldı, mektupları taşıdı, başpareyi Hüsrev'in emriyle taktı. İtiraf etti; ömür boyu Magosa kalesine kalebent |
 | Yusuf Agâh Efendi | Eski Londra elçisi | Hain değil. "Hasta" bahanesiyle konağında. Sultan onunla hâlâ konuşmadı |
-| Yanni | Galatalı Rum tercüman | Çift taraflı ajan. Smith'in "Bahçe söyledi" cümlesini, telsizin açıldığını ve ulağı haber verdi; Hasan'ın kurtarılışında kâhyanın anahtarını o aldı |
-| Thomas Walsh | Eski elçilik kâtibi, kızıl saçlı, Wexford'lu | "O soru" soruldu: "Hangi toprağa gömülmek istiyorsunuz?" Cevabı: Wexford. Elçiliğin planını verdi, serbest bırakıldı. Toulon üzerinden Brest'e gidiyor; cebinde Wolfe Tone'un adını yazan bir kâğıt |
-| Zanetto | Galatalı Venedikli kemik tornacısı | Başpareyi yaptı; Sarraf Mıgırdiç'in poliçesini sakladı |
+| Yanni | Galatalı Rum tercüman | Çift taraflı ajan. Smith'in "Bahçe söyledi" cümlesini, telsizin açıldığını ve ulağı haber verdi; Hasan'ın kurtarılışında kâhyanın anahtarını o aldı. Pisani davasında mahkemede yeminli tanıklık etti; bu yüzden Bahçe onun yerine Sakızlı bir kayıkçıyı kurye tuttu |
+| Thomas Walsh | Eski elçilik kâtibi, kızıl saçlı, Wexford'lu | "O soru" soruldu: "Hangi toprağa gömülmek istiyorsunuz?" Cevabı: Wexford. Elçiliğin planını verdi, serbest bırakıldı. Toulon üzerinden Brest'e gidiyor; cebinde Tone'a (Fransız ordusunda "Adjudant-général Smith") bir tanıtma mektubu ve Brest'te İrlanda'ya erzak ve takviye toplayan bir Fransız komiserin adı. Tone çoktan denizde; Walsh komiserin gemileriyle Mayo'ya geçecek |
+| Zanetto | Galatalı Venedikli kemik tornacısı | Başpareyi yaptı; Sarraf Mıgırdiç'in poliçesini sakladı. Wickham mektubunun mumunu Moretti'ye bağladı; Hüsrev davasında bitmiş başpareyi bir bostancının aldığına tanıklık etti |
 | Tomara | Rus elçisi | Çar Pavel'e Malta teklifini götürdü; ayda üç acele kurye gönderdi |
 | Valide Mihrişah Sultan | Sultan'ın annesi | Sahnede görünmedi |
-| Şehzade Mahmud (13) | Tahtın varisi, kafeste | Salı ve cuma gizlice Yavuz'un derslerine geliyor. "Mustafa ağabeyim bunu asla bilmemeli" dedi |
+| Şehzade Mahmud (14) | Tahtın varisi, kafeste; 20 Temmuz 1785 doğumlu (Temmuz 1799'da 14 oldu) | Salı ve cuma gizlice Yavuz'un derslerine geliyor; dersleri saray dışında Hüseyin Paşa da biliyor. "Mustafa ağabeyim bunu asla bilmemeli" dedi |
 | Şehzade Mustafa (19) | Tahtın diğer varisi, kafeste | Et Meydanı'nda adı bağırıldı; Ocak'ın umudu |
+| Musa Kamhi (60) | Galata'nın eski Sefarad ailelerinden, kırk yıllık sarraf defterçisi, gözlüklü, beyaz sakallı | Gölge Odası'nın şifre başı; frekans analizini Yavuz'dan öğrendi. Herbert'in çantasını, Wickham'ın mumunu, Bahçe'nin "gül" imzalı mektubunu çözdü; Hüsrev davasında başparenin hesabını Divan'a anlattı |
+| Tatar Murad (34) | Dobrucalı, on iki yıl Devletin en hızlı Tatarı; kısa, ince, çekik gözlü, sol elinin sırtında yanık izi | Yıldırım Timi'nin başı. Az konuşur (çoğu zaman tek kelime). *Tigre*'de fitili kendi parmaklarıyla söndürdü; Bozcaada'ya Yavuz'la gitti, Hüsrev'i tutukladı |
+| Kazancı Osman (50) | Tophane'nin en iyi bakır dövmecisi | *Cezve*'nin kazanını yaptı (iki kez patladı, kaşları yandı); Cebelitarık'ın zincirini kırdığı gece ocağın başındaydı |
+| Terzi Agop Usta (62) | Galata, Kumbaracı Yokuşu; kırk yıldır Frenk tacirlerine ve elçilik kâtiplerine terzi | Bir yıldır Yavuz'un terzisi; siyah takımı altı gün altı gecede dikti |
+| Patrona Kadir Bey | Osmanlı amirali | 14 Mayıs 1799'da Korfu'yu Chabot'dan teslim aldı, kılıcını almadı, Yedi Ada Cumhuriyeti bayrağını çektirdi |
+| Riyale Bey | Osmanlı amirali | Hüseyin Paşa'nın Ceb-i Târik'te bıraktığı filonun başında; Bombay yalanı için Lizbon'dan Afrika ve Hint haritalarını açıkça aldı |
+| Patrik Neofitos (VII.) | Rum Patriği, elli küsur yaşında | Mora isyanında asılması istendi; Yavuz'un dört teklifini kabul etti, Foresti mektubunu kiliselerde okuttu, Yavuz'un başına elini koyup dua etti. Patrikhane'nin orta kapısı açık |
+| Mihail Sutso | Fener'in büyük ailelerinden, Eflak ve Boğdan beylerinin babası, eski Divan baştercümanı | Fener'deki görüşmede; Foresti mektubunu okudu. "Bu cumhuriyet fikrini kimden aldınız?" "Bir şairden. Belgrad'da boğulan" |
+| Kumunduros Bey | Mani'nin Manyat beylerinden | Patrik'in yeğeni ve iki fermanla ikna oldu; tüfeğini Vitilo'daki boş İngiliz sandıklarının üstüne bıraktı, adamları da |
+| Spiridon Foresti | Zante'deki İngiliz mukimi | Manyat isyanını İngiliz silah ve altınıyla örgütledi; mektubu Matapan'da yakalandı ve Rumca basılıp kiliselerde okundu. Yedi Ada devredilince Malta'ya kaçtı; masasında Grenville'in mektubu kaldı |
+| General Louis Chabot (~45) | Korfu'daki Fransız komutanı | Yedi Ada'yı Bonapart'ın emriyle teslim etti; kılıcını kendisi taşıyarak çıktı. "Bu Paşa'yı bir gün görmek istiyorum" |
+| Eleni Papadopulu (40) | Kozanili Rum dul; Viyana Fleischmarkt'ta kahvehane | Viyana'daki tek Gölge. Kutuyu iki saatle kaçırdı; Habsburg kara odası mektuplarını okuyor. Artık bilerek okunan bir kanarya |
+| Phélippeaux (31) | Kralcı Fransız topçu subayı; Sidney'yi Temple'dan kaçıran, Brienne'de Bonapart'ı geçen sınıf arkadaşı | *Tigre*'den esir alındı, Rumeli Hisarı'nda tutuldu, Bonapart'a "hediye" edildi; Bonapart'tan pasaport aldı, bir akşam yemeğinden sonra bilinmeyen bir yere gitti |
+| Said (22) | Tercüme Odası kâtibi; Fransızcası Parisli kadar temiz | Hüseyin Paşa'nın Algeciras, Tarifa ve Cebelitarık'taki tercümanı |
+| Yorgi | Musa Kamhi'nin odasından genç Rum kâtip | Rigas'ın anayasasını Yavuz'a çevirdi; Fener'de tercümanlık etti |
 
 ## 4. Düşmanlar silsilesi
 
 Ana düşman İngiliz İmparatorluğu'nun kendisidir; hedef onu haritadan silmek.
 
 1. **İngiliz İmparatorluğu:** Asıl düşman. 1 Aralık 1798'den beri Osmanlı ile resmen savaşta.
-2. **William Pitt:** Başbakan. Henüz sahnede değil.
-3. **Lord Grenville:** Dışişleri Bakanı. Henüz sahnede değil.
-4. **John Spencer Smith:** İstanbul elçisi, "Bahçe" ağının başı. Silahdar'ı ve 13 Ocak subayını sarraf Mıgırdiç üzerinden satın aldı; Sultan'ın zehirlenmesinin ve Et Meydanı isyanının arkasında. Hasan'ı kaçırttı, telsizi saatçi Bertolotti'ye açtırdı ve bir kraliyet ulağıyla Viyana üzerinden Londra'ya gönderdi. Yavuz'la iki kez yüz yüze geldi (Bâb-ı Âli ve elçilik bahçesi). Savaş ilanından sonra akıbeti belirsiz.
-5. **Sir Sidney Smith:** Smith'in ağabeyi. Nisan 1798'de Temple Hapishanesi'nden kaçtı. *Tigre* (80 top) ile Çanakkale önünde ultimatom verdi; ana direği Hacı Nuri Usta'nın ilk güllesiyle yıkıldı.
-6. **Pisani:** Elçiliğin baştercümanı.
-7. **Bahçe ağının budanan dalları:** Rüstem Ağa ("Bahçıvan") idam edildi; Silahdar Süleyman Ağa ömür boyu susturuldu; Kalaycı Ahmed Kız Kulesi'nde. Sarraf Mıgırdiç bilerek Smith'e geri verildi; defteri Yavuz'da.
-8. **Nelson:** 2 Eylül 1798'de Malta'da, Bonapart'ın kurduğu tuzakta öldü. İngiliz Akdeniz filosu yok edildi.
-9. **Wellesley kardeşler:** Genel Vali Mornington ve kardeşi Albay Arthur Wellesley. Hindistan'da, Tipu'nun karşısında.
-10. **İç düşmanlar:** Azledilen Yeniçeri Ağası Gelibolu Kalesi'nde muhafız. Ocak sindirildi ama küskün; kafesteki Mustafa onların umudu. Muhafazakâr ulema sessiz.
-11. **Belirsiz dost/düşman – Bonapart:** Yavuz'un hem kozu hem en büyük riski. Malta'da Osmanlı sancağını izinsiz kullandı ve Devleti savaşa bağladı; Yavuz bunu unutmayacak. Gelecekteki rakip.
+2. **William Pitt:** Başbakan; sahnede. Kutuyu Somerset House'da gördü, kimseye (Kabine, Kral, gazeteler) söyletmedi: "Korkan bir ülke savaşamaz." Bu cümlenin Bozcaada'da Yavuz'un ağzından çıkması onu sarstı. Holwood'da Dundas'ın "öldürelim"ine "henüz değil" dedi.
+3. **Lord Grenville:** Dışişleri Bakanı, Pitt'in kuzeni; sahnede. Avusturya'ya verdiği sübvansiyondan Bâb-ı Âli'ye Fries borcunu kurdurdu; Foresti'ye "Mora'da çıkacak her yangın, Paşa'nın gemilerini Akdeniz'de tutacaktır" diye yazdı. Barruel okuru, Yavuz'u İlluminati sanıyor.
+4. **William Wickham (37):** Casusbaşı, Yabancılar Dairesi'nin başı; dört yıl Bern'de ağ kurdu, İsviçreli bir kadınla evli, dosyası boş. "Bu adam neyi seviyor?" Yavuz'a "Mr. Yıldız" diye yazdı, Ömer'e ve çocuğa selam gönderdi. Kutunun açılışında ve Bozcaada'daydı; defterinde *Family* ve altında *Not of this world*. Pera'da "budanmamış dallar"ı var.
+5. **Lord Elgin (32):** Elgin'in yedinci kontu; savaş bitince İstanbul büyükelçisi olacak. Bozcaada'da Yavuz'u önce kâtip sandı; Parthenon'a dokunmaması için uyarıldı, ailesini sordu.
+6. **Henry Dundas:** Savaş Bakanı ve Hindistan İşleri Kurulu'nun başkanı, Pitt'in içki arkadaşı. "Öldürelim." Bombay yalanına inandı; 25 Temmuz 1799'da Manş'tan altı, Akdeniz'den iki kalyonu Hint'e yollattı.
+7. **John Spencer Smith:** Eski İstanbul elçisi, "Bahçe" ağının başı. Silahdar'ı ve 13 Ocak subayını sarraf Mıgırdiç üzerinden satın aldı; Sultan'ın zehirlenmesinin ve Et Meydanı isyanının arkasında. Hasan'ı kaçırttı, telsizi saatçi Bertolotti'ye açtırdı ve bir kraliyet ulağıyla Viyana üzerinden Londra'ya gönderdi. Kapitülasyonlar kaldırılınca sınır dışı edildi (Aralık 1798, *Fortuna* ile Trieste); Şubat'ta Londra'da Pitt'e dört saat anlattı, Holwood'daydı.
+8. **Sir Sidney Smith:** Smith'in ağabeyi. Nisan 1798'de Temple Hapishanesi'nden kaçtı. *Tigre* (80 top) ile Çanakkale önünde ultimatom verdi; ana direği Hacı Nuri Usta'nın ilk güllesiyle yıkıldı, gemi mayınla Kepez'e oturdu. Yıldırım Timi onu gece kamarasından aldı; Yedikule'de, denize bakan bir odada. Kardeşine "O adam bir hokkabaz değil" diye yazdı. Kâtibi Teğmen John Wesley Wright da esir.
+9. **Pisani:** Elçiliğin baştercümanı; Osmanlı tebaası sayılıp iskelede alıkonuldu. Galata kadısının mahkemesinde yargılandı: yedi yıl kalebentlik, Rumeli Hisarı'ndaki Tercüme Odası burcunda Ömer'in gözetiminde kitap çevirerek (her kitap cezadan üç ay düşer). İngiliz parasıyla edindikleri Mekteb-i Hendese-i Azadlı vakfına; ailesine dokunulmadı.
+10. **Duckworth ve O'Hara:** Tuğamiral Duckworth Cebelitarık konvoyunun başında *Leviathan*'la 25 Mart 1799'da Tarifa'da esir düştü, 24 Nisan'da İstanbul'a getirildi. Cebelitarık valisi General O'Hara 30 Mart'ta teslim oldu. İkisi ve sağlam esirler savaş sonuna kadar "misafir"; yaklaşık 1.200 esirden yaralı ve hastalar Lizbon'a gönderildi.
+11. **Avusturya:** Thugut'un ikili oyunu: internunçiyo Baron Herbert-Rathkeal'le tarafsızlık, arabuluculuk ve Kont Fries'in on milyon fiorin borcu (aslında Grenville'in parası) teklif edildi; arkadan İngiltere'yle bahara kadar gizli ittifak. Habsburg kara odası Eleni'nin mektuplarını okuyup kutuyu İngiliz'e kaçırttı. O kış Viyana'daki İngiliz elçisi Sir Morton Eden.
+12. **Bahçe ağının budanan dalları:** Rüstem Ağa ("Bahçıvan") idam edildi; Silahdar Süleyman Ağa ömür boyu susturuldu; Kalaycı Ahmed Kız Kulesi'nde; Bostancıbaşı Hüsrev Ağa Haziran 1799'da idam edildi ("Ben son değilim"); Haseki Ali Magosa'da. Sarraf Mıgırdiç bilerek Smith'e geri verildi; defteri Yavuz'da. Yeni kurye Sakızlı bir kayıkçı; Pera'daki Ceneviz sarrafı İngiliz hesabını tutuyordu.
+13. **Nelson:** 2 Eylül 1798'de Malta'da, Bonapart'ın kurduğu tuzakta öldü. İngiliz Akdeniz filosu yok edildi.
+14. **Wellesley kardeşler:** Genel Vali Mornington ve kardeşi Albay Arthur Wellesley. Seringapatam 4 Mayıs 1799'da düştü, Tipu öldü.
+15. **İç düşmanlar:** Azledilen Yeniçeri Ağası Gelibolu Kalesi'nde muhafız. Ocak sindirildi ama küskün; kafesteki Mustafa onların umudu. Mora isyanında yeni Yeniçeri Ağası, vaizler ve müderrisler Patrik'in asılmasını istedi; Foresti mektubu onları susturdu.
+16. **Belirsiz dost/düşman – Bonapart:** Yavuz'un hem kozu hem en büyük riski. Malta'da Osmanlı sancağını izinsiz kullandı; Algeciras'ta sancağı 21 topla selamlattı, Phélippeaux hediyesinden utandı ("Farkı anladım"), sancak borcunu Yedi Ada'yla ödedi. *Cezve*'yi gördü, Yavuz'un buharı vermeyeceğini anladı. Moskova'yı yüz yüze anlatacak. Gelecekteki rakip.
 
 ## 5. Teknoloji envanteri ve kimin ne bildiği
 
@@ -202,19 +224,26 @@ Ana düşman İngiliz İmparatorluğu'nun kendisidir; hedef onu haritadan silmek
 - 2 dizüstü bilgisayar: yerel yapay zekâ ve çevrimdışı kütüphane (tıp, kimya, gemi inşası, topçuluk, tarih).
 - Tablet (haritalar, tarih dosyaları) ve telefon (Sultan'ın fotoğrafı, aile fotoğrafları; Divan'da el yazısını büyütmek için kullanıldı).
 - Hoparlör, mikrofon ve müzik arşivi (Et Meydanı'nda sesini meydana taşıdı).
-- 20 telsiz. Mahmud ve Kara Ali'de birer çift var. Hasan'ın telsizi Smith'in eline geçti: saatçi Bertolotti açtı, cihaz sustu ve Viyana üzerinden Londra'ya gönderildi (3. Kitap'ta Royal Society'den geri alınacak).
-- Termal ve gece görüş monokülü (Yavuz'da).
+- 20 telsiz. Mahmud'da telsiz var, Kara Ali'de tek telsiz. Yıldırım Timi'nde de telsiz var (Murad, *Tigre* baskınında tık işaretleriyle). Hasan'ın telsizi Smith'in eline geçti: saatçi Bertolotti açıp pilini çıkardı, cihaz sustu, Viyana'da Eden'in mahzeninde kışladı, 17 Mart 1799'da Londra'ya vardı. 18 Mart'ta Somerset House'da Cavendish Leyden şişesiyle besleyince ekranda bir an *LOW BATT* yazdı, dumanla ebediyen öldü; arkasında *Made in China*. Pitt'in emriyle Kraliyet Cemiyeti'nin o odasında duruyor (Bölüm 10'da geri alınacak). Yavuz kutunun açıldığını tahmin ediyor ama nasıl öldüğünü bilmiyor.
+- Termal ve gece görüş monokülü (Yavuz'da). Hasan bir kez baktı (*Tigre*'nin karaya oturduğu gece).
+- Tükenmez kalem: Yavuz'un; Bozcaada Ahitnamesi'ni onunla imzaladı.
+- Katlanır güneş panelleri; küçük katlanır bir güneş paneli telsizlerle birlikte Mahmud'a verildi.
+- Multimetre (Hasan'da).
 - Katlanır mikroskop (Abdullah'ta).
 - Antibiyotik, ilaç, damar yolu serumu ve cerrahi set.
 - Atölye: 3D yazıcı, lehim istasyonu, multimetre, vernikli bobin teli ve benzeri aletler.
 - Kol saati: Mahmud "kaplan"da.
 - Et Meydanı için yapılanlar: 30 Leyden şişesi, ıhlamur kalaslı yıldırım makinesi (Tesla bobini), öldürmeyen elektrikli tel. Hepsi Tersane'de, Hacı Nuri Usta ve Abdullah'ın elinde.
+- 3. Kitap'ta yapılanlar: Kepez değirmeninde dört zincir (her biri iki yüz kavanoz) Volta pili, kauçuk kaplı kablolarla 16 kazanlık elektrikli mayın hattı; *Cezve* (buharlı, çarklı römorkör, Ereğli kömürü, Hasan'ın yaptığı basınç göstergesi); Tophane'de patlayıcı gülleler; Efemçukuru'nda altın madeni.
+- *Tigre* artık *Nusret* (80 top, iki güverte, yeniden bakır kaplandı, Bolu çamından ana direk).
+- Yavuz'un turist İtalyancası var (kırık ve sade; 2. Kitap Bölüm 3'te kullandı).
 
 ### YEDEK sandığındaki gizli bölme (kimse bilmiyor)
 
-- Kompakt bir tabanca ve sınırlı mermi (iki şarjör). Hiç kullanılmadı.
-- Kameralı küçük bir dron (iki adet). İlk kez Galata Kulesi'nden uçurularak Pera'daki İngiliz elçiliğinin mahzeninde Hasan'ı bulmak için kullanıldı. Hasan gördü ama ne olduğunu bilmiyor; dünyada bunu Yavuz'dan başka kimse bilmiyor.
-- Bir kese Osmanlı altını. Hiç kullanılmadı.
+- Kompakt bir tabanca ve sınırlı mermi (iki şarjör). Hiç ateşlenmedi; ilk kez *Tigre* baskınında belinde, deri kılıfta taşıdı.
+- Kameralı küçük bir dron (iki adet). Biri ilk kez Galata Kulesi'nden uçurularak Pera'daki İngiliz elçiliğinin mahzeninde Hasan'ı bulmak için kullanıldı; öbürü bölmede. Hasan gördü ama ne olduğunu bilmiyor; dünyada bunu Yavuz'dan başka kimse bilmiyor.
+- Bir kese Osmanlı altını. Hiç kullanılmadı. (Yavuz'un cebindeki birkaç eski altın bu keseden ayrıdır.)
+- Ailesinin lamine fotoğrafı, Bozcaada görüşmesi günü bilerek burada bırakıldı ("Düşmanın masasına giden adam, sevdiği şeyi yanına almaz").
 
 ### Dijital güvenlik
 
@@ -224,60 +253,83 @@ Ana düşman İngiliz İmparatorluğu'nun kendisidir; hedef onu haritadan silmek
 
 | Sır | Bilenler |
 | --- | --- |
-| Telsiz ve termal monokül | Hüseyin Paşa, Mahmud, Kara Ali (yalnızca telsiz), Atıf, Sultan, Hasan. Smith bir telsizi ele geçirdi |
-| Yavuz'un gelecekten geldiği | Sarayda söylenti; Divan "âlem-i misâl" açıklamasını duydu. Bonapart, Walsh ve Smith kardeşler biliyor ya da seziyor |
+| Telsiz ve termal monokül | Hüseyin Paşa, Mahmud, Kara Ali (yalnızca telsiz), Atıf, Sultan, Hasan, Yıldırım Timi (telsiz). Yusuf Agâh, Ömer, dilsizler ve Bonapart telsizi gördü. Smith telsizi Ocak 1798'de Yusuf'un mektubundan biliyordu, sonra birini ele geçirdi |
+| Yavuz'un gelecekten geldiği | Divan "âlem-i misâl" açıklamasını duydu; Et Meydanı'nda bütün şehir duydu. Bonapart, Walsh ve Smith kardeşler biliyor ya da seziyor; Sidney'ye Akka'daki geleceğini anlattı. Hüsrev Ağa: "Sen gerçekten bu dünyadan değilsin." Wickham "Not of this world" sonucuna vardı |
+| Kutu ve *LOW BATT* | Pitt, Wickham, Banks, Cavendish (o odada). Holwood'da Grenville, Dundas, Elgin, Spencer Smith de öğrendi; Kabine, Kral ve gazeteler bilmiyor |
+| Yavuz'un kendisi (yüzü, takımı, "mühendis") | Pitt, Wickham, Elgin, Grenville, Dundas, Banks, Cavendish Yavuz'u ve kutuyu biliyor; yüzünü yalnız Elgin ve Wickham gördü. Elgin onu önce kâtip sandı |
+| "Yıldız" adı ve aile zaafı | Wickham "Mr. Yıldız" adını biliyor, defterinde "Family / Not of this world" notu var; Ömer'i ve "çocuğu" (Hasan) sevdiğini biliyor |
 | Selim'in ölümü ve naiplik talebi | Yalnızca Sultan |
-| Bozcaada Ahitnamesi | Sultan, Sadrazam, Atıf, Hüseyin Paşa, Ömer, Bonapart. İngilizler Malta'dan sonra öğrendi |
-| Şehzade Mahmud'un gizli dersleri | Sultan, Yavuz, Atıf, Kapıağası, lala |
+| Bozcaada Ahitnamesi | Sultan, Sadrazam, Atıf, Hüseyin Paşa, Ömer, Şehzade Mahmud, Bonapart, Desaix, Berthier, Junot, Bourrienne, Venture de Paradis. İngilizler Malta'dan sonra öğrendi |
+| Şehzade Mahmud'un gizli dersleri | Sultan, Yavuz, Atıf, Kapıağası, lala; saray dışında Hüseyin Paşa |
 | Sarraf Mıgırdiç'in defteri | Yavuz, Atıf, Ömer, Sultan, Sadrazam. Ocak'taki isimleri Et Meydanı'nda herkes duydu |
+| OPTİK sandığındaki ikinci kat | Hüseyin Paşa, Atıf, Mahmud |
+| Yıldırım Timi | Sultan, Hüseyin Paşa, Yavuz (Atıf ve Sadrazam bile bilmiyor). İngiliz tayfaları "kara yüzlü cinler" söylentisini yaydı; Viyana'da ve Londra'da konuşuluyor |
+| Gölge Odası | Sultan, Hüseyin Paşa, Yavuz; içeride Musa Kamhi, Ömer'in seçtiği kâtipler ve Yorgi de biliyor |
+| Pavel'in 1801'deki ölümü | Tomara bunu 1798'de Yavuz'dan sözlü duydu (Mihaylovski ara sahnesi buna göre kurulacak) |
+| Bombay yalanı | Sultan, Sadrazam, Hüseyin Paşa, Musa Kamhi, Yavuz. İngilizler (Dundas, Wickham) gerçek sanıyor |
 | YEDEK gizli bölmesi ve dron | Yalnızca Yavuz |
 | Bonapart'ın rüyası (ara sahne) | Yalnızca Bonapart. Yavuz habersiz; Bonapart vakti gelince anlatacak |
+| Moskova mektubu | Sultan okunurken yanındaydı; Hüseyin Paşa Algeciras'ta Yavuz'un "bir gün anlatırsınız" sözünü Bonapart'a iletti. Londra'da yalnız söylenti ("tek satırlık bir mektup"); Tomara Petersburg'a "Moskova'ya bakıyor mu" diye yazıyor |
 
 ## 6. Sırlar ve açık uçlar
 
 Açık uçların cevaplarını yazar (Claude) hikâyenin gidişatıyla kurgular; kullanıcı bunları cevaplamaz.
 
-- *Tigre*'nin akıbeti: Sir Sidney teslim mi olacak, kaçacak mı, Boğaz'ı zorlayacak mı? Spencer Smith ve elçilik ne olacak?
-- Telsizi taşıyan kraliyet ulağı Londra'ya ulaşacak mı? Royal Society'de kutuyu kim açacak?
-- Mahmud ve Desaix: Basra'daki İngiliz (Manesty) onları bekliyor. Maskat İmamı'na İngiliz'den önce ulaşılabilecek mi (İngiliz elçisi Ekim'de gidiyor)? Tipu'ya zamanında varacaklar mı?
-- Cebelitarık ne zaman düşecek?
-- İrlanda: Tone Killala'ya çıktı, Mayo yeniden ayaklandı. Walsh Brest'te kâğıdı açınca Tone'u bulacak.
+**Kapananlar (3. Kitap Bölüm 1–4):** *Tigre* Kepez'de karaya oturdu, adı *Nusret* oldu; Sir Sidney Yedikule'de, Spencer Smith sınır dışı edildi. Kutu Londra'da açıldı ve *LOW BATT* ile öldü. Cebelitarık 30 Mart 1799'da düştü, İspanya'ya geçti. Bonapart sancak hesabını Yedi Ada'yla kapattı. Moskova mektubu 28 Aralık 1798'de geldi (bilmece sürüyor). Şeyh Galib 3 Ocak 1799'da öldü; Yavuz bunu bildiğini Sultan'a itiraf etti. Odasına mektup bırakan el Haseki Ali, arkasındaki Bostancıbaşı Hüsrev Ağa'ydı. Tipu 4 Mayıs 1799'da öldü; Maskat antlaşması ve muson kolorduyu durdurdu.
+
+- Mahmud ve Desaix Maskat'ta takılı: muson dinince (Eylül) ne olacak? Tipu'nun Halife'ye yazdığı mektup Cidde'de bekliyor; Vellore'a kapatılacak şehzadeler (yedi yıl sonra Vellore ayaklanması) için bir şey yapılacak mı?
+- Bombay yalanı: sekiz İngiliz kalyonu olmayan bir donanmayı arıyor. İngiliz bunun yalan olduğunu ne zaman anlayacak, Wickham "Family"nin yanına ne yazacak? Yavuz'un "öbür eli" ne?
+- İrlanda: Tone Killala'ya çıktı, Mayo yeniden ayaklandı. Walsh cebindeki tanıtma mektubu ve Brest'teki komiserin adıyla, komiserin gemileriyle Mayo'ya geçecek.
 - Çar Pavel ve Malta vaadi: Pavel'in cevabı ne olacak?
 - Sultan'ın sağlığı: ölümü 3. Kitap'ın 7. Bölümünde. Mustafa ile Mahmud arasında taht meselesi; Yavuz'un naipliği.
 - Gelibolu'daki eski Yeniçeri Ağası sessiz kalacak mı?
-- "Bahçe"nin yaşayan son dalları kimler? Sarraf Mıgırdiç üzerinden Smith'in ağı izleniyor.
-- Sultan'ın içindeki ürperti: Silahdar'ın son sözü ("O adam bu Devletin ruhunu susturacak") ve Et Meydanı yemini.
-- Bonapart'ın sancak hesabı: Yavuz "zamanı gelince bir şey göstereceğiz" dedi.
-- Bonapart'ın rüyadan sonra yazdırdığı tek satırlık mektup ("Moskova sizin olsun") İstanbul'a yolda. Yavuz rüyayı bilmediği için bu satır ona bilmece gibi gelecek.
-- Şeyh Galib Ocak 1799'da ölecek; Yavuz bunu Sultan'a söylemedi.
+- "Bahçe"nin kökü: Hüsrev'in son sözü "Ben son değilim." Kök sarayın daha içinde mi, Ocak'ta mı? Wickham'ın Pera'daki "budanmamış dalları" kimler?
+- Wickham'ın "Ömer'e ve çocuğa selamlar"ı: Ömer ve Hasan'ın kapısında muhafız var. Aile zaafını nasıl kullanacak?
+- Sultan'ın içindeki ürperti: Silahdar'ın son sözü ("O adam bu Devletin ruhunu susturacak"), Et Meydanı yemini; artık secdeyi de biliyor ama sormuyor.
+- Hasan ilk kez bir şalterle insan öldürdü. Bunu nasıl taşıyacak?
+- Yıldırım Timi'nin varlığı *Tigre*'nin tayfasının fısıltısında ("kara yüzlü cinler"); Viyana'da ve Londra'da konuşuluyor. Kime ulaşacak?
+- *Tigre*'ye Boğaz'da kılavuzluk eden kimdi?
+- Kapitülasyonların kalkması Fransız ve öbür elçilikleri nasıl tedirgin edecek? Nişancının "Fransız'ın da imtiyazı var" sorusu masaya ne zaman gelecek?
+- Viyana kara odası Eleni'nin bilerek okunan yeni mektuplarına inanacak mı? Thugut'un gizli ittifakı ne zaman açığa çıkacak?
+- Phélippeaux pasaportu cebinde nereye gitti?
+- Esirler: Sidney, Duckworth, O'Hara, Wright ve sağlam denizciler savaş sonuna kadar "misafir"; Lizbon'a dönen yaralılar İngiltere'de "The Pasha Sent Us Home" diye anlatıyor.
+- Yedi Ada Cumhuriyeti Mora'da bir örnek mi olacak, bir kıvılcım mı? Kumunduros'un tüfeği sandıkta ne kadar kalacak?
+- General Chabot "bu Paşa'yı görmek istiyor"; Bonapart Moskova'yı yüz yüze anlatacak: Korfu buluşması (Ağustos 1799).
+- Elgin uyarıldı: Parthenon'a dokunacak mı?
+- Grenville'in "Mora'daki her yangın Paşa'nın gemilerini Akdeniz'de tutacaktır" stratejisi başka nerede denenecek?
 - Yusuf Agâh Efendi affedilecek mi, kullanılacak mı?
 - Yavuz'un ataları Sivas eyaletinde, Kelkit kıyısında yaşıyor; Sultan bunu aklında tutuyor.
 - Mustafa Kemal'in adı, Cumhuriyet ve hanedanın sonu hiç ya da çok geç söylenecek.
-- Yavuz'un gizli inançsızlığı.
+- Yavuz'un gizli inançsızlığı: Hüsrev Ağa Divan'da secdesini açıkça suçladı; Şeyhülislam "Biz zahire hükmederiz" dedi, Kubbealtı bunu duydu. Sultan Fatiha okurken dudaklarının kıpırdamadığını fark etti, sustu.
 
 ## 7. Yavuz'un bildiği gerçek tarih (1798–1812) ve sapmalar
 
 Yavuz bunları biliyor; ama artık sapmalar olabilir.
 
-| Tarih | Gerçek tarihte | Hikâyede (Aralık 1798 itibarıyla) |
+| Tarih | Gerçek tarihte | Hikâyede (Temmuz 1799 itibarıyla) |
 | --- | --- | --- |
 | 19 Mayıs 1798 | Toulon filosu yola çıkar. Haziran'da Malta, Temmuz'da Mısır | Filo Çanakkale'ye geldi; Bozcaada Ahitnamesi. Mısır seferi yok, Malta alındı |
+| 24 Haziran 1798 | Rigas Feraios ve yoldaşları Belgrad'da Nebojsa kulesinde boğdurulur | Aynı; Selim'in fermanıyla. Yavuz o gün Rigas'ı hiç düşünmedi, 1799'da evrakını okuyup bunu itiraf etti |
 | Mayıs–Eylül 1798 | İrlanda isyanı (Vinegar Hill, 21 Haziran). Humbert Ağustos'ta Killala'ya çıkar, 8 Eylül'de teslim olur | Aynı |
 | 1 Ağustos 1798 | Ebûkır'da Nelson Fransız donanmasını yok eder | Olmadı. Nelson 2 Eylül'de Malta'da öldü; İngiliz Akdeniz filosu yok edildi |
 | Eylül 1798 | Osmanlı Fransa'ya savaş açar | Olmadı. 1 Aralık 1798'de Osmanlı İngiltere'ye savaş açtı |
 | Ekim 1798 | Bompart ve Wolfe Tone Tory Adası'nda yenilir; Tone esir düşer, Kasım'da hapiste ölür | Yavuz'un uyarısıyla Killala'ya çıktılar; Mayo ayaklandı |
-| Ekim 1798 | İngiltere Maskat İmamı ile anlaşma imzalar | Belirsiz |
-| Aralık 1798 | Çar Pavel Malta Şövalyeleri'nin Büyük Üstadı olur. Sir Sidney İstanbul'a gelir | Sidney Çanakkale'de; *Tigre*'nin direği yıkıldı |
-| Ocak 1799 | Osmanlı, Rusya ve İngiltere ile ittifak yapar. Şeyh Galib ölür | İttifak olmayacak. Galib'in ölümü bekleniyor |
-| Mart–Mayıs 1799 | Akka kuşatması | Olmayacak |
-| Mayıs 1799 | Tipu Sultan Seringapatam'da ölür | Önlenmeye çalışılıyor (Mahmud, Desaix) |
+| Ekim 1798 | İngiltere Maskat İmamı ile anlaşma imzalar (Mehdi Ali Han) | Aynı. İmam "Ahdimi bozamam" diyor; Desaix kolordusu ve Mahmud Maskat'ta takıldı |
+| Aralık 1798 | Çar Pavel Malta Şövalyeleri'nin Büyük Üstadı olur. Sir Sidney İstanbul'a gelir | *Tigre* mayınla Kepez'e oturdu, Yıldırım Timi Sidney'i esir aldı (Yedikule); gemi *Nusret* oldu. İngiliz kapitülasyonları kaldırıldı, Spencer Smith sınır dışı |
+| 3 Ocak 1799 | Osmanlı, Rusya ve İngiltere ile ittifak yapar. Şeyh Galib ölür | İttifak yok. Galib aynı gün öldü |
+| Mart 1799 | Rus–Osmanlı ortak filosu (Uşakov ve Kadir Bey) Korfu'yu Fransızlardan alır; 1800'de Yedi Ada Cumhuriyeti | Bonapart Yedi Ada'yı sancak borcu olarak verdi; 14 Mayıs 1799'da Patrona Kadir Bey teslim aldı. Osmanlı himayesinde, yıllık haraçlı Yedi Ada Cumhuriyeti ilan edildi |
+| Mart–Mayıs 1799 | Akka kuşatması (Sidney Smith ve Phélippeaux; Phélippeaux orada ölür) | Olmadı. Sidney Yedikule'de, Phélippeaux pasaportla serbest |
+| 1799 | Cebelitarık İngiliz elinde kalır (1704'ten beri) | Mart 1799: Duckworth'ün yardım konvoyu Tarifa'da alındı, 30 Mart'ta O'Hara teslim oldu; Kaya İspanya'nın |
+| 4 Mayıs 1799 | Tipu Sultan Seringapatam'da ölür | Aynı; Mahmud ve Desaix yetişemedi |
 | 1800–1801 | Pavel İngiltere'ye düşmanlaşır, Hindistan seferi planlar; Mart 1801'de suikaste kurban gider | Belirsiz |
 | 1 Ocak 1801 | Piazzi Palermo'da Ceres'i bulur | Bonapart'a rüyada söylendi |
 | 1803 | Louisiana Amerika'ya satılır | Bonapart'a rüyada söylendi |
-| Şubat 1807 | Duckworth Boğaz'a girer | Dokuz yıl erken, Sidney ile geldi |
+| Şubat 1807 | Duckworth Boğaz'a girer | Olmayacak: Duckworth Mart 1799'da Tarifa'da *Leviathan*'la esir düştü, İstanbul'a esir olarak geldi |
 | Mayıs 1807 | Kabakçı isyanı | Ocak Et Meydanı'nda erken kalktı, kansız bastırıldı |
 | 28 Temmuz 1808 | Selim'in ölümü | Zehirlendi; 3. Kitap'ın 7. Bölümünde ölecek |
 | 1812 | Bonapart'ın Moskova seferi; 600 binden 30 bini döner | Bonapart'a rüyada söylendi; Moskova Yavuz'un payında |
+| Nisan 1821 | Mora isyanı; Patrik V. Grigorios Patrikhane'nin orta kapısında asılır | 1799'da İngiliz'in Mani'de kışkırttığı isyan aynı tuzağı kurdu; Foresti mektubu ve Fener'le uzlaşmayla Patrik Neofitos asılmadı, kapı açık |
+| 1854 | Osmanlı ilk dış borcunu alır (Kırım Savaşı); 1875 iflas, 1881 Duyûn-ı Umûmiye | Fries borcu reddedildi; savaş Efemçukuru altınıyla borçsuz finanse ediliyor |
 
 ## 8. 2. Kitap – *Ada* (Haziran–Aralık 1798) bölüm özetleri
 
