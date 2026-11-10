@@ -361,6 +361,7 @@ Yavuz bunları biliyor; ama artık sapmalar olabilir.
 - Divan yargılaması: Silahdar "Devleti bir sihirbazdan kurtarmak istedim" der. Hüküm (sahnede gösterilmez): mührü kırılır, malı Azadlı işçilerine dağıtılır, adı kitabelerden kazınır, yalısı Mekteb-i Hendese-i Azadlı olur; kanı dökülmez, ömür boyu dilsizlerin arasında susar. Sultan kafese vurarak onaylar. Yavuz defterdeki Ocak isimlerini okumaz.
 - Smith'le ilk yüz yüze karşılaşma: İngiliz ittifak teklifi, sarrafın iadesi ("Defterleri bizde kaldı"), Sir Sidney'nin Temple'dan kaçışı ve İstanbul'a atanacağı kehaneti, "Londra'ya geleceğim ama davetinizle değil."
 - Hindistan yolu Şehzade Mahmud'a ders olarak anlatılır: Mısır ahitname gereği kapalı; İskenderun → Halep → Birecik → Fırat → Basra → Maskat → Mangalor. Bonapart kolorduyu Desaix'ye verir; Osmanlı kumandanı ve elçi Mahmud "kaplan" olur.
+- Ağustos 1798: Bonapart'ın Malta'dan gelen ikinci mektubuna cevap olarak, Mahmud'un yola çıkışından önce Yavuz Tory Adası uyarısını yazar.
 - Mahmud ve Kara Ali Reis, bakır kaplamalı bir firkateynle Tersane'den uğurlanır. Yavuz ona kol saatini verir ve Wellesley konusunda uyarır.
 - Final: Et Meydanı'nda kazanlar devrilir.
 
@@ -371,7 +372,7 @@ Yavuz bunları biliyor; ama artık sapmalar olabilir.
 - Et Meydanı gösterisi: öldürmeyen elektrikli tel, projeçtörler, bakır çubuğun ucunda dans eden şimşek, hoparlörle gökten gelir gibi ses. Yavuz Smith'in altınını alan 13 ismi okur; Ocak kendi içine döner. Yeniçeri Ağası tele basıp yere yıkılır, Sultan'ın hattıyla azledilip Gelibolu'ya gönderilir. Kazanlar yeniden yerine konur. Kimse ölmez.
 - Yavuz'un yemini: "Bu Devlete isyan eden, ihanet eden kim olursa olsun, derisini yüzerim. Mum alevinde, aheste aheste, bir ömür boyu diri diri yanmasını sağlarım." Sultan'ın ürpertisi derinleşir.
 - İskenderun'da Mahmud ve Desaix buluşur.
-- Malta, 2 Eylül 1798: Bonapart, Yavuz'un anlattığı Ebûkır taktiğine karşı tuzak kurar (kütük seti, kıyı bataryaları, Gozo arkasında Villeneuve) ve Osmanlı sancağı çekmiş iki firkateynle Nelson'ı aldatır. Nelson ölür: "Bu bir savaş değildi, bir kehanetti." 11 İngiliz gemisi ele geçirilir.
+- Malta, 2 Eylül 1798: Bonapart, Yavuz'un anlattığı Ebûkır taktiğine karşı tuzak kurar (kütük seti, kıyı bataryaları, Gozo arkasında Villeneuve) ve Osmanlı sancağı çekmiş iki firkateynle Nelson'ı aldatır. Koyda 8 Fransız gemisi, Gozo arkasında Villeneuve'ün 5'i. Nelson ölür: "Bu bir savaş değildi, bir kehanetti." İngiliz'in 13 hattı gemisinden 11'i ele geçirilir, 2'si yanar; *Leander* ve *Mutine* kaçar.
 - Bonapart'ın mektubu: "Sancağınızı ödünç aldım." Yavuz Devletin savaşa bağlandığını görür; Fransız'a sert bir protesto notası gönderilir, sureti Smith'e verilir.
 - Final: Hasan kaçırılır. Telsizden Smith'in sesi: "Good evening, Âsaf Paşa."
 
@@ -384,14 +385,14 @@ Yavuz bunları biliyor; ama artık sapmalar olabilir.
 - Telsiz Bertolotti tarafından açılmış, susmuş ve Londra yoluna çıkmıştır. Hasan: "Kutu yalnızca Paşamın sesini tanır."
 - Kalaycı Ahmed Kız Kulesi'nde; hücresinde her gece bir mum yanar, gerisini şehir anlatır.
 - Walsh serbest bırakılır ve Toulon üzerinden Brest'e gider.
-- Yavuz Bonapart'a Tory Adası uyarısını yazar, açık savaşa girme talebini reddeder. Wolfe Tone 11 Ekim'de Killala'ya çıkar; Mayo yeniden ayaklanır. Cebelitarık kuşatma altında.
+- Ekim'de Yavuz Bonapart'ın açık savaşa girme talebini reddeder (Tory Adası uyarısı Ağustos'ta, Bölüm 3'te gitmişti). Wolfe Tone 11 Ekim'de Killala'ya çıkar; Mayo yeniden ayaklanır. Cebelitarık kuşatma altında.
 - Sir Sidney Smith *Tigre* ile Çanakkale önünde ultimatom verir ve Bozcaada ahdini bildiğini gösterir. Sultan savaş hattını yazar.
 - Final, 1 Aralık 1798 gecesi: Kale-i Sultaniye'den Hacı Nuri Usta'nın ilk güllesi *Tigre*'nin ana direğini yıkar. Osmanlı sahaya çıktı.
 
 ### Ara sahne – Bonapart'ın rüyası (kanon)
 
 - Aynı günlerde Bonapart, Cebelitarık önündeki karargâhında (Algeciras) Âsaf Paşa'yı rüyasında görür. Yavuz bundan habersizdir; Bonapart vakti gelince ona anlatacak.
-- Rüyada: Yavuz'un hesaplı, soğuk öfkesi (sancak meselesi); Londra'ya ortak kara saldırısı teklifi; Avrupa (Lizbon'dan Niemen'e) Bonapart'a, Rusya/Moskova, Yunanistan, Afrika ve Asya Yavuz'a, ileride Amerika. Louisiana satışı, Saint-Domingue ve 1812 Moskova felaketi kehaneti. Jüpiter'in bir gezegen olduğu, Uranüs'ün ötesindeki gezegeni bir Fransız'ın kalemle bulacağı, Ceres, başka güneşler ve galaksiler, Ay'a ayak basan insanlar. "Bir avuç maddenin içindeki ateş" konusunda Yavuz kapıyı kapatır.
+- Rüyada: Yavuz'un hesaplı, soğuk öfkesi (sancak meselesi); Londra'ya ortak kara saldırısı teklifi; Avrupa (Lizbon'dan Niemen'e) Bonapart'a, Rusya/Moskova, Afrika ve Asya Yavuz'a, ileride Amerika. Louisiana satışı, Saint-Domingue ve 1812 Moskova felaketi kehaneti. Jüpiter'in bir gezegen olduğu, Uranüs'ün ötesindeki gezegeni bir Fransız'ın kalemle bulacağı, Ceres, başka güneşler ve galaksiler, Ay'a ayak basan insanlar. "Bir avuç maddenin içindeki ateş" konusunda Yavuz kapıyı kapatır.
 - Bonapart, Yavuz'un hiç Tanrı'dan söz etmediğini fark eder, onun inançsızlığını sezer ama çaktırmaz.
 - Bonapart her şeyi hatırlayarak uyanır. Bourrienne'e Laplace için Uranüs'ün ötesini hesaplamasını isteyen bir mektup, İstanbul'a da tek satırlık bir mektup yazdırır: "Moskova sizin olsun."
 
@@ -499,7 +500,7 @@ Yavuz Ocak 1798'in ortasında geldi; 2. Kitap 1 Aralık 1798 gecesi bitti. Arada
 
 **Haberleşme ve istihbarat**
 
-- Optik telgraf (Chappe usulü kuleler): İstanbul–Çanakkale 18 kule, ayrıca İstanbul–Edirne ve İstanbul–İzmit hatları. Bir haber dakikalar içinde ulaşıyor.
+- Optik telgraf (Chappe usulü kuleler): yalnız İstanbul–Çanakkale (18 kule; on yedincisi Davutpaşa sırtında, alıcı Adalet Kulesi), İstanbul–Edirne ve İstanbul–İzmit hatları. Bu hatlarda bir haber dakikalar içinde ulaşıyor; başka yerlerden (Mora, Basra, Viyana) haber hâlâ Tatar'la ya da gemiyle gelir.
 - Hafiye teşkilatı: Pera, Malta, Viyana ve Petersburg'da ağ; İngiliz postasını açan bir şifre odası.
 - Yavuz'un talebi ve desteğiyle 21. yüzyıldaki gibi mümkün olduğunca modern teçhizat ve modern eğitim ile donatılmış, eğitilmiş CIA tarzı çekirdek bir elit ajan grubu ve ona bağlı özel gizli bir askeri bir tim: SAT komandoları, DELTA Force misali o dönem için üst düzey elit bir tim.  bu ikisinin varlığından yalnızca Yavuz'un, Sultanın ve Hüseyin paşanın haberi var ve yalnızca bu üç kişiye bağlılar.
 - Hamburg ve Amsterdam gazetelerinde satın alınmış kalemler Yavuz'un dezenformasyonunu basıyor.
@@ -513,7 +514,7 @@ Yavuz Ocak 1798'in ortasında geldi; 2. Kitap 1 Aralık 1798 gecesi bitti. Arada
 
 **Maliye, eğitim ve bilim**
 
-- Hazine reformu: çift kayıtlı defter usulü; İrad-ı Cedid hazinesi Silahdar'ın ve sarrafın mallarıyla büyüdü. Güherçile artık gerçek fiyatıyla alınıyor.
+- Hazine reformu: çift kayıtlı defter usulü; güherçile artık gerçek fiyatıyla alınıyor. Silahdar'ın malı hazineye değil Azadlı işçilerine dağıtıldı; sarraf Mıgırdiç Smith'e iade edildi.
 - Tercüme Odası (başında Kâtip Ömer): dizüstündeki kütüphaneden teknik kitaplar Türkçeye çevrilip Müteferrika matbaasında basılıyor.
 - Mekteb-i Hendese-i Azadlı (Silahdar'ın eski yalısı). Hasan'ın etrafında ilk elektrikçi çıraklar.
 - Galata'da Takiyüddin'in rasathanesi yeniden kuruldu; Müneccimbaşı'na Jüpiter'in uyduları gösterildi.
@@ -543,12 +544,12 @@ Ad üç şeye gönderme: Et Meydanı'ndaki yıldırım makinesi, Yıldırım Bay
 
 **Bonapart ölçüsü:** Bonapart tamamen teçhizatsız ve bilgisiz bırakılmaz, ama verilen her şey sınırlıdır; kilit aletler ve en kritik askerî teknikler asla verilmez.
 
-- **Bölüm 1 – Nusret (Aralık 1798):** Direği yıkılan Tigre Boğaz'ı zorlar; elektrikle ateşlenen mayınlar onu karaya oturtur, optik telgraf İstanbul'a dakikalar içinde haber verir. Gece, Yavuz'un başında olduğu Yıldırım Timi ilk kez sahneye çıkar, gemiye çıkıp Sir Sidney'i esir alır. Spencer Smith sınır dışı edilir, kapitülasyonlar kalkar. Bonapart'ın "*Moskova sizin olsun*" mektubu gelir; Yavuz için bilmece. Açılan kozlar: mayın hattı, telgraf, Yıldırım Timi.
-- **Bölüm 2 – Viyana (Ocak–Şubat 1799):** Şeyh Galib ölür. Gölgeler, telsizi taşıyan kraliyet ulağını Viyana'da kıl payı kaçırır. Pitt, casusbaşı William Wickham'ı Yavuz'un karşısına çıkarır. Avusturya'dan Thugut tatlı bir tarafsızlık teklif ederken arkadan İngiltere'yle ittifak kurar; Yavuz'un Almanlara güvensizliği haklı çıkar. İngiltere Osmanlı'yı borca boğmaya çalışır; maden koordinatlarından çıkan altınla savaş borçsuz finanse edilir (1854'teki ilk dış borcun tersi). Açılan kozlar: Gölge Odası, şifre odası, madenler.
-- **Bölüm 3 – Kaya (Şubat–Mart 1799):** Cebelitarık'a yardım götüren konvoy patlayıcı mermilerle batırılır; rüzgârsız bir gecede buharlı römorkör kundak gemilerini limana çeker. Kaya düşer. Açılan kozlar: patlayıcı mermi, buhar.
-- **Ara Sahne – Kutu (Londra):** Royal Society'de Banks ve Cavendish telsizi açar. Kutu susar (Hasan'ın yalanı ve silme kodu). Cavendish Pitt'e: "Bunu henüz doğmamış insanlar yapmış." Yavuz habersiz.
-- **Ara Sahne II – Mühendis (yazıldı; 26 Nisan–2 Haziran 1799):** Bozcaada açığında, bir Raguza gemisinde Wickham ve Elgin'le görüşme; Yavuz kendini mühendis olarak tanıtır, hiçbir şey imzalamaz, Bonapart'a önceden haber verir. Ardından Holwood'da İngilizlerin beyin fırtınası ve Wickham'ın "Family / Not of this world" notu. (Takvimi düzeltilecek: Bölüm 4'le çakışıyor, Wickham'ın yolculuğu 1799 hızına sığmıyor.)
-- **Bölüm 4 – Sancak (Mart 1799):** Sancak hesabı kesilir: Malta'daki sancak borcuna karşılık Korfu ve Yedi Ada Osmanlı'ya geçer; Bonapart dişini sıkıp verir. İngiliz ajanları Mora'da Rum isyanı kışkırtır; Yavuz kılıçla değil federasyon fikriyle cevap verir (Rumlara özerklik, Fener'e yetki). Acı ironi: aynı rüyayı gören Rigas Feraios'u Osmanlı bir yıl önce Belgrad'da boğdurmuştu. Açılan kozlar: sayılı işaret kitabı, Hamburg gazeteleriyle dezenformasyon.
+- **Bölüm 1 – Nusret (Aralık 1798; yazıldı):** Direği yıkılan Tigre Boğaz'ı zorlar; elektrikle ateşlenen mayınlar onu karaya oturtur, optik telgraf İstanbul'a dakikalar içinde haber verir. Gece, Yavuz'un başında olduğu Yıldırım Timi ilk kez sahneye çıkar, gemiye çıkıp Sir Sidney'i esir alır. Spencer Smith sınır dışı edilir, kapitülasyonlar kalkar. Bonapart'ın "*Moskova sizin olsun*" mektubu gelir; Yavuz için bilmece. Açılan kozlar: mayın hattı, telgraf, Yıldırım Timi.
+- **Bölüm 2 – Viyana (Ocak–Şubat 1799; yazıldı):** Şeyh Galib ölür. Gölgeler, telsizi taşıyan kraliyet ulağını Viyana'da kıl payı kaçırır. Pitt, casusbaşı William Wickham'ı Yavuz'un karşısına çıkarır. Avusturya'dan Thugut tatlı bir tarafsızlık teklif ederken arkadan İngiltere'yle ittifak kurar; Yavuz'un Almanlara güvensizliği haklı çıkar. İngiltere Osmanlı'yı borca boğmaya çalışır; maden koordinatlarından çıkan altınla savaş borçsuz finanse edilir (1854'teki ilk dış borcun tersi). Açılan kozlar: Gölge Odası, şifre odası, madenler.
+- **Bölüm 3 – Kaya (Şubat–Mart 1799; yazıldı):** Cebelitarık'a yardım götüren konvoy patlayıcı mermilerle batırılır; rüzgârsız bir gecede buharlı römorkör kundak gemilerini limana çeker. Kaya düşer. Açılan kozlar: patlayıcı mermi, buhar.
+- **Ara Sahne – Kutu (Londra, 18 Mart 1799; yazıldı):** Royal Society'de Banks ve Cavendish telsizi açar. Kutu susar (Hasan'ın yalanı ve silme kodu). Cavendish Pitt'e: "Bunu henüz doğmamış insanlar yapmış." Yavuz habersiz.
+- **Ara Sahne II – Mühendis (yazıldı; davet 26 Nisan, buluşma 4 Mayıs, Holwood 19 Haziran 1799):** Bozcaada açığında, bir Raguza gemisinde Wickham ve Elgin'le görüşme; Yavuz kendini mühendis olarak tanıtır, hiçbir şey imzalamaz, Bonapart'a önceden haber verir. Ardından Holwood'da İngilizlerin beyin fırtınası ve Wickham'ın "Family / Not of this world" notu.
+- **Bölüm 4 – Sancak (24 Nisan–25 Temmuz 1799; yazıldı):** Sancak hesabı kesilir: Malta'daki sancak borcuna karşılık Korfu ve Yedi Ada Osmanlı'ya geçer; Bonapart dişini sıkıp verir. İngiliz ajanları Mora'da Rum isyanı kışkırtır; Yavuz kılıçla değil federasyon fikriyle cevap verir (Rumlara özerklik, Fener'e yetki). Acı ironi: aynı rüyayı gören Rigas Feraios'u Osmanlı bir yıl önce Belgrad'da boğdurmuştu. Açılan kozlar: sayılı işaret kitabı, Hamburg gazeteleriyle dezenformasyon.
 - **Bölüm 5 – Kaplan (Haziran–Ağustos 1799):** Tipu 4 Mayıs'ta öldü. Bölüm Maskat'ta, Mahmud'un gözünden açılır: İngiliz–Maskat antlaşmasıyla kapanmış liman, muson, hastalığa düşen kolordu, Tipu'nun ölüm haberi. İstanbul'da Yavuz "Kaplan" dosyasını açar: Gölgeler Cidde'deki Tipu mektubunun peşine düşer, Vellore'ye kapatılacak şehzadeler için plan, Zaman Şah'a kuzeyden inme çağrısı. Seringapatam'ın düşüşüyle zindandan kurtulan Dhoondia Wagh'la birleşen kolordu muson dinince karaya çıkar; şehrin komutanı Arthur Wellesley pusuya düşüp esir alınır. Yavuz takas edilmemesini emreder: "Waterloo'yu hiç görmeyecek." Ele geçen bir İngiliz afyon yükü yakılır; Yavuz'un uyuşturucu nefreti devlet kararına dönüşür. Hasan'ın şalter yüküne küçük bir sahne; Hüsrev'in "Ben son değilim" izi sürer; Bölüm 4'te açılmayan Hamburg gazeteleri kozu burada açılır. Final: Bombay yalanıyla gönderilen sekiz İngiliz kalyonu Ümit Burnu'nu döner, Osmanlı'nın gerçek adamlarının bulunduğu sulara doğru; Manş'ta altı gemi eksik. Açılan kozlar: konik mermi, roket (Tipu'nun icadı geliştirilmiş hâliyle Maysur'a döner), eterli sahra hastanesi.
 - **Ara Sahne – Mihaylovski (Petersburg):** Çar Pavel, Yavuz'un mektubunda 1801'de İngiliz parasıyla kendi sarayında öldürüleceğini ve suikastçıların adlarını okur. Tomara bunu 1798'de Yavuz'dan sözlü duymuştu (2. Kitap); mektup söylentiyi belgeye çevirir. Moskova yolunun ilk taşı.
 - **Bölüm 6 – Yeşil Ada (Temmuz 1799):** İrlanda özgürleşir. Ouessant açıklarında Fransız, İspanyol ve Osmanlı filoları İngiliz Manş Filosu'yla karşılaşır. Walsh Wexford'a döner; kapsüllü tüfekler İrlanda yağmurunda ateş alır. Açılan kozlar: telsizle yönetilen filo, gözetleme balonu, dronun ilk görünür kullanımı.
@@ -579,7 +580,8 @@ Ad üç şeye gönderme: Et Meydanı'ndaki yıldırım makinesi, Yıldırım Bay
 - **Kitap yapısı:** 1. Kitap 6 bölüm, 2. Kitap 5 bölüm. 3. Kitap 10 bölüm ve 4 ara sahne (Kutu, Mühendis, Mihaylovski, Korfu); her bölüm savaşın bir anı ve bir gizli kozun açılışı. Her kitap bir sezon finaliyle biter, seri hiçbir kitapta tamamen kapanmaz.
 - **Bölüm uzunluğu:** 7.000–9.000 kelime; her bölüm tek mesajda.
 - **Yapı:** Sahneler "---" ile ayrılır. Yavuz'un iç sesi *italik*. Her bölüm bir cliffhanger ile biter.
-- **Bölüm sonu:** Kısa bir "sıradaki bölüm" notu ve o bölümde açılan, bir sonraki bölümde yer alacak açık soruların listesi. Açık uçları kullanıcı cevaplamaz; yazar (Claude) hikâyenin gidişatıyla kurgular.
+- **Bölüm sonu:** Kısa bir "sıradaki bölüm" notu ve o bölümde açılan, bir sonraki bölümde yer alacak açık soruların listesi. Bunlar artık kitap dosyasına değil, `Yazar Notları.md` dosyasına bölüm bölüm yazılır; kitap dosyasında yalnız roman metni kalır. Açık uçları kullanıcı cevaplamaz; yazar (Claude) hikâyenin gidişatıyla kurgular.
+- **İngilizce replikler:** Tanışma anlarında açılış replikleri İngilizce olabilir; hemen altında Türkçesi verilir (örneğin Sidney'nin "I was beginning to think…", Yavuz'un "He came, Lord Elgin…"). Kaynak: Yavuz, 9 Kasım 2026.
 - **Ara sahneler:** Ara sahneler de kanondur (örneğin Bonapart'ın rüyası); başka bir karakterin bakışından yazılabilir ve Yavuz'un bilmediği şeyleri içerebilir.
 - **Ton:** Gerilim, zekice planlar ve dezenformasyon; duygusal anlar (aile özlemi, Selim'le bağ, Ömer'le kardeşlik); mizah (Hüseyin Paşa'nın kahkahaları, "şeytan icadı" telsiz); "vay be" dedirten teknoloji gösterileri.
 - **Yavuz'un tavrı:** Sakin, kendinden emin, ölümcül. Öfkesini dışa vurmaz, korkuya kapılmaz.

@@ -7,7 +7,9 @@ Yavuz Ateş serisinin, yani Yavuz ile birlikte eğlence amacıyla yazılan alter
 - `Yavuz Ateş Serisi – Dizi Defteri.md`: serinin bütün bağlamı. Karakter kartı, yan karakterler, düşmanlar, teknoloji envanteri, sırlar, gerçek tarih ve sapmalar, kitap özetleri, 3. Kitap planı ve üslup notları burada. Yeni oturum ilk iş bunu okur.
 - `Yavuz Ateş – 1. Kitap Mühür.md`: Ocak–Haziran 1798, 6 bölüm.
 - `Yavuz Ateş – 2. Kitap Ada.md`: Haziran–Aralık 1798, 5 bölüm.
-- `Yavuz Ateş – 3. Kitap Yıldırım.md`: Aralık 1798 – 1800. Dosyada şu an 4 bölüm başlığı var (Nusret, Viyana, Kaya, Sancak); kitabın kaç bölümde biteceği defterdeki plandan kontrol edilmeli.
+- `Yavuz Ateş – 3. Kitap Yıldırım.md`: Aralık 1798 – 1800; 10 bölüm ve 4 ara sahne planlı. Yazılanlar: Bölüm 1–4 (Nusret, Viyana, Kaya, Sancak), Ara Sahne: Kutu, Ara Sahne II: Mühendis.
+- `Yazar Notları.md`: bölüm sonu notları; "sıradaki bölüm" önizlemeleri ve açık sorular, bölüm bölüm.
+- `Bölüm 5 sahne planı.md`: 3. Kitap Bölüm 5 – Kaplan için sahne planı; Yavuz'un onayına gidiyor.
 
 ## Kaynak
 
