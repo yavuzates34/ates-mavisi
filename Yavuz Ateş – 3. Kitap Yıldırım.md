@@ -2602,7 +2602,7 @@ Odanın ortasında, yeşil çuha kaplı bir masanın üstünde, bir kutu duruyor
 
 Avucun içine sığacak kadar küçük. Siyah. Ne tahta ne demir ne boynuz. Kenarları yumuşak, yuvarlak, hiçbir zanaatkârın eliyle yontulamayacak kadar düzgün. Bir yanından, bir serçe parmağı boyunda, kıvrılabilen siyah bir çubuk uzanıyordu. Önünde, üst yarısında, cam gibi ama cam olmayan, gri, boş, ölü bir pencere. Alt yarısında, düzgün sıralar halinde, tek tek kabartılmış, üzerlerinde rakamlar ve harfler bulunan küçük düğmeler.
 
-Arka kapağı yoktu. Pera’da, Kasım’da, bir gece yarısı, Cenevizli bir saatçi onu sökmüş, içindeki ne olduğu bilinmeyen ağır küçük bir parçayı çıkarmış, sonra yerine koymaya cesaret edememişti. O parça ayrı bir kese içinde, kutunun yanında duruyordu.
+Arka kapağı yoktu. Pera’da, Eylül’de, bir gece yarısı, Cenevizli bir saatçi onu sökmüş, içindeki ne olduğu bilinmeyen ağır küçük bir parçayı çıkarmış, sonra yerine koymaya cesaret edememişti. O parça ayrı bir kese içinde, kutunun yanında duruyordu.
 
 Ve kutunun önünde, üç adam oturuyordu.
 
