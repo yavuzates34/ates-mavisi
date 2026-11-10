@@ -1308,7 +1308,7 @@ Musa onu önceden çözmüş, Türkçeye çevirmişti. Kâğıdı Yavuz’a uzat
 
 Yavuz okudu.
 
-*Kral’ın ulağı Kasım’ın yirmi üçünde Viyana’ya geldi. Kutu yanındaydı. Ama Viyana’dan çıkmadı. Sir Morton Eden’in elçilik binasında, mahzende, demir bir sandıkta duruyor. Ulağın kendisi Herrengasse’deki Zum Goldenen Lamm handa kalıyor. Bohemya ve Saksonya yolları karla kapalı. Elbe donmuş. Hamburg’a gemi yok. Eden Londra’dan emir bekliyor. Kutuyu yalnız göndermek istemiyor. Bir muhafız bekliyor. Belki bir ay. Belki iki.*
+*Kral’ın ulağı, Zemun karantinasında yirmi bir gün bekledikten sonra, Kasım’ın yirmi üçünde Viyana’ya geldi. Kutu yanındaydı. Ama Viyana’dan çıkmadı. Sir Morton Eden’in elçilik binasında, mahzende, demir bir sandıkta duruyor. Ulağın kendisi Herrengasse’deki Zum Goldenen Lamm handa kalıyor. Bohemya ve Saksonya yolları karla kapalı. Elbe donmuş. Hamburg’a gemi yok. Eden Londra’dan emir bekliyor. Kutuyu yalnız göndermek istemiyor. Bir muhafız bekliyor. Belki bir ay. Belki iki.*
 
 Yavuz kâğıdı indirdi.
 
@@ -2802,7 +2802,7 @@ Banks onun yüzüne bakıyordu. Ve Pitt’in zaten solgun olan yüzünden kalan 
 
 Pitt cevap vermedi. Mektubu masaya, kutunun yanına bıraktı. Wickham eğilip okudu. Sonra Banks’e baktı. Sonra Cavendish’e. Ve okuduğunu, alçak ve düz bir sesle, bir kâtibin bir listeyi okuması gibi, söyledi.
 
-“Pera. Şubat’ın on dokuzu. Bahçeden.” Bir an durdu. “Tigre’yi kumdan kurtarmaya çalışıyorlar; Kepez’de iki yüz adam gece gündüz fıçı bağlıyor. Haliç’te dört gemi sefere hazırlanıyor. İki yeni kalyon, iki firkateyn. Sancak Hüseyin Paşa’nın. Gidecekleri yer Akdeniz’in ağzı, deniyor. Kaya.” Kâğıdı çevirdi. “Tophane’de kimsenin girmediği bir atölyede içi boş gülleler dökülüyor. Malta’dan kaçan subaylarımızın anlattığı gülleler. Geminin içinde patlayan.” Bir an daha durdu. “Ve Haliç’te, rüzgârsız bir gecede, yelkeni olmayan, küreği olmayan, kendi kendine akıntıya karşı yürüyen, borusundan ateş püsküren bir gemi görülmüş.”
+“Pera. Şubat’ın on biri. Bahçeden.” Bir an durdu. “Tigre’yi kumdan kurtarmaya çalışıyorlar; Kepez’de iki yüz adam gece gündüz fıçı bağlıyor. Haliç’te dört gemi sefere hazırlanıyor. İki yeni kalyon, iki firkateyn. Sancak Hüseyin Paşa’nın. Gidecekleri yer Akdeniz’in ağzı, deniyor. Kaya.” Kâğıdı çevirdi. “Tophane’de kimsenin girmediği bir atölyede içi boş gülleler dökülüyor. Geminin içinde patlayan, deniyor.” Bir an daha durdu. “Ve Haliç’te, rüzgârsız bir gecede, yelkeni olmayan, küreği olmayan, kendi kendine akıntıya karşı yürüyen, borusundan ateş püsküren bir gemi görülmüş.”
 
 Cavendish başını kaldırdı.
 
