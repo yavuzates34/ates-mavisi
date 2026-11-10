@@ -1602,7 +1602,7 @@ Spencer Smith mektubu ona vermedi. Kendisi okudu. Yüksek sesle. Kardeşinin sö
 
 *Bu gece, kamaramda, bana önceden hazırlanmış hiçbir şey söylemedi. Ezberlenmiş bir kehanet yoktu. Bir şey sordum, cevap verdi. O kadar sakin, o kadar tereddütsüz ki, sanki bir kitabın sonunu okumuş biri bir kitabın ortasındaki birine olayları anlatıyormuş gibi.*
 
-*Bana beş ay sonra Akka’da olacağımı söyledi. Hiç görmediğim bir şehirde. Bonapart’a karşı. Yanımda Phélippeaux olacakmış. Ve Phélippeaux orada bir hummadan ölecekmiş. Bonapart yıllar sonra, bir adada, benim için şunu söyleyecekmiş: O adam yüzünden kaderimi kaçırdım.*
+*Bana dört ay sonra Akka’da olacağımı söyledi. Hiç görmediğim bir şehirde. Bonapart’a karşı. Yanımda Phélippeaux olacakmış. Ve Phélippeaux orada bir hummadan ölecekmiş. Bonapart yıllar sonra, bir adada, benim için şunu söyleyecekmiş: O adam yüzünden kaderimi kaçırdım.*
 
 *John. Ben Akka’yı haritada zor bulurum. Ama o bunu söylerken, ona inandım. Ve hâlâ inanıyorum.*
 
@@ -1730,7 +1730,7 @@ Hüseyin Paşa bir kahkaha attı. Ama acı bir kahkahaydı.
 
 Ama Defterdar gülmedi. Kucakladığı deri defterini masanın üstüne koydu. Açtı. Parmağını bir sütunun üstünde aşağı kaydırdı.
 
-“Paşam,” dedi Yavuz’a. “Nemçe’nin borç tuzağı bir tuzak. Kabul. Ama tuzağa düşmeyen bir hayvan da açlıktan ölebilir.” Sütunun sonuna geldi. “Bu savaş bize, Hüseyin Paşa’nın bu yaz denize indirmek istediği donanmayla, Nizam-ı Cedid’in on beş bin neferiyle, Tophane’nin ve Tersane’nin işçileriyle, yeni madenlerle, yeni mekteplerle, ayda altı yüz bin kuruşa mal oluyor. İrad-ı Cedid hazinesi Silahdar’ın ve sarrafın mallarıyla büyüdü, doğru. Gümrükler İngiliz yüzde üçünden kurtuldu, doğru. Ama yaz geldiğinde...” Durdu. Defteri kapadı. “Yaz geldiğinde hazinenin dibini göreceğiz, Paşam. Ben otuz yıldır bu defteri tutuyorum. Bir hazinenin dibini görmek nedir, bilirim.”
+“Paşam,” dedi Yavuz’a. “Nemçe’nin borç tuzağı bir tuzak. Kabul. Ama tuzağa düşmeyen bir hayvan da açlıktan ölebilir.” Sütunun sonuna geldi. “Bu savaş bize, Hüseyin Paşa’nın bu yaz denize indirmek istediği donanmayla, Nizam-ı Cedid’in on beş bin neferiyle, Tophane’nin ve Tersane’nin işçileriyle, yeni madenlerle, yeni mekteplerle, ayda altı yüz bin kuruşa mal oluyor. İrad-ı Cedid hazinesi güherçile yolsuzluğu kapanınca büyüdü, doğru. Gümrükler İngiliz yüzde üçünden kurtuldu, doğru. Ama yaz geldiğinde...” Durdu. Defteri kapadı. “Yaz geldiğinde hazinenin dibini göreceğiz, Paşam. Ben otuz yıldır bu defteri tutuyorum. Bir hazinenin dibini görmek nedir, bilirim.”
 
 Odada bir süre kimse konuşmadı.
 
