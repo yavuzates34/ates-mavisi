@@ -25,3 +25,13 @@ Yavuz, "söylenen söz arşivden gitmiyor, yalnız o an aklımda tuttuklarımın
 ## 12 Kasım 2026 20:42 (fa42d7d9) — ChatGPT oturumlarının handoff yolu
 
 Yavuz üç ChatGPT oturumunu gösterdi. Adlar zincir hâlinde: "Hikaye değerlendirmesi" (gövde), ondan dallanan "Branch · Hikaye değerlendirmesi", ondan da dallanan "Branch · Branch · Hikaye değerl…" (başlık kesik). Yani üç kardeş değil, gövde → dal → dalın dalı. Oturumlarda Yavuz'un referans olarak verdiği görseller (örnek: Erwin Smith) ve MD dosyaları var; Yavuz bunları sonradan yerelden de verecek, Kütüphaneci her yerel görseli sohbetteki yerine eşleştirebilmeli. Yol: ChatGPT veri dışa aktarımı (conversations.json + yüklenen dosyalar, dosya kimliğiyle). Yavuz dışa aktarımı 12 Kasım 20:06'da istedi; OpenAI "birkaç gün sürebilir" dedi. Zip gelince `ChatGPT dışa aktarım/` klasörüne konacak (git dışı); yalnız bu üç sohbet çıkarılıp Markdown'a, görsel yerleri işaretlenerek ve görsel envanteriyle çevrilecek.
+
+## 13 Kasım 2026 00:28 (fa42d7d9) — Yeni fikir 1: Gizli Konsül
+
+Bağlam: Yavuz'un ChatGPT oturumlarını (zip, `ateş mavisi chatgpt konuşmaları.zip`) henüz kimse okumadı; Yavuz bu fikrin o konuşmalar okununca "yerine cuk oturacağını" söyledi. Orkestrasyonu ileride bir Fable modeline yaptırabilir; o zamana kadar Kütüphaneci zip'e dokunmuyor. Fikir 12 Kasım sabahı aklına geldi, ChatGPT'de konuşulmadı. Yavuz'un anlatımı, sözlerine sadık:
+
+Gittiği tarihten itibaren Osmanlı yönetimi artık Yavuz'un yaşayış şekline ve kabul edeceği yönetim biçimine uymaz. "Karşıda İngiliz aristokrat gibi oturuyor, biz sarıkla kaftanla mı oturacağız? Böyle bir devlet düzenini kabul etmem." Ama başta güç yok; önce gücü elde toplamak lazım. Agop Usta bir keresinde, saray erkânından bazı paşaların kendilerine gizli gizli frenk elbiseleri diktirip giydiğini söylemişti (küçük bir ayrıntı olarak). Demek ki bu paşalar o usulleri aslında seviyor, benimsiyor. Agop Usta'dan bu paşaların listesi istenir; Agop Usta hangisinin akıllı ve medeni olduğunu bilemez, ama onun listesinden birkaç kişi araştırılıp bulunur, onlara sorup soruştura akıllı ve medeni olanların daha geniş bir listesi çıkarılır. Listeyi yavaş yavaş ya Yavuz ya Ömer okur; Ömer'in de "ağzına bir parmak bal çalınır." Herkese biraz ikili oynanacak.
+
+Amaç bir Konsül. Başında Yavuz. Konsül biraz gizli olacak, "Illuminati gibi." Paşaları Konsül yönetecek; Konsül üyeleri bu süreçte tebdil-i kıyafetle, yani yine sarık ve kaftanla dolaşacak. Bir süre sonra paşalar dağıtılmaya başlanacak: görevden alma değil, merkezden uzaklaştırma. Böylece merkezde Yavuz ve Konsül, yani medeni bir heyet kalacak. Bu süreçte Sultan'ın ya hasta ya ölü olması gerekiyor.
+
+Yavuz bunun gibi bir fikri daha anlatacak.
