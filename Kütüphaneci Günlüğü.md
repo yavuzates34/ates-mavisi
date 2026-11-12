@@ -35,3 +35,5 @@ Gittiği tarihten itibaren Osmanlı yönetimi artık Yavuz'un yaşayış şeklin
 Amaç bir Konsül. Başında Yavuz. Konsül biraz gizli olacak, "Illuminati gibi." Paşaları Konsül yönetecek; Konsül üyeleri bu süreçte tebdil-i kıyafetle, yani yine sarık ve kaftanla dolaşacak. Bir süre sonra paşalar dağıtılmaya başlanacak: görevden alma değil, merkezden uzaklaştırma. Böylece merkezde Yavuz ve Konsül, yani medeni bir heyet kalacak. Bu süreçte Sultan'ın ya hasta ya ölü olması gerekiyor.
 
 Yavuz bunun gibi bir fikri daha anlatacak.
+
+Ek (00:32): İngilizlerin tepkisi. "İngilizler kafayı yiyecek, anlamlandıramayacaklar." Çünkü Yavuz 1800'lerin Osmanlısını kraliyet cemiyeti usulüne, İngiliz tarzı bir yönetim düzenine çeviriyor. Bir noktadan sonra İngilizler şunu diyecek: "Daha ne istiyor bu adam? Osmanlı'nın yapısını değiştiriyor. Daha ne istiyor bu adam?" Yavuz'a göre bu tepki ChatGPT konuşmalarının birinde de geçiyor; okununca fark edilecek.
