@@ -25,9 +25,10 @@ Yavuz Ateş alternatif tarih roman serisinin (1798 Osmanlı, zaman yolcusu mühe
 
 - Bölüm 5 sahne planı ve Bölüm 6'nın Ağustos sonu–Eylül 1799'a kayması Yavuz'un onayını bekliyor.
 - 12 Kasım 2026 19:05: Yavuz'un isteğiyle depo özel (private) GitHub deposuna pushlandı: https://github.com/yavuzates34/ates-mavisi (oluşturulma 2026-11-12T16:05:39Z). Amaç: kitaplara tarih damgası; zamanı gelince Yavuz public yapacak. Bundan sonra commit'ler pushlanır.
+- 12 Kasım 2026 19:14: İlk seri dondu: `ilk-seri-v1` etiketi + GitHub release, `ilk-seri` branch'i (eski seriye düzeltmeler için). Yavuz 3. kitabı muhtemelen bitirmeyecek; ChatGPT'de 3 dallı oturumda (zamanda yolculuk, Osmanlı yönetimi, İngiltere'ye kansız strateji) yeni senaryo konuştu. Kayıtları handoff olarak getirecek; yeni senaryo `master` üzerinde ilerleyecek.
 - 14 MB PDF commit edilmedi (büyük dosya).
 
 ## Next step
 
-- Yavuz Bölüm 5 planını onaylarsa Orkestratör'le Bölüm 5'i Opus high ile yazmak, doğrulamak, deftere işlemek.
+- Yavuz'un ChatGPT konuşma kayıtlarını (handoff) almak; oturumlar arası çelişkileri ayıklayıp sade liste sunmak; yeni senaryoyu `master`'da kurmak. Bölüm 5 askıda.
 - Öneri (Yavuz'a sunuldu, karar onda): 1. kitap Mühür'ü erken bir platformda (ElevenReader vb.) yayımlamak; öncesinde platformun yapay zekâ beyan kurallarını kontrol etmek.
