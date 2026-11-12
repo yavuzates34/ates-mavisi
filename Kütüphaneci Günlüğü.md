@@ -37,3 +37,11 @@ Amaç bir Konsül. Başında Yavuz. Konsül biraz gizli olacak, "Illuminati gibi
 Yavuz bunun gibi bir fikri daha anlatacak.
 
 Ek (00:32): İngilizlerin tepkisi. "İngilizler kafayı yiyecek, anlamlandıramayacaklar." Çünkü Yavuz 1800'lerin Osmanlısını kraliyet cemiyeti usulüne, İngiliz tarzı bir yönetim düzenine çeviriyor. Bir noktadan sonra İngilizler şunu diyecek: "Daha ne istiyor bu adam? Osmanlı'nın yapısını değiştiriyor. Daha ne istiyor bu adam?" Yavuz'a göre bu tepki ChatGPT konuşmalarının birinde de geçiyor; okununca fark edilecek.
+
+## 13 Kasım 2026 00:36 (fa42d7d9) — Yeni fikir 2: Sevr'den gelen Yavuz (ana tema; ayrıntılar konuşmalar okununca)
+
+Yavuz bunun "çok daha masmanyak" bir fikir olduğunu, ama ChatGPT konuşmaları okunmadan havada kalacağını söyledi; şimdilik yalnız ana temayı verdi, ayrıntıları sonra anlatacak. Seri aslında bir paralel evrenler kurgusu, bir bilim kurgu; paralel evrenler farklı olanaklara kapı açıyor. İki seçenek:
+
+Birincisi, ana kahraman Yavuz, İtilaf Devletleri'nin kazandığı ve Sevr Antlaşması'nın (Yavuz "Serv" dedi) uygulandığı bir Osmanlı'dan geliyor; yani Sevr sınırları içinde İngilizlere yenilmiş bir Osmanlı Devleti'nden. İkincisi, iki Yavuz var: biri Türkiye Cumhuriyeti'nden, diğeri Sevr sınırlarındaki Osmanlı'dan gelen Yavuz. ("Bu ikinci Yavuz nereden çıktı" sorusunun cevabı konuşmalarda.)
+
+Sevr Yavuz'unun önemi, Yavuz'un sözleriyle: onu hikâyeye katabilirsek okuyan ve dinleyen insanlar şunu fark edecek: "Atatürk olmasaydı, Türkiye gerçekten Sevr'e tabi olmak zorunda kalsaydı başına neler gelecekti, nasıl bir felaket gelecekti?" Bunu insanlara göstermiş olacağız. "Burada yüksek bir potansiyel var."
