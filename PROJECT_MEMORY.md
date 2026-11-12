@@ -23,10 +23,11 @@ Yavuz Ateş alternatif tarih roman serisinin (1798 Osmanlı, zaman yolcusu mühe
 
 ## Open issues
 
-- Büyük kararlar verildi (yukarıda). Kalan düzeltmeler: başparenin Silahdar/Hüsrev çift çözümü, Silahdar'ın bildiği sırlar, Ara Sahne II ve Wickham takvimi, İrlanda uyarısının tarihi, Bölüm 4'teki Mısır göndermeleri, net hatalar ve yazım hataları; ardından defterin 3. kitap özetleri.
-- Klasörün git remote'u yok; commit'ler yalnız yerelde.
+- Bölüm 5 sahne planı ve Bölüm 6'nın Ağustos sonu–Eylül 1799'a kayması Yavuz'un onayını bekliyor.
+- 12 Kasım 2026 19:05: Yavuz'un isteğiyle depo özel (private) GitHub deposuna pushlandı: https://github.com/yavuzates34/ates-mavisi (oluşturulma 2026-11-12T16:05:39Z). Amaç: kitaplara tarih damgası; zamanı gelince Yavuz public yapacak. Bundan sonra commit'ler pushlanır.
 - 14 MB PDF commit edilmedi (büyük dosya).
 
 ## Next step
 
-- Yavuz onaylarsa net hataları düzeltmek, ardından defteri güncellemek; karar isteyen maddeleri onunla konuşmak.
+- Yavuz Bölüm 5 planını onaylarsa Orkestratör'le Bölüm 5'i Opus high ile yazmak, doğrulamak, deftere işlemek.
+- Öneri (Yavuz'a sunuldu, karar onda): 1. kitap Mühür'ü erken bir platformda (ElevenReader vb.) yayımlamak; öncesinde platformun yapay zekâ beyan kurallarını kontrol etmek.
