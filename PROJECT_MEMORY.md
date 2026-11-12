@@ -30,5 +30,7 @@ Yavuz Ateş alternatif tarih roman serisinin (1798 Osmanlı, zaman yolcusu mühe
 
 ## Next step
 
+- Yeni bağlamda (oturum başı veya compact sonrası) `Kütüphaneci Günlüğü.md`'nin son girişlerini oku; karar olmayan fikir ve tercihler orada. Günlük konuşma sürerken yazılır, compact beklenmez.
+
 - Yavuz'un ChatGPT konuşma kayıtlarını (handoff) almak; oturumlar arası çelişkileri ayıklayıp sade liste sunmak; yeni senaryoyu `master`'da kurmak. Bölüm 5 askıda.
 - Öneri (Yavuz'a sunuldu, karar onda): 1. kitap Mühür'ü erken bir platformda (ElevenReader vb.) yayımlamak; öncesinde platformun yapay zekâ beyan kurallarını kontrol etmek.
