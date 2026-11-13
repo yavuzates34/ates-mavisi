@@ -94,13 +94,15 @@ ISTEM = (
     "ilgili parçalar ve adresleri var. Kararını bu kanıta dayandır: "
     "'onay' = kanıt 'dogru' alanındaki bilgiyi açıkça destekliyor; 'red' = kanıt bunu çürütüyor, ya da 'yanlis' diye gösterilen kullanım aslında doğru; "
     "'belirsiz' = kanıt konuyu kapsamıyor ya da yetersiz. Kendi bilgin tek başına onay için yetmez; kanıt yoksa ama bir sorun görüyorsan 'belirsiz' ver ve nota yaz. "
+    "ÖNEMLİ: Gündelik dil, hitap, sokak sözü, gündelik hayat gibi ansiklopedide karşılığı olmayan konularda kanıtın konuya değinmemesi 'red' sebebi DEĞİLDİR; "
+    "bu durumda 'belirsiz' ver ve 'kanit_kapsiyor' alanına 'hayır' yaz. 'red' yalnız kanıt maddeyi açıkça yalanlıyorsa verilir. "
     "Kanıt yetmiyorsa ve web sayfası açma aracın varsa güvenilir bir sayfayı (TDV, dergipark, üniversite yayını) kendin açabilirsin; açmadığın adresi yazma. "
     "kaynak_url kararının dayandığı adres olmalı (kanıttaki adreslerden ya da gerçekten açtığın sayfadan). "
     "Madde başka bir döneme aitse (ör. 16. yüzyıl için doğru ama 1798'de durum farklı) bunu gecerli_1798 ve not alanında belirt. "
     "'saman_adam' alanında: 'yanlis' alanındaki kullanım gerçekten dizi, film ya da popüler anlatıda görülen, bir yazarın düşebileceği bir hata mı ('hayır'), "
     "yoksa kimsenin yapmadığı, doğruyu anlatmak için uydurulmuş yapay bir yanlış mı ('evet')? "
     "Bütün metin Türkçe. Sonunda YALNIZCA tek bir ```json bloğu yaz, girdideki her madde için bir kayıt: "
-    '[{"mid": "", "karar": "onay|red|belirsiz", "gecerli_1798": "evet|hayır|kısmen", "saman_adam": "evet|hayır", '
+    '[{"mid": "", "karar": "onay|red|belirsiz", "kanit_kapsiyor": "evet|hayır", "gecerli_1798": "evet|hayır|kısmen", "saman_adam": "evet|hayır", '
     '"duzeltme": "dogru alanı eksik ya da hatalıysa düzeltilmiş hali, değilse boş", '
     '"kaynak_url": "", "kaynak_ozet": "en çok 15 kelime", "not": "en çok 2 cümle"}]'
 )

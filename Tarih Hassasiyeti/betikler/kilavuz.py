@@ -37,7 +37,8 @@ def durum(m, g):
         if g.startswith("kısmen"):
             return "kesin hata (1798 için kısmen geçerli)"
         return "kesin hata"
-    return {"tek-onay": "doğrulaması eksik (tek onay)", "tek-red": "şüpheli (bir red)", "elendi": "elendi", "dogrulanamadi": "doğrulanamadı"}[s]
+    return {"tek-onay": "tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)", "tek-red": "şüpheli (bir doğrulayıcı kanıtla yalanladı)",
+            "elendi": "elendi (iki doğrulayıcı da yalanladı)", "dogrulanamadi": "belirsiz / kaynakta karşılığı yok"}[s]
 
 
 def video_mu(m):
@@ -87,7 +88,7 @@ def main():
     for m in ms:
         grup[m.get("konu") if m.get("konu") in BASLIK else "diger"].append(m)
     os.makedirs(os.path.join(KOK, "dogrulanmis"), exist_ok=True)
-    govde, ek_tart, ek_diger, say = [], [], [], Counter()
+    govde, ek_tart, ek_diger, ek_tek, ek_bel, say = [], [], [], [], [], Counter()
     for kod in BASLIK:
         liste = grup.get(kod, [])
         if not liste:
@@ -97,35 +98,49 @@ def main():
         for m in liste:
             if saman_adam(m):
                 say["saman-adam"] += 1
-        dog = [m for m in liste if m["dogrulama"]["sonuc"] == "dogrulandi" and not saman_adam(m)]
-        tar = [m for m in liste if m["dogrulama"]["sonuc"] == "tartismali" and not saman_adam(m)]
+        S = lambda m: m["dogrulama"]["sonuc"]
+        hayir = lambda m: gecerlilik(m).startswith("hayır")
+        temiz = [m for m in liste if not saman_adam(m)]
+        dog = [m for m in temiz if S(m) == "dogrulandi"]
+        tar = [m for m in temiz if S(m) in ("tartismali", "tek-red")]
         dosya = [f"# {BASLIK[kod]} – doğrulama sonuçları", "",
-                 f"Doğrulanan: {len(dog)}, tartışmalı: {len(tar)}, toplam aday: {len(liste)}.", ""]
+                 f"Doğrulanan: {len(dog)}, tartışmalı/şüpheli: {len(tar)}, toplam aday: {len(liste)}.", ""]
         for i, m in enumerate(liste, 1):
             dosya.append(madde_md(i, m, ic=True))
-            say[m["dogrulama"]["sonuc"]] += 1
+            say[S(m)] += 1
         open(os.path.join(KOK, "dogrulanmis", f"{kod}.md"), "w", encoding="utf-8").write("\n".join(dosya))
-        gecerli = [m for m in dog if not gecerlilik(m).startswith("hayır")]
-        baska = [m for m in dog if gecerlilik(m).startswith("hayır")]
+        gecerli = [m for m in dog if not hayir(m)]
+        baska = [m for m in dog if hayir(m)]
+        tek = [m for m in temiz if S(m) == "tek-onay" and not hayir(m)]
+        # Yavuz'un kuralı (13 Kasım): TDV'de karşılığı olmayan maddeler elenmez, ayrı kümede durur
+        belirsiz = [m for m in temiz if S(m) == "dogrulanamadi" and not hayir(m)]
         say["kilavuz"] += len(gecerli)
         say["kilavuz-video"] += sum(1 for m in gecerli if video_mu(m))
         say["kilavuz-elestirili"] += sum(1 for m in gecerli if m.get("kaynaklar"))
-        say["ek-tartismali"] += len(tar)
+        say["ek-tek-onay"] += len(tek)
+        say["ek-belirsiz-karsiligi-yok"] += len(belirsiz)
+        say["ek-belirsiz-elestirili"] += sum(1 for m in belirsiz if m.get("kaynaklar"))
+        say["ek-tartismali-supheli"] += len(tar)
         say["ek-baska-donem"] += len(baska)
         if gecerli:
             govde.append(f"## {BASLIK[kod]}\n")
             for i, m in enumerate(gecerli, 1):
                 govde.append(madde_md(i, m))
-        if tar:
-            ek_tart.append(f"### {BASLIK[kod]}\n")
-            for i, m in enumerate(tar, 1):
-                ek_tart.append(madde_md(i, m).replace("### ", "#### ", 1))
+        for hedef, lst in ((ek_tek, tek), (ek_bel, belirsiz), (ek_tart, tar)):
+            if lst:
+                hedef.append(f"### {BASLIK[kod]}\n")
+                for i, m in enumerate(lst, 1):
+                    hedef.append(madde_md(i, m).replace("### ", "#### ", 1))
         if baska:
             ek_diger.append(f"### {BASLIK[kod]}\n")
-            for i, m in enumerate(baska, 1):
-                ek_diger.append(madde_md(i, m).replace("### ", "#### ", 1))
-    metin = "\n".join(govde) + "\n## Ek 1: Tartışmalı maddeler\n\nİki doğrulayıcı model çelişti; kullanmadan önce ayrıca bakılmalı.\n\n" + "\n".join(ek_tart) \
-        + "\n## Ek 2: Başka döneme ait doğrulanmış maddeler\n\nBu düzeltmeler kendi dönemleri için doğru, ama 1798 için geçerli değil; tuzak olarak bilinmeli.\n\n" + "\n".join(ek_diger)
+            for m in baska:
+                ek_diger.append(f"- {m['yanlis'].strip()} → {m['dogru'].strip()} (dönem: {m.get('donem') or '?'})")
+            ek_diger.append("")
+    metin = "\n".join(govde) \
+        + "\n## Ek 1: Tek onaylı maddeler\n\nBir doğrulayıcı kanıtla onayladı, öteki karar veremedi (yalanlamadı). Büyük olasılıkla doğru; kullanmadan önce kaynağa bir göz atılmalı.\n\n" + "\n".join(ek_tek) \
+        + "\n## Ek 2: Belirsiz / kaynakta karşılığı yok\n\nTDV'de karşılığı bulunamayan, ama kimsenin yalanlamadığı maddeler (çoğu gündelik dil, hitap, gündelik hayat). Eleştiri kaynağı varsa yanında. Yazar kendi muhakemesiyle kullanmalı.\n\n" + "\n".join(ek_bel) \
+        + "\n## Ek 3: Tartışmalı ve şüpheli maddeler\n\nDoğrulayıcılar çelişti ya da biri kanıtla yalanladı; kullanmadan önce ayrıca bakılmalı.\n\n" + "\n".join(ek_tart) \
+        + "\n## Ek 4: Başka döneme ait doğrulanmış maddeler\n\nBu düzeltmeler kendi dönemleri için doğru, ama 1798 için geçerli değil; tuzak olarak bilinmeli.\n\n" + "\n".join(ek_diger)
     open(os.path.join(KOK, "ham-sayfalar", "kilavuz-govde.md"), "w", encoding="utf-8").write(metin)
     print(dict(say))
 

@@ -60,11 +60,16 @@ Betikler: `betikler/`. Ham sayfa dökümleri ve iş klasörleri `ham-sayfalar/` 
 - Model taraması (16:30): çalışan ücretsiz modeller gemini-3-flash-preview (url_context kullanmadı), gemini-3.5-flash-lite ve gemini-3.1-flash-lite (url_context ile TDV okuyor), gemma-4-31b-it (araçsız). gemini-2.5-* yeni kullanıcıya kapalı.
 - 16:35 kalan 19 video çıkarım işi gemini-3-flash-preview ile bitti. Çıkarım tamam: ham 724 madde (247'si video), 97 web kaynağı. `birlestir.py topla` çalıştı; tekilleştirme 15 iş gemini-3-flash-preview ile başladı (`ham-sayfalar/tekil.log`).
 - TDV sayfaları tarayıcı kimliğiyle (User-Agent) düz curl'e 200 veriyor; örnekleme denetiminde kaynak okumak için kullanılabilir.
+- 16:36 gemini-3-flash-preview'ın da günlük sınırı 20 çıktı (tekilleştirmede doldu). Tekilleştirme gemma-4-31b-it (ve ters sıradan gemma-4-26b-a4b-it) ile sürdürüldü; Gemma'nın günlük kotası geniş görünüyor ama yavaş (iş başına 3-5 dk).
+- Doğrulama yolu değişti (Orkestratör II kararı, 16:45): url_context ile madde başına kaynak aramak 20 istek/gün kotasına sığmıyor. `dogrula2.py` + `tdv.py`: Gemma her madde için TDV slug'ı önerir, TDV sayfasını betik kendisi indirir (`ham-sayfalar/tdv/` önbelleği) ve iddiaya ilgili paragrafları seçer (`ham-sayfalar/kanit.json`); iki doğrulayıcı aynı kanıtı bağımsız okur. A = gemma-4-31b-it, B = gemini-3.1-flash-lite (kota dolarsa gemini-3.5-flash-lite). Betiğin indirdiği adresler "okunmuş" sayılır; başka adrese dayanan onay yalnız url_context okuması kanıtlanırsa geçer. Sınırlılık: iki doğrulayıcı da Google ailesinden.
+- Yavuz'un kuralı (Kütüphaneci aracılığıyla, 13 Kasım ~17:20): TDV'de karşılığı olmayan maddeler (gündelik dil, hitap, sokak sözü, gündelik hayat) "kanıt yok" diye elenmez; "belirsiz / kaynakta karşılığı yok" kümesinde tutulur ve kılavuzda ayrı bölüm olur. Eleme yalnız iki doğrulayıcı da kanıtla yalanladığında ya da madde saman adamsa. Uygulama: `dogrula2.py` istemi kanıt yokluğunu red sebebi saymıyor (`kanit_kapsiyor` alanı); `kilavuz.py` bu maddeleri Ek 2'ye koyuyor.
 - `kilavuz.py` değişti: eleştiri kaynağı olmayan ve doğrulayıcılardan birinin saman adam dediği maddeler kılavuza girmiyor; kılavuzdaki video ve eleştiri kaynaklı madde sayısı yazılıyor.
 
-### Devam adımları
-1. `cd betikler; set PYTHONUTF8=1`; kalan çıkarımı bitir: `python gemini.py isler ../ham-sayfalar/isler-kalan1.json 3`
-2. `python birlestir.py topla` → `python birlestir.py isler > ../ham-sayfalar/isler-tekil.json` → `python gemini.py isler ../ham-sayfalar/isler-tekil.json 2` → `python birlestir.py uygula`
-3. `python dogrula.py isler 6` → `python gemini.py isler ../ham-sayfalar/isler-dogA.json 2 gemini-3.5-flash` ve `python gemini.py isler ../ham-sayfalar/isler-dogB.json 2 gemini-3.1-flash-lite` → `python dogrula.py sonuc`
-4. `python kilavuz.py` → `ham-sayfalar/kilavuz-govde.md`'ye giriş ve en çarpıcı maddeler eklenerek `Tarih Hassasiyet Kılavuzu.md`.
-5. Örnekleme ile kalite denetimi; her aşamada commit ve push.
+### Devam adımları (Orkestratör II, güncel yol)
+Hepsi `betikler/` içinde, `PYTHONUTF8=1` ile. Betikler biten işi atlar.
+1. [x] Çıkarım bitti.
+2. Tekilleştirme: `GEMINI_ARALIK=20 python gemini.py isler ../ham-sayfalar/isler-tekil.json 1 gemma-4-31b-it` (eksik konu kalmayana dek) → `python birlestir.py uygula`
+3. `python dogrula2.py slug-isler 30` → `GEMINI_ARALIK=20 python gemini.py isler ../ham-sayfalar/isler-slug.json 2 gemma-4-31b-it` → `python dogrula2.py kanit`
+4. `python dogrula2.py isler 8 15` → A: `GEMINI_ARALIK=20 python gemini.py isler ../ham-sayfalar/isler-dogA.json 2 gemma-4-31b-it`; B: `python gemini.py isler ../ham-sayfalar/isler-dogB.json 1 gemini-3.1-flash-lite`, kota dolarsa aynı komut `gemini-3.5-flash-lite` ile → `python dogrula.py sonuc`
+5. `python kilavuz.py` → `ham-sayfalar/kilavuz-govde.md`'ye giriş ve en çarpıcı maddeler eklenerek `Tarih Hassasiyet Kılavuzu.md`.
+6. Örnekleme ile kalite denetimi (TDV metni `tdv.py getir <slug>` ile okunabilir); her aşamada commit ve push.
