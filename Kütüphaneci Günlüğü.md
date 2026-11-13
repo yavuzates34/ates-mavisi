@@ -49,3 +49,5 @@ Sevr Yavuz'unun önemi, Yavuz'un sözleriyle: onu hikâyeye katabilirsek okuyan 
 ## 13 Kasım 2026 14:15 (fa42d7d9) — Görünüş tercihi: Erwin Smith'e benzeyen bir evren
 
 Yavuz yedi fotoğrafını (takım ve deri ceketle, beyaz gömlekle, spor salonunda, askerlikte miğferle, bıyıklı ayna selfiesi) ve son olarak Erwin Smith görselini (sarı saç, mavi göz, siyah takım, elinde süt bardağı; anime tarzı) paylaştı. Sözleri: Erwin Smith kadar yakışıklı olduğunu iddia etmiyor, "edemem de" (gülerek); ama bu kurgusal evrende bir karakter ve paralel evren seçme hakkı olsa, Erwin Smith'e benzediği bir evreni seçerdi. Fotoğraflar depoya kopyalanmadı (kişisel). Not: ChatGPT konuşmalarında da bir Erwin Smith görseli üzerine konuşma var; okununca bu tercihle eşleştirilecek. Eski serideki portre: bıyıklı, jilet kaydı sakalsız, açık renk gözlü, kalpaklı.
+
+Not (14:17): Yavuz: "Daha henüz hiçbir şeye karar vermedik. Bütün olasılıklar masada." Gizli Konsül, Sevr Yavuz'u, iki Yavuz ve Erwin görünüşü dahil 13 Kasım girişlerindeki her şey fikir ve olasılıktır, karar değildir; Kütüphaneci'nin eğilim ve önerileri de öyle.
