@@ -114,10 +114,13 @@ def isler():
     kan = json.load(open(os.path.join(HS, "kanit.json"), encoding="utf-8"))
     ms = maddeler()
     hafif = [dict({k: m.get(k) for k in ("mid", "yanlis", "dogru", "aciklama", "donem")}, kanit=kan.get(m["mid"], [])) for m in ms]
-    for harf, parti in (("A", pa), ("B", pb)):
+    # B'nin (Gemini lite) günlük kotası ~20 istek: çıkarıcının "1798 için geçerli değil" dediği
+    # (başka döneme ait olay/kurgu) maddeler yalnız A'ya gider; kılavuzun ana gövdesine zaten girmezler.
+    hafifB = [h for h, m in zip(hafif, ms) if not str(m.get("gecerli_1798")).lower().startswith("hay")]
+    for harf, parti, liste in (("A", pa, hafif), ("B", pb, hafifB)):
         out = []
-        for i in range(0, len(hafif), parti):
-            p = hafif[i:i + parti]
+        for i in range(0, len(liste), parti):
+            p = liste[i:i + parti]
             ad = f"dog{harf}-{p[0]['mid']}"
             out.append({"ad": ad, "istem": ISTEM, "girdi": json.dumps(p, ensure_ascii=False, indent=0),
                         "cikti": f"ham-sayfalar/dogrulama/{ad}.json"})
