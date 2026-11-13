@@ -55,3 +55,9 @@ Not (14:17): Yavuz: "Daha henüz hiçbir şeye karar vermedik. Bütün olasılı
 ## 13 Kasım 2026 14:26 (fa42d7d9) — Tarihçi hassasiyeti: bariz hatalardan kaçınma araştırması (öneri aşamasında)
 
 Yavuz, Osmanlı dizi ve filmlerine tepki gösteren tarihçi ve anlatıcıların (Murat Bardakçı, Ceren Sungur, rahmetli Halil İnalcık, İlber Ortaylı ve daha birçoğu) yakındığı hataların toplanmasını istiyor. Amaç her ayrıntıya inmek değil, "midelerini bulandıracak" bariz hatalardan kaçınmak; örnek: kapıkuluna "gardiyan" dememek. Hepsi uygulanmayacak ama okunmalı, bilinmeli. Yavuz bunun için iki araç verecek ve Codex ajanlarıyla bir literatür taraması yapılmasını öneriyor; ekran görüntüleri ücretsiz model yönlendiricileri (FreeLLMAPI, OmniRoute, 9Router) gösteriyordu. Kütüphaneci plan önerdi; henüz uygulanmadı.
+
+## 13 Kasım 2026 17:22 (fa42d7d9) — Hassasiyet yalnız Osmanlı'yla sınırlı kalmamalı (fikir)
+
+Yavuz, tarih hassasiyeti araştırmasının şimdilik yalnız Osmanlı için yapıldığını hatırlattı. Hikâyede başka devletler de var: Britanya, Fransa, Prusya, Avusturya, Rusya, kısacası bütün Avrupa; Asya ve Afrika, ileride Amerika kıtası. Sözleri: bunlarda Osmanlı kadar titiz davranmamıza gerek olmayabilir, "ama tamamen de boşveremeyiz." Henüz bir iş başlatılmadı; Kütüphaneci kademeli bir ikinci dalga önerdi (Britanya ve Fransa önce, gerisi kısa bir "bariz hata" listesiyle; ülke önceliği yeni senaryo netleşince). Karar değil, olasılık.
+
+Aynı saatte Yavuz, doğrulamada TDV'de karşılığı bulunmayan gündelik dil ve hitap maddelerinin elenmeyip "belirsiz" diye ayrı tutulması gerektiğine katıldı; kural Tarih Orkestratörü II'ye iletildi.
