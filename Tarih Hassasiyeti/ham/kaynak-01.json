@@ -1,0 +1,315 @@
+{
+ "model": "opencode/deepseek-v4.1-flash-free",
+ "ad": "kaynak-01",
+ "tarih": "2026-11-13 15:02",
+ "veri": {
+  "kaynaklar": [
+   {
+    "url": "https://haber.sol.org.tr/toplum/akpnin-payitaht-abdulhamid-dizisi-hatalarla-dolu-187292",
+    "baslik": "AKP'nin 'Payitaht Abdülhamid' dizisi hatalarla dolu",
+    "kisi": "Murat Bardakçı",
+    "tarih": "1 Mart 2017",
+    "yapim": "Payitaht Abdülhamid",
+    "tur": "haber"
+   },
+   {
+    "url": "https://www.sozcu.com.tr/murat-bardakcidan-trtnin-yeni-dizisi-payitaht-abdulhamide-sert-elestiri-wp1707124",
+    "baslik": "Murat Bardakçı'dan, TRT'nin yeni dizisi 'Payitaht Abdülhamid'e sert eleştiri",
+    "kisi": "Murat Bardakçı",
+    "tarih": "1 Mart 2017",
+    "yapim": "Payitaht Abdülhamid",
+    "tur": "haber"
+   },
+   {
+    "url": "https://www.milliyet.com.tr/cadde/murat-bardakci-payitaht-istanbul-dizisindeki-hatayi-yazdi-2405503",
+    "baslik": "Murat Bardakçı, 'Payitaht İstanbul' dizisindeki hatayı yazdı!",
+    "kisi": "Murat Bardakçı",
+    "tarih": "1 Mart 2017",
+    "yapim": "Payitaht Abdülhamid",
+    "tur": "haber"
+   },
+   {
+    "url": "https://www.medyafaresi.com/haber/murat-bardakci-payitaht-abdulhamiddeki-hatalari-siraladi/813831",
+    "baslik": "Murat Bardakçı, Payitaht Abdülhamid'deki hataları sıraladı",
+    "kisi": "Murat Bardakçı",
+    "tarih": "27 Mart 2017",
+    "yapim": "Payitaht Abdülhamid",
+    "tur": "haber"
+   },
+   {
+    "url": "https://www.odatv.com/guncel/payitaht-abdulhamidde-yeni-rezalet-112497",
+    "baslik": "Payitaht Abdülhamid'de yeni rezalet",
+    "kisi": "Murat Bardakçı",
+    "tarih": "27 Mart 2017",
+    "yapim": "Payitaht Abdülhamid",
+    "tur": "haber"
+   },
+   {
+    "url": "https://kosem.firaz.net/konu-18101.html",
+    "baslik": "Kösem Sultan Murat Bardakçı'yı fena kızdırdı!",
+    "kisi": "Murat Bardakçı",
+    "tarih": "bilinmiyor",
+    "yapim": "Muhteşem Yüzyıl: Kösem",
+    "tur": "forum"
+   },
+   {
+    "url": "https://www.haberturk.com/yazarlar/murat-bardakci/922173-rustem-pasa-ve-rusvet",
+    "baslik": "Rüstem Paşa ve rüşvet",
+    "kisi": "Murat Bardakçı",
+    "tarih": "17 Şubat 2014",
+    "yapim": "Muhteşem Yüzyıl",
+    "tur": "yazı"
+   },
+   {
+    "url": "https://www.internethaber.com/osmanli-dudaktan-oper-miydi-321759h.htm",
+    "baslik": "Osmanlı dudaktan öper miydi?",
+    "kisi": "Murat Bardakçı",
+    "tarih": "17 Ocak 2011",
+    "yapim": "Muhteşem Yüzyıl tartışmaları",
+    "tur": "haber"
+   }
+  ],
+  "maddeler": [
+   {
+    "yanlis": "Payitaht Abdülhamid'de Cuma selâmlığında ve padişahın huzurunda mehter takımı çalıyor.",
+    "dogru": "Mehter 1826'da Yeniçeri Ocağı ile birlikte kaldırıldı, 1911'de yeniden ihya edildi; ilk askerî mehter 1917'de kuruldu.",
+    "aciklama": "Abdülhamid döneminde mehter değil, Batı müziği icra eden saray bandosu vardı. 1798'de mehterhane hâlâ faalde olduğu için bu düzeltme 1798 anlatısına uygulanamaz.",
+    "konu": "ordu",
+    "donem": "19.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://haber.sol.org.tr/toplum/akpnin-payitaht-abdulhamid-dizisi-hatalarla-dolu-187292",
+    "kaynak_ozet": "O devirde mehter ne arar? 1826'da kaldırılmış, 1911'de ihya edilmişti."
+   },
+   {
+    "yanlis": "Devlet erkânı tahtın önündeki sopaya bağlı püskülü öperek padişahı selamlıyor.",
+    "dogru": "Selamlaşma büyük temennâ ile yapılır, mabeyincinin tuttuğu saçağı öper gibi etmek âdetti.",
+    "aciklama": "Tahtın önünde sopaya bağlı püskül bulunmazdı ve böyle bir öpme âdeti yoktu. Bu protokol tarifi 1798 için ancak kısmen kullanılabilir.",
+    "konu": "saray-devlet",
+    "donem": "19.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://www.sozcu.com.tr/murat-bardakcidan-trtnin-yeni-dizisi-payitaht-abdulhamide-sert-elestiri-wp1707124",
+    "kaynak_ozet": "Tahtın önünde sopaya bağlı püskül durmazdı, öpme âdeti de yoktu."
+   },
+   {
+    "yanlis": "Padişah bütün hanımları ve şehzadesiyle birlikte kalabalık bir kahvaltı sofrasında gösteriliyor.",
+    "dogru": "Padişahlar yemeklerini tek başına yerdi; birkaç istisna dışında sofraya hanım ve çocuk katılmazdı.",
+    "aciklama": "Bardakçı hiçbir Osmanlı sarayında böyle cümbür cemaat bir kahvaltı olmadığını yazıyor. Yalnız yemek yeme âdeti 18. yüzyıl sarayı için de geçerli.",
+    "konu": "yemek-kahve-tutun",
+    "donem": "19.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://haber.sol.org.tr/toplum/akpnin-payitaht-abdulhamid-dizisi-hatalarla-dolu-187292",
+    "kaynak_ozet": "Padişahlar tarih boyunca yemeklerini tek başına yemişler."
+   },
+   {
+    "yanlis": "Şehzade padişah babasına Baba, babacığım diye hitap ediyor.",
+    "dogru": "Hükümdara Efendimiz, samimi anlarda Pederim denirdi.",
+    "aciklama": "Bardakçı bu hitabın mümkün olmadığını yazıyor. Aynı hitap düzeni 1798 İstanbul'u için de geçerli.",
+    "konu": "unvan-hitap",
+    "donem": "19.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://www.sozcu.com.tr/murat-bardakcidan-trtnin-yeni-dizisi-payitaht-abdulhamide-sert-elestiri-wp1707124",
+    "kaynak_ozet": "Efendimiz yahut Pederim yerine Baba demesi mümkün mü?"
+   },
+   {
+    "yanlis": "Devletin adı Devlet-i Âliyye diye, ilk A uzatılarak söyleniyor.",
+    "dogru": "Aliyye kelimesinin başındaki A kısa okunur: Devlet-i Aliyye.",
+    "aciklama": "Bardakçı bunu devletin adının bile yanlış telaffuz edilmesi diye eleştiriyor. Telaffuz kuralı 18. yüzyıl için de aynıdır.",
+    "konu": "gundelik-dil",
+    "donem": "19.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://haber.sol.org.tr/toplum/akpnin-payitaht-abdulhamid-dizisi-hatalarla-dolu-187292",
+    "kaynak_ozet": "Aliyye'nin başındaki A kısa okunur, Âliyye diye uzatılamaz."
+   },
+   {
+    "yanlis": "Abdülkadir adının ortasındaki a kısa söyleniyor.",
+    "dogru": "Ortadaki a uzun okunur.",
+    "aciklama": "Bardakçı bunu azınlık şivesi gibi bozuk telaffuz diye niteliyor. Kişi adlarının klasik telaffuzu 1798 için de aynıdır.",
+    "konu": "isim-ad",
+    "donem": "19.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://haber.sol.org.tr/toplum/akpnin-payitaht-abdulhamid-dizisi-hatalarla-dolu-187292",
+    "kaynak_ozet": "Abdülkadir'in ortasındaki a uzun okunmalıydı, kısaltılmış."
+   },
+   {
+    "yanlis": "Resmî belgede arz kelimesi, başında ayın varken elif ile yazılıyor.",
+    "dogru": "Arz kelimesi ayın ile yazılır.",
+    "aciklama": "Bardakçı dizideki evrakın neredeyse tamamının imlâsının yanlış olduğunu yazıyor. Aynı imla kuralı 1798 belgeleri için de geçerlidir.",
+    "konu": "yazi-belge",
+    "donem": "19.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://www.medyafaresi.com/haber/murat-bardakci-payitaht-abdulhamiddeki-hatalari-siraladi/813831",
+    "kaynak_ozet": "Başında ayın olması gereken arz'ı elif ile yazıyorlar."
+   },
+   {
+    "yanlis": "Son harfi he olan kara kelimesi elif ile yazılıyor.",
+    "dogru": "Kara kelimesi he ile biter.",
+    "aciklama": "Bardakçı örnekleri bir elif merakı diye topluyor. Kelimenin imlası 1798 için de aynıdır.",
+    "konu": "yazi-belge",
+    "donem": "19.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://www.odatv.com/guncel/payitaht-abdulhamidde-yeni-rezalet-112497",
+    "kaynak_ozet": "Son harfi he olan kara'yı da yine elif ile yazıyorlar."
+   },
+   {
+    "yanlis": "Harbiye kelimesi sonuna he konması gerekirken elif ile yazılıyor.",
+    "dogru": "Kelime he ile yazılır.",
+    "aciklama": "İmla hatası açık, ancak Harbiye adı 19. yüzyıl kurumudur. Bu yüzden düzeltme 1798 için kısmen anlamlıdır.",
+    "konu": "yazi-belge",
+    "donem": "19.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://www.medyafaresi.com/haber/murat-bardakci-payitaht-abdulhamiddeki-hatalari-siraladi/813831",
+    "kaynak_ozet": "Sonuna he konan Harbiye'yi de aynı şekilde elif ile yazıyorlar."
+   },
+   {
+    "yanlis": "Nezaret kelimesine fazladan elif ekleniyor.",
+    "dogru": "Son hecesinde elif bulunmayan nezaret elifsiz yazılır.",
+    "aciklama": "Bardakçı bu hatayı elif merakının parçası olarak sayıyor. Nezaret kelimesi ve imlası 18. yüzyıl belgelerinde de kullanılır.",
+    "konu": "yazi-belge",
+    "donem": "19.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://www.odatv.com/guncel/payitaht-abdulhamidde-yeni-rezalet-112497",
+    "kaynak_ozet": "Son hecesinde elif bulunmayan nezaret'e de elif çekiyorlar."
+   },
+   {
+    "yanlis": "Son harfi ye olan Çorlu, vav ile yazılıp çürlü diye okunuyor.",
+    "dogru": "Çorlu ye ile yazılır; çürlü hasta demektir.",
+    "aciklama": "Yazım hatası kelimenin anlamını değiştiriyor. Yer adlarının imlası 1798 için de aynı kurallara bağlıdır.",
+    "konu": "yazi-belge",
+    "donem": "19.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://www.medyafaresi.com/haber/murat-bardakci-payitaht-abdulhamiddeki-hatalari-siraladi/813831",
+    "kaynak_ozet": "Son harfi ye olan Çorlu'yu vav ile çürlü yapmış."
+   },
+   {
+    "yanlis": "Hükümetten gelen resmî yazının üstüne İstiklâl Marşı'nın ilk mısralarındaki kelimeler konmuş.",
+    "dogru": "Belge, dönemin resmî yazışma kalıplarıyla yazılmalıydı.",
+    "aciklama": "İstiklâl Marşı 1921'de kabul edildiği için Abdülhamid dönemi belgesinde bulunamaz. 1798 anlatısında da yeri yoktur.",
+    "konu": "yazi-belge",
+    "donem": "19.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://www.odatv.com/guncel/payitaht-abdulhamidde-yeni-rezalet-112497",
+    "kaynak_ozet": "Resmî yazının üstüne İstiklâl Marşı'nın ilk mısralarını monte etmişler."
+   },
+   {
+    "yanlis": "Gazete kelimesi kef ve elif ile kâzteci diye yazılmış.",
+    "dogru": "Gazete gayın ile yazılır; gazeteci kelimesi de o dönemde bu anlamda kullanılmıyordu.",
+    "aciklama": "Tabelada hem imla hem kelime seçimi yanlış. 1798 İstanbul'unda gazete ve gazeteci kavramı henüz yoktur.",
+    "konu": "yazi-belge",
+    "donem": "19.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://www.medyafaresi.com/haber/murat-bardakci-payitaht-abdulhamiddeki-hatalari-siraladi/813831",
+    "kaynak_ozet": "Gayın ile yazılması gereken gazete'nin başına kef konmuş: kâzteci."
+   },
+   {
+    "yanlis": "Dükkân tabelasına gazete yerine Fransızca journaliste yazılmış.",
+    "dogru": "Doğrusu journal, yani gazetedir; journaliste gazeteci demektir.",
+    "aciklama": "Bardakçı tabelanın Fransızcasının da bozulduğunu yazıyor. Fransızca tabela 1798 İstanbul'u için de anakroniktir.",
+    "konu": "yazi-belge",
+    "donem": "19.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://www.odatv.com/guncel/payitaht-abdulhamidde-yeni-rezalet-112497",
+    "kaynak_ozet": "Journal yani gazete kelimesi gazeteci diye çevrilip journaliste olmuş."
+   },
+   {
+    "yanlis": "Şeyhülislâm Yahya Efendi'nin adı başına ve sonuna elif konarak yazılmış.",
+    "dogru": "Yahya'da y'den sonra elif bulunmaz, kelime ye ile biter.",
+    "aciklama": "Bardakçı bir peygamber adının bile düzgün yazılmadığını söylüyor. Adın klasik imlası 1798 için de aynıdır.",
+    "konu": "isim-ad",
+    "donem": "19.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://www.medyafaresi.com/haber/murat-bardakci-payitaht-abdulhamiddeki-hatalari-siraladi/813831",
+    "kaynak_ozet": "Yahya'ya başa ve sona elif dikmişler, isim berbad olmuş."
+   },
+   {
+    "yanlis": "Yedi iklîmin sultanı sözünde kelime iklîm diye söyleniyor.",
+    "dogru": "Doğrusu ıklîm'dir: ilk harf ı, k kalın, son i uzun okunur.",
+    "aciklama": "Bardakçı altı kelimenin üçünün telaffuzunun yanlış olduğunu yazıyor. Kelime 1798'de de aynı şekilde okunurdu.",
+    "konu": "gundelik-dil",
+    "donem": "17.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl: Kösem",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://kosem.firaz.net/konu-18101.html",
+    "kaynak_ozet": "Doğrusu ıklîm'dir; oyuncu ikinci i'yi de kısa kesip iklim diyor."
+   },
+   {
+    "yanlis": "Üç kıt'anın padişahı sözünde kıt'a kelimesinin son a'sı uzatılıyor.",
+    "dogru": "Kıt'a, t'den sonra kısa bir duraklamayla ve kısa a ile söylenir.",
+    "aciklama": "Dizide kelime kıtaaaaa diye çekiliyor. Aynı okuma kuralı 18. yüzyıl için de geçerlidir.",
+    "konu": "gundelik-dil",
+    "donem": "17.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl: Kösem",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://kosem.firaz.net/konu-18101.html",
+    "kaynak_ozet": "Kıt'a, sondaki a lâstik gibi uzatılıp kıtaaaaaa oluyor."
+   },
+   {
+    "yanlis": "Pâdişâh kelimesinin ikinci a'sı kısa söyleniyor.",
+    "dogru": "Her iki a da uzundur; kelimeye ek geldiğinde ikinci uzunluk korunur.",
+    "aciklama": "Kelime dizide binlerce kez geçtiği için hata sürekli tekrarlanıyor. Telaffuz kuralı 1798 için de aynıdır.",
+    "konu": "unvan-hitap",
+    "donem": "17.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl: Kösem",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://kosem.firaz.net/konu-18101.html",
+    "kaynak_ozet": "Pâdişâh'ın ikinci a'sı kısaltılıyor; asıl felâket bu."
+   },
+   {
+    "yanlis": "Muhteşem Yüzyıl'da Rüstem Paşa rüşvet alan bir vezir olarak gösteriliyor.",
+    "dogru": "Pîşkeş, tayin karşılığı ödenen ve defterlere kaydedilen bir çeşit vergiydi; rüşvet değildi.",
+    "aciklama": "Bardakçı servetin kaynağının kayıtlı pîşkeş ödemeleri olduğunu, rüşvet iddiasının rakiplerin karalamasından çıktığını yazıyor. Pîşkeş düzeni 18. yüzyılda da sürüyordu.",
+    "konu": "para-olcu-takvim",
+    "donem": "16.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://www.haberturk.com/yazarlar/murat-bardakci/922173-rustem-pasa-ve-rusvet",
+    "kaynak_ozet": "Pîşkeş rüşvet değil, kayıt altında bir çeşit vergidir."
+   },
+   {
+    "yanlis": "Osmanlı'da dudaktan öpüşmenin olmadığı, bunun 19. yüzyılda Avrupalılardan öğrenildiği iddiası.",
+    "dogru": "Divan şiirinde leb ve buse üzerine çok sayıda mısra vardır; öpüşme biliniyor ve adlandırılıyordu.",
+    "aciklama": "İddia dizinin ardından televizyonda konuşan bir yorumcuya aitti, dizinin kendisine değil. Bardakçı Kanuni'nin ve III. Selim'in şiirlerini örnek veriyor.",
+    "konu": "harem-kadin",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl tartışmaları",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://www.internethaber.com/osmanli-dudaktan-oper-miydi-321759h.htm",
+    "kaynak_ozet": "Dudaktan öpüşmeyi 19. asırda Avrupalılardan öğrendik buyurdu."
+   }
+  ]
+ }
+}

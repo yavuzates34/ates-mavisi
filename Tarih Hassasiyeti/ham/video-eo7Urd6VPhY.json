@@ -1,0 +1,35 @@
+{
+ "model": "opencode/deepseek-v4.1-flash-free",
+ "ad": "video-eo7Urd6VPhY",
+ "tarih": "2026-11-13 15:02",
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "Abdülhamid dizisinde gerçekte var olmayan, uydurma bir II. Abdülhamid portresi çizilmesi",
+    "dogru": "II. Abdülhamid dönemi belgelerle çok iyi bilinen yakın bir dönemdir; padişah da olaylar da kaynaklara dayanılarak anlatılmalıdır",
+    "aciklama": "Bardakçı dizideki Abdülhamid için \"öyle bir Abdülhamid falan yok\" diyor. Ertuğrul dönemi gibi kaynağı az devirlerde kurgu mazur görülebilir, ama Abdülhamid dönemi \"daha dün gibi\" bilindiği için uydurma karakter kabul edilemez.",
+    "konu": "diplomasi-donem",
+    "donem": "19.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://youtu.be/eo7Urd6VPhY?t=0",
+    "zaman": "00:00",
+    "kaynak_ozet": "Oradaki Abdülhamid uydurma, öyle bir Abdülhamid falan yok; Ertuğrul dönemini bilmiyoruz"
+   },
+   {
+    "yanlis": "Muhteşem Yüzyıl çevresinde Kanuni Sultan Süleyman'ın hayatının çoğunu seferde geçirmediği, sarayda oturduğu iddiası",
+    "dogru": "Kanuni hayatının çok büyük bir kısmını seferde geçirmiş bir padişahtı",
+    "aciklama": "Bardakçı, \"yok öyle bir şey\" denmesine karşı çıkıp padişahın ömrünün büyük bölümünün seferlerde geçtiğini söylüyor. Dizideki saray merkezli Kanuni portresi bu gerçeği örtüyor.",
+    "konu": "saray-devlet",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://youtu.be/eo7Urd6VPhY?t=91",
+    "zaman": "01:31",
+    "kaynak_ozet": "Kanuni hayatının çok büyük bir kısmını seferde geçirmiş bir padişahtı"
+   }
+  ]
+ }
+}
