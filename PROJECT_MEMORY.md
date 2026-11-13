@@ -14,6 +14,9 @@ Yavuz Ateş alternatif tarih roman serisinin (1798 Osmanlı, zaman yolcusu mühe
 - 9 Kasım 2026 20:50: Yavuz bu klasördeki Claude Code oturumuna "Kütüphaneci" adını verdi; oturum kimliği `fa42d7d9-4fd4-489d-a78b-1a79cb754111`. Kayıt: `CLAUDE.md`.
 - 9 Kasım 2026 21:28–21:35: Yavuz onayladı ve deftere işlendi: ibret-i âlem kuralı (Et Meydanı yemini yalnız gözdağı); 3. Kitap 10 bölüm + 4 ara sahne; Tipu ölü kalır, kolordu Maskat'ta takıldı, Wellesley esir ve takas yok, Selim Ekim–Kasım 1799'da ölür, Korfu ara sahnesi Ağustos 1799, Balo Bölüm 8 (Ocak 1800), Kent 9, Westminster 10. Gerekçe: Bölüm 4 sonu Tipu'nun ölümüne kurulu; balo esir değişimiyle açıldığı için çıkarmadan önce olmalı.
 
+- 13 Kasım 2026 17:43: Tarih hassasiyeti araştırmasının ikinci dalgası için Yavuz onayı: önce Osmanlı kılavuzu (Tarih Orkestratörü II yürütüyor) bitip yöntem değerlendirilecek; iş görüyorsa Britanya ve Fransa aynı düzenle (tarihçi eleştirisi + kaynakla doğrulama, İngilizce kaynak ağırlıklı), Rusya/Avusturya/Prusya orta düzey, Asya/Afrika/Amerika yalnız kısa "bariz hata" listesi; ülke önceliği yeni senaryo netleşince. İkinci dalganın orkestratörü Codex'te gpt-6.1-sol, xhigh olacak (Yavuz). Başlangıç en erken 14 Kasım 11:00 sonrası (Gemini günlük kotaları). Gerekçe: Osmanlı kadar titizlik gerekmeyebilir ama "tamamen de boşveremeyiz".
+- 13 Kasım 2026 17:22: Doğrulamada TDV'de karşılığı olmayan (gündelik dil, hitap) maddeler elenmez, "belirsiz" diye ayrı tutulur (Yavuz onayı).
+
 ## Current status
 
 - 1. Kitap Mühür (6 bölüm) ve 2. Kitap Ada (5 bölüm + ara sahne) tamam. 3. Kitap Yıldırım'da 4 bölüm ve 2 ara sahne (Kutu, Mühendis) var; defter planı artık 10 bölüm ve 4 ara sahne (Kutu, Mühendis, Mihaylovski, Korfu).
@@ -32,5 +35,6 @@ Yavuz Ateş alternatif tarih roman serisinin (1798 Osmanlı, zaman yolcusu mühe
 
 - Yeni bağlamda (oturum başı veya compact sonrası) `Kütüphaneci Günlüğü.md`'nin son girişlerini oku; karar olmayan fikir ve tercihler orada. Günlük konuşma sürerken yazılır, compact beklenmez.
 
+- Tarih Orkestratörü II'nin Osmanlı kılavuzu raporunu (`Tarih Hassasiyeti/Tarih Hassasiyet Kılavuzu.md`) doğrulayıp Yavuz'a aktarmak; sonra ikinci dalga (Britanya, Fransa) için Codex gpt-6.1-sol xhigh orkestratörüne brif yazmak.
 - Yavuz'un ChatGPT konuşma kayıtlarını (handoff) almak; oturumlar arası çelişkileri ayıklayıp sade liste sunmak; yeni senaryoyu `master`'da kurmak. Bölüm 5 askıda.
 - Öneri (Yavuz'a sunuldu, karar onda): 1. kitap Mühür'ü erken bir platformda (ElevenReader vb.) yayımlamak; öncesinde platformun yapay zekâ beyan kurallarını kontrol etmek.

@@ -61,3 +61,7 @@ Yavuz, Osmanlı dizi ve filmlerine tepki gösteren tarihçi ve anlatıcıların 
 Yavuz, tarih hassasiyeti araştırmasının şimdilik yalnız Osmanlı için yapıldığını hatırlattı. Hikâyede başka devletler de var: Britanya, Fransa, Prusya, Avusturya, Rusya, kısacası bütün Avrupa; Asya ve Afrika, ileride Amerika kıtası. Sözleri: bunlarda Osmanlı kadar titiz davranmamıza gerek olmayabilir, "ama tamamen de boşveremeyiz." Henüz bir iş başlatılmadı; Kütüphaneci kademeli bir ikinci dalga önerdi (Britanya ve Fransa önce, gerisi kısa bir "bariz hata" listesiyle; ülke önceliği yeni senaryo netleşince). Karar değil, olasılık.
 
 Aynı saatte Yavuz, doğrulamada TDV'de karşılığı bulunmayan gündelik dil ve hitap maddelerinin elenmeyip "belirsiz" diye ayrı tutulması gerektiğine katıldı; kural Tarih Orkestratörü II'ye iletildi.
+
+## 13 Kasım 2026 17:43 (fa42d7d9) — İkinci dalga onaylandı, orkestratörü Codex
+
+Yavuz kademeli ikinci dalga önerisine katıldı (önce Osmanlı kılavuzu ve yöntemin değerlendirilmesi; sonra Britanya ve Fransa; gerisi senaryo netleşince kısa listeler; başlangıç kotalar yüzünden 14 Kasım 11:00 sonrası). Tek şartı: ikinci dalganın orkestratörlüğünü Codex'teki gpt-6.1-sol modeli xhigh effort ile yapsın. Codex varsayılanı zaten bu model ve effort; Codex tam erişimle (sandbox kapalı, onay sormadan) çalıştığı için brifte korunan dosyalar açıkça yazılacak. Karar PROJECT_MEMORY'ye işlendi.
