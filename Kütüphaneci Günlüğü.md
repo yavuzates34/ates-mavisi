@@ -45,3 +45,7 @@ Yavuz bunun "çok daha masmanyak" bir fikir olduğunu, ama ChatGPT konuşmaları
 Birincisi, ana kahraman Yavuz, İtilaf Devletleri'nin kazandığı ve Sevr Antlaşması'nın (Yavuz "Serv" dedi) uygulandığı bir Osmanlı'dan geliyor; yani Sevr sınırları içinde İngilizlere yenilmiş bir Osmanlı Devleti'nden. İkincisi, iki Yavuz var: biri Türkiye Cumhuriyeti'nden, diğeri Sevr sınırlarındaki Osmanlı'dan gelen Yavuz. ("Bu ikinci Yavuz nereden çıktı" sorusunun cevabı konuşmalarda.)
 
 Sevr Yavuz'unun önemi, Yavuz'un sözleriyle: onu hikâyeye katabilirsek okuyan ve dinleyen insanlar şunu fark edecek: "Atatürk olmasaydı, Türkiye gerçekten Sevr'e tabi olmak zorunda kalsaydı başına neler gelecekti, nasıl bir felaket gelecekti?" Bunu insanlara göstermiş olacağız. "Burada yüksek bir potansiyel var."
+
+## 13 Kasım 2026 14:15 (fa42d7d9) — Görünüş tercihi: Erwin Smith'e benzeyen bir evren
+
+Yavuz yedi fotoğrafını (takım ve deri ceketle, beyaz gömlekle, spor salonunda, askerlikte miğferle, bıyıklı ayna selfiesi) ve son olarak Erwin Smith görselini (sarı saç, mavi göz, siyah takım, elinde süt bardağı; anime tarzı) paylaştı. Sözleri: Erwin Smith kadar yakışıklı olduğunu iddia etmiyor, "edemem de" (gülerek); ama bu kurgusal evrende bir karakter ve paralel evren seçme hakkı olsa, Erwin Smith'e benzediği bir evreni seçerdi. Fotoğraflar depoya kopyalanmadı (kişisel). Not: ChatGPT konuşmalarında da bir Erwin Smith görseli üzerine konuşma var; okununca bu tercihle eşleştirilecek. Eski serideki portre: bıyıklı, jilet kaydı sakalsız, açık renk gözlü, kalpaklı.
