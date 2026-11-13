@@ -58,15 +58,16 @@ def isler():
     random.seed(1798)
     # önce ayrışanlar (kanıtı olanlar), sonra onaylılardan rastgele pay
     ayris = [m for m in ayris if kan.get(m["mid"])]
+    # kapasite yetiyorsa: onaylıların (kılavuz gövdesi adayları) hepsi önce, sonra ayrışanlar
     kapasite = parti * sinir
-    secim = ayris[: kapasite // 2]
-    secim += random.sample(onay, min(len(onay), kapasite - len(secim)))
+    secim = onay[:kapasite] if len(onay) <= kapasite else random.sample(onay, kapasite)
+    secim += ayris[: max(0, kapasite - len(secim))]
     out = []
     for i in range(0, len(secim), parti):
         p = [dict({k: m.get(k) for k in ("mid", "yanlis", "dogru", "aciklama", "donem")}, kanit=kan.get(m["mid"], [])) for m in secim[i:i + parti]]
         out.append({"ad": f"dogC-{p[0]['mid']}", "girdi": json.dumps(p, ensure_ascii=False, indent=0)})
     json.dump(out, open(os.path.join(HS, "isler-dogC.json"), "w", encoding="utf-8"), ensure_ascii=False)
-    print("iş", len(out), "madde", len(secim), "ayrışan", min(len(ayris), kapasite // 2), "onaylı", len(secim) - min(len(ayris), kapasite // 2))
+    print("iş", len(out), "madde", len(secim), "onaylı", min(len(onay), kapasite), "ayrışan(kanıtlı)", len(ayris))
 
 
 def calistir():
