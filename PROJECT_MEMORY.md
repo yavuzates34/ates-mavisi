@@ -33,10 +33,12 @@ Yavuz Ateş alternatif tarih roman serisinin (1798 Osmanlı, zaman yolcusu mühe
 - 12 Kasım 2026 19:14: İlk seri dondu: `ilk-seri-v1` etiketi + GitHub release, `ilk-seri` branch'i (eski seriye düzeltmeler için). Yavuz 3. kitabı muhtemelen bitirmeyecek; ChatGPT'de 3 dallı oturumda (zamanda yolculuk, Osmanlı yönetimi, İngiltere'ye kansız strateji) yeni senaryo konuştu. Kayıtları handoff olarak getirecek; yeni senaryo `master` üzerinde ilerleyecek.
 - 14 MB PDF commit edilmedi (büyük dosya).
 
+- 13 Kasım 2026 ~21:50: Osmanlı (1798–1800) Tarih Hassasiyet Kılavuzu ilk sürümü bitti (`Tarih Hassasiyeti/Tarih Hassasiyet Kılavuzu.md`, commit 78cac9b, origin ile eşit). Ham 724, tekil 543; gövde 142 madde (Bölüm I eleştiri kaynaklı 47, 34'ü video; Bölüm II konu taraması 95); Ek 1 tek onay 40, Ek 2 belirsiz 146 (elenmedi, Yavuz'un kuralı), Ek 3 tartışmalı 12, Ek 4 başka dönem 26; 3 elendi, 2 saman adam. Doğrulayıcılar TDV kanıtı üzerinde: A gemma-4-31b-it, B gemini-3.1-flash-lite (42'sinde 3.5-flash-lite), C Nemotron 3 Ultra (OpenRouter, Google dışı, 233 madde). Kütüphaneci kontrolü: bölüm sayıları raporla tutuyor, denetimle indirilen 3 madde Ek 3'te. Zayıflıklar: orkestratör örneklemesinde 18 gövde maddesinin 3'ünde esaslı hata (yaklaşık altıda bir); doğrulayıcılar gevşek onaylıyor; gövdede 1798'le ilgisi zayıf ~20 madde var (ör. oyuncu yaşı, 13. yüzyıl "destur"), çünkü doğrulayıcılar dönem uygunluğunu değil olgunun doğruluğunu onayladı.
+
 ## Next step
 
 - Yeni bağlamda (oturum başı veya compact sonrası) `Kütüphaneci Günlüğü.md`'nin son girişlerini oku; karar olmayan fikir ve tercihler orada. Günlük konuşma sürerken yazılır, compact beklenmez.
 
-- Tarih Orkestratörü II'nin Osmanlı kılavuzu raporunu (`Tarih Hassasiyeti/Tarih Hassasiyet Kılavuzu.md`) doğrulayıp Yavuz'a aktarmak; sonra ikinci dalga (Britanya, Fransa) için Codex gpt-6.1-sol xhigh orkestratörüne brif yazmak.
+- Osmanlı kılavuzu bitti ve Yavuz'a aktarıldı (13 Kasım ~21:50). Açık işler: Bölüm I'in insan gözüyle okunması; gövdeden 1798'le ilgisiz maddelerin ayıklanması. Fable oturumu ve ikinci dalga (Britanya, Fransa; Codex gpt-6.1-sol xhigh) Yavuz'un kuracağı iş; Kütüphaneci istenmedikçe başlatmaz, brifi ancak istenirse yazar.
 - Yavuz'un ChatGPT konuşma kayıtlarını (handoff) almak; oturumlar arası çelişkileri ayıklayıp sade liste sunmak; yeni senaryoyu `master`'da kurmak. Bölüm 5 askıda.
 - (Geçersiz, 13 Kasım 19:09) Mühür'ü erken yayımlama önerisi düştü: ilk seri yayımlanmayacak bir deneme eseri.
