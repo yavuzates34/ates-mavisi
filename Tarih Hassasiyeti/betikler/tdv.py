@@ -56,7 +56,9 @@ def getir(slug):
         son = h.find('class="article-parts"', h.find('class="article-ps"', bas) if 'class="article-ps"' in h[bas:] else bas + 1)
         govde = h[bas: son if son > bas else len(h)]
         pler = [html.unescape(re.sub(r"<[^>]+>", "", p)).strip() for p in re.findall(r"<p[^>]*>(.*?)</p>", govde, flags=re.S)]
-        pler = [re.sub(r"\s+", " ", p) for p in pler if len(p) > 40]
+        pler = [re.sub(r"\s+", " ", p) for p in pler if len(p) > 40 and "Değişiklikleriniz taslak" not in p]
+        if sum(len(p) for p in pler) < 300:  # gövdesi olmayan yönlendirme/boş madde (ör. cariye, asker)
+            pler = []
         t = re.search(r'<meta property="og:title" content="([^"]+)"', h)
         if pler:
             sonuc = {"url": f"{TEMEL}/{slug}", "baslik": html.unescape(t.group(1)).replace(" - TDV İslâm Ansiklopedisi", "") if t else slug,
