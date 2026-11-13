@@ -34,6 +34,8 @@ ISTEM = (
 def isler():
     parti = int(sys.argv[2]) if len(sys.argv) > 2 else 6
     ms = json.load(open(os.path.join(KOK, "ham-sayfalar", "birlesik.json"), encoding="utf-8"))
+    # kota yarıda biterse en değerliler doğrulanmış olsun: 1798'e uyan, eleştiri/video kaynaklı maddeler önce
+    ms.sort(key=lambda m: (str(m.get("gecerli_1798")).lower().startswith("hay"), not m.get("kaynaklar"), m["mid"]))
     hafif = [{k: m.get(k) for k in ("mid", "yanlis", "dogru", "aciklama", "donem", "gecerli_1798")} for m in ms]
     out = []
     for harf, model in DOGRULAYICILAR.items():
@@ -51,6 +53,9 @@ def isler():
 def sonuc():
     ms = {m["mid"]: m for m in json.load(open(os.path.join(KOK, "ham-sayfalar", "birlesik.json"), encoding="utf-8"))}
     kararlar = {h: {} for h in DOGRULAYICILAR}
+    global KANIT
+    ky = os.path.join(KOK, "ham-sayfalar", "kanit.json")
+    KANIT = json.load(open(ky, encoding="utf-8")) if os.path.exists(ky) else {}
     for yol in glob.glob(os.path.join(KOK, "ham-sayfalar", "dogrulama", "*.json")):
         d = json.load(open(yol, encoding="utf-8"))
         harf = os.path.basename(yol)[3]
@@ -69,8 +74,10 @@ def sonuc():
         for k in v:
             if isinstance(k, dict) and k.get("mid") in ms:
                 k["model"] = d["model"]
+                # kanıta dayalı yolda (dogrula2.py) betiğin indirdiği TDV adresleri okunmuş sayılır
+                okunan_m = okunan | {norm(e["url"]) for e in KANIT.get(k["mid"], [])}
                 # kaynağı gerçekten okunmamış onay sayılmaz
-                if k.get("karar") == "onay" and norm(k.get("kaynak_url")) not in okunan:
+                if k.get("karar") == "onay" and norm(k.get("kaynak_url")) not in okunan_m:
                     k["karar_ilk"] = "onay"
                     k["karar"] = "belirsiz"
                     k["not"] = ((k.get("not") or "") + " [Orkestratör: gösterilen kaynak bu oturumda okunmuş görünmüyor, onay belirsize indirildi.]").strip()
