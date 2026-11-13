@@ -73,7 +73,7 @@ def madde_md(n, m, ic=False):
         sat.append(f"- Kaynak: <{k.get('kaynak_url')}> ({kim}): {k.get('kaynak_ozet') or ''}".rstrip())
     if not ks:
         sat.append("- Kaynak: konu taraması (eleştiri kaynağı yok; dayanak doğrulayıcı kaynağıdır)")
-    for h in "AB":
+    for h in "ABC":  # C: örneklemde üçüncü, Google dışı doğrulayıcı (ucuncu.py)
         x = d.get(h)
         if x:
             sat.append(f"- Doğrulayan {KISA(x.get('model'))}: {x.get('karar')}; <{x.get('kaynak_url') or 'adres yok'}>: {x.get('kaynak_ozet') or ''}" + (f" Not: {x['not']}" if x.get("not") else ""))
