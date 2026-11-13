@@ -73,6 +73,21 @@ Betikler: `betikler/`. Ham sayfa dökümleri ve iş klasörleri `ham-sayfalar/` 
 - Üçüncü doğrulayıcı (Kütüphaneci'nin önerisi, Yavuz'un OpenRouter anahtarı): `ucuncu.py`, nvidia/nemotron-3-ultra-550b-a55b:free, Google dışı aile, aynı TDV kanıtıyla; A/B bittikten sonra örneklemde (ayrışan maddeler + onaylılardan rastgele pay, en çok ~40 istek): `python ucuncu.py isler 12 40` → `python ucuncu.py calistir` → `python ucuncu.py sonuc` (dogrula.py sonuc'tan SONRA).
 - `kilavuz.py` değişti: eleştiri kaynağı olmayan ve doğrulayıcılardan birinin saman adam dediği maddeler kılavuza girmiyor; kılavuzdaki video ve eleştiri kaynaklı madde sayısı yazılıyor.
 
+## Sonuç – 13 Kasım 2026, ~21:50 (Orkestratör II)
+
+- [x] Çıkarım, tekilleştirme, kanıt, doğrulama (A, B, C), kılavuz, örnekleme denetimi.
+- A gemma-4-31b-it 68 iş bitti (20:58); B bitti; C (nvidia/nemotron-3-ultra-550b-a55b:free, OpenRouter) 20 iş / 233 madde bitti. C, A+B onaylı 124 maddenin 120'sine onay, 1'ine red (M0267 Rüstem Paşa pîşkeş), 3'üne belirsiz verdi; tek onaylı 93 maddenin 49'una onay verdi.
+- Hata ve düzeltme: B düzeltme dosyaları (`dogB-duz-*`) Windows'ta glob sırasında eskilerden ÖNCE okunuyordu; `dogrula.py sonuc` artık düzeltmeleri en sona sıralıyor.
+- Nihai durum kuralı (`kilavuz.py nihai`): A+B onayına C red → tartışmalı; tek onaya C onay → doğrulandı; tek redde C red → elendi; orkestratör denetim dosyası (`orkestrator-denetim.json`) her şeyin önünde.
+- Sayılar: ham 724, tekil 543. Kılavuz gövdesi 142 (Bölüm I eleştiri/video kaynaklı 47, bunun 34'ü video; Bölüm II konu taraması 95). Ek 1 tek onay 40; Ek 2 belirsiz/kaynakta karşılığı yok 146 (111'i eleştiri kaynaklı); Ek 3 tartışmalı/şüpheli 12; Ek 4 başka dönem 26. Elenen 3, saman adam 2. Başka döneme ait ve doğrulanamayan 168 madde kılavuz dışında (`dogrulanmis/`).
+- Orkestratör örnekleme denetimi: B'nin 8 onayı (2'si kanıtsız), "kesin hata"dan 12 madde ve C ile yükselen 6 madde kanıt metniyle karşılaştırıldı. 18 gövde maddesinin 3'ünde esaslı sorun (M0418, M0072, M0358 → Ek 3), 5'inde zayıf kanıt (bilgi muhtemelen doğru).
+- Çıktı: `Tarih Hassasiyet Kılavuzu.md` (giriş `betikler/kilavuz_giris.md` + `ham-sayfalar/kilavuz-govde.md`), `dogrulanmis/<konu>.md`.
+
+### Açık işler
+- Kılavuz gövdesindeki maddelerin örnekleme dışındaki kısmı yalnız modellerce doğrulandı; denetimdeki hata oranı (~1/6) göz önüne alınarak öncelikle Bölüm I ve en çarpıcı maddeler insan gözüyle okunmalı.
+- OpenCode kotası yenilenirse Ek 1 ve Ek 2 için Google dışı ikinci bir doğrulayıcı daha çalıştırılabilir.
+- Yeniden üretmek için: `python dogrula.py sonuc` → `python ucuncu.py sonuc` → `python kilavuz.py` → `cat kilavuz_giris.md ../ham-sayfalar/kilavuz-govde.md > "../Tarih Hassasiyet Kılavuzu.md"` (giriş sayıları elle yazıldı; yeniden üretimde güncellenmeli).
+
 ### Devam adımları (Orkestratör II, güncel yol)
 Hepsi `betikler/` içinde, `PYTHONUTF8=1` ile. Betikler biten işi atlar.
 1. [x] Çıkarım bitti.

@@ -1,6 +1,6 @@
 # Giyim, sarık ve kavuk – doğrulama sonuçları
 
-Doğrulanan: 12, tartışmalı/şüpheli: 0, toplam aday: 43.
+Doğrulanan: 16, tartışmalı/şüpheli: 0, toplam aday: 43.
 
 ### 1. Padişah ve İbrahim Paşa'nın sarayda sık sık başı açık, saçları savrularak gezmesi
 
@@ -8,12 +8,13 @@ Doğrulanan: 12, tartışmalı/şüpheli: 0, toplam aday: 43.
 - Doğrusu: Osmanlı adabında başı açık gezmek büyük saygısızlık ve ayıptı; kavuk çıkarılsa bile altına mutlaka takke giyilirdi.
 - Açıklama: Başın kapalı olması statü, edep ve Müslüman kimliğinin göstergesiydi, sokakta başı açık gezmek zaten düşünülemezdi. Konuşmacı bunu izleyiciyle bağ kurmak için yapılmış bilinçli bir taviz olarak da değerlendiriyor.
 - Dönem: 16.yy; 1798 için geçerli mi: tartışmalı (evet / kısmen)
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: belirsiz / kaynakta karşılığı yok
 - Kaynak (eleştiri): <https://www.ahmetsimsirgil.com/cehalet-mi-ihanet-mi/> (Ahmet Şimşirgil / Muhteşem Yüzyıl): başı açık hiçbir şekilde dolaşılmazdı
 - Kaynak (eleştiri): <https://www.ekrembugraekinci.com/article?ID=313&muhte%C5%9Fem-y%C3%BCzyil%E2%80%99da-g%C3%B6ze-takilanlar> (Ekrem Buğra Ekinci / Muhteşem Yüzyıl): Resmiyette kavuk, evde ise işlemeli takke giyilir.
 - Kaynak (eleştiri): <https://www.yenisafak.com/gundem/muhtesem-yuzyilda-muhtesem-hatalar-298064> (Ayşe Böhürler (okur notlarıyla aktarılan eleştiri) / Muhteşem Yüzyıl): padişah... başı açık geziyor... takke giymeleri gerekirdi
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/kavuk>: Kavuk türleri ve kullanım tarihleri anlatılmış ancak başı açık gezme tabusuna değinilmemiştir. Not: Kanıt başlıkların varlığını doğrular ancak başı açık gezmenin 'ayıp' olduğu bilgisini içermez.
-- Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/kavuk>: Osmanlı'da başın kapalı olması edep ve statü gereğidir. Not: 16. yüzyıl için geçerlidir; 1798'de de başın açık gezilmesi Osmanlı adabına aykırıdır.
+- Doğrulayan gemini/gemini-3.5-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/kavuk>: Kanıt kavuk çeşitleri ve yapımını anlatır, başı açık gezmenin yasaklığına doğrudan değinmez. Not: Osmanlı adabında başın örtülü olması bilgisi bu kanıtla doğrudan doğrulanamamıştır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/kavuk>: Kavuk/sarık resmi kıyafetin vazgeçilmezidir; padişah sarık odasında sarılır. Not: Kanıt başın kapalı olma geleneğini destekler; özel alanda bile takke kullanımı yaygındır.
 - İz: M0064 (ham: giyim-h060, giyim-h008, giyim-h010, giyim-h015, giyim-h067, giyim-h074)
 
 ### 2. Saray kadınlarının dar, dekolteli ve beli sıkı elbiseler giymesi.
@@ -28,6 +29,7 @@ Doğrulanan: 12, tartışmalı/şüpheli: 0, toplam aday: 43.
 - Kaynak (eleştiri): <https://www.gzt.com/tarih/muhtesem-yuzyil-ve-osmanli-gelenegi-2648181> (Yusuf Halaçoğlu / Muhteşem Yüzyıl): saray hanımları 19. yüzyıl Fransız modasına uygun giyiniyorlar
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/kaftan>: Kaftanların genel kesimleri ve yakaları anlatılmış ancak bel daralmasına değinilmemiştir. Not: Kaftanların bol olduğu bilgisi var ancak 'dar bel' veya 'dekolte' karşılaştırması kanıtta yok.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/kaftan>: Kaftanlar vücut hatlarını belli etmeyen, bol kesimli kıyafetlerdir. Not: 16. yüzyıl giyimi için doğrudur; 1798'de de benzer bir geleneksel giyim tarzı mevcuttur.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/kaftan>: Kaftan yapısı, çeşitleri ve kumaşları anlatılır; dekolte/beli detayı yok. Not: Kanıt 1798 modasını veya dekolte/beli kesimini kapsamaz; genel kaftan tanımı yapar.
 - İz: M0060 (ham: giyim-h012, giyim-h001, giyim-h013, giyim-h014, giyim-h066)
 
 ### 3. Cariyelerin harem içindeki giyim kuşamı açık saçık ve uygunsuz gösterilir.
@@ -35,13 +37,13 @@ Doğrulanan: 12, tartışmalı/şüpheli: 0, toplam aday: 43.
 - Yanlış: Cariyelerin harem içindeki giyim kuşamı açık saçık ve uygunsuz gösterilir.
 - Doğrusu: Cariyelerin günlük işlere uygun kıyafetleri ve düzenli bir eğitim hayatı vardır.
 - Açıklama: Haremde terbiye, ders ve ibadet düzeni vurgulanır; gösterilen kıyafet eleştirilir.
-- Dönem: 16.yy; 1798 için geçerli mi: tartışmalı (evet / hayır)
+- Dönem: 16.yy; 1798 için geçerli mi: tartışmalı (evet / kısmen)
 - Durum: belirsiz / kaynakta karşılığı yok
 - Kaynak (eleştiri): <https://www.habervaktim.com/yazar/48357/reyting-icin-tarihi-ve-ecdadi-kim-satti.html> (Ahmet Şimşirgil / Muhteşem Yüzyıl): Cariyelerin günlük işlerde günlük kıyafetleri vardır
 - Kaynak (eleştiri): <https://www.yenisafak.com/hayat/harem-hayatini-kimse-bilmiyor-2338575> (Erhan Afyoncu / Muhteşem Yüzyıl): Harem giysisi iç mekân giysisi, hareme erkek girmiyor.
 - Kaynak (eleştiri): <https://www.ekrembugraekinci.com/article?ID=618> (Ekrem Buğra Ekinci / Osmanlı konulu diziler/filmler (genel)): harem halkı ve câriyeler şer‘î tesettüre dikkat ederek
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/kole>: Kölelerin giydirildiği ve terbiye edildiği belirtilmiş ancak kıyafet tarzına değinilmemiştir. Not: Kanıt, cariyelerin kıyafetlerinin 'açık' veya 'kapalı' olduğu konusunda bilgi vermemektedir.
-- Doğrulayan gemini/gemini-3.1-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/cariye>: Kanıt metni boş bırakılmıştır. Not: Kanıt eksikliği nedeniyle değerlendirilememiştir.
+- Doğrulayan gemini/gemini-3.5-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/kole>: Kanıt genel kölelik müessesesini ve esir muamelesini anlatır, harem kıyafetlerine değinmez. Not: Cariyelerin kıyafetleri yazılı ansiklopedi maddelerinde doğrudan yer almadığı için kanıt kapsam dışıdır.
 - İz: M0063 (ham: giyim-h009, giyim-h006, giyim-h011, giyim-h086)
 
 ### 4. Dizide erkek karakterlerin pantolon giymesi.
@@ -91,12 +93,13 @@ Doğrulanan: 12, tartışmalı/şüpheli: 0, toplam aday: 43.
 - Doğrusu: Osmanlı giyim kültürü çok renkli ve desenlidir; siyah matem veya gayrimüslim rengidir.
 - Açıklama: Dizilerde Kanuni gibi padişahlar bile simsiyah giydirilmektedir. Oysa Osmanlılar kırmızı, mavi, sarı gibi canlı renkleri ve ağır desenli kaftanları tercih ederdi.
 - Dönem: 16.yy; 1798 için geçerli mi: tartışmalı (evet / kısmen)
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak (eleştiri): <https://frockflicks.com/the-bitchy-historian-takes-on-rise-of-empires-ottoman-2020/> (The Bitchy Historian / Rise of Empires: Ottoman): so much fur; eliminate color, add leather
 - Kaynak (video, 145:07): <https://youtu.be/wO8tY75eCfs?t=8707> (Mustafa B. Bozkurt / Muhteşem Yüzyıl / Mehmed: Bir Cihan Fatihi): Osmanlı simsiyah giyinmez; kıyafetler çok daha renkli ve desenlidir.
 - Kaynak (video, 92:50): <https://youtu.be/wO8tY75eCfs?t=5570> (Mustafa B. Bozkurt / Diriliş Ertuğrul): Bugünün bakışıyla erkeklere koyu renk giydiriliyor, oysa tarihsel olarak kıyafetler cıvıl cıvıl renklidir.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/kaftan>: Saray kaftanlarında canlı ve neşeli renklerin kullanıldığı bilgisi kanıtta yer almaktadır. Not: Siyahın matem veya gayrimüslim rengi olduğu kısmı kanıtta yok ancak renkli giyim onaylanmıştır.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/kaftan>: Osmanlı sarayında canlı renkler ve desenli kumaşlar tercih edilirdi. Not: Madde 16. yüzyıl için verilmiş ancak 1798 için de geçerlidir; siyah renk matem veya gayrimüslimlerle özdeşleşmiştir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/kaftan>: Saray kaftanları canlı renkli ve desenliydi. Not: Madde 16. yüzyıl için yazılmış ancak kanıt 18. yüzyıla kadar canlı renklerin kullanıldığını gösterir; siyahın matem/gayrimüslim rengi olduğu iddiası kanıtta açıkça yok.
 - İz: M0071 (ham: giyim-h080, giyim-h024, giyim-h075)
 
 ### 8. Halkın ve devlet görevlilerinin her renk ayakkabıyı serbestçe giyebilmesi.
@@ -111,6 +114,7 @@ Doğrulanan: 12, tartışmalı/şüpheli: 0, toplam aday: 43.
 - Kaynak (video, 167:12): <https://youtu.be/wO8tY75eCfs?t=10032> (Mustafa B. Bozkurt / genel): Bizdeki örnekler çizme-yemeni şeklindedir; çift parçadır, tek yekpare çizme değildir.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/zimmi>: Kıyafetlerin farklı olması gerektiği belirtilmiş ancak ayakkabı renkleri detaylandırılmamıştır. Not: Kanıt genel renk ayrımından bahsetse de spesifik ayakkabı renkleri (sarı, mavi, siyah) listelenmemiştir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/zimmi>: Zimmîlerin kıyafet ve bineklerinin Müslümanlardan farklı olması kuralı mevcuttu. Not: Ayakkabı rengi dahil olmak üzere kıyafet kısıtlamaları sosyal statüyü belirleyen bir unsurdur.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/zimmi>: Zimmi kıyafet kısıtlamaları (zünnar, başlık) sayılır; ayakkabı rengi geçmez. Not: Kanıt ayakkabı rengi kuralını doğrulamaz; genel kıyafet ayrımını destekler.
 - İz: M0073 (ham: giyim-h070, giyim-h073, giyim-h081)
 
 ### 9. Haremde ve saray çevresinde kadınların siyah çarşaf giymesi
@@ -119,11 +123,12 @@ Doğrulanan: 12, tartışmalı/şüpheli: 0, toplam aday: 43.
 - Doğrusu: Kara çarşaf Osmanlı dünyasına 19. yüzyılda girdi; ondan önce kadınlar ferace ile örtünüyordu.
 - Açıklama: Afyoncu siyah çarşafın 19. yüzyılda yaygınlaştığını, öncesinde ferace kullanıldığını söylüyor. 1798 İstanbul'u için doğru örtünme biçimi ferace ve yaşmaktır, kara çarşaf değil.
 - Dönem: 19.yy; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak (eleştiri): <https://www.haberturk.com/medya/haber/983445-valide-i-muazzama> (Erhan Afyoncu / Muhteşem Yüzyıl: Kösem): Kara çarşaf 19. yüzyılda girdi, öncesinde ferace vardı.
 - Kaynak (video, 96:36): <https://youtu.be/cOghevnRx-Q?t=5796> (Ceren Sungur / Genel): Çarşaf geleneksel tesettür kültürümüzde yok, Yakın Doğu'dan 19. yüzyıl ortalarında moda olarak geliyor.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/carsaf>: Çarşafın Tanzimat döneminde geldiği ve 1870'ten sonra yaygınlaştığı açıkça belirtilmiştir. Not: 1798 yılı için çarşafın henüz yaygınlaşmadığı ve feracenin kullanıldığı kanıtlanmıştır.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/carsaf>: Çarşaf Türkiye'ye Tanzimat döneminde girmiştir, 1798'de ferace ve yaşmak kullanılırdı. Not: 1798 İstanbul'unda kara çarşaf kullanımı tarihsel bir hatadır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/carsaf>: Çarşaf Tanzimat sonrası (1870 sonrası) yaygınlaşmış, 1798'de ferace kullanılır. Not: Kanıt çarşafın 19. yy ortasından önce kullanılmadığını net belirtir.
 - İz: M0062 (ham: giyim-h004, giyim-h005, giyim-h041, giyim-h063)
 
 ### 10. Kürkler düşmesin diye kaftanlara dikiliyor.
@@ -144,10 +149,11 @@ Doğrulanan: 12, tartışmalı/şüpheli: 0, toplam aday: 43.
 - Doğrusu: Kavuk türleri horasânî, üsküf, yûsufî, selîmî, kallâvî, örf, mücevveze gibi farklıydı.
 - Açıklama: Kavuk biçimi meslek, rütbe ve sınıfı gösterirdi. 1798'de bu ayrımlar belirgindi.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak (eleştiri): <https://www.dailysabah.com/history/2015/11/23/tv-series-put-female-dominance-in-ottoman-palace-on-agenda> (Erhan Afyoncu / Muhteşem Yüzyıl): Kavuklar küçük gösterildi; yapımcılar ekran için büyütmedi.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/kavuk>: Osmanlıların rütbe ve sınıfa göre farklı kavuk türleri kullandığı açıkça belirtilmiştir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/kavuk>: Osmanlı'da meslek ve rütbeye göre horasânî, üsküf, selîmî gibi farklı kavuk türleri kullanılırdı. Not: Kavuklar toplumsal statü ve mesleki hiyerarşinin en önemli göstergelerinden biriydi.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/kavuk>: Kanunnamede vezirlerin mücevveze, beylere üsküf giydiği yazmaktadır. Not: Kanıt kavuk türlerinin rütbe ve mesleğe göre ayrıldığını kanunname maddesiyle kanıtlar.
 - İz: M0065 (ham: giyim-h036, giyim-h007, giyim-h035, giyim-h037, giyim-h038, giyim-h039, giyim-h040, giyim-h052, giyim-h053)
 
 ### 12. 1798'de kadın sokak kıyafetinde ferace ve yaşmak ikilisinin yok sayılması.
@@ -156,10 +162,11 @@ Doğrulanan: 12, tartışmalı/şüpheli: 0, toplam aday: 43.
 - Doğrusu: Ferace, XV. yüzyıldan itibaren kadınların sokakta giydiği üst elbise olarak kullanıldı.
 - Açıklama: Ferace uzun süre kadın dış giyiminin parçasıydı. 1798'de onun yerine çarşaf veya başka giysi koymak yanlıştır.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak (eleştiri): <https://www.bbc.com/turkce/articles/ckg03ny5d1lo> (Fatmagül Berktay / Genel (Osmanlı dizileri)): uzun yakalı, parlak renkli feraceler yasaklanmasına rağmen
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/ferace>: Ferace ve yaşmağın XV. yüzyıldan itibaren kadın dış giyiminin temel parçaları olduğu onaylanmıştır.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/ferace>: Ferace ve yaşmak, XV. yüzyıldan itibaren kadınların temel sokak kıyafetiydi. Not: 1798 İstanbul'unda ferace ve yaşmak kadın dış giyiminin standart parçasıdır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/ferace>: Ferace ve yaşmak 1870'ye kadar kadın sokak kıyafetiydi. Not: Kanıtlar 1798'de ferace ve yaşmak kullanımını, çarşafın 1889'da zorunlu hale gelene kadar devam ettiğini doğrular.
 - İz: M0068 (ham: giyim-h043, giyim-h032, giyim-h042, giyim-h044, giyim-h054, giyim-h055, giyim-h056)
 
 ### 13. Müslüman ve gayrimüslimlerin 1798 İstanbul'unda kıyafet açısından tamamen aynı göründüğünün varsayılması.
@@ -168,10 +175,11 @@ Doğrulanan: 12, tartışmalı/şüpheli: 0, toplam aday: 43.
 - Doğrusu: XVI. yüzyıl ortalarından Tanzimat'a kadar gayrimüslim kıyafetleri üzerinde düzenlemeler yapıldı.
 - Açıklama: Renk, malzeme ve biçim ayrımları dönem boyunca düzenlenirdi. 1798'de bu farkların izleri sürmekteydi.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (video, 73:49): <https://youtu.be/wO8tY75eCfs?t=4429> (Mustafa B. Bozkurt / belirtilmemiş): Yahudiler ve Hristiyanlar Müslümanlar gibi beyaz veya sarı giyemez, siyah giymek zorundadırlar.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/zimmi>: Genel zimmî kıyafet kurallarına değinilmiş ancak 1798 İstanbul'una dair spesifik detay verilmemiştir. Not: Kanıt genel İslâm hukuku ve zimmîlik kavramını anlatıyor, Osmanlı'nın 1798'deki uygulama detaylarını içermiyor.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/zimmi>: Zimmîlerin kıyafetlerinin Müslümanlardan farklı olması tarihsel bir düzenlemedir. Not: Osmanlı'da gayrimüslimlerin kıyafetlerine dair renk ve biçim kısıtlamaları Tanzimat'a kadar sürmüştür.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/zimmi>: Zimmilerin kıyafet farklılıkları (renk, model, zünnar) Tanzimat'a kadar sürdüğü belirtilir. Not: 1798 Tanzimat öncesidir, kıyafet ayrımları hâlâ geçerlidir.
 - İz: M0069 (ham: giyim-h048, giyim-h049, giyim-h072)
 
 ### 14. Obadakiler arasında keyfiye takan kimse yok.
@@ -246,9 +254,10 @@ Doğrulanan: 12, tartışmalı/şüpheli: 0, toplam aday: 43.
 - Doğrusu: Zorunluluk yalnız devlet memurlarına getirildi, halka değil
 - Açıklama: Konuşmacı bu ayrımı özellikle vurguluyor; düzenleme memurların statüsünü görünür kılmak için yapıldı. Halk için böyle bir zorunluluk yoktu.
 - Dönem: 19.yy; 1798 için geçerli mi: hayır
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (video, 92:14): <https://youtu.be/3D7EnWeydWc?t=5534> (Ceren Sungur / belirtilmemiş): 1829'da memurlara fes, ceket ve pantolon zorunluluğu getirildi; halka değil
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/fes>: Fesin kullanımı ve zorunlulukları memurlar ile sivil halk arasında farklılık gösterir. Not: Kanıt, sivil halkın dalfes giymeme ısrarını ve memurlarla ayrım isteğini destekler. Ancak olay 1829'dur, 1798'e uygun değildir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/fes>: 1829 nizamnamesi fes getirdi; halk direndi, esnafa izin verildi; memurlar hedeflendi. Not: 1829 tarihi 1798 roman döneminden sonradır; anakronizmdir.
 - İz: M0086 (ham: giyim-h058)
 
 ### 21. Padişah Sultan II. Abdülhamid'e takım elbise giydirilmesi ve kravat taktırılması
@@ -284,6 +293,7 @@ Doğrulanan: 12, tartışmalı/şüpheli: 0, toplam aday: 43.
 - Kaynak (video, 108:09): <https://youtu.be/wO8tY75eCfs?t=6489> (Mustafa B. Bozkurt / Selahaddin Eyyubi): Kudüs ve Suriye gibi sıcak yerlerde insanlara neden kürk giydirildiğini anlamak mümkün değil.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt kürk çeşitlerini ve kullanımını anlatıyor ancak iklimsel kısıtlamalara değinmiyor.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/kurk>: Kürkler, Osmanlı'da statü ve mevsime göre kullanılan çeşitli türlere sahipti. Not: Sıcak iklimlerde ağır kürk kullanımı tarihsel gerçekliğe ve mantığa aykırıdır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/kurk>: Kürk çeşitleri, fiyatları ve saray kullanımı anlatılır; iklim uygunluğu geçmez. Not: Kanıt coğrafi kullanımı kapsamaz; mantıksal hata olsa da kanıt yetersiz.
 - İz: M0089 (ham: giyim-h076)
 
 ### 24. Sarıkların perde veya koltuk kumaşı gibi kaba malzemelerden yapılması.
@@ -292,10 +302,11 @@ Doğrulanan: 12, tartışmalı/şüpheli: 0, toplam aday: 43.
 - Doğrusu: Sarık (destar) sarmak bir sanattır ve ince, kaliteli kumaşlar kullanılır.
 - Açıklama: Dizilerde kullanılan kaba kumaşlar ve devasa sarıklar, karakterin günlük hayatını ve ibadetini imkansız kılacak boyuttadır.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak (video, 110:12): <https://youtu.be/wO8tY75eCfs?t=6612> (Mustafa B. Bozkurt / belirtilmemiş): Sarık sarmak bir sanattır; dizilerde perde malzemesiyle yapılan kaba yapılar kullanılıyor.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/sarik>: Sarıkların ipek, pamuk ve ince keten gibi kaliteli kumaşlardan yapıldığı belirtilmiştir. Not: Kanıt, sarık yapımında kullanılan kaliteli kumaş türlerini açıkça listelemektedir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/sarik>: Sarık sarmak bir sanattır ve ince kumaşlar kullanılır. Not: Kaba kumaş kullanımı sarık geleneğine aykırıdır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/sarik>: Sarıklar ipek, ince keten, pamuk gibi kaliteli kumaşlardan yapılırdı. Not: Kanıt kaba kumaş kullanımını desteklemez; ince ve kaliteli kumaşları listeler.
 - İz: M0090 (ham: giyim-h077)
 
 ### 25. Tarihi kostümlerde omuzların vatka ile dik ve çıkık gösterilmesi.
@@ -304,10 +315,11 @@ Doğrulanan: 12, tartışmalı/şüpheli: 0, toplam aday: 43.
 - Doğrusu: Osmanlı kıyafetlerinde vatka kullanılmazdı.
 - Açıklama: Dizilerde karakterleri 'moda ikonu' gibi göstermek için omuzlara vatka konulmaktadır. Oysa geleneksel kesimde böyle bir yapı yoktur.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (video, 111:45): <https://youtu.be/wO8tY75eCfs?t=6705> (Mustafa B. Bozkurt / Genel): Kıyafetlerin çoğunda vatka var, bizimkiler moda ikonuymuş gibi görünüyor.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt kaftanların genel yapısını anlatmakta ancak vatka gibi detaylara değinmemektedir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/kaftan>: Geleneksel Osmanlı kıyafet kesimlerinde vatka gibi modern omuz yapıları bulunmaz. Not: Vatka kullanımı modern bir moda anlayışıdır, Osmanlı dönemiyle bağdaşmaz.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/kaftan>: Kaftan üç parçalı (gövde, yen, etek), bol kesimlidir; vatka/yapılandırma yoktur. Not: Geleneksel kesimde omuz yapılandırması (vatka) yoktur.
 - İz: M0091 (ham: giyim-h079)
 
 ### 26. Sarığın sadece kumaştan ibaret dekoratif bir başlık olması
@@ -320,6 +332,7 @@ Doğrulanan: 12, tartışmalı/şüpheli: 0, toplam aday: 43.
 - Kaynak (video, 151:19): <https://youtu.be/wO8tY75eCfs?t=9079> (Mustafa B. Bozkurt / genel): Sarık aslında bir miğfer gibi iş görüyor; kalın olduğu için başı korur, kılıç kesmez.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt sarıkların boyutları ve çeşitlerinden bahsetmekte, koruyucu işlevine değinmemektedir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/sarik>: Sarık, tarih boyunca Müslümanların belirgin simgelerinden ve başlıklarından olmuştur. Not: Sarık sadece dekoratif değil, aynı zamanda koruyucu işlevi olan bir başlıktır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/sarik>: Sarık kumaş, boyut ve sarma stilleri anlatılır; koruyucu işlev belirtilmez. Not: Kanıt sarığın kılıç koruması işlevini desteklemez; statü/kıyafet unsuru olarak anlatır.
 - İz: M0092 (ham: giyim-h082)
 
 ### 27. Haremdeki kadınların dekolteli ve gösterişli elbiseler giymesinin imkansız görülmesi.
@@ -364,10 +377,11 @@ Doğrulanan: 12, tartışmalı/şüpheli: 0, toplam aday: 43.
 - Doğrusu: Zırhlar cebehanede sandıklarda taşınır, sadece savaş veya tören anında giyilir.
 - Açıklama: Osmanlı ordusu seferde zırhları arabalarda taşır, sıcak temas yaklaştığında dağıtırdı. Günlük hayatta veya uzun yolculuklarda sürekli zırh giyilmesi gerçek dışıdır.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (video, 133:19): <https://youtu.be/wO8tY75eCfs?t=7999> (Mustafa B. Bozkurt / Diriliş Ertuğrul / Genel): Evin içinde zırhla dolaşılmaz; zırh sadece muharebe zamanı giyilir.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/zirh>: Zırhın savaş ve törenlerde kullanıldığı belirtilmektedir. Not: Kullanım alanları desteklense de sandıklarda taşınma detayı kanıtta yoktur.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/zirh>:  Not: Kanıt, zırhın savaş ve törenle ilişkisini açıkça ortaya koymaktadır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/zirh>: Zırh savaş ve törenlerde kullanılır, Evliya Çelebi törenli giyimi anlatır. Not: Kanıt zırhın savaş ve tören dışında sürekli giyilmediğini destekliyor.
 - İz: M0113 (ham: gundelik-dil-h024)
 
 ### 31. Osmanlı kadınlarının Tudor dönemi (İngiliz) tarzı elbiseler giymesi
@@ -390,6 +404,7 @@ Doğrulanan: 12, tartışmalı/şüpheli: 0, toplam aday: 43.
 - Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
 - Kaynak (video, 76:53): <https://youtu.be/wO8tY75eCfs?t=4613> (Mustafa B. Bozkurt / Diriliş Ertuğrul): Dizilerde sadece kötü deri zırhlar kullanılıyor, oysa minyatürlerde zincir zırhlar görülüyor.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/zirh>: Türklerin plaka ve karma zırhlar kullandığı belirtilmektedir. Not: Kanıt, deri dışında metal plaka ve karma zırhların kullanıldığını doğrular.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/zirh>: İslam ve Türk zırh türleri genel olarak anlatılır. Not: Kanıt Osmanlı kuruluş dönemi teçhizatına özgü detay vermez; zincir ve plaka zırhların varlığını genel geçer anlatır.
 - İz: M0252 (ham: ordu-h083)
 
 ### 33. Deli askerlerinin neolitik çağdan kalma ham kürkler içinde gösterilmesi.
@@ -401,7 +416,7 @@ Doğrulanan: 12, tartışmalı/şüpheli: 0, toplam aday: 43.
 - Durum: belirsiz / kaynakta karşılığı yok
 - Kaynak (video, 112:16): <https://youtu.be/wO8tY75eCfs?t=6736> (Mustafa B. Bozkurt / Deliler: Fatih'in Fermanı): Neolitik çiftçiler gibi ham kürkü üstüne atmış, çok kötü bir görüntü.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt sunulmamıştır. Ayrıca Deli birlikleri 18. yüzyıl sonunda aktif değildir.
-- Doğrulayan gemini/gemini-3.1-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/deli>: Kanıt metni boş olduğu için kıyafet nizamı hakkında bilgi sunulmamıştır. Not: Deli askerlerinin kıyafetleri hakkında kanıt metni yetersizdir.
+- Doğrulayan gemini/gemini-3.5-flash-lite: belirsiz; <adres yok>: Kanıt yok. Not: Deli askerlerinin kıyafet nizamına dair kanıt sunulmamıştır.
 - İz: M0254 (ham: ordu-h086)
 
 ### 34. Deli askerlerinin sırtındaki kanatların modern defile kanatlarına benzemesi.
@@ -413,7 +428,7 @@ Doğrulanan: 12, tartışmalı/şüpheli: 0, toplam aday: 43.
 - Durum: belirsiz / kaynakta karşılığı yok
 - Kaynak (video, 114:21): <https://youtu.be/wO8tY75eCfs?t=6861> (Mustafa B. Bozkurt / Deliler: Fatih'in Fermanı / Savaşın Efsaneleri): Bu kanat Victoria's Secret kanadı bence, oradaki modellerden araklanmış gibi.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt sunulmamıştır. Ayrıca Deli birlikleri 18. yüzyıl sonunda aktif değildir.
-- Doğrulayan gemini/gemini-3.1-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/deli>: Kanıt metni boş olduğu için kanat teçhizatı hakkında bilgi sunulmamıştır. Not: Kanıt metni yetersizdir.
+- Doğrulayan gemini/gemini-3.5-flash-lite: belirsiz; <adres yok>: Kanıt yok. Not: Görsel tasvirlere yönelik bu iddia için ansiklopedik kanıt bulunmamaktadır.
 - İz: M0255 (ham: ordu-h087)
 
 ### 35. Deri zırhların üzerinde hiçbir işlevi olmayan kopçalar ve kemerler bulunması.
@@ -422,10 +437,11 @@ Doğrulanan: 12, tartışmalı/şüpheli: 0, toplam aday: 43.
 - Doğrusu: Zırh üzerindeki her bağ ve kemerin iki parçayı birleştirme amacı olmalıdır.
 - Açıklama: Dizilerde sadece görsel amaçlı, hiçbir şeyi birbirine bağlamayan kopçalar kullanılmaktadır. Gerçek zırh tasarımında her parçanın fonksiyonel bir görevi vardır.
 - Dönem: 15.yy; 1798 için geçerli mi: tartışmalı (evet / kısmen)
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak (video, 120:58): <https://youtu.be/wO8tY75eCfs?t=7258> (Mustafa B. Bozkurt / Mehmed: Bir Cihan Fatihi): Zırhın önünde kopçalar var ama hiçbir şeyi birbirine bağlamıyor.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/zirh>: Kemer ve kancaların zırh parçalarını vücuda bağlamak için kullanıldığı belirtilmiştir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/zirh>: Zırh parçaları fonksiyonel bağlar ve kemerlerle vücuda bağlanır. Not: 15. yüzyıl zırh teknolojisi 1798'de artık kullanılmamaktaydı, ancak zırhın fonksiyonelliği ilkesi geneldir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/zirh>: Zırh parçaları deri kemerlerle birbirine ve vücuda bağlandığı, kemerlerin işlevsel olduğu anlatılıyor. Not: Kanıt 15. yy. teknolojisini yansıtır; 1798'de zırh neredeyse tamamen töreneldi.
 - İz: M0256 (ham: ordu-h088)
 
 ### 36. Cevşen zırh plakalarının aşağıdan yukarıya doğru (ters) örülmesi.
@@ -434,10 +450,11 @@ Doğrulanan: 12, tartışmalı/şüpheli: 0, toplam aday: 43.
 - Doğrusu: Plakalar yukarıdan aşağıya, birbirinin üstüne binecek şekilde örülmelidir.
 - Açıklama: Ters örülen plakalar vücut esnekliğini engeller ve aşağıdan gelen silah darbelerinin doğrudan vücuda girmesine neden olur. Doğru örüm, darbeleri kaydırmalı ve hareketi kolaylaştırmalıdır.
 - Dönem: genel; 1798 için geçerli mi: tartışmalı (evet / kısmen)
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak (video, 122:59): <https://youtu.be/wO8tY75eCfs?t=7379> (Mustafa B. Bozkurt / Mehmed: Bir Cihan Fatihi): Plakalar ters örülmüş; bu durum darbenin doğrudan vücuda girmesine sebep olur.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/zirh>: Pulların balıksırtı şeklinde birbirinin üstüne gelecek şekilde örüldüğü belirtilmiştir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/zirh>: Pullu zırhlar balıksırtı şeklinde, birbirinin üstüne gelecek şekilde örülür. Not: 1798'de bu tip zırhlar artık yaygın değildi, ancak örüm tekniği bilgisi doğrudur.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/zirh>: Pullu zırh plakalarının balıksırtı birbirinin üstüne gelecek şekilde örüldüğü belirtiliyor. Not: Kanıt örme yönünü doğruluyor; 1798 için tarihi bağlam dışı.
 - İz: M0257 (ham: ordu-h089)
 
 ### 37. Dizçek (bacak zırhı) parçasının omuzluk olarak kullanılması.
@@ -446,10 +463,11 @@ Doğrulanan: 12, tartışmalı/şüpheli: 0, toplam aday: 43.
 - Doğrusu: Dizçek diz kapağını korur; omuz için ayrı formda zırhlar kullanılır.
 - Açıklama: Müzelerdeki hatalı sergilemelerden yola çıkarak, diz kapağını koruyan yuvarlak metal parçalar dizilerde omuz zırhı olarak takılmaktadır. Türk zırh geleneğinde böyle bir omuzluk yoktur.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak (video, 126:35): <https://youtu.be/wO8tY75eCfs?t=7595> (Mustafa B. Bozkurt / Genel): Dizçek denilen bacak zırhı, yanlış yorumlanarak omuz zırhı yapılmış.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/zirh>: Dizçek ve omuzluk farklı savunma parçaları olarak zikredilmiştir. Not: Kanıt, dizçek ve omuzluğun ayrı parçalar olduğunu doğrular.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/zirh>: Zırh parçaları (dizçek, kolçak vb.) vücudun ilgili bölgelerini korumak için özel tasarlanmıştır. Not: Dizçek bacak korumasıdır, omuzluk olarak kullanımı tarihsel gerçekliğe aykırıdır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/zirh>: Dizçek ve omuzluk ayrı zırh parçaları olarak listeleniyor, dizçek bacağa bağlanıyor. Not: Kanıt parçaların ayrı olduğunu kanıtlıyor; 1798'de zırh kullanımı yok denecek az.
 - İz: M0258 (ham: ordu-h090)
 
 ### 38. Miğferlerin ve zırhların oyuncuların bedenine büyük gelmesi.
@@ -462,6 +480,7 @@ Doğrulanan: 12, tartışmalı/şüpheli: 0, toplam aday: 43.
 - Kaynak (video, 129:08): <https://youtu.be/wO8tY75eCfs?t=7748> (Mustafa B. Bozkurt / Alparslan: Büyük Selçuklu): Kafasına tencere takmış gibi; zırh vücuda uygun yapılmak zorundadır.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/zirh>: Zırhların vücut formuna uygun biçimde yapıldığı belirtilmiştir. Not: Metin, zırhların vücut formuna uygun üretildiğini açıkça ifade eder.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/zirh>: Zırhlar ve miğferler savaşçının vücut formuna uygun biçimde yapılırdı. Not: Tarihi zırhlar kişiye özel üretilir, standart dışı büyük durmaları hatalıdır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/zirh>: Yunan/Roma zırhlarının vücut formuna uygun yapıldığı, Hun zırhlı ceset buluntusu geçiyor. Not: Osmanlı'da standart ölçü veya özel üretim konusunda kanıt yetersiz.
 - İz: M0259 (ham: ordu-h091)
 
 ### 39. Yeniçerilerin her yüzyılda aynı kıyafet ve teçhizatı kullanması
@@ -474,6 +493,7 @@ Doğrulanan: 12, tartışmalı/şüpheli: 0, toplam aday: 43.
 - Kaynak (video, 174:22): <https://youtu.be/wO8tY75eCfs?t=10462> (Mustafa B. Bozkurt / genel): 14. yüzyıldaki yeniçeriyle 17. yüzyıldaki aynı değil; tesisattan kıyafete her şey değişiyor.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/yeniceri>: Yeniçeri Ocağı'nın tarihsel gelişimi ve siyasi rolü anlatılmıştır. Not: Kanıt ocak yapısını anlatır, kıyafetlerin yüzyıllar içindeki değişimine değinmez.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/yeniceri>: Yeniçeri Ocağı zamanla değişmiş, reformlara direnç gösteren bir yapıya dönüşmüştür. Not: Yeniçeri kıyafet ve teçhizatı yüzyıllar içinde değişim göstermiştir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/yeniceri>: Yeniçeri öcağının kuruluşu ve siyasi tarihi anlatılır. Not: Kanıt kıyafet, başlık veya teçhizat değişimlerine dair bilgi içermez; sadece örgütsel süreci ele alır.
 - İz: M0261 (ham: ordu-h093)
 
 ### 40. Deli askerlerinin sıradan askeri kıyafetler giymesi
@@ -493,10 +513,11 @@ Doğrulanan: 12, tartışmalı/şüpheli: 0, toplam aday: 43.
 - Doğrusu: Fes, Asâkir-i Mansûre için 1829'da kabul edildi; 1798'de kavuk ve sarık kullanılıyordu.
 - Açıklama: Fesin resmî askeri kullanımı III. Selim sonrası, II. Mahmud döneminde başlar. 1798 sahneleri için anakroniktir.
 - Dönem: 19.yy; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/fes>: Fesin Asâkir-i Mansûre için 1829'da kabul edildiği bilgisi kanıtlanmıştır.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/fes>: Fes, 1829'da Asâkir-i Mansûre ile resmîleşmiş, öncesinde kavuk ve sarık kullanılmıştır. Not: 1798'de fes kullanımı kesinlikle anakroniktir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/fes>: Fes 1829'da Asâkir-i Mansûre için resmen kabul edilmiştir. Not: Kanıt 1798'de fesin henüz askeri kıyafette yok olduğunu, kavuk/sarık kullanıldığını kanıtlar.
 - İz: M0067 (ham: giyim-h033, giyim-h034, giyim-h050)
 
 ### 42. İlmiye mensuplarının modern ceket veya sıradan halk giysisiyle resmî ortamlarda gösterilmesi.
@@ -505,10 +526,11 @@ Doğrulanan: 12, tartışmalı/şüpheli: 0, toplam aday: 43.
 - Doğrusu: Cübbe, özellikle ilmiye sınıfının belirgin kıyafeti haline gelmişti.
 - Açıklama: Ulema kimliği kıyafetle görünür kılınırdı. 1798'de ilmiye için cübbe ve uygun başlık önemlidir.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/cubbe>: Cübbe, ilmiye sınıfının belirgin kıyafeti olarak tanımlanmıştır. Not: Kanıt, cübbenin ilmiye sınıfı tarafından benimsendiğini ve belirgin kıyafetleri olduğunu açıkça belirtir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/cubbe>: Cübbe, ilmiye sınıfının belirgin kıyafeti haline gelmiştir. Not: İlmiye mensuplarının modern ceketle gösterilmesi 1798 için anakroniktir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/cubbe>: Cübbe ilmiye sınıfının belirgin kıyafetiydi, sarıkla birlikte kullanılırdı. Not: İlmîye maddesi kıyafet detayı vermese de cübbe maddesi 1798 dahil geçerli olacak 'son dönemler' ifadesiyle ilmiye kıyafetini doğrular.
 - İz: M0084 (ham: giyim-h046)
 
 ### 43. Kaftanın 1798'de yalnızca dekoratif bir kostüm, sıradan iç giysi gibi sunulması.
@@ -517,8 +539,9 @@ Doğrulanan: 12, tartışmalı/şüpheli: 0, toplam aday: 43.
 - Doğrusu: Kaftan, önden açık, ayak bileklerine veya yere kadar uzanan önemli bir üst elbiseydi.
 - Açıklama: Kaftan Osmanlı giyiminin temel unsurlarındandı ve statü, tören, ödül bağlamlarında da kullanılırdı.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/kaftan>: Kaftanın önden açık, uzun bir üst elbise olduğu belirtilmiştir. Not: Kanıt, kaftanın Osmanlı giyiminin en önemli unsuru ve uzun bir üst elbise olduğunu onaylar.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/kaftan>: Kaftan, Osmanlı giyiminin temel unsuru olan bir üst elbisedir. Not: Kaftan sadece dekoratif bir kostüm değil, statü belirten temel bir giysidir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/kaftan>: Kaftan II. Mahmud reformuna kadar erkek giyiminin temel üst elbisesiydi. Not: Kanıt 1798'in kaftanın hala resmi ve günlük üst elbise olduğunu, kostüm/iç giysi olmadığını gösterir.
 - İz: M0085 (ham: giyim-h047)

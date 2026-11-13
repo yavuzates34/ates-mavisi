@@ -1,6 +1,6 @@
 # Yazışma ve resmî belgeler – doğrulama sonuçları
 
-Doğrulanan: 0, tartışmalı/şüpheli: 0, toplam aday: 11.
+Doğrulanan: 1, tartışmalı/şüpheli: 0, toplam aday: 11.
 
 ### 1. Dizide gösterilen Osmanlıca belgelerde "arz", "kara", "Harbiye", "nezaret" gibi kelimelerin yanlış yazılması.
 
@@ -26,6 +26,7 @@ Doğrulanan: 0, tartışmalı/şüpheli: 0, toplam aday: 11.
 - Kaynak (eleştiri): <https://www.odatv.com/guncel/payitaht-abdulhamidde-yeni-rezalet-112497> (Murat Bardakçı / Payitaht Abdülhamid): Resmî yazının üstüne İstiklâl Marşı'nın ilk mısralarını monte etmişler.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/abdulhamid-ii>: II. Abdülhamid dönemi kurumları ve politikaları anlatılmaktadır. Not: Kanıt İstiklâl Marşı'na değinmemektedir; ayrıca madde 1798 değil II. Abdülhamid dönemiyle ilgilidir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/abdulhamid-ii>: İstiklal Marşı 1921'de yazılmıştır, 18. ve 19. yüzyıl belgelerinde bulunamaz. Not: İstiklal Marşı'nın 1798 veya II. Abdülhamid döneminde kullanılması anakronizmdir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/abdulhamid-ii>: II. Abdülhamid dönem okul ve banka faaliyetleri anlatılıyor. Not: Kanıt İstiklâl Marşı'nı değil II. Abdülhamid'in eğitim ve ekonomi politikalarını kapsıyor. Roman 1798'de geçiyor, kanıt 19. yy sonu için.
 - İz: M0524 (ham: yazi-belge-h011, yazi-belge-h006)
 
 ### 3. Gazete kelimesi kef ve elif ile kâzteci diye yazılmış.
@@ -34,10 +35,11 @@ Doğrulanan: 0, tartışmalı/şüpheli: 0, toplam aday: 11.
 - Doğrusu: Gazete gayın ile yazılır; gazeteci kelimesi de o dönemde bu anlamda kullanılmıyordu.
 - Açıklama: Tabelada hem imla hem kelime seçimi yanlış. 1798 İstanbul'unda gazete ve gazeteci kavramı henüz yoktur.
 - Dönem: 19.yy; 1798 için geçerli mi: evet
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (eleştiri): <https://www.medyafaresi.com/haber/murat-bardakci-payitaht-abdulhamiddeki-hatalari-siraladi/813831> (Murat Bardakçı / Payitaht Abdülhamid): Gayın ile yazılması gereken gazete'nin başına kef konmuş: kâzteci.
 - Kaynak (eleştiri): <https://www.odatv.com/guncel/payitaht-abdulhamidde-yeni-rezalet-112497> (Murat Bardakçı / Payitaht Abdülhamid): Journal yani gazete kelimesi gazeteci diye çevrilip journaliste olmuş.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/matbaa>: Gazetelerin ve matbaanın yaygınlaşma tarihleri verilmektedir. Not: Kanıt, gazetelerin 19. yüzyılda ortaya çıktığını göstererek 1798'de mevcut olmadığı bilgisini destekler.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/matbaa>: İstanbul'da ilk resmî gazete 1869'da çıkmış. Not: Kanıt 1798'de İstanbul'da gazete kavramının olmadığını destekliyor; ilk gazete 1869'dadır.
 - İz: M0526 (ham: yazi-belge-h007, yazi-belge-h008)
 
 ### 4. Şeyhülislâm Yahya Efendi'nin adı başına ve sonuna elif konarak yazılmış.

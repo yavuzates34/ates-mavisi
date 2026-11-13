@@ -1,6 +1,6 @@
 # 1798–1800 siyaseti ve diplomasi – doğrulama sonuçları
 
-Doğrulanan: 3, tartışmalı/şüpheli: 0, toplam aday: 21.
+Doğrulanan: 7, tartışmalı/şüpheli: 0, toplam aday: 21.
 
 ### 1. II. Abdülhamid'in İngiliz elçisinin suratına tokat atması.
 
@@ -8,11 +8,12 @@ Doğrulanan: 3, tartışmalı/şüpheli: 0, toplam aday: 21.
 - Doğrusu: Padişahın sakinliği, temkini ve protokole riayetiyle bağdaşmayan hayalî bir sahnedir.
 - Açıklama: Diplomatik protokol ve padişahın bilinen tavrı böyle bir davranışı desteklemez.
 - Dönem: 19.yy; 1798 için geçerli mi: hayır
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (eleştiri): <https://www.medyafaresi.com/haber/payitaht-abdulhamiddeki-hatalari-unlu-tarihci-yakaladi/809684> (Murat Bardakçı / Payitaht Abdülhamid): İngiliz elçisinin suratına şrrrrak diye bir tokat
 - Kaynak (eleştiri): <https://artigercek.com/guncel/ilber-ortaylidan-trt-dizisine-elestiri-boyle-bir-abdulhamid-yok-80394h> (İlber Ortaylı / Payitaht: Abdülhamid): 'Osmanlı padişahı konsolos falan dövmez.'
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt metni II. Abdülhamid'in genel yönetim tarzını ve diplomatik ilişkilerini anlatır, ancak bahsi geçen spesifik tokat olayına değinmez.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/abdulhamid-ii>: II. Abdülhamid'in diplomatik nezaketi ve protokol kurallarına riayeti vurgulanmıştır. Not: Madde 19. yüzyıla aittir, 1798 dönemiyle ilgisi yoktur.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/abdulhamid-ii>: Padişahın sakin ve protokole riayetçi tavrı anlatılır. Not: Kanıt tokat atma eylemiyle zıt bir tavır sergiler.
 - İz: M0029 (ham: diplomasi-donem-h006, diplomasi-donem-h001)
 
 ### 2. Yabancı elçilerin yerlerde süründürülerek padişahın huzuruna alınması.
@@ -21,10 +22,11 @@ Doğrulanan: 3, tartışmalı/şüpheli: 0, toplam aday: 21.
 - Doğrusu: Böyle bir uygulama yoktu; Türk boyları ve Türkmenler hariç elçiler divanın toplandığı odaya giremezdi.
 - Açıklama: Diplomatik kabul protokolü abartılı ve hatalı gösterilmiştir.
 - Dönem: 16.yy; 1798 için geçerli mi: tartışmalı (evet / kısmen)
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (eleştiri): <https://www.gzt.com/tarih/muhtesem-yuzyil-ve-osmanli-gelenegi-2648181> (Yusuf Halaçoğlu / Muhteşem Yüzyıl): yabancı ülkelerin elçileri yerlerde süründürülerek padişahın huzuruna
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıtlar Divan-ı Hümayun'un yapısını ve genel elçi ilişkilerini anlatıyor, ancak 'yerlerde süründürme' gibi bir uygulamanın olup olmadığına değinmiyor.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/elci>: Elçilerin kabulü belirli protokol kurallarına ve devletler arası nezakete bağlıdır. Not: Süründürme gibi bir uygulama yoktur. Dönem 16. yüzyıl olarak belirtilmiş, 1798'de de benzer diplomatik nezaket kuralları geçerlidir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/elci>: Elçi protokolü ve divan kabul usülleri anlatılır. Not: Kanıt sürünme uygulaması yok, katı protokol olduğunu gösterir.
 - İz: M0032 (ham: diplomasi-donem-h002)
 
 ### 3. I. Ahmed'in tahta çıkışı sırasında İngiltere Kraliçesi I. Elizabeth hayattaymış gibi ima ediliyor.
@@ -165,10 +167,11 @@ Doğrulanan: 3, tartışmalı/şüpheli: 0, toplam aday: 21.
 - Doğrusu: Osmanlı diplomasisinde talepler resmi erkek elçiler ve yazılı fermanlar aracılığıyla iletilirdi.
 - Açıklama: Osmanlı devlet geleneğinde diplomasi kadınlar üzerinden yürütülmezdi. Elçiler fermanla gönderilir ve devletin ciddiyetini temsil ederlerdi.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (video, 20:56): <https://youtu.be/kNdpoYuZYVk?t=1256> (Haşim Şahin / Da Vinci's Demons): Osmanlı diplomasisi kadınlar üzerinden değil, resmi elçiler ve fermanlar aracılığıyla yürütülürdü.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt metni elçilik sistemini ve devletler arası ilişkileri anlatıyor ancak kadınların elçilik yapıp yapmadığına dair bir bilgi vermiyor.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/elci>: Diplomatik ilişkiler resmi elçiler ve devletler arası yazışmalarla yürütülür. Not: Kadın elçiler üzerinden diplomasi yürütülmesi Osmanlı geleneğine aykırıdır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/elci>: Osmanlı diplomasisinde erkek elçiler ve yazılı antlaşmalar/fermanlar geçerlidir. Not: Kanıt kadın elçi kullanımını açıkça yok sayar, resmi erkek elçi geleneğini anlatır.
 - İz: M0051 (ham: diplomasi-donem-h024)
 
 ### 16. Sultan II. Abdülhamid'in döneminde hiç toprak kaybedilmediği iddiası.
@@ -177,9 +180,10 @@ Doğrulanan: 3, tartışmalı/şüpheli: 0, toplam aday: 21.
 - Doğrusu: Abdülhamid döneminde yaklaşık 1,5 milyon kilometrekare toprak kaybedilmiştir.
 - Açıklama: Konuşmacı, bu bilginin yanlış olduğunu ve Abdülhamid'in Türkiye'nin iki katı kadar toprak kaybettiğini belirtmektedir.
 - Dönem: 19.yy; 1798 için geçerli mi: hayır
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (video, 00:30): <https://youtu.be/u7QNKS1Wio4?t=30> (Murat Bardakçı / Payitaht Abdülhamid): Sultan Hamit tek karış toprak kaybetmedi iddiası yanlıştır, 1,5 milyon kilometrekare kaybetmiştir.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/abdulhamid-ii>: Berlin Antlaşması ile pek çok toprak kaybedildiği açıkça belirtilmiştir. Not: Kanıt, toprak kaybının yaşandığını açıkça desteklemektedir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/abdulhamid-ii>: Berlin Antlaşması ile çok toprak kaybedildiği belirtilir. Not: Abdülhamid II (1876-1909) 1798 dönemine ait değildir, anakronizmdir.
 - İz: M0052 (ham: diplomasi-donem-h025)
 
 ### 17. Bizans prensesi Maria'nın bir Moğol emiriyle evlendirilmesi ve kervanının basılarak kaçırılması
@@ -199,10 +203,11 @@ Doğrulanan: 3, tartışmalı/şüpheli: 0, toplam aday: 21.
 - Doğrusu: Osmanlı'da modernleşme hareketleri yaklaşık 350 yıl geriye, III. Selim gibi padişahlara kadar uzanır.
 - Açıklama: Modernleşme gökten inmemiş, uzun yıllar süren bir niyet ve çabanın sonucunda Cumhuriyet ile hayata geçmiştir. III. Selim ordudan başlayarak bu süreci yönetmek istemiştir.
 - Dönem: 18.yy; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak (video, 03:35): <https://youtu.be/xFdpmAal89Y?t=215> (Ceren Sungur / Genel tarihi anlatılar): Modernleşme gökten inmedi, 350 yıllık bir geçmişi ve padişahların niyetleri vardır.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/nizam-i-cedid>: III. Selim'in askerî ve sivil reformlarının eski düzene karşı yeniden yapılanma olduğu belirtilmiştir. Not: Kanıt, modernleşme çabalarının III. Selim dönemiyle (18. yy) sistematik hale geldiğini doğrular.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/nizam-i-cedid>: Modernleşme hareketleri III. Selim dönemindeki Nizam-ı Cedid ile başlamıştır. Not: Modernleşme Cumhuriyet ile başlamamış, kökleri 18. yüzyıla dayanmaktadır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/nizam-i-cedid>: Nizâm-ı Cedîd 18. yüzyılda kökleşen yapısal bir modernleşmedir. Not: Kanıt modernleşmenin III. Selim'den evvel 18. yy'a dayandığını açıklar.
 - İz: M0056 (ham: diplomasi-donem-h029)
 
 ### 19. Cüneyt Arkın'ın Kara Murat ve Malkoçoğlu filmlerinin tarihî olayları aktardığının sanılması
@@ -222,10 +227,11 @@ Doğrulanan: 3, tartışmalı/şüpheli: 0, toplam aday: 21.
 - Doğrusu: Venedik monarşi değil cumhuriyetti; 'Venedik prensesi' diye bir unvan yoktu
 - Açıklama: Ortaylı, Venedik'in cumhuriyet olduğunu, dolayısıyla prenses unvanının uydurma olduğunu söylüyor. Aynı eleştiriyi Muhteşem Yüzyıl için de tekrarlamıştı.
 - Dönem: 16.yy; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak (eleştiri): <https://www.ensonhaber.com/ilber-ortayli-muhtesem-yuzyilin-yapimcisini-azarladi-2016-03-09-h10644363> (İlber Ortaylı / Muhteşem Yüzyıl: Kösem): 'Venedik'in prensesi olmaz. Venedik, cumhuriyettir çünkü.'
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/venedik>: Venedik'in bir cumhuriyet olduğu metinde defalarca vurgulanmıştır.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/venedik>: Venedik'in bir cumhuriyet olduğu kanıt metinde açıkça ifade edilmiştir. Not: Cumhuriyet olan bir devlette prenses unvanı kullanılamaz.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/venedik>: Venedik bir cumhuriyetti, monarsi değil; prenses unvanı yoktu. Not: Kanıt, Venedik'in 'Cumhuriyet' olduğunu tekrarlayarak, prens/prenses unvanının olmadığını kanıtlar.
 - İz: M0484 (ham: unvan-hitap-h003)
 
 ### 21. Kanuni'nin Venedik elçisiyle konuşurken Şarlken ve François için 'kim Kayzer olacak' demesi
@@ -238,4 +244,5 @@ Doğrulanan: 3, tartışmalı/şüpheli: 0, toplam aday: 21.
 - Kaynak (video, 05:11): <https://youtu.be/4XtiG4ZFQjk?t=311> (sinema&dizi kanalı sunucusu (adı belirtilmemiş) / Muhteşem Yüzyıl): Fatih'ten beri padişahlar kendini Kayser-i Rum görüyordu, bu unvanı rakibe vermesi olası değil
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/mehmed-ii>: Fatih'in kendisini dünya imparatoru görmesi ve Roma imparatorluğu iddiası anlatılmaktadır. Not: Padişahların Roma imparatorluğu iddiası kanıtlanmıştır; ancak olay 16. yüzyıla aittir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/mehmed-ii>: Fatih'ten itibaren Osmanlı padişahları Kayser-i Rum unvanını kullanmıştır. Not: Bu durum 16. yüzyıl için geçerlidir, 1798-1800 dönemi için doğrudan bir kanıt değildir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/mehmed-ii>: Fatih'in Kayser-i Rum iddiasını anlatır. Not: Kanıt II. Mehmed'e aittir, Kanuni ve Şarlken ile ilgili değildir.
 - İz: M0515 (ham: unvan-hitap-h052)

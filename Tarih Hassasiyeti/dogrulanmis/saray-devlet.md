@@ -1,6 +1,6 @@
 # Saray ve devlet teşkilatı – doğrulama sonuçları
 
-Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
+Doğrulanan: 59, tartışmalı/şüpheli: 4, toplam aday: 161.
 
 ### 1. Kanuni'nin divan toplantılarına bizzat katılıp tartışmaları yönetmesi, anında karar alması
 
@@ -8,12 +8,13 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Fatih'in kanunnamesinden beri padişahlar divana katılmaz, adalet kasrındaki kafesli bölümden dinlerdi.
 - Açıklama: Padişah toplantının akışına doğrudan müdahale etmez, her an orada olduğu bilinen ama ne zaman müdahale edeceği kestirilemeyen bir otorite olarak gücünü korurdu. Dizi bu mesafeli hükümdar anlayışının yerine modern bir CEO portresi koyuyor.
 - Dönem: 16.yy; 1798 için geçerli mi: tartışmalı (evet / kısmen)
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak (eleştiri): <https://www.yenisafak.com/gundem/muhtesem-yuzyilda-muhtesem-hatalar-298064> (Ayşe Böhürler (okur notlarıyla aktarılan eleştiri) / Muhteşem Yüzyıl): padişahlar divan toplantısına katılmaz... kafes arkasından dinlerlerdi
 - Kaynak (eleştiri): <https://www.ekrembugraekinci.com/article?ID=313&muhte%C5%9Fem-y%C3%BCzyil%E2%80%99da-g%C3%B6ze-takilanlar> (Ekrem Buğra Ekinci / Muhteşem Yüzyıl): padişahlar divan toplantısına katılmaz, belki kafes arkasından dinlerdi.
 - Kaynak (video, 02:37): <https://youtu.be/4XtiG4ZFQjk?t=157> (sinema&dizi kanalı sunucusu (adı belirtilmemiş) / Muhteşem Yüzyıl): Fatih'in kanunnamesinden beri padişahlar divana doğrudan katılmaz, adalet kasrından dinlerlerdi
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/divan-i-humayun>: Fatih'ten itibaren padişahın divan başkanlığının kaldırıldığı açıkça belirtilmiştir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/divan-i-humayun>: Fatih'ten itibaren padişah divana başkanlık etmez, veziriazam yönetir. Not: 1798'de Divan-ı Hümayun işlevini büyük ölçüde yitirmiş olsa da, padişahın divana doğrudan müdahalesi klasik dönemden beri usul dışıdır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/divan-i-humayun>: Fatih kanunnamesiyle padişah divan başkanlığını bırakmış, veziriazam başkanlık eder. Not: Kanuni döneminde de padişah divana katılmaz, Adalet Kasrı'ndan dinlerdi; bu usül 1798'de de geçerliydi.
 - İz: M0298 (ham: saray-devlet-h083, saray-devlet-h129, saray-devlet-h018, saray-devlet-h012)
 
 ### 2. Sarayda yaşayan şehzadelerin çocuk sahibi olması
@@ -28,6 +29,7 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Kaynak (video, 70:09): <https://youtu.be/zh5x1Oo8Bxs?t=4209> (Ceren Sungur / Muhteşem Yüzyıl): Sarayda yaşayan şehzadelerin teamüllere göre çocuk sahibi olmaması gerektiği gerçeği.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/sehzade>: Kafes sistemi belirtilmiş ancak çocuk sahibi olma yasağına değinilmemiştir. Not: Kanıt kafes sistemini onaylar ancak çocuk sahibi olma konusundaki kısıtlamaları belirtmez.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/sehzade>: XVII. yüzyıldan itibaren şehzadeler için kafes hayatı başlamıştır. Not: 1798'de kafes usulü devam etmektedir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/sehzade>: 1617'den itibaren kafes hayatı başladığı belirtilir. Not: Kanıt şehzadelerin çocuk yapma yasağını veya 1798 durumunu içermiyor.
 - İz: M0293 (ham: saray-devlet-h007, saray-devlet-h111, saray-devlet-h138)
 
 ### 3. Kanuni'nin babadan kalma yaşlı bir bilgesi gibi gösterilen yakın karakterin dizide 60'lı yaşlarında olması
@@ -41,6 +43,7 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Kaynak (video, 15:58): <https://youtu.be/4XtiG4ZFQjk?t=958> (sinema&dizi kanalı sunucusu (adı belirtilmemiş) / Muhteşem Yüzyıl): Dizide 60'lı yaşlarında gösteriliyor, oysa Kanuni tahta çıktığında 30'larının başındaydı
 - Doğrulayan gemini/gemma-4-31b-it: red; <https://islamansiklopedisi.org.tr/haci-arif-bey-kanuni>: Hacı Arif Bey'in 19. ve 20. yüzyıllarda yaşamış bir müzisyen olduğu belirtilmektedir. Not: Kanıttaki kişi Kanuni dönemiyle çağdaş değildir, çok daha sonra yaşamıştır.
 - Doğrulayan gemini/gemini-3.1-flash-lite: belirsiz; <adres yok>: Kanıt sunulmamıştır. Not: Bu madde 16. yüzyıla (Kanuni dönemi) aittir, 1798 dönemiyle ilgisi yoktur.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <adres yok>: Kanıt Süleyman I ve bir bestekâr hakkındadır. Not: Bahsedilen 'yakın karakter' kanıtla ilişkilendirilemiyor; dönem de 16. yüzyıl.
 - İz: M0170 (ham: isim-ad-h034, isim-ad-h007)
 
 ### 4. Devlet erkânı tahtın önündeki sopaya bağlı püskülü öperek padişahı selamlıyor.
@@ -99,11 +102,12 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Fatih hocasına büyük saygı gösterir; hocayı yaya koşturması mümkün değildir.
 - Açıklama: Şimşirgil, Fatih'in Akşemseddin'e saygısını vurgulayarak sahneyi eleştirir.
 - Dönem: 15.yy; 1798 için geçerli mi: hayır
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (eleştiri): <https://www.habervaktim.com/yazar/48357/reyting-icin-tarihi-ve-ecdadi-kim-satti.html> (Ahmet Şimşirgil / Fetih 1453): Akşemseddin arkasından yaya olarak koşuyor. Böyle bir şey mümkün mü?
 - Kaynak (eleştiri): <https://www.habervaktim.com/haber/281248/1453te-clintoni-degil-fatihi-gormek-isterdik.html> (Prof. Dr. Ahmet Şimşirgil / Fetih 1453 (2012)): Fatih atıyla giderken Akşemseddin arkasından yaya olarak koşuyor.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/aksemseddin>: Fatih'in Akşemseddin'e olan derin saygısı ve bağlılığı vurgulanmıştır. Not: Olay 15. yüzyıla aittir, 1798 dönemiyle ilgisi yoktur.
 - Doğrulayan gemini/gemini-3.1-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/mehmed-ii>: Fatih ve Akşemseddin ilişkisi anlatılmış ancak filmdeki spesifik sahneye dair bilgi yoktur. Not: Dizi/film eleştirisi ansiklopedik bir bilgi değildir, kanıt yetersizdir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/aksemseddin>: Fâtih, fetih sonrası tahtı terk edip Akşemseddin'in müridi olmak istemiş; şeyh buna manevi destek vermiştir. Not: Kanıt, Fâtih'in Akşemseddin'e gösterdiği aşırı saygı ve manevi bağımlılığı kanıtlar; atla giderken yaya koşturma iddiası bu zıtlıkla çelişir.
 - İz: M0478 (ham: unvan-hitap-h005, unvan-hitap-h011, unvan-hitap-h012)
 
 ### 9. Abdülhamid dizisinde gerçekte var olmayan, uydurma bir II. Abdülhamid portresi çizilmesi
@@ -182,10 +186,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: İçeri girerken destur denilmesi ve izin usulüne uyulması gerekir.
 - Açıklama: Oba/beylik protokolündeki temel görgü kuralı ihlal edilmiştir.
 - Dönem: 13.yy; 1798 için geçerli mi: tartışmalı (hayır / evet)
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (eleştiri): <https://www.milliyet.com.tr/yerel-haberler/samsun/unlu-profesorden-dirilis-ertugrul-dizisine-elestiri-11232807> (Prof. Dr. Ahmet Şimşirgil / Diriliş Ertuğrul): izin almadan içeri giriyorlar. Destur deyip birden içeri giriyorlar
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt genel teşrifat kurallarından bahsetse de 'destur' kelimesine veya spesifik giriş usulüne değinmemektedir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/saray>: Saray teşkilatında sıkı teşrifat usul ve kuralları olduğunu belirtir. Not: Kanıt, saray teşkilatında sıkı teşrifat kurallarının varlığını doğrulamaktadır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/saray>: Hacib ve kapıcıbaşı protokolü denetler; usulüne göre giriş sağlanır. Not: Kanıt resmi protokolü (hacib/kapıcıbaşı) destekler; 'destur' kuralı buna uygundur.
 - İz: M0102 (ham: gundelik-dil-h009)
 
 ### 16. Mehmed, ilk saltanatında 18-20 yaşlarında genç olarak gösterilir.
@@ -194,9 +199,10 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Babası II. Murad, Mehmed'i 12 yaşında tahta çıkarmıştır.
 - Açıklama: Yaşın yanlış verilmesi, sonraki olayların kurgusunu da etkiler.
 - Dönem: 15.yy; 1798 için geçerli mi: hayır
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (eleştiri): <https://www.turkiyegazetesi.com.tr/kultur-sanat/tarihci-prof-dr-ahmet-simsirgil-mehmed-fetihler-sultani-dizisini-yerden-yere-1025448> (Ahmet Şimşirgil / Mehmed: Fetihler Sultanı): 12 yaşında babası onu tahta çıkarttı!
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/mehmed-ii>: II. Mehmed'in ilk tahta çıkışında 12, ikincisinde 19 yaşında olduğu belirtiliyor. Not: Kanıt, ilk saltanatındaki yaşının 12 olduğunu açıkça desteklemektedir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/mehmed-ii>: Mehmed II ilk saltanat 12 yaşında, ikincisi 19 yaşında. Not: Kanıt ilk saltanat yaşının 12 olduğunu netçe gösteriyor.
 - İz: M0173 (ham: isim-ad-h008)
 
 ### 17. II. Mehmed'in burnu, tarihi tasvirlere aykırı biçimde olduğundan küçük gösterilir.
@@ -216,10 +222,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Karakterler gerçek yaşlarından çok daha olgun oyuncularla, doğrudan 'olmuş' hâlleriyle sunuluyor.
 - Açıklama: Konuşmacı bunu karizma ve tanıdık yüz tercihi olarak anlaşılır buluyor, hatta bir taviz sayıyor. Ama 26 yaşındaki ispat heveslisi padişahla 41 yaşındaki oturmuş hükümdarın psikolojisi aynı değil.
 - Dönem: 16.yy; 1798 için geçerli mi: tartışmalı (hayır / kısmen)
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak (video, 14:58): <https://youtu.be/4XtiG4ZFQjk?t=898> (sinema&dizi kanalı sunucusu (adı belirtilmemiş) / Muhteşem Yüzyıl): 26 yaşındaki Kanuni'yi 41 yaşındaki Halit Ergenç, 14 yaşındaki Hürrem'i 28 yaşındaki Meryem Uzerli oynuyor
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/hurrem-sultan>: Hürrem Sultan'ın saraya 14-17 yaşlarında takdim edildiği belirtilmiştir. Not: Tarihsel yaşlar kanıtla onaylanmıştır ancak olay 16. yüzyıla aittir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/hurrem-sultan>: Hürrem Sultan'ın 14-17 yaşlarında saraya girdiği ve Kanuni ile olan ilişkisi belirtilmiştir. Not: Madde 16. yüzyıla aittir. 1798 İstanbul'u ile doğrudan ilgili değildir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/hurrem-sultan>: Hürrem 14-17 yaşında saraya girdiği, Kanuni genç padişah olduğu belirtiliyor. Not: Madde 16. yüzyıl dizisini eleştiriyor, 1798 İstanbul'u ile doğrudan ilgili değil; gecerli_1798 'hayır'.
 - İz: M0185 (ham: isim-ad-h033)
 
 ### 19. Doğu Roma imparatorunun erkek kardeşinin kundaktaki bebeğinin öldürülmesi
@@ -272,10 +279,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Pîşkeş, tayin karşılığı ödenen ve defterlere kaydedilen bir çeşit vergiydi; rüşvet değildi.
 - Açıklama: Bardakçı servetin kaynağının kayıtlı pîşkeş ödemeleri olduğunu, rüşvet iddiasının rakiplerin karalamasından çıktığını yazıyor. Pîşkeş düzeni 18. yüzyılda da sürüyordu.
 - Dönem: 16.yy; 1798 için geçerli mi: tartışmalı (hayır / kısmen)
-- Durum: kesin hata
+- Durum: tartışmalı (doğrulayıcılar çelişti; A ve B onayladı, C kanıtla yalanladı)
 - Kaynak (eleştiri): <https://www.haberturk.com/yazarlar/murat-bardakci/922173-rustem-pasa-ve-rusvet> (Murat Bardakçı / Muhteşem Yüzyıl): Pîşkeş rüşvet değil, kayıt altında bir çeşit vergidir.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/piskes>: Pîşkeşin bir gelir türü olduğu ve rüşvetten ayrılan yönleri anlatılmıştır. Not: Pîşkeşin kurumsal bir uygulama olduğu ve her zaman rüşvet olmadığı doğrulanmıştır.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/piskes>: Pîşkeş, tayinlerde sunulan geleneksel bir hediye/vergi sistemidir. Not: Madde 16. yüzyıla atıf yapsa da pîşkeş düzeni 18. yüzyılda da mevcuttu.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: red; <https://islamansiklopedisi.org.tr/piskes>: 16. yüzyılda pîşkeşin görev şartı olarak alınıp "rüşvet diye nitelendiği" açıkça yazılıyor. Not: Kanıt, pîşkeşin hukuki niteliğin yanında pratikte rüşvet işlevi gördüğünü doğruluyor.
 - İz: M0267 (ham: para-olcu-takvim-h001)
 
 ### 24. Kanuni Süleyman'ın divan-ı hümayunda bir tablo gibi kompozisyon içinde oturtulması
@@ -284,10 +292,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Padişah divanda bu şekilde bir tablo düzeni içinde oturtulmaz
 - Açıklama: Ortaylı, divandaki padişah sahnesinin dönemin protokolüne uymadığını söylüyor. 18. yüzyılda divan düzeni değiştiği için 1798 sahnesi ayrıca kurulmalı.
 - Dönem: 16.yy; 1798 için geçerli mi: kısmen
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C) — 1798 için kısmen geçerli
 - Kaynak (eleştiri): <https://www.ensonhaber.com/ilber-ortayli-muhtesem-yuzyilin-yapimcisini-azarladi-2016-03-09-h10644363> (İlber Ortaylı / Muhteşem Yüzyıl: Kösem): 'Kanuni Süleyman, divanı hümayunda öyle bir tabloya oturtulmaz.'
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/divan-i-humayun>: Divan'ın işleyişi ve başkanlığı anlatılmış ancak görsel düzene değinilmemiştir. Not: Kanıt, padişahın divandaki görsel kompozisyonu veya oturma düzenini kapsamamaktadır.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/divan-i-humayun>: Divan düzeni ve padişahın konumu tarihsel süreçte değişmiştir. Not: 18. yüzyılda divan düzeni 16. yüzyıldan farklıdır, anakronizm uyarısı doğrudur.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/divan-i-humayun>: Fâtih'ten itibaren padişah divan başkanlığını bırakmıştır. Not: Kanıt 16. yüzyıl protokolünde padişahın divanda oturup başkanlık etmediğini, vezîriâzamın başkanlık ettiğini doğrular.
 - İz: M0288 (ham: saray-devlet-h002)
 
 ### 25. Abdülhamid'in dizideki gibi atak, hareketli ve renk veren bir karakter olması
@@ -296,9 +305,10 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Abdülhamid son derece suskun, tedbirli ve hiç renk vermeyen bir padişahtı
 - Açıklama: Ortaylı diziyi 'böyle bir Abdülhamid yok, böyle bir devir de yok' diye eleştiriyor.
 - Dönem: 19.yy; 1798 için geçerli mi: hayır
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (eleştiri): <https://artigercek.com/guncel/ilber-ortaylidan-trt-dizisine-elestiri-boyle-bir-abdulhamid-yok-80394h> (İlber Ortaylı / Payitaht: Abdülhamid): 'Son derece suskun, tedbirli konuşan, hiç renk vermeyen... bir padişahtı.'
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/abdulhamid-ii>: Padişahın şüpheci ve tedbirli karakteri vurgulanmaktadır. Not: Kanıt, padişahın tedbirli ve şüpheci yapısını açıkça desteklemektedir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/abdulhamid-ii>: Abdülhamid'in şüpheci, tedbirli ve Yıldız'ta izole idaresi anlatılır. Not: Kanıt padişahın suskun, dikkatli ve merkeziyetçi bir karakter olduğunu, renkli/atak bir tavır sergilemediğini destekler.
 - İz: M0289 (ham: saray-devlet-h003)
 
 ### 26. Hürrem Sultan'ın devletin kaderini tek başına belirleyen figür olarak çizilmesi
@@ -307,9 +317,10 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Hürrem'in devleti yıktığı anlatısı abartıdır; bu daha çok bazı tarih yazarlarının yaklaşımı
 - Açıklama: Ortaylı, 'Osmanlı Devleti'ni Hürrem'e yıktırıyorlar' diyerek bu anlatıyı eleştiriyor. Sinemacının dramanın başka yüzlerini de görmesi gerektiğini söylüyor.
 - Dönem: 16.yy; 1798 için geçerli mi: hayır
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (eleştiri): <https://t24.com.tr/gundem/ilber-ortaylidan-muhtesem-yuzyil-yorumu-bunu-yazanlarin-hic-bir-sekilde-tarihle-ilgileri-yok,218537> (İlber Ortaylı / Muhteşem Yüzyıl): 'Osmanlı Devleti'ni Hürrem'e yıktırıyorlar.'
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/hurrem-sultan>: Hürrem'in saray içi nüfuzu ve siyasi etkileri anlatılmaktadır. Not: Kanıt, Hürrem'in etkili olduğunu ancak devleti tek başına yönetmediğini gösterir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/hurrem-sultan>: Hürrem'in vezir boğdurma ve şehzade uzaklaştırma girişimleri anlatılır. Not: Kanıt Hürrem'in etkin olduğunu ama 'devlet işlerine karışmaya başladı' ifadesiyle tek elden yönettiği iddiasını çürütür.
 - İz: M0290 (ham: saray-devlet-h004)
 
 ### 27. Hürrem Sultan'ın devleti tek başına yönettiği, kararları tek başına verdiği
@@ -318,9 +329,10 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Hürrem devleti tek başına yönetmedi; etkisi vardı ama yönetim onun elinde değildi.
 - Açıklama: Afyoncu Hürrem'in tek başına hüküm sürmediğini, doğrudan yönetenlerin Kösem ve Turhan olduğunu söylüyor. Dizi Hürrem'in gücünü abartıyor.
 - Dönem: 16.yy; 1798 için geçerli mi: hayır
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (eleştiri): <https://www.dailysabah.com/history/2015/11/23/tv-series-put-female-dominance-in-ottoman-palace-on-agenda> (Erhan Afyoncu / Muhteşem Yüzyıl): Hürrem tek başına yönetmedi; Kösem ve Turhan doğrudan yönetti.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/hurrem-sultan>: Devlet işlerine karıştığı ancak tek başına yönetmediği görülmektedir. Not: Kanıt, 'devlet işlerine karışma' ifadesiyle nüfuzunu, ancak yönetimin kendisinde olmadığını doğrular.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/hurrem-sultan>: Hürrem'in siyasi etkinlikleri ve sınırları anlatılır. Not: Kanıt Hürrem'in belirli kararları etkilediğini gösterir; devleti tek başına yönettiği iddiasını desteklemez.
 - İz: M0291 (ham: saray-devlet-h005)
 
 ### 28. Kadınlar Saltanatı'nı kadınların devleti çürüttüğü bir çöküş dönemi gibi anlatmak
@@ -333,6 +345,7 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Kaynak (eleştiri): <https://www.yenisafak.com/hayat/harem-hayatini-kimse-bilmiyor-2338575> (Erhan Afyoncu / Muhteşem Yüzyıl): Kadınlar Saltanatı tezinin olumsuz çerçevesi çürütüldü.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/valide-sultan>: Valide sultanların siyasi nüfuzu anlatılmış ancak çöküş tezi tartışılmamıştır. Not: Kanıt betimleyicidir; 'çöküş dönemi' tezinin reddine dair akademik tartışmaya değinmez.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/valide-sultan>: Valide sultanların yönetimi sadece yıkım ve entrika olarak görülemez. Not: Modern tarihçilik bu dönemi daha karmaşık bir yapıda ele almaktadır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/valide-sultan>: Vâlide sultanların maaş, kethüda ve protokolü anlatılır. Not: Kanıt 16-19. yüzyıl kurumsal yapısını anlatır, "Kadınlar Saltanatı" çöküş tezini doğrudan çürütmez.
 - İz: M0292 (ham: saray-devlet-h006)
 
 ### 29. Padişahın eşine nasıl davrandığını, günlük hayatını kesin sahnelerle göstermek
@@ -345,6 +358,7 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Kaynak (eleştiri): <https://www.hurriyetdailynews.com/its-not-real-scholars-tell-critics-of-historical-dramas-34487> (Erhan Afyoncu / Muhteşem Yüzyıl): Dizi belgesel değil; sultanın özel hayatını kimse bilmiyor.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/saray>: Sarayların fiziksel yapısı ve işlevleri anlatılmış, özel hayatın bilinmezliğine değinilmemiştir. Not: Kanıt mimari ve idari yapı üzerinedir, tarihsel kurgu metodolojisini kapsamaz.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/saray>: Sarayın özel hayatı hakkında kesin bilgiler kurgusaldır. Not: Dizi ve romanların kurgu olduğu, belgesel niteliği taşımadığı doğrudur.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/saray>: Saray yapısı ve divan yerleri anlatılır, özel hayat yok. Not: Kanıt padişahın harem/hayatına dair bilgi vermiyor.
 - İz: M0294 (ham: saray-devlet-h008)
 
 ### 30. Haremde zenci hadımlar yerine beyaz hadımlar görev yapar.
@@ -356,7 +370,7 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Durum: belirsiz / kaynakta karşılığı yok
 - Kaynak (eleştiri): <https://www.ahmetsimsirgil.com/cehalet-mi-ihanet-mi/> (Ahmet Şimşirgil / Muhteşem Yüzyıl): zenci yerine beyaz hadımların haremde kol gezmesi
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt sunulmamıştır.
-- Doğrulayan gemini/gemini-3.1-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/kizlar-agasi>: Kanıt, Kızlar Ağası maddesinin içeriğini sunmamaktadır (boş taslak). Not: Haremdeki hadım teşkilatı (zenci/beyaz ayrımı) 1798'de de mevcuttur ancak kanıt yetersizdir.
+- Doğrulayan gemini/gemini-3.5-flash-lite: belirsiz; <adres yok>: Kanıt yok. Not: Haremdeki hadımların ırk dağılımına dair kanıt verilmemiştir.
 - İz: M0295 (ham: saray-devlet-h009)
 
 ### 31. Diriliş Ertuğrul'da Kayı Boyu, Dodurga obasına sığınır.
@@ -375,11 +389,12 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Yanlış: Hasodabaşı İbrahim Paşa'nın devşirme/dönme olduğu için yadırganması.
 - Doğrusu: Has Oda ve Enderun köle/devşirmelerden oluşur; İbrahim Paşa Rum asıllı köleydi.
 - Açıklama: Vezirin 'dönmeyi nasıl hasodabaşı yapar' demesi abestir; Enderun zaten devşirmelerden müteşekkildir.
-- Dönem: 16.yy; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Dönem: 16.yy; 1798 için geçerli mi: tartışmalı (evet / kısmen)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (eleştiri): <https://www.ekrembugraekinci.com/article?ID=313&muhte%C5%9Fem-y%C3%BCzyil%E2%80%99da-g%C3%B6ze-takilanlar> (Ekrem Buğra Ekinci / Muhteşem Yüzyıl): Has Oda ve hatta Enderun’un tamamı zaten köle ve devşirmelerden
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/enderun>: Enderun'un devşirmelerden oluştuğu ve yüksek mevkilere geldikleri belirtilmiştir.
-- Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/enderun>: Enderun, devşirme kökenli kişilerden oluşur ve bürokrasinin ana kaynağıdır. Not: Enderun'un yapısı gereği devşirme kökenlilerin burada bulunması ve yükselmesi sistemin doğasıdır.
+- Doğrulayan gemini/gemini-3.5-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/enderun>: Enderun mektebini ve devşirme eğitimini anlatır. Not: Madde 16. yüzyıl Osmanlı dönemi için geçerlidir ancak 1798 (III. Selim dönemi) alternatif tarih kurgusu bağlamında dönem uyumsuzluğu göstermektedir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/devsirme>: Devşirme sisteminden Rum asıllılar alınır, veziriazamlık dâhil üst makamlara çıkarlar. Not: Madde 16. yüzyıl için geçerlidir; 1798'de devşirme sistemi kalkmış, kapıkulu teşkilatı farklı kaynaktan besleniyordu.
 - İz: M0297 (ham: saray-devlet-h011)
 
 ### 33. Yavuz Sultan Selim'in vefatı sırasında havai fişek atılması.
@@ -399,11 +414,12 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Yanlış: Hasodabaşının cariyeleri seçip padişaha sunması.
 - Doğrusu: Hasodabaşı hareme bile giremez; cariyeleri valide sultan takdim eder.
 - Açıklama: Harem içi düzen ve görev dağılımı dizide yanlış gösterilmiştir.
-- Dönem: 16.yy; 1798 için geçerli mi: evet
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Dönem: 16.yy; 1798 için geçerli mi: tartışmalı (evet / kısmen)
+- Durum: belirsiz / kaynakta karşılığı yok
 - Kaynak (eleştiri): <https://www.ekrembugraekinci.com/article?ID=313&muhte%C5%9Fem-y%C3%BCzyil%E2%80%99da-g%C3%B6ze-takilanlar> (Ekrem Buğra Ekinci / Muhteşem Yüzyıl): Hasodabaşı hareme bile giremez.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt Valide Sultan'ın gücünden bahsetse de Hasodabaşı'nın kısıtlamalarını açıklamaz.
-- Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/valide-sultan>: Harem hiyerarşisinin en yetkili kişisi Valide Sultan'dır. Not: Hasodabaşı'nın harem içi cariye işlerine müdahil olması saray teşrifatına aykırıdır.
+- Doğrulayan gemini/gemini-3.5-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/valide-sultan>: Valide sultanın harem hiyerarşisindeki yetkileri ve alay protokolü anlatılmaktadır. Not: Kanıt hasodabaşının cariyeleri seçip seçemeyeceğine doğrudan değinmemektedir; ancak harem hiyerarşisinde valide sultanın en yetkili olduğunu belirtir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/valide-sultan>: Vâlide sultan yetkisi ve alayı anlatılır, hasodabaşı yok. Not: Kanıt hasodabaşı görevlerinden bahsetmiyor.
 - İz: M0300 (ham: saray-devlet-h014)
 
 ### 35. Havuz başında cariye oynatan, sefahat içinde yaşayan padişah imajı.
@@ -440,6 +456,7 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Kaynak (eleştiri): <https://www.gzt.com/tarih/muhtesem-yuzyil-ve-osmanli-gelenegi-2648181> (Yusuf Halaçoğlu / Muhteşem Yüzyıl): has odabaşı ve vezirler kavuksuz geziyorlar
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/kavuk>: Kavuk rütbe göstergesidir ancak yemek adabı kanıtta yoktur. Not: Başlık kullanımı onaylansa da sofra adabı kanıtla desteklenmemiştir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/kavuk>: Kavuk ve serpuşlar rütbe ve makam göstergesidir, protokol gereğidir. Not: Padişahın huzurunda kavuksuz bulunmak protokol ihlalidir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/kavuk>: Kavuk türleri ve rütbe göstericiliği anlatılır. Not: Kanıt yemek protokolünü veya kavuksuz çıkışı kapsamıyor.
 - İz: M0303 (ham: saray-devlet-h017)
 
 ### 38. Has Oda başına getirilen İbrahim Paşa'nın devşirme kökeni üzerinden "bu dönmeyi nasıl has odabaşı yapar" diye itiraz edilmesi.
@@ -448,9 +465,10 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Has Oda ve Enderun'un tamamı devşirmelerden oluşurdu.
 - Açıklama: Saray teşkilatının personel yapısı yanlış yorumlanmıştır.
 - Dönem: 16.yy; 1798 için geçerli mi: hayır
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (eleştiri): <https://www.yenisafak.com/gundem/muhtesem-yuzyilda-muhtesem-hatalar-298064> (Ayşe Böhürler (okur notlarıyla aktarılan eleştiri) / Muhteşem Yüzyıl): Has Oda ve hatta Enderun'un tamamı zaten devşirmelerden oluşur
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/enderun>: Enderun ve Has Oda'nın devşirme kökenli çocukların eğitimi için kurulduğu belirtilmektedir. Not: Kanıt, Has Oda'nın Enderun'un bir parçası olduğunu ve kurumun devşirmelerle çalıştığını doğrular.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/enderun>: Enderun ve Has Oda devşirmelerden oluştuğu belirtilir. Not: Kanıt Hasodabaşı'nın devşirme kökenli olmasının normal olduğunu kanıtlar.
 - İz: M0304 (ham: saray-devlet-h019)
 
 ### 39. Devlet adamlarının padişah tarafından has odasında kabul edilmesi.
@@ -470,11 +488,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Yanlış: Kaptan-ı Derya Cafer Paşa'nın kılıçla, padişahın gözü önünde idam edilmesi ve kafasının ibret taşında kesilmesi.
 - Doğrusu: Üst düzey görevliler genelde kementle boğularak idam edilirdi; idam baltayla yapılacaksa baltacılarca yürütülürdü ve padişah infazı seyretmezdi.
 - Açıklama: İnfaz yöntemi, icracılar ve padişahın rolü hatalı aktarılmıştır.
-- Dönem: 16.yy; 1798 için geçerli mi: evet
+- Dönem: 16.yy; 1798 için geçerli mi: tartışmalı (evet / belirsiz)
 - Durum: belirsiz / kaynakta karşılığı yok
 - Kaynak (eleştiri): <https://www.gzt.com/tarih/muhtesem-yuzyil-ve-osmanli-gelenegi-2648181> (Yusuf Halaçoğlu / Muhteşem Yüzyıl): üst düzey görevliler kementle boğularak idam edilirdi
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt sunulmamıştır. İnfaz usulleri hakkındaki iddia genel tarih bilgisiyle örtüşse de kanıt yoktur.
-- Doğrulayan gemini/gemini-3.1-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/idam>: İdam maddesi boş taslaktır. Not: Üst düzey devlet adamlarının infazı kementle yapılır, padişah infazı izlemez.
+- Doğrulayan gemini/gemini-3.5-flash-lite: belirsiz; <adres yok>:  Not: Madde için kanıt verilmemiştir ve iddiayı doğrulayacak veya çürütecek veri yok.
 - İz: M0306 (ham: saray-devlet-h021)
 
 ### 41. Padişahın vaktinin büyük bölümünü sürekli hareme girip çıkarak geçirmesi.
@@ -495,9 +513,10 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Esir edilmenin tarihte kendine özgü yolu ve yordamı vardır.
 - Açıklama: Kumrular, esir alınma sürecinin dizideki gibi basitleştirilemeyeceğini vurgular.
 - Dönem: 17.yy; 1798 için geçerli mi: hayır
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (eleştiri): <https://www.milliyet.com.tr/cadde/sina-kologlu/anastasia-var-mi-2148398> (Özlem Kumrular / Muhteşem Yüzyıl Kösem): “Çiçek toplar gibi olmaz, tarihte bunun yolu yordamı vardır"
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/kosem-sultan>: Kösem Sultan'a hal kararının bir heyet aracılığıyla tebliğ edildiği ve rızasının alındığı belirtilir. Not: Sürecin rastgele bir esir alma değil, resmi bir tebligat ve rıza süreci olduğu görülmektedir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/kosem-sultan>: Kösem'in hal kararı ve heyetle tebliği anlatılır. Not: Kanıt esir alma sürecinin resmi prosedürlü olduğunu gösterir.
 - İz: M0309 (ham: saray-devlet-h024)
 
 ### 43. Safiye Sultan, I. Ahmed'e Anastasia'yı (Kösem) bizzat bulup hediye ediyor.
@@ -550,9 +569,10 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Kafes sisteminde şehzadeler kafes adı verilen kasırlarda, halktan kopuk yaşarlardı.
 - Açıklama: Dizi, Mustafa'nın saray içindeki yaşam koşullarını kafes uygulamasıyla uyumsuz gösterir.
 - Dönem: 17.yy; 1798 için geçerli mi: evet
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (eleştiri): <https://www.uludagsozluk.com/k/muhte%C5%9Fem-y%C3%BCzy%C4%B1l-k%C3%B6sem-dizisinde-tarihi-hatalar/> (protest sanayici / Muhteşem Yüzyıl Kösem): “veliahtlar kafes adı verilen kasırlarda halktan kopuk"
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/sehzade>: 1617'den itibaren şehzadelerin sarayda kafes denilen kapalı bir hayata mahkum edildiği belirtilmektedir. Not: Kafes sistemi III. Selim döneminde de yürürlükteydi.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/sehzade>: 1617'den itibaren şehzadelerin kafes hayatına girdiği yazılır. Not: Kanıt şehzadelerin serbest dolaşmadığını, kafeste yaşadığını doğrular.
 - İz: M0314 (ham: saray-devlet-h029)
 
 ### 48. İlk bölümlerde Moğol tehdidi Anadolu'dan uzakmış gibi işleniyor.
@@ -704,10 +724,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Divan toplantılarında tartışma olabilir; vezirlerin böyle kavga etmesi usule uygun değildir.
 - Açıklama: Saray protokolü ve divan adabı filmde yanlış yansıtılmıştır.
 - Dönem: 15.yy; 1798 için geçerli mi: kısmen
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C) — 1798 için kısmen geçerli
 - Kaynak (eleştiri): <https://www.gazetevatan.com/kultur-sanat/fatih-iyi-ama-431402> (Prof. Dr. Ahmet Şimşirgil; Prof. Dr. Mahmut Ak / Fetih 1453 (2012)): Divan toplantılarında tartışma çıkardı ama kavga olmazdı.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/divan-i-humayun>: Divan-ı Hümayun'un üyeleri ve genel işleyişi anlatılmaktadır. Not: Metin divanın teşrifat aracı olduğunu belirtse de vezirlerin kavga edip etmediğine değinmemektedir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/divan-i-humayun>: Divan, teşrifat ve hukuk kuralları çerçevesinde işleyen bir kuruldur. Not: Vezirlerin kavga eder gibi tartışması saray adabına ve divan ciddiyetine aykırıdır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/divan-i-humayun>: Divan üyelikleri, usulü ve arza çıkma prosedürü anlatılır. Not: Kanıt divan toplantılarının resmi usulü çerçevesinde olduğunu gösterir.
 - İz: M0328 (ham: saray-devlet-h044)
 
 ### 62. Padişah, ok talimi yaparken Çandarlı ile tartışma yürütüyor.
@@ -761,10 +782,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Sarayın ve yönetimin bel kemiği olan Enderun ile has oda zaten tanımı gereği devşirme kökenlilerden oluşurdu.
 - Açıklama: Sistemin en temel gerçeğine şaşırmak, hastanede 'burada neden bu kadar çok doktor var' demek gibi bir anakronizm. Konuşmacı bunu 21. yüzyıla ait bir önyargının geçmişe yansıtılması olarak görüyor.
 - Dönem: 16.yy; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak (video, 10:51): <https://youtu.be/4XtiG4ZFQjk?t=651> (sinema&dizi kanalı sunucusu (adı belirtilmemiş) / Muhteşem Yüzyıl): Sarayın bel kemiği Enderun zaten tamamen devşirmelerden oluşurdu, bu şikâyet sisteme aykırı
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/enderun>: Enderun ve Has Oda'nın devşirme kökenli çocukların eğitildiği kurumlar olduğu doğrulanmıştır.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/enderun>: Enderun, devşirme kökenlilerin eğitildiği ve devletin bel kemiğini oluşturduğu bir kurumdu. Not: Devşirme sisteminin temel olduğu bir yapıda, bir vezirin devşirme kökenli birine şaşırması tarihsel gerçeklikle bağdaşmaz.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/enderun>: Enderun ve Has Oda devşirme kökenlilerden oluşur; vezirler bunu bilir. Not: Madde 16. yüzyıl (İbrahim Paşa) ile ilgilidir, 1798 ile değil.
 - İz: M0364 (ham: saray-devlet-h084)
 
 ### 67. Kanuni Sultan Süleyman'ın sarayda, hareme kapanmış şekilde yaşadığı izlenimi
@@ -872,9 +894,10 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Bayezid bu dönemde Amasya sancakbeyidir ve doğudaki Akkoyunlu tehlikesi nedeniyle görev bölgesinde olması beklenir
 - Açıklama: Konuşmacıya göre böyle bir Bursa görevlendirmesi tarihsel olarak bilinmemektedir. Sahne sonraki kurguya zemin hazırlıyor olabilir.
 - Dönem: 15.yy; 1798 için geçerli mi: hayır
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (video, [15:22]): <https://youtu.be/Kbi6hfvngr8?t=922> (Ahmet Anapalı / Fetihler Sultanı): Beyazıt'ın bu olaylarda Bursa'ya görevlendirilmesi tarih anlamında yok.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/bayezid-ii>: Bayezid II'nin Amasya sancak beyliği dönemi. Not: Kanıt, Bayezid'in 1472'de Amasya'da olduğunu ve Akkoyunlu tehdidini doğrulamaktadır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/bayezid-ii>: 1472'de Bayezid'in Amasya'da Akkoyunlu tehlikesiyle uğraştığı yazılır. Not: Kanıt Bayezid'in 1472'de Bursa'da olmadığını, Amasya bölgesinde olduğunu gösterir.
 - İz: M0374 (ham: saray-devlet-h094)
 
 ### 77. Saray içinde elleri kılıçlı askerlerin çocuğu yay kirişiyle boğması, anasına ve padişahın hanımlarına saldırıp onları sürüklemesi
@@ -927,9 +950,10 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Şehzadeler Enderun Mektebi'nde değil, şehzadegan mekteplerinde eğitim alır.
 - Açıklama: Konuşmacı, Enderun'un paşa ve vezir yetiştirdiğini, şehzadelerin ayrı ve özel eğitim aldığını vurgular.
 - Dönem: 15.yy; 1798 için geçerli mi: hayır
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (video, 17:34): <https://youtu.be/WMOY4O_i32c?t=1054> (Ahmet Anapalı / Fetihler Sultanı Mehmet): Şehzadeler Enderun'da okumaz, şehzadegan mektepleri vardır.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/enderun>: Enderun Mektebi'nin yapısı ve öğrencileri. Not: Kanıt, Enderun'un devşirme çocuklar için olduğunu belirterek şehzadelerin orada olmadığını destekler.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/enderun>: Enderun'un devşirme oğlanları için kurulduğu, şehzade için olmadığı anlatılır. Not: Kanıt Enderun'un şehzade mektebi olmadığını, devşirme okulu olduğunu doğrular.
 - İz: M0379 (ham: saray-devlet-h099)
 
 ### 82. Dizide Şehzade Selim'in sünnet öncesi yaşının yaklaşık 10 yaş gibi gösterilmesi.
@@ -949,10 +973,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Padişah dışında sarayda sakal bırakma hakkına sahip kişi bostancıbaşıydı.
 - Açıklama: Bostancıbaşı, padişahın yanında ve saltanat kayığında görev yaptığı için bu yakınlıkla sakal bırakma hakkına sahipti. Bu durum, dizilerdeki genel sakallı saray görüntüsünden ayrılır.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak (video, 01:33): <https://youtu.be/bjauAxg6Tbg?t=93> (ZAMANDA YOLCULUK (kanal anlatıcısı) / Osmanlı dönemi dizi ve filmleri (genel)): Padişah dışında sakal hakkı olan tek kişi bostancıbaşıydı.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/bostanci>: Hükümdardan sonra sarayda sakal bırakma hakkına sahip tek kişinin bostancıbaşı olduğu belirtilmiştir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/bostanci>: Hükümdardan sonra sarayda sakal bırakma hakkına sahip tek kişi bostancıbaşıydı. Not: Bostancıbaşının padişaha yakınlığı nedeniyle sakal bırakma ayrıcalığı vardı.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/bostanci>: Sarayda padişah ve bostancıbaşı sakal bırakabilir. Not: Kanıt hakkı bostancıbaşıda olduğunu net belirtir.
 - İz: M0382 (ham: saray-devlet-h102)
 
 ### 84. Sadrazam ve şeyhülislamın sakal izni almadan uzun sakallarla görev yapması.
@@ -965,6 +990,7 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Kaynak (video, 02:04): <https://youtu.be/bjauAxg6Tbg?t=124> (ZAMANDA YOLCULUK (kanal anlatıcısı) / Osmanlı dönemi dizi ve filmleri (genel)): Veziriazam ve şeyhülislam dahi sakal için izin almak zorundaydı.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Sunulan kanıtlar sakal izni prosedürlerine değinmemektedir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/sadrazam>: Üst düzey devlet görevlilerinin sakal bırakması padişahın iznine bağlıydı. Not: Sakal bırakmak bir statü ve izin meselesiydi, keyfi bir durum değildi.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/sadrazam>: Sadrazam tayin ve yetkileri anlatılıyor, sakal izni yok. Not: Kanıtlarda sadrazam veya şeyhülislam için sakal izni konusu işlenmemiştir.
 - İz: M0383 (ham: saray-devlet-h103)
 
 ### 85. Sadece şehzadelerin sakal bırakmasının yasak olduğu sanısı.
@@ -989,6 +1015,7 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Kaynak (video, 107:57): <https://youtu.be/cOghevnRx-Q?t=6477> (Ceren Sungur / Genel): Sultan Reşat'a kadar arabada sultan varsa başkasının arabaya binmesine izin yok.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıtlar padişah unvanı ve saray mimarisiyle ilgilidir; araba protokolüne değinmemektedir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/saray>: Saray protokolü ve teşkilatı padişahın mutlak otoritesine ve hiyerarşiye göre düzenlenmiştir. Not: Padişahın arabası (saltanat arabası) protokolün bir parçasıdır ve 1798'de de bu mehabet korunmaktadır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/padisah>: Padişah unvanları ve yetkileri anlatılıyor, araba protokolü yok. Not: Kanıtlar padişah arabası ve kimlerin bineceği protokolünü kapsamamaktadır.
 - İz: M0385 (ham: saray-devlet-h105)
 
 ### 87. Padişahın makam odasına giren kişileri oturduğu yerden karşılaması veya oturarak 'gir' demesi
@@ -1010,10 +1037,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Protokolde Şeyhülislam Sadrazamdan öndedir; cülus merasiminde padişaha ilk biat eden makam Şeyhülislam'dır ve merasim duasını da o yapar.
 - Açıklama: Osmanlı cülus törenlerinde padişaha ilk biat eden makam Şeyhülislam'dır. Cülus merasimi duasını da Şeyhülislam okur.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak (video, 05:16): <https://youtu.be/cfpNs-nS9Po?t=316> (Kadir Mısıroğlu / Payitaht Abdülhamid): Cülus merasiminde padişaha ilk biat eden ve duayı yapan makam Şeyhülislam'dır.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/culus>: Şeyhülislam'ın ilk biat edenler arasında olduğu ve cülus duasını yaptığı onaylanıyor.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/culus>: Cülus merasiminde sadrazam ve şeyhülislamın biatı ve protokoldeki yeri sabittir. Not: Şeyhülislamın protokoldeki önemi ve cülus duasındaki rolü kaynakla desteklenmektedir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/culus>: Cülüste Nakibüleşraf ilk biat eder, Şeyhülislam dua okur, sonra sadrazam biat eder. Not: Kanıt ilk biatin Nakibüleşraf tarafından yapıldığını, Şeyhülislam'ın duasını okuduğunu gösterir; 'dogru' ilk biat iddiası kısmen farklı.
 - İz: M0387 (ham: saray-devlet-h107)
 
 ### 89. Biat merasiminde tahtın kenarından sarkan püsküllü saçağın öpülmesi
@@ -1022,10 +1050,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Biat merasiminde püsküllü saçak yoktur; tahttan sarkan şal parçası tutularak öper gibi yapılır ve reverans edilir.
 - Açıklama: Biat merasiminde tahttan sarkan püsküllü saçak bulunmazdı. Taht kenarındaki şal parçası tutularak öper gibi reverans yapılırdı.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (video, 08:31): <https://youtu.be/cfpNs-nS9Po?t=511> (Kadir Mısıroğlu / Payitaht Abdülhamid): Biatta püsküllü saçak yoktur, tahttan sarkan şal öper gibi yapılarak reverans edilir.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt sadece 'eteğin öpüldüğünü' belirtir; püskül veya şal gibi materyal detaylarına girmez.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/biat>: Biat merasiminde padişahın eteğinin öpülmesi esastır, püsküllü saçak detayı yanlıştır. Not: Biat merasimi protokolünde tahtın eteğinin öpülmesi veya reverans yapılması esastır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/biat>: Biatta padişahın eteği öpülür, taht saçakı yok. Not: Kanıt biat merasiminde taht saçakının değil, padişahın eteğinin öpüldüğünü açıkça belirtir.
 - İz: M0388 (ham: saray-devlet-h108)
 
 ### 90. Sultan II. Abdülhamid'in hayatının üçte birini marangozhanede çalışarak geçirdiğinin gösterilmesi
@@ -1038,6 +1067,7 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Kaynak (video, 09:33): <https://youtu.be/cfpNs-nS9Po?t=573> (Kadir Mısıroğlu / Payitaht Abdülhamid): Sultan Abdülhamid hayatının üçte birini marangozhanede geçirmez, dinlenmek için kısa süre inerdi.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt siyasi olaylara odaklanmıştır, padişahın marangozluk hobisine veya harcadığı vakte değinmez.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/abdulhamid-ii>: Padişahın devlet işleriyle yoğun meşguliyeti ve meşrutiyet süreci anlatılmaktadır. Not: Madde 19. yüzyıla aittir, 1798 dönemi için geçerli değildir. Padişahın marangozluk hobisi olsa da vaktinin çoğunu buna harcaması tarihsel gerçeklikle bağdaşmaz.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/abdulhamid-ii>: II. Abdülhamid'in siyasi faaliyetleri anlatılıyor, hobi yok. Not: Kanıt marangozluk hobisini veya marangozhanede geçirilen süreyi kapsamamaktadır; madde 1798 dönemi için de geçerli değildir.
 - İz: M0389 (ham: saray-devlet-h109)
 
 ### 91. Muhteşem Yüzyıl çevresinde Kanuni Sultan Süleyman'ın hayatının çoğunu seferde geçirmediği, sarayda oturduğu iddiası
@@ -1070,10 +1100,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrulayıcı düzeltmesi: 17. yüzyıl başından (1617) itibaren şehzadelerin sarayda (Kafes sistemi) tutulması.
 - Açıklama: Kanuni Sultan Süleyman'dan sonra sadece en büyük şehzade sancağa gönderilmiş, 17. yüzyıldan itibaren ise şehzadeler tamamen sarayda gözetim altında tutulmuştur.
 - Dönem: 17.yy; 1798 için geçerli mi: tartışmalı (evet / kısmen)
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak (video, 53:04): <https://youtu.be/iuX90WxwyPc?t=3184> (Murat Bardakçı / Genel / Osmanlı konulu yapımlar): Kanuni'den sonra şehzadeler sancağa gönderilmeyip sarayda tutulmaya başlanmıştır.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/sehzade>: 1617'den itibaren şehzadelerin sarayda kapalı bir hayat (kafes) yaşadığı onaylanıyor. Not: Kanıt, sistemin 16. yüzyıl sonu değil, 17. yüzyıl başında (1617) başladığını belirtir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/sehzade>: Şehzadelerin sancağa çıkma usulünün 17. yüzyılda kafes sistemiyle değiştiği belirtilmiştir. Not: 1798 yılında şehzadeler sancağa çıkmaz, sarayda (kafes) tutulurlardı.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/sehzade>: 1617'den itibaren şehzadeler kafeste tutuldu, sancağa gitmezlerdi. Not: Kanıt 17. yüzyıldan itibaren kafes sistemini doğrular.
 - İz: M0392 (ham: saray-devlet-h114)
 
 ### 94. Genç Osman'ın (II. Osman) katledilmeden önce tecavüze uğradığı iddiası.
@@ -1082,10 +1113,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Bu iddianın tarihi bir dayanağı olmayan, sonradan uydurulmuş bir şehir efsanesi olması.
 - Açıklama: Evliya Çelebi Seyahatnamesi'nin orijinal nüshalarında böyle bir bilgi yoktur; bu iddia asılsızdır.
 - Dönem: 17.yy; 1798 için geçerli mi: hayır
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (video, 73:39): <https://youtu.be/iuX90WxwyPc?t=4419> (Murat Bardakçı / Genel / Osmanlı konulu yapımlar): Genç Osman'ın tecavüze uğradığı iddiası asılsızdır, belgelerde böyle bir bilgi yoktur.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt ölüm sürecini ve hakaretleri anlatır ancak tecavüz iddiasına veya Evliya Çelebi nüshalarına değinmez.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/osman-ii>: II. Osman'ın katli süreci anlatılmış, iddia edilen çirkin olaylara dair hiçbir veri yoktur. Not: Bu iddia tarihsel kaynaklarda karşılığı olmayan, modern dönemde uydurulmuş bir iftiradır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/osman-ii>: II. Osman'ın yakalanıp boğulması anlatılıyor, tecavüz yok. Not: Kanıt ölüm detaylarını (boğulma, kulak/burnun kesilmesi) verir, tecavüz iddiasına yer vermez.
 - İz: M0393 (ham: saray-devlet-h115)
 
 ### 95. Tahttan indirilen veya hapsedilen padişahların dış dünyayla serbestçe iletişim kurabilmesi.
@@ -1093,11 +1125,12 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Yanlış: Tahttan indirilen veya hapsedilen padişahların dış dünyayla serbestçe iletişim kurabilmesi.
 - Doğrusu: Sıkı bir tecrit altında tutulmaları, kalem ve kağıda erişimlerinin dahi kısıtlanması.
 - Açıklama: Beylerbeyi Sarayı gibi yerlerde gözetim altında tutulan devrik padişahların yanına izinsiz kimse yaklaştırılmazdı.
-- Dönem: 19.yy; 1798 için geçerli mi: evet
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Dönem: 19.yy; 1798 için geçerli mi: tartışmalı (evet / belirsiz)
+- Durum: belirsiz / kaynakta karşılığı yok
 - Kaynak (video, 47:24): <https://youtu.be/iuX90WxwyPc?t=2844> (Murat Bardakçı / Genel / Osmanlı konulu yapımlar): Hapsedilen padişahlara kalem kağıt dahi verilmez, çok sıkı gözetim altında tutulurlardı.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/padisah>: Padişahın mutlak yetkileri ve merkeziyetçi yapısı anlatılmaktadır. Not: Kanıtlar padişahın genel yetkilerinden bahsetmekte, ancak devrik padişahların tecrit şartlarına değinmemektedir.
-- Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/padisah>: Padişahın mutlakiyetçi yapısı ve devlet otoritesi vurgulanmıştır. Not: Devrik padişahların tecrit edilmesi Osmanlı devlet geleneğinde mevcuttur.
+- Doğrulayan gemini/gemini-3.5-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/padisah>: Padişahların mutlakyetçi ve merkeziyetçi yapısı anlatılmaktadır. Not: Kanıt metni tahttan indirilen padişahların dış iletişim kısıtlamalarına değinmemektedir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/padisah>: Padişah yetkileri anlatılıyor, devrik padişah koşulları yok. Not: Kanıtlar devrik veya hapsedilen padişahların yaşam koşullarını ve iletişim kısıtlamalarını kapsamamaktadır.
 - İz: M0394 (ham: saray-devlet-h116)
 
 ### 96. Sadrazamın (Çandarlı Halil Paşa) bir şehzadeyi kırbaçlatması veya ona diz çöktürüp özür diletmesi.
@@ -1106,10 +1139,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Osmanlı yönetim mantığında bir vezirin geleceğin padişahı olan şehzadeye fiziksel şiddet uygulaması imkansızdır.
 - Açıklama: Vezirler 'kul' statüsündedir ve hanedan üyesine el kaldırmaları sülalelerinin yok edilmesine sebep olur. Şehzadeye sadece hocası (Lala) sınırlı disiplin uygulayabilirdi.
 - Dönem: 15.yy; 1798 için geçerli mi: tartışmalı (evet / hayır)
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (video, 26:12): <https://youtu.be/kNdpoYuZYVk?t=1572> (Haşim Şahin / Rise of Empires: Ottoman): Bir vezirin şehzadeyi kırbaçlaması Osmanlı yönetim mantığına ve tabiatına tamamen aykırıdır.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/sehzade>: Şehzadelerin eğitimi ve disiplin süreçleri genel hatlarıyla verilmiştir. Not: Kanıt disiplin yetkisinin müeddiplerde olduğunu belirtse de vezirlerin şiddet uygulayıp uygulamayacağına dair açık bir yasak içermemektedir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/sehzade>: Şehzadelerin eğitimi ve statüsü, vezirlerin onlara karşı konumu belirtilmiştir. Not: Vezirlerin şehzadelere fiziksel şiddet uygulaması mümkün değildir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/sehzade>: Şehzade eğitimi lala/atabeg yapar, vezir kul statüsündedir. Not: Kanıt vezirlerin 'kul', şehzadelerin hanedân üyesi olduğunu ve disiplinin lala/atabeg tarafından yapıldığını gösterir; 15. yüzyıla aittir.
 - İz: M0395 (ham: saray-devlet-h117)
 
 ### 97. Fatih Sultan Mehmet'in İstanbul'un fethinde tamamen müneccimlerin ve yıldız fallarının tavsiyesiyle hareket etmesi.
@@ -1118,10 +1152,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Fatih akla ve bilime inanan bir padişahtır; manevi desteği müneccimlerden değil Akşemseddin gibi sufilerden almıştır.
 - Açıklama: Osmanlı'da müneccimlik kurumu olsa da Fatih gibi kudretli padişahlar kararlarını bilimsel ve askeri stratejiyle alırdı. Filmdeki müneccim figürü Akşemseddin'in tarihsel rolünü gölgelemektedir.
 - Dönem: 15.yy; 1798 için geçerli mi: hayır
-- Durum: başka döneme ait
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak (video, 31:55): <https://youtu.be/kNdpoYuZYVk?t=1915> (Haşim Şahin / Rise of Empires: Ottoman): Fatih müneccimlere değil bilime inanırdı; manevi motivasyonu Akşemseddin'den alırdı.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/aksemseddin>: Akşemseddin'in Fatih'e ve orduya verdiği manevi destek anlatılmaktadır. Not: Kanıt, Fatih'in manevi gücünü Akşemseddin'den aldığını açıkça desteklemektedir. Madde 15. yüzyıla aittir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/aksemseddin>: Akşemseddin'in fetih sürecindeki manevi ve stratejik desteği anlatılmaktadır. Not: Fatih'in rasyonel ve stratejik bir lider olduğu vurgulanmıştır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/aksemseddin>: Akşemseddin fethte manevi destek verdi; Fatih stratejik karar verdi. Not: Madde 15. yüzyıl (Fatih) ile ilgilidir, 1798 ile değil.
 - İz: M0396 (ham: saray-devlet-h118)
 
 ### 98. İdam edilen bir vezirin (Merzifonlu Kara Mustafa Paşa) çocuklarının da babasının gözü önünde öldürülmesi.
@@ -1130,10 +1165,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Vezirlerin çocukları genellikle öldürülmez, sadece babalarının malları müsadere edilerek devlete aktarılırdı.
 - Açıklama: Hanedan üyelerinin (şehzadelerin) çocukları taht kavgası riski nedeniyle öldürülse de vezir aileleri için bu geçerli değildir. Vezir idam edildiğinde ailesine geçinecek kadar pay bırakılırdı.
 - Dönem: 17.yy; 1798 için geçerli mi: tartışmalı (evet / hayır)
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (video, 34:30): <https://youtu.be/kNdpoYuZYVk?t=2070> (Haşim Şahin / The Day of the Siege: September Eleven 1683): Vezirlerin çocukları öldürülmezdi; sadece malları müsadere edilir ve bir kısmı aileye bırakılırdı.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/vezir>: Vezirlerin idam edilebileceği ve mallarının müsadere edildiği belirtilmiştir. Not: Kanıt idam ve müsadereyi doğrular ancak çocukların öldürülüp öldürülmediği konusuna değinmez.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/musadere>: Müsadere sisteminin vezirler üzerindeki uygulaması ve çocuklarının durumu açıklanmıştır. Not: Vezirlerin idamı sonrası çocuklarının öldürülmesi genel bir uygulama değildir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/vezir>: Vezir çocuklarına maaş ödenirdi, müsadere malı kapsıyordu. Not: Kanıt vezir çocuklarının öldürülmediğini, maaş almaya devam ettiklerini ve müsaderenin mallarla sınırlı olduğunu gösterir; 17. yüzyıla aittir.
 - İz: M0397 (ham: saray-devlet-h119)
 
 ### 99. 16. yüzyılın başında Haremin Topkapı Sarayı (Yeni Saray) içerisinde yer alması.
@@ -1164,10 +1200,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Harem dairelerinin Hürrem Sultan döneminde inşa edilip genişletilmesi.
 - Açıklama: Topkapı Sarayı'ndaki haremi asıl geliştiren, genişleten ve büyük daireleri yaptıran kişi Hürrem Sultan'dır.
 - Dönem: 16.yy; 1798 için geçerli mi: tartışmalı (evet / hayır)
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak (video, 10:36): <https://youtu.be/oFWkb0OO39U?t=636> (Meral Okay / Muhteşem Yüzyıl): Haremi geliştiren ve genişleten aktör Hürrem'dir, büyük daireler onun zamanında yapıldı.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/hurrem-sultan>: Hürrem Sultan'ın haremi Topkapı Sarayı'na taşıdığı ve protokolü başlattığı belirtilmiştir. Not: Kanıt, haremin Topkapı'ya taşınması ve kurumsallaşması sürecinde Hürrem Sultan'ın rolünü doğrulamaktadır.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/hurrem-sultan>: Hürrem Sultan'ın haremi Topkapı'ya taşıması ve protokolü başlatması anlatılmaktadır. Not: Harem'in gelişimi 16. yüzyılda Hürrem Sultan ile ivme kazanmıştır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/hurrem-sultan>: Harem 1541 yangını sonrası Hürrem Sultan ile Topkapı'ya taşındı. Not: Madde 16. yüzyıl (Hürrem Sultan) ile ilgilidir, 1798 ile değil.
 - İz: M0400 (ham: saray-devlet-h122)
 
 ### 102. II. Abdülhamid tahta çıktığında Tahsin Paşa'nın onun yanında vezir olarak bulunması
@@ -1187,10 +1224,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Osmanlı padişahlarının bu şekilde bizzat fiziksel saldırıda bulunması veya tabancayla adam vurması söz konusu değildir.
 - Açıklama: Senaryo gereği eklenen bu tür sahnelerin tarihi gerçeklikte yeri olmadığı belirtilmektedir.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (video, 12:13): <https://youtu.be/u7QNKS1Wio4?t=733> (Murat Bardakçı / Muhteşem Yüzyıl / Payitaht Abdülhamid): Sultanın tabancayı alıp herife vurması gibi sahneler gerçekte yoktur.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/padisah>: Padişahların unvanları ve hukuki konumları tartışılmaktadır. Not: Kanıtlar padişahların kişisel davranışları veya silah kullanımıyla ilgili bilgi içermemektedir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/padisah>: Padişahın konumu ve devlet otoritesi, bu tür kaba şiddet eylemleriyle bağdaşmaz. Not: Padişahın bizzat fiziksel şiddet uygulaması saray adabına ve padişahlık mehabetine aykırıdır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/padisah>: Padişah yetkileri idari/hukuki, bizzat şiddet yok. Not: Kanıt padişahın mutlak hâkimiyetini ferman/hüküm gibi idari araçlarla ifade ettiğini, bizzat fiziksel saldırıyı değil gösterir.
 - İz: M0402 (ham: saray-devlet-h125)
 
 ### 104. Şehzadelerin saray içinde suikastlara kurban giderek öldürülmesi.
@@ -1203,6 +1241,7 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Kaynak (video, 22:01): <https://youtu.be/u7QNKS1Wio4?t=1321> (Murat Bardakçı / genel): Şehzadeler suikaste kurban gitmez, devletin bekası için idam edilirdi.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/sehzade>: Şehzadelerin eğitimleri ve eyalet yönetimleri anlatılmaktadır. Not: Kanıt metni şehzadelerin ölüm şekilleri veya idam usulleri hakkında bilgi vermemektedir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/sehzade>: Şehzadelerin statüsü ve devletin bekası için alınan kararların resmiyeti vurgulanmıştır. Not: Şehzade ölümleri gizli suikast değil, devlet hukukuna dayalı infazlardır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/sehzade>: Şehzade eğitimi ve valilikleri anlatılıyor, infaz usulü yok. Not: Kanıt şehzade infaz/idlâm prosedürünü değil, eğitim ve görevlerini kapsar; suikast/idam ayrımı için yetersiz.
 - İz: M0403 (ham: saray-devlet-h126)
 
 ### 105. Osmanlı Devleti'nin Germiyanoğulları'na biat etmesi veya bağlı olması
@@ -1211,9 +1250,10 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Osmanlı hiçbir zaman Germiyanoğulları'na bağlı olmamıştır.
 - Açıklama: Osmanlı hiyerarşik olarak Çobanoğulları, Selçuklu ve nihayetinde İlhanlılara bağlıydı; Germiyan ile bir bağlılık ilişkisi yoktu.
 - Dönem: 13.yy; 1798 için geçerli mi: hayır
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (video, 03:04): <https://youtu.be/uFIjLq3gkZc?t=184> (Tolga Doğan / Kuruluş Osman): Osmanlı hiçbir zaman Germiyanoğulları'na bağlı olmamış, Selçuklu ve İlhanlı hiyerarşisini takip etmiştir.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/germiyanogullari>: Germiyanoğulları ile Osmanlıların ilk dönem münasebetlerinin dostça olmadığı belirtilmektedir. Not: Kanıt, iki beylik arasındaki ilişkinin bağlılık değil, rekabet ve gerginlik olduğunu desteklemektedir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/germiyanogullari>: Osmanlı-Germiyan ilişkileri rakip beylikler, bağlılık yok. Not: Kanıt Osmanlıların Germiyanoğulları'na bağlı olmadığını, aksine çatıştığını ve rakip olduklarını açıkça belirtir; 14. yüzyıla aittir.
 - İz: M0404 (ham: saray-devlet-h127)
 
 ### 106. Hatice Sultan ile Sadrazam Pargalı İbrahim Paşa'nın birbirlerine aşık olup evlenmeleri.
@@ -1233,10 +1273,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Silahtarlar Enderun görevlisidir; dış kapıda 'Nöbetçi' denilen askerler durur.
 - Açıklama: Silahtar ağaların görevi padişahın yakın hizmetidir, saray girişinde beklemek değildir. Görev tanımları dizilerde birbirine karıştırılmaktadır.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (video, 140:32): <https://youtu.be/wO8tY75eCfs?t=8432> (Mustafa B. Bozkurt / Genel): Silahtar nöbet tutmaz, görev tanımı yanlış yansıtılıyor.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/enderun>: Enderun'un eğitim kademeleri ve bazı görevliler anlatılmaktadır. Not: Kanıt Enderun'dan bahsetse de Silahtar Ağaların spesifik görev yeri ve nöbet durumuna değinmemektedir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/enderun>: Silahtar ağaların Enderun görevlisi olduğu ve padişahın yakın hizmetinde bulunduğu belirtilmiştir. Not: Silahtar ağalar saray kapısında nöbet tutmazlar, bu görev kapıkulu askerlerine aittir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/enderun>: Enderun saray içi hizmet kurumu, silahtarlar buradan çıkar. Not: Kanıt Enderun'un (Silahtarların kurumu) saray içi (enderûn) bir yapı olduğunu, dış kapı nöbetçiliğinin (bîrûn) ayrı olduğunu ima eder.
 - İz: M0406 (ham: saray-devlet-h130)
 
 ### 108. Fatih Sultan Mehmet ile Şehzade Orhan'ın yüz yüze gelmesi ve kılıçla savaşması.
@@ -1256,9 +1297,10 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Şehzade Orhan Mora'ya hiç gitmemiş, İstanbul'da Bizans İmparatoru'nun yanında kalmıştır.
 - Açıklama: Orhan, Fetret Devri'nden beri Bizans'ın elinde bir koz olarak tutulmaktaydı. Dizideki Mora sığınması kurgusaldır.
 - Dönem: 15.yy; 1798 için geçerli mi: hayır
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (video, 16:33): <https://youtu.be/y8Jzdzp3qgA?t=993> (Ahmet Anapalı / Mehmed: Fetihler Sultanı): Orhan hiç Mora'ya sığınmadı, İstanbul'da kaldı.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/mehmed-ii>: Orhan Çelebi'nin İstanbul'da bulunduğu ve Bizans'a sığındığı açıkça belirtilmiştir. Not: Kanıt, Orhan'ın İstanbul'daki konumunu ve hareketlerini doğrulayarak Mora iddiasını çürütmektedir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/mehmed-ii>: Orhan Çelebi İstanbul'dan İnceğiz'e, oradan Dobruca'ya kaçıp tekrar İstanbul'a sığındı. Not: Kanıt, Orhan'ın Mora'ya değil Dobruca'ya kaçıp İstanbul'a döndüğünü ve Bizans tarafından İstanbul'da tutulduğunu doğruluyor.
 - İz: M0408 (ham: saray-devlet-h132)
 
 ### 110. Buçuktepe İsyanı sırasında Şehabettin Paşa'nın evinde saldırıya uğraması.
@@ -1294,6 +1336,7 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Kaynak (video, 13:18): <https://youtu.be/zh5x1Oo8Bxs?t=798> (Ceren Sungur / Muhteşem Yüzyıl): Padişahların kusursuz yarı tanrılar değil, insani duyguları olan kişiler olarak gösterilmesi doğrudur.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/padisah>: Padişahın unvanları ve siyasi otoritesinin gerekliliği anlatılmaktadır. Not: Kanıt padişahın yetkilerini ve unvanlarını anlatmakta, insani yönleri veya tasvirleri hakkında bilgi vermemektedir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/padisah>: Padişahın mutlak otoritesi ve nizamı koruma görevi vurgulanmış, insani yönleri reddedilmemiştir. Not: Padişahın 'yarı tanrı' değil, nizamı korumakla yükümlü bir hükümdar olduğu vurgulanmıştır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/padisah>: Padişah unvanı ve mutlak hükümdarlık teorisi anlatılıyor; insani hatalar konusu yok. Not: Kanıt padişah unvanlarını ve siyasî teoriyi anlatır, dizilerdeki 'kusursuz tasvir' eleştirisini kapsamaz.
 - İz: M0411 (ham: saray-devlet-h135)
 
 ### 113. Padişahın çocuk sahibi olmasının ve Harem hayatının devlet işlerinden ayrı tutulması.
@@ -1318,6 +1361,7 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Kaynak (video, 28:50): <https://youtu.be/zh5x1Oo8Bxs?t=1730> (Ceren Sungur / Muhteşem Yüzyıl): Saray hizmetlileri ve harem ağaları arasındaki rekabet tarihi kaynaklardaki anlatılara uygundur.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/saray>: Saray mimarisi ve erken dönem İslam saray teşkilatı anlatılmaktadır. Not: Kanıt sadece mimari ve genel teşkilatla ilgilidir; saray içi çekişmelere değinmemektedir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/saray>: Sarayın devlet merkezi olduğu ve karmaşık bir teşkilat yapısına sahip olduğu belirtilmiştir. Not: Saray teşkilatının karmaşıklığı ve hiyerarşisi, entrika ortamına zemin hazırlar.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/saray>: Emevi ve Abbasi saray mimarisi ve hâciblik teşkilatı anlatılıyor. Not: Kanıt Osmanlı harem/iç işleri rekabeti ile alakasız, erken İslam saray mimarisini anlatır.
 - İz: M0413 (ham: saray-devlet-h137)
 
 ### 115. Ebussuud Efendi'nin sadece mütevazı bir alim hayatı yaşaması.
@@ -1377,6 +1421,7 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Kaynak (video, 135:47): <https://youtu.be/zh5x1Oo8Bxs?t=8147> (Ceren Sungur / Muhteşem Yüzyıl): Sadrazamlığa köle (kul) olmayan birisinin yükselmesi sistem gereği imkansızdır.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/sadrazam>: Sadrazamlığın 19. yüzyıla kadar genellikle kul menşelilere özgü olduğu belirtilmiştir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/sadrazam>: Sadrazamlık makamının kul (devşirme) kökenlilere özgü olduğu ve istisnaların nadir olduğu belirtilmiştir. Not: 1798'de de kul sistemi ve devşirme kökenli sadrazamlar geleneği büyük ölçüde devam etmekteydi.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/sadrazam>: Sadrazamlar genellikle devşirme kökenli kul sisteminden gelirdi. Not: Kanıt, sadrazamlığın başlangıçtan Tanzimat'a kadar ağırlıklı olarak devşirme/kul menşelilere ayrıldığını, hür Müslümanların nadir istisna dışında bu makama gelemediğini gösterir.
 - İz: M0418 (ham: saray-devlet-h143)
 
 ### 120. Suçlu bir kadının mahkeme kararı olmadan ağır işkenceyle cezalandırılabilmesi.
@@ -1413,6 +1458,7 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Kaynak (eleştiri): <https://www.internethaber.com/harem-hayatiyla-ilgili-sirlari-ilber-ortayli-acikladi-1576805h.htm> (İlber Ortaylı / genel): 'Valide Sultan Dairesi... fazla geniş değildir.'
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/valide-sultan>: Valide sultan dairesinin haremdeki en görkemli daire olduğu belirtilmiştir. Not: Kanıt dairesinin 'en görkemli' olduğunu söyler; 'fazla geniş değildi' iddiasını desteklemez veya çürütmez.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/valide-sultan>: Vâlide sultan dairesinin bölümleri belirtilmiş, ancak odaların 'görkemli ve geniş' olduğu iddiası desteklenmemiştir. Not: Kanıt, dairenin bölümlerini tanımlamakta olup 'dar' olduğu iddiasını çürütmemektedir, ancak genel olarak onaylanmıştır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: red; <https://islamansiklopedisi.org.tr/valide-sultan>: Valide Sultan dairesi haremde en görkemlisi, kubbeli taht odası ve büyük avlulu. Not: Kanıt, Valide Sultan dairesinin 'en görkemli' olduğunu ve geniş bir avluya (Taşlık) sahip olduğunu belirtir; 'dar/küçük' iddiasını çürütür.
 - İz: M0425 (ham: sehir-mekan-h003)
 
 ### 123. Beşiktaş Sarayları için kullanılan 3 boyutlu modelde rıhtım, demir korkuluk ve pencere düzeninin hatalı gösterilmesi.
@@ -1433,10 +1479,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Padişahın âlimlere saygılı protokolü vardır; böyle davranış tarihî değildir.
 - Açıklama: Aktarılan olayın bağlamı ve üslubu kaynaklardaki anlatıma uymaz.
 - Dönem: 16.yy; 1798 için geçerli mi: tartışmalı (hayır / evet)
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak (eleştiri): <https://www.ahmetsimsirgil.com/cehalet-mi-ihanet-mi/> (Ahmet Şimşirgil / Muhteşem Yüzyıl): bir âlimi aşağılayan ve... tokatlar atan garip
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/ilmiye>: İlmiye mensuplarının devlet teşkilatında ve protokolde çok yüksek konuma sahip olduğu belirtilmiştir. Not: Kanıt, ilmiye ricâlinin yüksek protokol konumunu destekler. Madde 16. yüzyıla aittir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/ilmiye>: İlmiye sınıfı devlet protokolünde yüksek bir konuma ve belirli bir prosedüre sahiptir. Not: Padişahın âlimlere karşı protokol kuralları çerçevesinde saygılı bir tutum sergilemesi esastır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/ilmiye>: İlmîye mensupları protokolde yüksek yer tutar, padişah hocaları saygı görürdü. Not: Kanıt, ilmiye sınıfının devletteki yüksek statüsünü ve padişahların onlara saygılı prosedürleri gösterir; şiddetli davranışın kurumsal kültürle uyuşmadığını işaret eder.
 - İz: M0485 (ham: unvan-hitap-h004)
 
 ### 125. Eskişehir beyi Alişar Bey'in Kayı obasında beyleri aşağılayıcı bir üslupla azarlaması.
@@ -1483,6 +1530,7 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Kaynak (video, 20:45): <https://youtu.be/y8Jzdzp3qgA?t=1245> (Ahmet Anapalı / Mehmed: Fetihler Sultanı): Osmanlı'da evlat annesinin elini öper, padişah da olsa annesine el öptürmez.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt metni Valide Sultanların genel konumuna değinmekte, el öpme protokolüne değinmemektedir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/valide-sultan>: Harem hiyerarşisinde valide sultan en üsttedir ve el öptürmez.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/valide-sultan>: Vâlide sultanın törenleri, cenaze ve padişahın annesini ziyareti anlatılıyor, selamlaşma protokolü (el öpme) yok. Not: Kanıt vâlide sultanın statüsünü ve padişahın annesine saygısını (cenaze, ziyaret) gösteriyor; el öpme ritüelini doğrulayan ya da yalanlayan bilgi yok.
 - İz: M0522 (ham: unvan-hitap-h061)
 
 ### 129. 1798 İstanbul'unda 'kapıkulu' kavramının sadece savaşan Yeniçeri piyadelerini ifade ettiğinin varsayılması.
@@ -1491,10 +1539,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Kapıkulu tabiri askerî birliklerin yanı sıra saray ve bahçe hizmetlerinde çalışan baltacı, bostancı ve kapıcıları da kapsar.
 - Açıklama: Kapıkulu terimi saray teşkilatının mülki ve idari hizmetlilerini de içeren geniş bir kurumsal yapıyı ifade eder.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/kapikulu>: Kapıkulu teriminin bostancı, baltacı ve kapıcıları da kapsadığı belirtilmektedir. Not: Kanıt, kapıkulu kavramının sadece savaşan askerleri değil, saray hizmetlilerini de kapsadığını açıkça destekler.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/kapikulu>: Kapıkulu, saray ve bahçe hizmetlilerini (baltacı, bostancı vb.) de kapsayan geniş bir yapıdır. Not: Kapıkulu kavramı sadece savaşan piyadelerle sınırlı değildir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/kapikulu>: Kapıkulu terimi baltacı, bostancı, kapıcı gibi saray hizmetlilerini de kapsar. Not: Kanıt kapıkulu kavramının askerî ve mülki hizmetlileri içerdiğini açıkça belirtir.
 - İz: M0330 (ham: saray-devlet-h047)
 
 ### 130. Kapıkulu ocağının Osmanlı tarihi boyunca kesintisiz olarak sadece devşirme kanununa göre Hristiyan çocuklardan toplandığının iddia edilmesi.
@@ -1503,10 +1552,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Kapıkulunun insan kaynağı başlangıçta pencik kanununa göre savaş esirlerinden elde edilmiş, devşirme sistemi daha sonra uygulanmıştır.
 - Açıklama: Kapıkulu teşkilatının kökeninde pencik kanunu yatmakta olup devşirme usulü sonradan kurumsallaşmıştır.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/devsirme>: Yeniçeri Ocağı'na önce pencik, sonra devşirme yoluyla asker alındığı belirtilmektedir. Not: Kanıt, kapıkulu sisteminin başlangıcında pencik kanununun uygulandığını ve devşirmenin sonradan geldiğini doğrular.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/devsirme>: Yeniçeri Ocağı'na asker temini önce pencik kanunu ile başlamış, sonra devşirme uygulanmıştır. Not: Kapıkulu sisteminin kökeni pencik kanununa dayanır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/devsirme>: Yeniçeri ocakları ilk pencik kanunu ile savaş esirlerinden kurulmuş, devşirme sonradan başlamıştır. Not: Kanıt pencik ve devşirme sıralamasını netleştirir.
 - İz: M0331 (ham: saray-devlet-h048)
 
 ### 131. Fatih döneminden itibaren Yeniçeri Ağalığı makamına daima Cebecibaşı veya Topçubaşıların atandığı senaryo kurgusu.
@@ -1515,10 +1565,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: 1451 Karaman seferi sonrası düzenlemelerle Yeniçeri Ağalığına Sekbanbaşıların getirilmesi usulü başlatılmıştır.
 - Açıklama: Fatih Sultan Mehmed yeniçerilerin nüfuzunu kırmak için ağalık makamını sekbanbaşılara bağlamıştır.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/yeniceri>: Yeniçeri ağalarının tayininin genelde sekbanbaşılardan yapıldığı belirtilmektedir. Not: Kanıt, sekbanbaşıların ağalığa getirilme usulünü doğrular; ancak 'yanlis' alanındaki kurgu yapay görünmektedir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/yeniceri>: Yeniçeri ağalığına Fatih'ten sonra sekbanbaşıların getirilmesi usulü benimsenmiştir. Not: Ağalık makamına daima Cebecibaşı veya Topçubaşıların atandığı iddiası yanlıştır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/yeniceri>: Yeniçeri ağalığına ilk dönemden itibaren genellikle sekbanbaşılar getirilmiş, Fatih bu usülü başlatmıştır. Not: Kanıt Fatih'in 1451 Karaman seferi sonrası sekbanbaşı atamaya başladığını doğrular.
 - İz: M0332 (ham: saray-devlet-h049)
 
 ### 132. Osmanlı kapıkulu sistemine giren kul kökenli bir kişinin devlet idaresinde sadrazamlığa kadar yükselmesinin kanunen yasak olduğunun sanılması.
@@ -1527,10 +1578,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Kapıkulu teşkilatına giren neferler yetenekleri doğrultusunda veziriazamlık dâhil en üst makamlara gelebilirdi.
 - Açıklama: Osmanlı bürokrasisi ve ordusunda kul kökenlilerin sadrazamlığa kadar yükselmesi sistemin temel özelliğidir.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/kapikulu>: Kapıkulu neferlerinin kabiliyete göre sadrazamlığa kadar yükselebileceği açıkça belirtilmiştir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/kapikulu>: Kapıkulu olarak giren bir nefer, kabiliyeti varsa sadrazamlığa kadar yükselebilirdi.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/kapikulu>: Kapıkulu kul sisteminden gelenler yeteneklerine göre sadrazamlık dâhil en üst makamlara çıkabilirdi. Not: Kanıt kul kökenlilerin sadrazamlığa çıkmasının sistemin temel özelliği olduğunu belirtir.
 - İz: M0333 (ham: saray-devlet-h050)
 
 ### 133. Dîvân-ı Hümâyun'un 1798'de de devletin günlük yönetim merkezi gibi işlediğinin gösterilmesi
@@ -1539,10 +1591,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Dîvân-ı Hümâyun bu dönemde büyük ölçüde merasim ve gösteriş yeri hâline gelmişti
 - Açıklama: XVII. yüzyıl sonlarından yetkileri ikindi divanına ve Bâbıâli'ye kaymıştı. XVIII. yüzyıl ortalarında işlevi törenselleşmişti.
 - Dönem: 18.yy; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/divan-i-humayun>: Divan yetkilerinin XVIII. yüzyılda ikindi divanına kaydığı ve işlevinin değiştiği belirtilmiştir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/divan-i-humayun>: XVIII. yüzyılda Dîvân-ı Hümâyun bir gösteriş ve teşrifat aracı haline gelmişti.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/divan-i-humayun>: Dîvân-ı Hümâyun yetkileri XVII. yüzyıldan itibaren ikindi divanına kaymış, XVIII. yüzyılda törensel kalmıştır. Not: Kanıt yetkilerin ikindi divanına kaydığını ve 18. yüzyılda işlevinin değiştiğini destekler.
 - İz: M0334 (ham: saray-devlet-h051)
 
 ### 134. Padişahın Dîvân-ı Hümâyun toplantılarına düzenli olarak başkanlık etmesi
@@ -1551,10 +1604,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Fatih döneminden itibaren divan başkanlığı sadrazama bırakılmıştı
 - Açıklama: Padişah toplantıları kafesli pencereden dinleyebilir, ancak başkanlık sadrazamındaydı. Bu düzen 1798 için de geçerliydi.
 - Dönem: 15.yy; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/divan-i-humayun>: Fatih'ten itibaren padişahın divan başkanlığının kaldırılıp sadrazama bırakıldığı ifade edilmiştir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/divan-i-humayun>: Fatih'in getirdiği yenilikle divan başkanlığı vezîriâzama bırakılmıştır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/divan-i-humayun>: Fatih kanunnamesiyle padişah divan başkanlığını bırakmış, veziriazam başkanlık etmiştir. Not: Bu düzen 1798'de de geçerliydi; padişah kafesli pencereden dinleyebilirdi.
 - İz: M0335 (ham: saray-devlet-h052)
 
 ### 135. Önemli devlet işlerinin 1798'de esas olarak Kubbealtı'da günlük divan toplantılarıyla yürütülmesi
@@ -1563,10 +1617,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Yetkilerin önemli bölümü sadrazamın ikindi divanına ve Bâbıâli'ye geçmişti
 - Açıklama: Dîvân-ı Hümâyun'un siyasî ve idarî ağırlığı azalırken sadrazamın divanı öne çıktı. Bu değişim 1798 öncesinde yerleşmişti.
 - Dönem: 18.yy; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/divan-i-humayun>: Veziriazamların XVIII. yüzyılda kendi ikindi divanlarının yetkilerini artırmayı başardıkları belirtilmiştir.
-- Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/sadrazam>: Sadrazamın görev yaptığı devlet dairesine Paşakapısı/Bâbıâli denilmiştir.
+- Doğrulayan gemini/gemini-3.5-flash-lite: onay; <https://islamansiklopedisi.org.tr/divan-i-humayun>: Dîvân-ı Hümâyun yetkilerinin XVIII. yüzyılda sadrazamın ikindi divanına geçtiği belirtilmektedir. Not: Kanıtlar 1798'de günlük devlet işlerinin Kubbealtı yerine Bâbıâli ve sadrazam divanına kaydığını açıkça desteklemektedir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/sadrazam>: Sadrazam yetkilerini başta ikindi divanı olmak üzere kendi divanlarında kullanmış, XVIII. yüzyılda bu yetkiler tamleşmiştir. Not: Kanıt Kubbealtı'nın yerini ikindi divanının ve Bâbıâli'nin aldığını doğrular.
 - İz: M0336 (ham: saray-devlet-h053)
 
 ### 136. Şeyhülislamın Dîvân-ı Hümâyun'un aslî üyesi gibi toplantılarda yer alması
@@ -1575,10 +1630,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Şeyhülislam merkez teşkilâtında önemli olmakla birlikte Dîvân-ı Hümâyun üyesi değildi
 - Açıklama: Diziler şeyhülislamı sıkça divan üyesi gibi gösterir. TDV'ye göre şeyhülislam divanın aslî üyeleri arasında sayılmaz.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/divan-i-humayun>: Şeyhülislamın Dîvân-ı Hümâyun üyesi olmadığı açıkça ifade edilmiştir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/divan-i-humayun>: Şeyhülislâm Dîvân-ı Hümâyun üyesi değildi.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/divan-i-humayun>: Şeyhülislam merkeziyetçi yapıda önemli olsa da Dîvân-ı Hümâyun'un aslî üyeleri arasında yer almazdı. Not: Kanıt şeyhülislamın divan üyesi olmadığını net bir ifadeyle belirtir.
 - İz: M0337 (ham: saray-devlet-h054)
 
 ### 137. Sadrazamın devlet işlerini saray içinde, padişahın yanındaki bir makamdan yürütmesi
@@ -1587,10 +1643,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Sadrazamın resmî çalışma ve ikamet merkezi Paşakapısı/Sadâret Dairesi idi
 - Açıklama: Sadrazamlar devlet işlerini Bâbıâli çevresindeki sadâret dairesinde yürütürdü. 1798'de yönetim merkezi fiilen burasıydı.
 - Dönem: 18.yy; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/sadrazam>: Sadrazamın görev yerinin Kubbealtı'ndan Paşakapısı/Bâbıâli'ye taşındığı belirtilmiştir.
-- Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/sadrazam>: Sadrazamın resmî çalışma merkezi Paşakapısı/Sadâret Dairesi idi.
+- Doğrulayan gemini/gemini-3.5-flash-lite: onay; <https://islamansiklopedisi.org.tr/sadrazam>: Sadrazamın görev yaptığı devlet dairesine Paşakapısı, Sadâret Dairesi ve Bâbıâli denilmiştir. Not: Kanıt, sadrazamın çalışma merkezinin saray dışındaki Paşakapısı/Bâbıâli olduğunu doğrulamaktadır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/sadrazam>: Sadrazamın çalışma merkezi saray içi Kubbealtı'dan Paşakapısı/Sadâret Dairesi'ne taşınmıştı. Not: 1798'de sadrazam fiilen Bâbıâli çevresindeki daireden idareyi yürütüyordu.
 - İz: M0338 (ham: saray-devlet-h055)
 
 ### 138. Sadrazamın kendi divanı yerine her işi Dîvân-ı Hümâyun'a götürmesi
@@ -1599,10 +1656,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Sadrazam, Paşakapısı'nda ikindi divanı adıyla kendi divanını toplardı
 - Açıklama: Padişaha arz gerektirmeyen veya Dîvân-ı Hümâyun'a gitmeyen işler burada görülürdü. Bu kurum 1798 öncesinde yerleşikti.
 - Dönem: 16.yy; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/sadrazam>: Sadrazamın birçok idari davayı kendi divanı olan ikindi divanında gördüğü belirtilmiştir.
-- Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/sadrazam>: Sadrazam, Dîvân-ı Hümâyun'a gitmeyen işleri ikindi divanında görürdü.
+- Doğrulayan gemini/gemini-3.5-flash-lite: onay; <https://islamansiklopedisi.org.tr/sadrazam>: Sadrazamın timar ve idari davaları kendi ikindi divanında gördüğü ifade edilmiştir. Not: Kanıt, sadrazamın işleri kendi divanında gördüğünü ve her işin Dîvân-ı Hümâyun'a gitmediğini destekler.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/sadrazam>: Sadrazam ikindi divanında timar ve idari davaları görürdü. Not: Kanıt, Sadrazamın Dîvân-ı Hümâyun'a gitmeyen işler için kendi divanını (ikindi divanı) topladığını açıkça doğruluyor.
 - İz: M0339 (ham: saray-devlet-h056)
 
 ### 139. Reisülküttabın 1798'de yalnızca sıradan bir yazı işleri memuru olması
@@ -1611,10 +1669,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Reisülküttab XVIII. yüzyılda dış işlerinde başlıca bürokratik makam hâline gelmişti
 - Açıklama: Elçilerle temas ve diplomatik yazışmalar reisülküttablık üzerinden yürürdü. Kurum fiilen dışişleri başkanlığına benziyordu.
 - Dönem: 18.yy; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/reisulkuttab>: XVIII. yüzyılda Reisülküttabın dışişleri bürokrasisinin başlıca makamı olduğu belirtilmiştir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/reisulkuttab>: XVIII. yüzyılda reisülküttaplık dışişleri bürokrasisinin yetkili tek makamıydı.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/reisulkuttab>: XVIII. yüzyılda Reisülküttaplık fiilen Dışişleri Bakanlığı işlevi gördü. Not: Kanıt, 18. yüzyılda Reisülküttabın diplomasi ve dış işlerde başlıca makam olduğunu netleştiriyor.
 - İz: M0340 (ham: saray-devlet-h057)
 
 ### 140. 1798 İstanbul'unda Hariciye Nezareti adlı ayrı bir bakanlığın bulunması
@@ -1623,10 +1682,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Reisülküttablık 1836'da Umûr-ı Hâriciyye Nezareti'ne dönüştürüldü
 - Açıklama: 1798'de dış ilişkilerin bürokratik yürütümü reisülküttablığa bağlıydı. Modern adlandırmayı geriye taşımak anakronizmdir.
 - Dönem: 19.yy; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/reisulkuttab>: Reisülküttaplık makamı 1836 yılında Hariciye Nezareti'ne dönüştürülmüştür. Not: 1798'de kurum henüz nezaret adını almamıştı.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/reisulkuttab>: Hariciye Nezâreti 1836'da kurulmuştur.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/reisulkuttab>: Hariciye Nezareti 1836'da Reisülküttablık yerine kuruldu. Not: Kanıt, 1798'de Hariciye Nezareti'nin yok, yerine Reisülküttablık olduğunu 1836 tarihiyle kanıtlıyor.
 - İz: M0341 (ham: saray-devlet-h058)
 
 ### 141. Şeyhülislamın yalnızca sarayda dua eden sembolik bir din adamı olması
@@ -1635,10 +1695,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Şeyhülislam fetva veren ve ilmiye teşkilâtının başında bulunan resmî makamdı
 - Açıklama: Görevleri fetva, ilmiye tayinleri ve hukukî görüş bildirmeyi kapsardı. 1798'de kurumsal ağırlığı büyüktü.
 - Dönem: 18.yy; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/seyhulislam>: Şeyhülislam fetva teşkilatının başı olup müftülerin tayinlerinden sorumludur. Not: Sadece dua eden sembolik bir figür değil, idari ve hukuki yetkileri olan bir makamdır.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/seyhulislam>: Şeyhülislâm fetva ve ilmiye teşkilâtının başı olan resmî makamdı.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/seyhulislam>: Şeyhülislam fetva, ilmiye tayinleri ve yargı sorumluluğu taşıyordu. Not: Kanıt, Şeyhülislamın sembolik değil, ilmiye teşkilâtının başı ve fetva yetkilisi olduğunu gösteriyor.
 - İz: M0342 (ham: saray-devlet-h059)
 
 ### 142. Kazaskerin orduda komuta eden yüksek rütbeli bir asker sanılması
@@ -1647,10 +1708,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Kazasker askerî sınıfın davalarına bakan, yargı ve eğitimle ilgili ilmiye görevlisiydi
 - Açıklama: Adı askeri çağrıştırsa da kazasker kadı kökenli bir hukukî makamdır. Osmanlı'da Rumeli ve Anadolu kazaskerleri vardı.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/kazasker>: Kazaskerler ilmiye sınıfı mensubudur; yargı ve eğitimle görevlidirler. Not: Askeri davalara bakmaları onları komuta eden bir asker yapmaz.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/kazasker>: Kazasker, askerî sınıfın davalarına bakan ilmiye görevlisiydi.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/kazasker>: Kazasker askerî davaları gören, kadı/müderris tayinleri yapan yargı makamıydı. Not: Kanıt, Kazaskerin komutan değil, ilmiye/yargı mensubu bir hukukçusu olduğunu açıkça belirtiyor.
 - İz: M0343 (ham: saray-devlet-h060)
 
 ### 143. Tek bir kazaskerin bütün imparatorluğun yargı işlerini yürütmesi
@@ -1659,10 +1721,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Osmanlı merkezinde Rumeli ve Anadolu olmak üzere iki kazasker bulunurdu
 - Açıklama: Kazaskerlik Fâtih döneminden sonra Rumeli ve Anadolu olarak ikiye ayrıldı. 1798'de bu ikili yapı geçerliydi.
 - Dönem: 15.yy; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/kazasker>: Fatih döneminde Rumeli ve Anadolu kazaskerliği şeklinde ikiye ayrılmıştır. Not: İkili yapı 1798'de de geçerliliğini korumaktaydı.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/kazasker>: Fatih döneminden sonra Rumeli ve Anadolu olmak üzere iki kazasker bulunurdu.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/kazasker>: Fatih döneminden beri Rumeli ve Anadolu olarak iki kazaskerlik vardı. Not: Kanıt, tek kazasker yanılgısını çürüterek ikili (Rumeli/Anadolu) yapının 1798'de de geçerli olduğunu kanıtlıyor.
 - İz: M0344 (ham: saray-devlet-h061)
 
 ### 144. Kapudan paşanın yalnızca gemilere komuta eden teknik bir deniz subayı olması
@@ -1671,10 +1734,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Kapudan paşa donanma komutanı ve Cezâyir-i Bahr-i Sefîd eyaleti yöneticisiydi
 - Açıklama: Makam hem askerî hem idarî yetkiler içerirdi. 1798'de kapudan paşa geniş yetkili bir devlet görevlisiydi.
 - Dönem: 16.yy; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/kapudan-pasa>: Kapudan paşa hem donanma komutanı hem Cezayir-i Bahr-i Sefid yöneticisidir. Not: Makam hem askeri hem de eyalet yönetimiyle ilgili idari yetkiler içerir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/kapudan-pasa>: Kapudan paşa donanma komutanı ve Cezâyir-i Bahr-i Sefîd eyaleti yöneticisiydi.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/kapudan-pasa>: Kapudan Paşa donanma komutanı ve Cezâyir-i Bahr-i Sefîd eyaleti beylerbeyiydi. Not: Kanıt, Kapudan Paşa'nın hem askerî komuta hem de eyalet idaresi yetkisine sahip olduğunu doğruluyor.
 - İz: M0345 (ham: saray-devlet-h062)
 
 ### 145. Kapudan-ı derya unvanının 1798'den çok sonra ortaya çıktığının düşünülmesi
@@ -1683,10 +1747,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Kapudan-ı derya tabiri XVIII. yüzyılın başlarından itibaren yaygınlaştı
 - Açıklama: Kaynaklar kapudan paşa ve kapudan-ı derya adlarının birlikte kullanıldığını gösterir. 1798 için bu unvan anakronik değildir.
 - Dönem: 18.yy; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/kapudan-pasa>: Kapudan-ı derya tabiri 18. yüzyıl başlarından itibaren yaygınlaşmıştır. Not: 1798 yılında bu unvanın kullanımı tarihsel olarak doğrudur.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/kapudan-pasa>: Kapudân-ı deryâ tabiri XVIII. yüzyılın başlarından itibaren yaygınlaştı.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/kapudan-pasa>: Kapudan-ı Derya unvanı XVIII. yüzyıl başından itibaren yaygınlaştı. Not: Kanıt, unvanın 1798'den çok sonra çıktığı iddiasını yanlışlığa çekerek 18. yüzyılda kullanıldığını gösteriyor.
 - İz: M0346 (ham: saray-devlet-h063)
 
 ### 146. Enderun'un yalnızca saray hizmetkârlarının basit iş eğitimi aldığı bir yer olması
@@ -1695,10 +1760,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Enderun idarî ve askerî kadroların yetiştirildiği saray eğitim kurumuydu
 - Açıklama: Enderun devlet yönetiminde görev alacak seçkin personeli hazırlardı. 1798'de kurum hâlâ etkisini sürdürüyordu.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/enderun>: Enderun, yetenekli kumandanlar ve sağlam yönetici kadroları yetiştiren kurumdur. Not: Basit bir hizmet eğitimi değil, üst düzey bir devlet okulu niteliğindedir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/enderun>: Enderun, idarî ve askerî kadroların yetiştirildiği saray eğitim kurumuydu.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/enderun>: Enderun kumandan ve yönetici yetiştirmek için kurulan seçkin eğitim kuruydu. Not: Kanıt, Enderun'un basit hizmetçi eğitimi değil, devlet kadroları için üst düzey bir akademi olduğunu kanıtlıyor.
 - İz: M0347 (ham: saray-devlet-h064)
 
 ### 147. Enderun sisteminin 1798'den çok önce tamamen ortadan kalkmış sayılması
@@ -1707,10 +1773,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Enderun XIX. yüzyıl başlarına kadar etkisini sürdürdü
 - Açıklama: Kurum zamanla zayıflasa da varlığını ve işlevini sürdürüyordu. 1798'de Enderun'u geçmiş bir kurum gibi göstermek yanlıştır.
 - Dönem: 19.yy; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/enderun>: Enderun, 19. yüzyıl başlarına kadar etkisini sürdürmüştür. Not: 1798'de kurum hala faal ve etkili bir konumdaydı.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/enderun>: Enderun XIX. yüzyıl başlarına kadar etkisini devam ettirmiştir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/enderun>: Enderun XIX. yüzyıl başlarına kadar etkisini sürdürdüğü belirtiliyor. Not: Kanıt, Enderun'un 1798'den önce kalktığı yanılgısını reddederek 19. yüzyıl başına kadar varlığını sürdürdüğünü bildiriyor.
 - İz: M0348 (ham: saray-devlet-h065)
 
 ### 148. Bostancıların yalnızca saray bahçeleriyle ilgilenen bahçıvanlardan ibaret olması
@@ -1719,10 +1786,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Bostancılar saray hizmetlerinin yanında güvenlik ve inzibat görevleri de üstlenirdi
 - Açıklama: Bostancı Ocağı padişah kayıkları, saray dışı hizmetler ve asayişle ilgilenirdi. Görevleri bahçecilikle sınırlı değildi.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/bostanci>: Bostancıların asayiş, inzibat ve kayık hizmetleri gibi görevleri olduğu belirtilmiştir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/bostanci>: Bostancılar saray hizmetleri yanında asayiş ve inzibat görevlerinden de sorumluydu. Not: Bostancıların görevleri sadece bahçecilikle sınırlı olmayıp, İstanbul'un asayişi ve saray güvenliği gibi kritik alanları da kapsamaktaydı.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/bostanci>: Bostancılar bahçecilik yanında asayiş, güvenlik ve kayık hizmeti yapardı. Not: Kanıt, Bostancılar'ın yalnızca bahçıvan olmadığını, asayiş ve saray dışı görevler üstlendiğini açıkça yazıyor.
 - İz: M0349 (ham: saray-devlet-h066)
 
 ### 149. Bostancıbaşının yetkisiz, düşük statülü bir saray çalışanı gibi gösterilmesi
@@ -1731,10 +1799,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Bostancıbaşı İstanbul'un bazı bölgelerinde asayişten sorumlu güçlü bir görevliydi
 - Açıklama: Bostancıbaşı Boğaziçi, Haliç kıyıları ve saray çevresinde önemli yetkilere sahipti. Hatta infaz ve denetim işleri de yapardı.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/bostanci>: Bostancıbaşının İstanbul'un önemli bölgelerinin asayişinden sorumlu olduğu belirtilmiştir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/bostanci>: Bostancıbaşı İstanbul'un önemli kısımlarının asayişinden sorumlu, yetkili bir görevliydi. Not: Bostancıbaşı, İstanbul'un asayişinde doğrudan yetkili, padişahın güvenini kazanmış önemli bir makamdı.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/bostanci>: Bostancıbaşı İstanbul'un büyük kısmının asayişinden sorumlu güçlü bir amirdi. Not: Kanıt, Bostancıbaşı'nın düşük statülü bir çalışan değil, Boğaziçi/Haliç asayişi yetkilisi olduğunu kanıtlıyor.
 - İz: M0350 (ham: saray-devlet-h067)
 
 ### 150. Arz Odası'nın padişahın her gün devlet yönettiği çalışma odası olması
@@ -1756,10 +1825,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Sadrazam mutlak vekil olsa da bazı konuları padişaha arz ederek onay alırdı
 - Açıklama: Dîvân-ı Hümâyun'da kesinleşmeyen işler arza çıkarılırdı. 1798'de sadrazam güçlü olmakla birlikte padişah otoritesi sürüyordu.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/sadrazam>: Sadrazamın devlet erkânının işlemleri için padişah onayı alması gerektiği belirtilmiştir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/sadrazam>: Sadrazam mutlak vekil olsa da önemli atama ve kararlarda padişah onayı gerekirdi. Not: Sadrazamın yetkileri geniş olsa da, özellikle tayin ve azil gibi konularda padişahın onayı ve hatt-ı hümâyun esastı.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/sadrazam>: Sadrazam mutlak vekil ama tayinlerde padişah onayı şart. Not: Kanıt III. Selim dönemine dair açık örnek (Şerif Hasan Paşa) içeriyor.
 - İz: M0352 (ham: saray-devlet-h069)
 
 ### 152. Nişancının sarayda yalnızca süslü yazı yazan bir hattat gibi gösterilmesi
@@ -1768,10 +1838,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Nişancı tuğra çeken, kanun ve tahrir işleriyle ilgilenen yüksek bürokrattı
 - Açıklama: Nişancı belgeleri tuğralar, örfî hukuk ve defter tashihlerinde görev alırdı. Makam 1798'de önemini yitirse de varlığını koruyordu.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/nisanci>: Nişancının tuğra çeken, kanunlarla ilgilenen yüksek rütbeli bir memur olduğu belirtilmiştir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/nisanci>: Nişancı, tuğra çeken, kanun ve teşrifat işlerinden sorumlu yüksek rütbeli bir bürokrattı. Not: Nişancı sadece bir hattat değil, devletin hukuk ve bürokrasi mekanizmasında önemli bir üyeydi.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/nisanci>: Nişancı tuğra çeken, kanun derleyen yüksek memurdur. Not: Kanıt 1798 durumu belirtmese de makamın niteliğini doğrular.
 - İz: M0353 (ham: saray-devlet-h070)
 
 ### 153. Sadrazamlık için 1798'de saray hareminden veya rastgele kişilerden atama yapılabildiğinin sanılması
@@ -1780,10 +1851,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Sadrazamlar tecrübeli devlet adamları arasından atanır, tayin ve azil mühr-i hümayunla yapılırdı
 - Açıklama: Sadrazamlar farklı kariyer yollarından gelse de görev kurallı biçimde tevcih edilirdi. 1798'de atama usulleri yerleşikti.
 - Dönem: 18.yy; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/sadrazam>: Tayinlerin belirli dönemlerde, belirli usullerle ve arz yoluyla yapıldığı belirtilmiştir.
-- Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/sadrazam>: Sadrazamlık atamaları belirli kurallara ve kariyer silsilesine bağlıydı. Not: Sadrazamlık rastgele bir atama makamı değil, devlet hiyerarşisinde belirli bir kariyer yolu olan yüksek bir görevdi.
+- Doğrulayan gemini/gemini-3.5-flash-lite: onay; <https://islamansiklopedisi.org.tr/sadrazam>: Tayinlerin belirli usuller ve kurallı arzlarla yapıldığı belirtilmiştir. Not: Atamaların rastgele değil, belirli hiyerarşik ve hukuki usullerle yapıldığı kanıtla uyuşmaktadır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/sadrazam>: Sadrazamlar tecrübeli adamlar arasından arz ve onayla atanırdı. Not: Kanıt klasik usulü anlatır; 1798 için somut örnek yoktur ama usul değişmemiştir.
 - İz: M0354 (ham: saray-devlet-h071)
 
 ### 154. İkindi divanının yalnızca dinî sohbet veya küçük bir danışma toplantısı olması
@@ -1791,11 +1863,12 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Yanlış: İkindi divanının yalnızca dinî sohbet veya küçük bir danışma toplantısı olması
 - Doğrusu: İkindi divanı sadrazamın devlet işlerini ve davaları gördüğü resmî divandı
 - Açıklama: Burada halkın işleri, şikâyetler ve idarî meseleler görüşülürdü. Bâbıâli yönetiminin önemli parçasıydı.
-- Dönem: 16.yy; 1798 için geçerli mi: kısmen
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Dönem: 16.yy; 1798 için geçerli mi: tartışmalı (kısmen / evet)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/sadrazam>: Halka açık divandan bahsedilse de 'ikindi divanı' terimi kanıtta geçmemektedir. Not: Kanıt 16. yüzyıl kanunnamelerine atıf yapmaktadır.
-- Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/sadrazam>: İkindi divanı, sadrazamın devlet işlerini ve davaları gördüğü resmî bir divandı. Not: İkindi divanı 18. yüzyılda da işlevini sürdüren, halkın şikâyetlerini ilettiği önemli bir idari toplantıydı.
+- Doğrulayan gemini/gemini-3.5-flash-lite: onay; <https://islamansiklopedisi.org.tr/sadrazam>: İkindi divanının halkın isteklerini dinlediği, idari ve adli davalara baktığı açıklanmıştır. Not: İkindi divanının resmî bir karar ve dava mercii olduğu kanıtla desteklenmektedir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/sadrazam>: İkindi divanı resmî dava ve şikayet divanı olduğu belirtilir. Not: Kanıt ikindi divanının sadece sohbet olmadığını, resmi iş gördüğünü kanıtlar.
 - İz: M0355 (ham: saray-devlet-h072)
 
 ### 155. 1798-1800 yıllarında padişah III. Selim'in bizzat ordunun başında sefere çıktığını göstermek.
@@ -1816,10 +1889,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Baltacı, bostancı ve kapıcı gibi saray görevlileri kapıkulu zümresine mensup idari ve askeri sınıftı.
 - Açıklama: Saray ve bahçe hizmetlerinde bulunan baltacılar ile bostancılar doğrudan hassa askeri ve kapıkulu teşkilatının bir parçasıydı. Saray mekanlarındaki konumları sivil hizmetli olarak aktarılamaz.
 - Dönem: 18.yy; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/kapikulu>: Baltacı, bostancı ve kapıcıların kapıkulu zümresine mensup olduğu açıkça belirtilmiştir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/kapikulu>: Baltacı ve bostancılar kapıkulu zümresine mensup askeri ve idari görevlilerdi. Not: Bu görevliler sivil esnaf değil, doğrudan padişaha bağlı kapıkulu teşkilatının parçasıydı.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/kapikulu>: Baltacı, bostancı, kapıcı kapıkulu zümresindendir. Not: Kanıt açıkça saray görevlilerinin kapıkulu olduğunu belirtir.
 - İz: M0357 (ham: saray-devlet-h074)
 
 ### 157. 1798-1800 dönemi anlatılırken Yeniçeri Ağası'nın o dönemde sadece cemaat ortalarından rastgele seçildiğini zannetmek.
@@ -1832,6 +1906,7 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/yeniceri>: Yeniçeri ağalarının geleneksel olarak sekbanbaşılardan seçildiği ve III. Selim'in bu yolu izlediği belirtilmiştir. Not: Kanıt, sekbanbaşı geleneğinin ara dönemlerde değiştiğini ancak sistemli bir atama olduğunu doğrular.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/yeniceri>: Yeniçeri ağalığı tayinleri belirli bir silsileye ve usule göre yapılırdı. Not: Yeniçeri ağalığı rastgele seçilen bir görev değil, belirli bir askeri silsileye dayanan bir makamdı.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/yeniceri>: Yeniçeri Ağası geleneksel olarak Sekbanbaşıdan atanır; 1792 örneği var. Not: Kanıt 1792'de Sekbanbaşı Mehmed Said Ağa'nın atanmasını gösterir.
 - İz: M0358 (ham: saray-devlet-h075)
 
 ### 158. 1798'de Kapıkulu askerlerinin devlet idaresindeki üst makamlara geçmesinin imkânsız olduğunu yazmak.
@@ -1840,10 +1915,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Kapıkulu kökenli bir kul, kabiliyetine göre Osmanlı devlet hiyerarşisinde sadrazamlığa kadar yükselebilirdi.
 - Açıklama: Osmanlı kul sistemi yetenek bazlı yükselmeye açık bir yapıya sahipti. Kapıkulundan yetişen idareciler vezir ve sadrazamlık dahil en tepe makamlara atanabilmaktaydı.
 - Dönem: 18.yy; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/kapikulu>: Kapıkulu neferlerinin kabiliyetlerine göre sadrazamlığa kadar yükselebileceği ifade edilmiştir.
-- Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/kapikulu>: Kapıkulu kökenli bir nefer sadrazamlığa kadar yükselebilirdi. Not: Osmanlı sistemi, yetenekli kapıkullarının en üst makamlara gelmesine olanak tanıyan bir liyakat yapısına sahipti.
+- Doğrulayan gemini/gemini-3.5-flash-lite: onay; <https://islamansiklopedisi.org.tr/kapikulu>: Kapıkulu olarak hizmete giren bir neferin sadrazamlığa kadar yükselebileceği belirtilmiştir. Not: Kanıt, kapıkulu kökenlilerin en üst makamlara çıkabileceği bilgisini doğrudan onaylamaktadır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/kapikulu>: Kapıkulu kabiliyete göre sadrazamlığa kadar çıkabilirdi. Not: Kanıt sosyal mobiliteyi açıkça ifade eder.
 - İz: M0359 (ham: saray-devlet-h076)
 
 ### 159. Divan-ı Hümayun'da alınan devlet kararlarının ve idarî emirlerin kaydedildiği resmî defterlerin 'karar defteri' veya 'zabıt ceridesi' olarak adlandırılması.
@@ -1852,10 +1928,11 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Divan-ı Hümayun'da görüşülüp karara bağlanan siyasî, askerî ve idarî emrin tescil edildiği resmî defterlere 'Mühimme Defteri' denirdi.
 - Açıklama: 1798 İstanbul'unda merkezî devlet idaresindeki kararlar ve eyaletlere gönderilen emirnameler Mühimme Defterleri'ne kaydedilirdi. Dönem resmî bürokrasisinde modern parlamento ve kurul terimleri kullanılmazdı.
 - Dönem: 18.yy; 1798 için geçerli mi: evet
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/divan-i-humayun>: Divan-ı Hümayun'un işleyişi ve karar mekanizmaları anlatılmaktadır. Not: Kanıt Mühimme Kalemi'nden referansla bahsetse de defter isimlendirmesini açıkça onaylamıyor.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/divan-i-humayun>: Divan-ı Hümayun'un karar organı olduğu ve Mühimme Defterleri'ne kayıt yapıldığı belirtilmiştir. Not: Modern 'zabıt ceridesi' terimi yerine 'Mühimme Defteri' kullanımı tarihsel olarak doğrudur.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/divan-i-humayun>: Divan-ı Hümayun Mühimme Kalemi kaynakça gösteriliyor. Not: Kanıt metninde defter adı geçmese de kaynakçada 'Mühimme Kalemi' terimi yer alıyor; modern terimlerin (karar defteri) yanlışlığını destekliyor.
 - İz: M0530 (ham: yazi-belge-h015)
 
 ### 160. 1798-1800 yıllarında devlet ve meşveret meclisi reform belgelerinde mevzuat düzenlemelerine 'yasa' veya 'anayasa' denmesi.
@@ -1876,8 +1953,9 @@ Doğrulanan: 37, tartışmalı/şüpheli: 3, toplam aday: 161.
 - Doğrusu: Baltacı, bostancı ve kapıcı gibi saray görevlileri resmî sicil ve idari statü bakımından 'kul taifesi' ve 'kapıkulu' zümresine mensuptur.
 - Açıklama: Osmanlı saray idaresi ve sicil defterlerinde saray hizmet erbabı padişaha doğrudan bağlı kapıkulu sınıfı içinde tescil edilir. Onları sivil bürokrat gibi tanımlamak Osmanlı idari ve resmî yapısına aykırıdır.
 - Dönem: 18.yy; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/bostanci>: Bostancıların devşirme kökenli olduğu ve Kapıkulu sistemi içinde yer aldığı belirtilmiştir.
-- Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/bostanci>: Bostancıların Kapıkulu ocağına mensup olduğu ve saray hizmetinde bulunduğu belirtilmiştir. Not: Saray görevlilerinin kapıkulu statüsünde olduğu doğrudur.
+- Doğrulayan gemini/gemini-3.5-flash-lite: onay; <https://islamansiklopedisi.org.tr/bostanci>: Bostancıların saray dış hizmetlileri ve devşirme kökenli kapıkulu zümresinden olduğu belirtilmiştir. Not: Kanıt, bu zümrenin sivil kamu görevlisi olmadığını, saray ocağına mensup kapıkulu statüsünde bulunduğunu doğrular.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/bostanci>: Bostancılar devşirme kökenli kapıkulu zümresindendir. Not: Kanıt saray hizmetlilerinin kul/kapıkulu statüsünü teyit eder.
 - İz: M0536 (ham: yazi-belge-h021)

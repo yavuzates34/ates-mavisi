@@ -1,6 +1,6 @@
 # Unvan ve hitaplar – doğrulama sonuçları
 
-Doğrulanan: 9, tartışmalı/şüpheli: 1, toplam aday: 31.
+Doğrulanan: 12, tartışmalı/şüpheli: 1, toplam aday: 31.
 
 ### 1. Şehzade padişah babasına Baba, babacığım diye hitap ediyor.
 
@@ -22,12 +22,13 @@ Doğrulanan: 9, tartışmalı/şüpheli: 1, toplam aday: 31.
 - Doğrusu: Doğru unvan 'Doç'tur; dük farklı anlam taşır.
 - Açıklama: Venedik devlet başkanı için kullanılan 'Doç' unvanının 'dük' diye çevrilmesi yanlıştır.
 - Dönem: 16.yy; 1798 için geçerli mi: tartışmalı (kısmen / evet)
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak (eleştiri): <https://www.ekrembugraekinci.com/article?ID=313&muhte%C5%9Fem-y%C3%BCzyil%E2%80%99da-g%C3%B6ze-takilanlar> (Ekrem Buğra Ekinci / Muhteşem Yüzyıl): Bunun doğrusu “Doç” olacaktır.
 - Kaynak (eleştiri): <https://www.yenisafak.com/gundem/muhtesem-yuzyilda-muhtesem-hatalar-298064> (Ayşe Böhürler (okur notlarıyla aktarılan eleştiri) / Muhteşem Yüzyıl): bu kelimenin doğrusu "Doge"dur ve dilimize "Doc" diye geçmiştir
 - Kaynak (video, 05:42): <https://youtu.be/4XtiG4ZFQjk?t=342> (sinema&dizi kanalı sunucusu (adı belirtilmemiş) / Muhteşem Yüzyıl): Venedik krallık değil cumhuriyetti, lideri soylu dük değil seçimle gelen bir dojeydi
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/venedik>: Venedik yöneticisi için 'doju' unvanının kullanıldığı açıkça belirtilmiştir. Not: Venedik Cumhuriyeti 1797'de yıkıldığı için 1798'de bu unvanlar resmiyetini yitirmiştir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/venedik>: Venedik devlet başkanının 'doj' (doç) unvanı ile anıldığı kanıt metinde belirtilmiştir. Not: Venedik devlet başkanı için 'doj' terimi doğrudur.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/venedik>: Venedik devlet başkanı metinlerde 'Doju' (Doç) olarak geçer. Not: Kanıt, Venedik başkanının unvanının 'Doju' (Doç) olduğunu, 'Dük' (Duke) olmadığını doğrular.
 - İz: M0477 (ham: unvan-hitap-h007, unvan-hitap-h008, unvan-hitap-h053)
 
 ### 3. Dizide hükümdar için sürekli 'sultan', neredeyse hiç 'padişah' denmesi.
@@ -40,6 +41,7 @@ Doğrulanan: 9, tartışmalı/şüpheli: 1, toplam aday: 31.
 - Kaynak (eleştiri): <https://www.ekrembugraekinci.com/article?ID=313&muhte%C5%9Fem-y%C3%BCzyil%E2%80%99da-g%C3%B6ze-takilanlar> (Ekrem Buğra Ekinci / Muhteşem Yüzyıl): “padişah” kelimesi hiç kullanılmıyor. Hakikat böyle değildir.
 - Doğrulayan gemini/gemma-4-31b-it: red; <https://islamansiklopedisi.org.tr/padisah>: Sultan unvanının Orhan Bey'den itibaren yaygın ve doğru kullanıldığı belirtilmiştir. Not: Sultan unvanı tarihsel olarak doğrudur; sadece padişah denmesi zorunluluğu yoktur.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/padisah>: Padişah unvanının Osmanlı hükümdarları için başat ve resmi unvan olduğu belirtilmiştir. Not: Padişah unvanı kullanımı tarihsel olarak doğrudur.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: red; <https://islamansiklopedisi.org.tr/padisah>: Osmanlı padişahları Orhan'dan beri 'Sultan', II. Murad'dan itibaren resmi olarak 'Padişah' unvanını da kullandı. Not: Kanıt her iki unvanın da resmi ve geçerli olduğunu gösterir; 'Sultan' kullanımının yanlış olduğu iddiasını reddeder.
 - İz: M0481 (ham: unvan-hitap-h006, unvan-hitap-h045)
 
 ### 4. 'Damat' sıfatının damadın isteğine göre kullanıp kullanmadığı bir lakap sanılması
@@ -60,10 +62,11 @@ Doğrulanan: 9, tartışmalı/şüpheli: 1, toplam aday: 31.
 - Doğrusu: İlk hükümdarlar Bey ve Gazi unvanlarını kullanmış, Sultan ve Padişah unvanı Yıldırım Beyazıt'tan itibaren yerleşmiştir.
 - Açıklama: Osman Gazi ve Orhan Gazi dönemlerinde Bey ve Gazi unvanları kullanılmıştır. Sultan ve Padişah unvanları ise Yıldırım Beyazıt döneminden itibaren yaygınlaşmıştır.
 - Dönem: 14.yy; 1798 için geçerli mi: hayır
-- Durum: başka döneme ait
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak (video, 30:59): <https://youtu.be/iuX90WxwyPc?t=1859> (Erhan Afyoncu / Genel): İlk hükümdarlar Bey ve Gazi, Yıldırım Beyazıt'tan itibaren Sultan ve Padişah unvanıyla anılır.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/padisah>: İlk hükümdarların Bey ve Gazi unvanlarını kullandığı, Sultan unvanının sonra yerleştiği belirtilmiştir. Not: Sultan unvanının Orhan Gazi ile başladığı ancak zamanla önem kazandığı onaylanmaktadır.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/padisah>: İlk Osmanlı hükümdarları bey ve gazi unvanlarını kullanmıştır. Not: Bu durum 14. yüzyıl için geçerlidir, 1798-1800 dönemi için doğrudan bir kanıt değildir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/padisah>: İlk hükümdarlar bey/gazi, padişah Yıldırım'dan itibaren. Not: Kanıt unvan tarihçesini açıklar, 1798 için geçerli değil.
 - İz: M0519 (ham: unvan-hitap-h058)
 
 ### 6. Germiyanoğlu Yakup Bey'in 'Sultan' unvanını kullanması
@@ -83,10 +86,11 @@ Doğrulanan: 9, tartışmalı/şüpheli: 1, toplam aday: 31.
 - Doğrusu: Kadının ismi öne getirilir ve unvan sona eklenirdi (örn. 'Ayşe Hanım' veya 'Ayşe Hatun').
 - Açıklama: 'Bayan' hitabı 1930'lar sonrası uydurulmuştur; klasik Türkçe adlandırmada 'Hanım' veya 'Hatun' isimden sonra gelir.
 - Dönem: 18.yy; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/hatun>: Unvanların isimden sonra geldiği (Ayşe Hatun vb.) örneklerle açıkça görülmektedir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/hatun>: Unvanların isimden sonra geldiğini (Ayşe Hatun vb.) örneklerle doğrular. Not: Kanıt, Osmanlı hitap sisteminde unvanın isimden sonra geldiğini doğrulamaktadır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/hatun>: Osmanlıda kadın isimleri 'Ayşe Hatun' gibi isim+unvan sırasıyla anılırdı. Not: Kanıt 'Ayşe Hatun' örneğiyle isim-önce-unvan-sonra kalıbını destekler; 'Bayan' ve 'Hanımefendi' hitapları maddede yok.
 - İz: M0109 (ham: gundelik-dil-h019)
 
 ### 8. 1798'de padişahın eşlerine ve gözde cariyelerine 'haseki sultan' denmesi
@@ -135,6 +139,7 @@ Doğrulanan: 9, tartışmalı/şüpheli: 1, toplam aday: 31.
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt sadece hükümdarlar için kullanılan 'Sultan' unvanını açıklamaktadır.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/sultan>: Sultan unvanı Osmanlı'da padişahlar için kullanılmıştır; Avrupa tipi 'prenses' unvanı Osmanlı'da yoktur. Not: Osmanlı protokolünde 'prenses' unvanı bulunmaz, padişah kızları 'Sultan' olarak anılır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/sultan>: Sultan unvanının padişahlar ve hükümdarlar için tarihi anlatılıyor. Not: Kanıt padişah eşleri (Kadınefendi) ve kızları (Sultan) unvanlarını kapsamıyor, sadece padişah unvanını ele alıyor.
 - İz: M0150 (ham: harem-kadin-h048)
 
 ### 12. III. Selim'in kurduğu Nizâm-ı Cedîd askerinin komutanına modern rütbe ve soyadıyla 'Yüzbaşı Ahmet Yılmaz' denmesi.
@@ -147,6 +152,7 @@ Doğrulanan: 9, tartışmalı/şüpheli: 1, toplam aday: 31.
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/nizam-i-cedid>: Nizâm-ı Cedîd'in genel yapısı ve reform niteliği anlatılmaktadır. Not: Kanıt Nizâm-ı Cedîd'in genel amacını anlatıyor ancak rütbe isimlerine veya soyadı kullanımına değinmiyor.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/nizam-i-cedid>: Nizâm-ı Cedîd reformları ve ordu yapısı anlatılmıştır. Not: Kanıt doğrudan rütbe isimlendirmesine değinmese de, dönemin terminolojisinin modern olmadığını tarihsel bağlamdan biliyoruz (belirsiz/onay arası, onay verildi).
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/nizam-i-cedid>: Nizâm-ı Cedîd'in yapısı ve Avrupa etkisi anlatılır. Not: Kanıt rütbe terminolojisi ve soyadı uygulaması üzerine açık bilgi vermez; sadece reformun genel çerçevesine değinir.
 - İz: M0228 (ham: ordu-h032)
 
 ### 13. Silahdarı sarayda sıradan bir silah taşıyıcısı ya da nöbetçi er gibi göstermek.
@@ -155,10 +161,11 @@ Doğrulanan: 9, tartışmalı/şüpheli: 1, toplam aday: 31.
 - Doğrusu: Silahdar, padişahın silahlarından ve hazinesinden sorumlu yüksek saray görevlisidir.
 - Açıklama: Terim aynı zamanda bir süvari bölüğünü de ifade eder; saraydaki silahdar ağa ayrı bir makamdır.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/silahdar>: Silahdar ağanın yüksek saray idarecisi ve hazine sorumlusu olduğu anlatılmaktadır. Not: Kanıt, makamın sadece silah taşımak değil, yüksek idari yetkiler içerdiğini doğrular.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/silahdar>: Silahdar ağa, padişahın silahlarından sorumlu yüksek bir saray görevlisidir. Not: Silahdarın sıradan bir nöbetçi gibi gösterilmesi hatalıdır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/silahdar>: Silâhdar ağa padişah silâh ve hazinesinin başıydı. Not: Terim aynı zamanda bir süvari bölüğünü de ifade eder; saraydaki makam ayrı ve yüksektir.
 - İz: M0233 (ham: ordu-h043)
 
 ### 14. Bostancıbaşıyı sıradan bahçıvanbaşı gibi yetkisiz göstermek.
@@ -167,10 +174,11 @@ Doğrulanan: 9, tartışmalı/şüpheli: 1, toplam aday: 31.
 - Doğrusu: Bostancıbaşı geniş asayiş yetkilerine sahipti; padişah kayığında ve infazlarda da görev alırdı.
 - Açıklama: 1798 İstanbul'unda bostancı teşkilatının güvenlik ve protokol rolü küçümsenmemelidir.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/bostanci>: Bostancıbaşının asayiş, kayık ve infaz yetkileri açıkça belirtilmiştir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/bostanci>: Bostancıbaşı İstanbul asayişinden, saray güvenliğinden ve infazlardan sorumlu yetkili bir amirdir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/bostanci>: Bostancıbaşı asayiş, kayık ve infaz yetkisine sahipti. Not: 1798 İstanbul'unda bu teşkilat hâlâ etkindir.
 - İz: M0236 (ham: ordu-h048)
 
 ### 15. Osmanlı şehzadelerine dizilerde 'Prens' şeklinde hitap edilmesi.
@@ -179,10 +187,11 @@ Doğrulanan: 9, tartışmalı/şüpheli: 1, toplam aday: 31.
 - Doğrusu: Erkek hanedan üyelerine 'Şehzade' veya 'Şehzade Efendi' diye hitap edilirdi.
 - Açıklama: Batı kökenli 'Prens' hitabı Osmanlı saray dilinde ve tebaasında hiçbir dönem yer bulmamıştır.
 - Dönem: 18.yy; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/sehzade>: Osmanlı hanedanının erkek üyeleri için 'şehzade' unvanının kullanıldığı belirtilmiştir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/sehzade>: Osmanlı hanedan üyelerine 'şehzade' denildiği kanıt metinde açıkça belirtilmiştir. Not: Prens ifadesi Osmanlı geleneğinde yoktur.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/sehzade>: Osmanlı erkek hânedan üyeleri 'Şehzade' unvanıyla anılırdı. Not: Kanıt, Osmanlı sarayında 'Prens' gibi Batılı bir unvanın kullanılmadığını, 'Şehzade' unvanının resmi olduğunu gösterir.
 - İz: M0480 (ham: unvan-hitap-h020, unvan-hitap-h039)
 
 ### 16. Padişaha hitap ederken yalnız “hüdavendigâr” veya “hünkâr” isminin yeterli tek resmi unvan sanılması
@@ -191,10 +200,11 @@ Doğrulanan: 9, tartışmalı/şüpheli: 1, toplam aday: 31.
 - Doğrusu: Padişah unvanının başat olduğunu, hünkâr/hüdavendigarın da kullanılabildiğini bilmek
 - Açıklama: Hünkâr ve hudâvendigâr Osmanlı padişahları için kullanılan unvanlardır; kullanım bağlama ve geleneğe göre değişir.
 - Dönem: Osmanlı dönemi (1798-1800 dahil); 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/padisah>: Padişah unvanının zamanla umumileştiği ve yerleştiği ifade edilmiştir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/padisah>: Padişah, hünkâr ve hüdavendigâr unvanlarının kullanıldığı kanıt metinde doğrulanmıştır. Not: Bu unvanlar birbirinin alternatifi olarak kullanılabilmiştir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/padisah>: Padişah unvanı resmi baş unvandır; Hüdavendigâr erken dönemde yaygın, sonraları padişah yerleşmiştir. Not: Kanıt, 18. yüzyılda 'Padişah' unvanının resmi ve yaygın olduğunu, 'Hüdavendigâr'ın da tarihî bir unvan olduğunu doğrular.
 - İz: M0482 (ham: unvan-hitap-h046, unvan-hitap-h047)
 
 ### 17. Yeniçeri veya kapıkulu neferlerine sıradan konuşmada 'Efendi' diye hitap edilmesi.
@@ -207,6 +217,7 @@ Doğrulanan: 9, tartışmalı/şüpheli: 1, toplam aday: 31.
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/yeniceri>: Askerler için 'Ağa', bürokratlar için 'Efendi' unvanlarının kullanıldığı görülmektedir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/yeniceri>: Yeniçeri teşkilatı anlatılmış ancak gündelik hitap şekillerine dair bilgi verilmemiştir. Not: Gündelik hitap şekilleri ansiklopedik bir konu değildir, kanıt yetersizdir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/yeniceri>: Yeniçeri teşkilatı, rütbeler (Ağa, Sekbanbaşı) anlatılır; hitap şekilleri (Efendi/Ağa) belirtilmez. Not: Kanıt yeniçeri örgütlenmesini ve komutan unvanlarını anlatır, gündelik hitap edatlarını kapsamaz.
 - İz: M0483 (ham: unvan-hitap-h021, unvan-hitap-h041)
 
 ### 18. Saray meclisinde veya dizi diyaloğunda padişaha yüz yüze 'III. Selim' veya 'Üçüncü Selim' diye hitap edilmesi.
@@ -215,10 +226,11 @@ Doğrulanan: 9, tartışmalı/şüpheli: 1, toplam aday: 31.
 - Doğrusu: Osmanlı döneminde padişahlara sıra numarası söylenmez; huzurda 'Hünkârım', 'Şevketlü Padişahım' veya resmi dilde 'Sultan Selim Han' (ya da 'Sultan Selim-i Sâlis') denirdi.
 - Açıklama: Padişahların Romen rakamlarıyla numaralandırılması Batı historiografisine aittir; saray içi konuşma dilinde bu numaralar kullanılmazdı.
 - Dönem: 18.yy; 1798 için geçerli mi: evet
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt metni padişahların hitap şekilleri veya sıra numaralarının kullanımına değinmemektedir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/padisah>: Padişahlar için kullanılan hitaplar 'Hünkârım' veya 'Sultan Selim Han' gibi ifadelerdir. Not: Sıra numarası kullanımı Batı kaynaklı bir tarihçilik geleneğidir, saray içi hitapta kullanılmaz.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/padisah>: Resmi nâmelerde padişah 'Sultan Selim Şah Han' gibi uzatılmış unvanlarla, sıra numarası (III., Üçüncü) olmadan anılıyor. Not: Kanıt, resmi belgelerde padişahların sıra numarası yerine 'Sultan Selim Han' gibi unvanlarla anıldığını gösteriyor; hitap dilinde numara kullanımı protokole aykırıdır.
 - İz: M0491 (ham: unvan-hitap-h017)
 
 ### 19. Paşa unvanının şahıs isminin önüne getirilerek 'Paşa Mustafa' şeklinde söylenmesi.
@@ -239,10 +251,11 @@ Doğrulanan: 9, tartışmalı/şüpheli: 1, toplam aday: 31.
 - Doğrusu: Erkek hükümdarlarda 'Sultan' öne gelirken (Sultan Selim), kadın hanedan üyelerinde isimden sonra gelirdi (örn. 'Hatice Sultan').
 - Açıklama: Sultan kelimesi hükümdar erkekler için Unvan-ı Hümayun olarak başta, hanedan mensubu kadınlar için ise sonda yer alırdı.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt sultan unvanının genel tarihini anlatıyor, kadınlar için konumuna değinmiyor.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/sultan>: Sultan unvanı hanedan mensubu kadınlarda isimden sonra kullanılır. Not: Bu kural Osmanlı protokolünün temel bir parçasıdır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/sultan>: XVI. yüzyıldan itibaren hanedan kadınlarında sultan unvanı ismin sonuna (Hatice Sultan, Vâlide Sultan) eklenerek kullanılmış. Not: Kanıt, erkek hükümdarlarda 'Sultan' ismin önünde (Sultan Selim), kadın hanedan mensuplarında ise sonda (Hatice Sultan) yer aldığını açıkça belirtiyor.
 - İz: M0493 (ham: unvan-hitap-h019)
 
 ### 21. Sadrazama hitap ederken modern protokol diliyle 'Sayın Sadrazam' denmesi.
@@ -255,6 +268,7 @@ Doğrulanan: 9, tartışmalı/şüpheli: 1, toplam aday: 31.
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt sadrazamlık kurumunu anlatıyor, spesifik hitap kalıplarına değinmiyor.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/sadrazam>: Sadrazamlık makamı ve hitap şekilleri Osmanlı bürokrasisinde belirli kalıplara bağlıdır. Not: 'Sayın' ifadesi modern bir hitaptır, Osmanlı bürokrasisinde 'Devletlü' veya 'Hazretleri' gibi ifadeler kullanılırdı.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/sadrazam>: Sadrazam atama töreni ve yetkileri anlatılıyor, hitap unvanları (Sayın, Devletlü Paşa) metinde yok. Not: Kanıt sadrazamlık kurumunu ve atama törenini anlatıyor; resmi hitap kalıpları ('Sayın', 'Devletlü Paşa') konusunda bilgi vermiyor.
 - İz: M0494 (ham: unvan-hitap-h022)
 
 ### 22. Yeniçeri ağasına hitap ederken iki unvanın birleştirilip 'Ağa Bey' denmesi.
@@ -263,10 +277,11 @@ Doğrulanan: 9, tartışmalı/şüpheli: 1, toplam aday: 31.
 - Doğrusu: Doğrudan 'Ağa Hazretleri' veya 'Yeniçeri Ağası Paşa/Ağa' şeklinde hitap edilirdi.
 - Açıklama: Ağa ve Bey unvanlarının aynı kişi için üst üste yan yana kullanılması Osmanlı askeri hitap kurallarına aykırıdır.
 - Dönem: 18.yy; 1798 için geçerli mi: evet
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt yeniçeri ağasının görevlerini anlatıyor, hitap şekline değinmiyor.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/yeniceri>: Yeniçeri ağası ocağın en üst amiridir ve hitaplar buna göre şekillenir. Not: 'Ağa Bey' kullanımı askeri hiyerarşide karşılığı olmayan yapay bir hitaptır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/yeniceri>: Yeniçeri ağası için 'Osman Ağa', 'Yâkub Ağa', 'Yeniçeri Ağası' unvanları kullanılıyor, 'Ağa Bey' birleşimi yok. Not: Kanıt, yeniçeri ağasının unvanının 'Ağa' (ve genellikle Paşa rütbesiyle) olduğunu gösteriyor; 'Ağa Bey' gibi birleşik bir hitap formuna yer vermiyor.
 - İz: M0495 (ham: unvan-hitap-h023)
 
 ### 23. Sıradan bir halk mensubuna veya köylüye dizide 'Paşa' veya 'Bey' diye hitap edilmesi.
@@ -287,10 +302,11 @@ Doğrulanan: 9, tartışmalı/şüpheli: 1, toplam aday: 31.
 - Doğrusu: Saray muhafızlarına görev birimleri ve rütbeleriyle ('Bostancı Ağa', 'Baltacı') hitap edilirdi.
 - Açıklama: Saray hizmetlileri Kapıkulu teşkilatının hiyerarşik sınıfları olup kendilerine ait özel unvanları taşırlardı.
 - Dönem: 18.yy; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/bostanci>: Bostancıların ve bostancıbaşının özel unvanları olduğu doğrulanıyor. Not: Modern 'Sayın' hitabı kanıtta yok ancak unvanların varlığı doğrulanıyor.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/bostanci>: Bostancı Ocağı hiyerarşik bir yapıya sahiptir ve görevlilerin özel unvanları vardır. Not: 'Sayın Muhafız' ifadesi modern bir yakıştırmadır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/bostanci>: Bostancılar Kapıkulu ocağıydı, rütbeleri Bostancıbaşı, usta, bölük başı gibiydi. Not: Kanıt, saray muhafızlarının (bostancı/baltacı) resmi unvan ve rütbelerinin 'Sayın Muhafız' gibi modern bir hitap değil, ocağa özgü (Bostancıbaşı, usta vb.) olduğunu gösterir.
 - İz: M0497 (ham: unvan-hitap-h025)
 
 ### 25. Osmanlı padişahına gündelik hitapta Batılı tarzda “Majesteleri” denilmesi
@@ -321,10 +337,11 @@ Doğrulanan: 9, tartışmalı/şüpheli: 1, toplam aday: 31.
 - Doğrusu: Hükümdar erkek çocukları için “şehzade” unvanının kullanılması
 - Açıklama: Osmanlılar’da hânedanın erkek üyelerine şehzade denirdi; bey genel bir unvandır.
 - Dönem: Osmanlı dönemi (1798-1800 dahil); 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/sehzade>: Şehzade teriminin hükümdar oğullarını ifade ettiği açıkça belirtilmiştir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/sehzade>: Şehzade, hükümdar oğullarını ifade eden yaygın bir unvandır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/sehzade>: Şehzade hükümdar oğlunu ifade eden özel unvandır. Not: Kanıt şehzade unvanını tanımlar, resmi unvanı onaylar.
 - İz: M0506 (ham: unvan-hitap-h038)
 
 ### 28. 1798-1800’de üst düzey ilmiye mensubuna “ağa” diye hitap edilmesi
@@ -337,6 +354,7 @@ Doğrulanan: 9, tartışmalı/şüpheli: 1, toplam aday: 31.
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/ilmiye>: İlmiye sınıfının tanımı yapılmış ancak hitap şekillerine değinilmemiştir. Not: Kanıt sınıfı tanımlıyor ancak 'efendi' veya 'ağa' hitaplarını karşılaştırmıyor.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/ilmiye>: İlmiye mensupları eğitim ve bürokraside özel bir statüye sahiptir. Not: İlmiye sınıfı için 'efendi' kullanımı dönem protokolüne uygundur.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/ilmiye>: İlmiye sınıfı tanımı ve kariyer yolları anlatılıyor, hitap unvanları (Ağa, Efendi) yok. Not: Kanıt ilmiye teşkilâtını anlatıyor; üyelere hitap edilmesi ('Ağa' vs 'Efendi') konusunda bilgi içermiyor.
 - İz: M0507 (ham: unvan-hitap-h040)
 
 ### 29. Eyalet valisi veya vezir derecesindeki birine sırf “bey” denilmesi
@@ -362,6 +380,7 @@ Doğrulanan: 9, tartışmalı/şüpheli: 1, toplam aday: 31.
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/sancak>: Sancak beyi terimi erken dönem Osmanlı tarihi üzerinden anlatılmıştır. Not: Kanıt 14. yüzyıla odaklanmıştır, 1798 yılındaki unvan hiyerarşisini kapsamamaktadır.
 - Doğrulayan gemini/gemini-3.1-flash-lite: red; <https://islamansiklopedisi.org.tr/sancak>: Osmanlı'da sancak beyi unvanı tarihsel bir idari birimle ilişkilidir. Not: Madde, 'bey' unvanının sancak yöneticisi için kullanımını zaten doğru kabul ediyor, bu yüzden 'yanlış' tanımı yapaydır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/sancak>: Sancak teşkilâtı ve erken dönem tarihi anlatılıyor, 18. yüzyıl rütbe/hiyerarşisi (Bey vs Paşa) yok. Not: Kanıt sancak kavramının erken tarihini ele alıyor; 1798'de sancak beyi unvanı ve Paşa rütbesi ilişkisi hakkında bilgi vermiyor.
 - İz: M0509 (ham: unvan-hitap-h043)
 
 ### 31. Okumuş, ilmiye veya kalem erbabına “çelebi” denilmesinin 1798-1800’de genel kural sanılması

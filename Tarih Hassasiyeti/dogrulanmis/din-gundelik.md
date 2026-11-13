@@ -1,6 +1,6 @@
 # Din ve gündelik hayat – doğrulama sonuçları
 
-Doğrulanan: 6, tartışmalı/şüpheli: 0, toplam aday: 25.
+Doğrulanan: 7, tartışmalı/şüpheli: 0, toplam aday: 25.
 
 ### 1. Hürrem Sultan'ın mabette esir edilip mabet ortamının kan gölüne çevrilmesi.
 
@@ -34,10 +34,11 @@ Doğrulanan: 6, tartışmalı/şüpheli: 0, toplam aday: 25.
 - Doğrusu: Zimmîler köle değildi, zimmî statüsündeydi; eşitsizlikler vardı ama plantasyon köleliği yoktu.
 - Açıklama: Konuşmacı bu imgenin Batı'nın kölecilik tasvirinden ödünç alındığını söylüyor. Eşitsizliğin varlığını kabul ediyor, kölelik benzetmesini reddediyor.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak (video, 06:32): <https://youtu.be/3D7EnWeydWc?t=392> (Ceren Sungur / belirtilmedi): Zimmî tebaa köle değildi; kırbaç ve plantasyon benzetmesi yanlış.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/zimmi>: Zimmîlerin köleleştirilmediği ve cizye ile haraç sistemine tabi oldukları belirtilmiştir. Not: Kanıt, zimmî statüsündekilerin esir ve köle muamelesine tabi tutulmadığını açıkça destekler.
-- Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/zimmi>: Zimmîlerin köle olmadığı, cizye ödeyen statüde oldukları belirtilmiştir. Not: Kanıt, zimmîlerin köle statüsünde olmadığını açıkça desteklemektedir.
+- Doğrulayan gemini/gemini-3.5-flash-lite: onay; <https://islamansiklopedisi.org.tr/zimmi>: Gayrimüslimler zimmî statüsündedir, esir ve köle muamelesine tâbi tutulmazlar. Not: Kanıt gayrimüslim tebaanın köleleştirilmediğini ve zimmî statüsünde olduğunu açıkça doğrulamaktadır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/zimmi>: Zimmi statüsü kölelik değil, cizye karşılığı koruma sağlar. Not: Kanıt zimmilerin köle olmadığını, antlaşmalı bir statüde olduğunu açıkça belirtir.
 - İz: M0008 (ham: din-gundelik-h018, din-gundelik-h017)
 
 ### 4. Harem hayatı sürekli entrika ve cinsellik odağında gösterilir; ibadet düzeni yoktur.
@@ -45,11 +46,11 @@ Doğrulanan: 6, tartışmalı/şüpheli: 0, toplam aday: 25.
 - Yanlış: Harem hayatı sürekli entrika ve cinsellik odağında gösterilir; ibadet düzeni yoktur.
 - Doğrusu: Cariyeler fıkıh ve ahlak dersleri alır, vakit namazlarını kılar ve dua eder.
 - Açıklama: Şimşirgil, haremdeki eğitim ve ibadet düzeninin dizide yansıtılmadığını söyler.
-- Dönem: 16.yy; 1798 için geçerli mi: tartışmalı (evet / hayır)
+- Dönem: 16.yy; 1798 için geçerli mi: tartışmalı (evet / kısmen)
 - Durum: belirsiz / kaynakta karşılığı yok
 - Kaynak (eleştiri): <https://www.habervaktim.com/yazar/48357/reyting-icin-tarihi-ve-ecdadi-kim-satti.html> (Ahmet Şimşirgil / Muhteşem Yüzyıl): fıkıh, ahlâk dersleri alırlar... namazları kılınır
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/mescid-i-haram>: Mekke ve Medine'deki mescitlerin imarı anlatılmaktadır. Not: Sunulan kanıtlar kutsal şehirlerdeki mescitlerle ilgilidir, İstanbul'daki harem hayatını kapsamaz.
-- Doğrulayan gemini/gemini-3.1-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/cariye>: Madde başlığı var ancak içerik boş. Not: Kanıt içeriği boş olduğu için iddia doğrulanamamıştır.
+- Doğrulayan gemini/gemini-3.5-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/mescid-i-haram>: Kanıtlar Mescid-i Haram ve Mescid-i Nebevi tarihindedir, saray haremine değinmemektedir. Not: Gündelik harem hayatı ve ibadet düzeni ansiklopedi metninin kapsamı dışındadır.
 - İz: M0009 (ham: din-gundelik-h002)
 
 ### 5. Kayıların tümü Müslüman olarak gösteriliyor.
@@ -115,9 +116,10 @@ Doğrulanan: 6, tartışmalı/şüpheli: 0, toplam aday: 25.
 - Doğrusu: Akşemseddin kuşatmaya ilk günlerden itibaren katılmış ve manevî destek vermiştir.
 - Açıklama: Tarihsel rolü ve kuşatmadaki sürekliliği azaltılarak aktarılır.
 - Dönem: 15.yy; 1798 için geçerli mi: hayır
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (eleştiri): <https://www.habername.com/haber-fetih-1453te-buyuk-hata-71114.htm> (Erhan Afyoncu / Fetih 1453 (2012)): Akşemseddin, kuşatmaya ilk günlerden itibaren katılmış
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/aksemseddin>: Akşemseddin'in kuşatma başlangıcında ordunun Edirne'den yola çıkışıyla katıldığı belirtilmiştir. Not: Kanıt, Akşemseddin'in kuşatmanın başından itibaren orada olduğunu açıkça desteklemektedir. 15. yüzyıl konusudur.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/aksemseddin>: Akşemseddin kuşatma başından beri katılmıştır. Not: Kanıt Edirne'den çıkışta katıldığını belirtir.
 - İz: M0016 (ham: din-gundelik-h011)
 
 ### 11. III. Selim'in din ve şeriat düşmanı bir sultan gibi gösterilmesi
@@ -126,10 +128,11 @@ Doğrulanan: 6, tartışmalı/şüpheli: 0, toplam aday: 25.
 - Doğrusu: 'Dinsizlik' suçlaması IV. Mustafa'nın meşruiyet hamlesiydi; muhalefetin derdi Nizam-ı Cedid'i bidat saymaktı.
 - Açıklama: Konuşmacı IV. Mustafa'nın tahta çıkınca şeriat yanlısı imaj çizdiğini, Selim'i Allah'a kitaba karşı gelmiş gibi gösterdiğini söylüyor. Selim'in asıl suçu reformdu.
 - Dönem: 19.yy; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak (video, 50:58): <https://youtu.be/3D7EnWeydWc?t=3058> (Ceren Sungur / belirtilmedi): IV. Mustafa, Selim'i din düşmanı gibi göstererek meşruiyet kurdu.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/selim-iii>: Reformların dini gerekçelerle ve bidat sayılarak karşılandığı görülmektedir. Not: Selim'in reformlarının dini bahanelerle engellenmeye çalışıldığı kanıtla örtüşmektedir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/selim-iii>: III. Selim'in ıslahatçı kimliği ve muhalefetin dini gerekçeleri anlatılmaktadır. Not: Kanıt, III. Selim'in reformlarının dini gerekçelerle (bidat) eleştirildiğini doğrulamaktadır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/selim-iii>: Selim III reformları için fetvalarla muhalefeti bertaraf etmiştir. Not: Kanıt Selim'in şerîat çerçevesinde hareket ettiğini, muhalefetin dini bahaneler kullandığını gösterir.
 - İz: M0019 (ham: din-gundelik-h019)
 
 ### 12. Kanuni'nin adaleti vurgulamak için 'iki kişi arasında dahi olsa adaleti sağlayın' diye Kur'an'dan ayet okuması
@@ -183,10 +186,11 @@ Doğrulanan: 6, tartışmalı/şüpheli: 0, toplam aday: 25.
 - Doğrusu: Cumhuriyete kadar cuma hutbesi Arapça okunurdu, 5 dakikayı geçmezdi ve cemaat hutbe okunurken namazdaki gibi sessizce oturup dinlemek zorundaydı.
 - Açıklama: Osmanlı'da cuma hutbesi Arapça irat edilir ve beş dakikadan uzun sürmezdi. Hutbe okunurken cemaat konuşamaz, dua edemez ve sessizce dinlerdi.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak (video, 06:52): <https://youtu.be/cfpNs-nS9Po?t=412> (Kadir Mısıroğlu / Payitaht Abdülhamid): Cumhuriyete kadar cuma hutbesi Arapçadır, beş dakikayı geçmez ve cemaat ses çıkaramaz.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/hutbe>: Hutbe rükünlerinin Arapça okunması şartı ve cemaatin dinlemesi gerektiği belirtilmiştir. Not: Kanıt, hutbenin Arapça olması ve cemaatin sessizce dinlemesi gerekliliğini desteklemektedir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/hutbe>: Hutbenin Arapça okunması gerektiği ve cemaatin dinlemesi gerektiği belirtilmiştir. Not: Kanıt, hutbenin Arapça okunması ve cemaatin sessizce dinlemesi gerektiğini doğrulamaktadır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/hutbe>: Hutbe rükünleri Arapça okunmalı, cemaat dinlemelidir. Not: Kanıt hutbenin Arapça okunma şartını ve cemaatin dinleme durumunu doğrular.
 - İz: M0024 (ham: din-gundelik-h024)
 
 ### 17. Osmanlı'nın fethettiği topraklarda insanları zorla Müslüman yapması veya 'ya İslam ya ölüm' dayatması.
@@ -195,10 +199,11 @@ Doğrulanan: 6, tartışmalı/şüpheli: 0, toplam aday: 25.
 - Doğrusu: Osmanlı'da sistematik bir asimilasyon yoktur; gayrimüslimlere ibadet, kilise yapımı ve hukuk özgürlüğü tanınmıştır.
 - Açıklama: İslam hukukuna göre zorla din değiştirme yoktur; Osmanlı fethettiği yerlerde kalpleri kazanma (müellefe-i kulüp) yöntemini seçmiştir. 19. yüzyıldaki isyanlarda halkların kimliklerini korumuş olması bunun kanıtıdır.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak (video, 16:16): <https://youtu.be/kNdpoYuZYVk?t=976> (Haşim Şahin / Da Vinci's Demons): Osmanlı'da zorla din değiştirme yoktur, gayrimüslimlere geniş dini ve hukuki özgürlükler tanınmıştır.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/zimmi>: Zimmi hukuku ve kiliselerin genel olarak korunduğu anlatılmaktadır. Not: Sistematik zorla din değiştirme olmadığını destekleyen zimmi statüsü kanıtta yer almaktadır.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/zimmi>: Zimmîlerin ibadet ve hukuk özgürlüğü olduğu belirtilmiştir. Not: Kanıt, Osmanlı'nın gayrimüslimlere tanıdığı hakları ve zorla din değiştirmeme prensibini desteklemektedir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/zimmi>: Zimmilere mevcut ibadethaneleri korundu, yenisi yasaklandı. Not: Kanıt sistematik zorla dindirme politikası olmadığını, zimmî statüsünün korunduğunu gösterir.
 - İz: M0025 (ham: din-gundelik-h025)
 
 ### 18. Osmanlı'nın Taliban veya IŞİD benzeri katı bir şeriat rejimi olduğu düşüncesi.
@@ -207,10 +212,11 @@ Doğrulanan: 6, tartışmalı/şüpheli: 0, toplam aday: 25.
 - Doğrusu: Osmanlı'da din daima devletin emrindedir ve padişahın iradesi dini kararların üstündedir.
 - Açıklama: Osmanlı'daki şeriat uygulaması modern radikal örgütlerle kıyaslanamaz. Kadın hakları ve siyasi kararlar bağlamında devlet otoritesi dinden daha belirleyicidir.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak (video, 06:38): <https://youtu.be/xFdpmAal89Y?t=398> (Ceren Sungur / Genel tarihi algı): Osmanlı Taliban gibi değildir, din daima devletin ve padişahın emrindedir.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/seriat>: Şer'i ve örfi hukuk ayrımı ile devletin düzenleme yetkisi açıklanmıştır. Not: Örfi hukukun varlığı, devletin kamu yararı için şeriatın genel ilkeleri çerçevesinde düzenleme yapabildiğini kanıtlar.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/seriat>: Şeriatın devlet yönetimiyle ilişkisi ve örfi hukuk vurgulanmıştır. Not: Kanıt, Osmanlı'da şeriatın devlet otoritesi ve kamu yararı (siyaset-i şer'iyye) ile birlikte uygulandığını doğrulamaktadır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/seriat>: Örfî hukuk ve siyaset-i şer'iyye ile devlet dini düzenler. Not: Kanıt devletin şeriat yanında örfî hukuk kurma yetkisini vurgular.
 - İz: M0026 (ham: din-gundelik-h026)
 
 ### 19. Ebussuud Efendi'nin Yunus Emre şiirlerine karşı tutumunun belirsizliği.
@@ -258,7 +264,7 @@ Doğrulanan: 6, tartışmalı/şüpheli: 0, toplam aday: 25.
 - Durum: belirsiz / kaynakta karşılığı yok
 - Kaynak (video, 11:23): <https://youtu.be/y_qAMTz0C88?t=683> (İlber Ortaylı / Muhteşem Yüzyıl): Hürrem'in sonradan Müslüman olması doğru değil; girdiği anda Müslüman edilir.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt genel kölelik statülerini anlatır, harem girişindeki din değiştirme prosedürüne değinmez.
-- Doğrulayan gemini/gemini-3.1-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/cariye>: Kanıt içeriği boş/yetersizdir. Not: İddia tarihsel olarak doğru kabul edilse de kanıt sunulmamıştır.
+- Doğrulayan gemini/gemini-3.5-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/kole>: Kanıt kölelerin Müslüman olması ve statülerini ele alır, harem giriş prosedürünü kapsamaz. Not: Cariyelerin saraya ilk giriş anındaki dini statüleri kanıtta doğrudan yer almamaktadır.
 - İz: M0160 (ham: harem-kadin-h068)
 
 ### 23. Şeyhülislamın padişah için "Yeryüzünde Allah'ın halifesi" ifadesini kullanması.
@@ -271,6 +277,7 @@ Doğrulanan: 6, tartışmalı/şüpheli: 0, toplam aday: 25.
 - Kaynak (eleştiri): <https://www.tyb.org.tr/d-mehmet-dogandan-payitaht-abdulhamid-aciklamasi-28981h.htm> (D. Mehmet Doğan / Payitaht Abdülhamid): "Yeryüzünde Allahın halifesi..." hitabında bulunuyor
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/padisah>: 18. yüzyılda padişahın tüm Müslümanların meşru halifesi olarak görülmeye başlandığı belirtilmiştir. Not: Kanıt halifelik unvanının kullanıldığını onaylar ancak spesifik hitap kalıbının yanlışlığını tartışmaz.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/padisah>: Osmanlı padişahlarının unvanları örfî ve tarihî-hukukî bir çerçeveye dayanır. Not: Padişah için kullanılan unvanlar dönemine göre değişmekle birlikte, 'yeryüzünde Allah'ın halifesi' ifadesi teknik olarak hatalı bir hitaptır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: red; <https://islamansiklopedisi.org.tr/padisah>: 18. yüzyılda padişah bütün müslümanların halifesi, halife-i rûy-i zemîn unvanıyla anıldı. Not: Kanıt, 18. yüzyılda Osmanlı padişahlarının 'halife-i rûy-i zemîn' (yeryüzünün halifesi) unvanını kullandığını ve hilafet iddiasını canlandırdığını gösteriyor; bu hitab yanlış değil, döneme uygundur.
 - İz: M0487 (ham: unvan-hitap-h010)
 
 ### 24. Osmanlı'da nikahın sadece dini/gizli bir tören olduğunun ve belgesiz yapıldığının sanılması.
@@ -291,8 +298,9 @@ Doğrulanan: 6, tartışmalı/şüpheli: 0, toplam aday: 25.
 - Doğrusu: Yeniçeri Ocağı XV. yüzyıldan itibaren Hacı Bektâş-ı Velî niyetine ve nisbetine dayanarak Bektaşî Ocağı olarak da anılmaktaydı.
 - Açıklama: Yeniçeriler manevi hiyerarşide Bektaşilik ile göbekten bağlı idiler ve meşruiyet dillerinde Ocaktan sık sık Bektaşi Ocağı diye bahsederlerdi.
 - Dönem: 18.yy; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/yeniceri>: Yeniçeri Ocağı'na Bektaşî Ocağı isminin verildiği belirtilmiştir. Not: Kanıt, bu isimlendirmenin 1826'ya kadar devam ettiğini açıkça desteklemektedir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/yeniceri>: Yeniçeri Ocağı'na Bektaşî Ocağı denildiği açıkça belirtilmiştir. Not: Kanıt, Yeniçeri Ocağı'nın Bektaşî Ocağı olarak anıldığını doğrulamaktadır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/yeniceri>: Yeniçeri Ocağı 1826'ya kadar Bektaşî Ocağı olarak da anılmıştır. Not: Kanıt isimlerin 1826'ya kadar kullanıldığını netleştirir.
 - İz: M0018 (ham: din-gundelik-h016)

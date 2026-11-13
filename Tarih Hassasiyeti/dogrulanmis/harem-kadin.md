@@ -1,19 +1,19 @@
 # Harem ve kadınlar – doğrulama sonuçları
 
-Doğrulanan: 7, tartışmalı/şüpheli: 1, toplam aday: 61.
+Doğrulanan: 12, tartışmalı/şüpheli: 1, toplam aday: 61.
 
 ### 1. Cariyelerin eğitim almadan rastgele hareme doldurulduğu
 
 - Yanlış: Cariyelerin eğitim almadan rastgele hareme doldurulduğu
 - Doğrusu: Acemi cariyeler sıkı kurallarla eğitilir; şakird, kalfa ve ustalığa yükselirlerdi
 - Açıklama: Osmanlı hareminde kurumsal bir eğitim ve terfi düzeni vardı. Harem, aynı zamanda bir eğitim ve hizmet ortamıydı.
-- Dönem: genel; 1798 için geçerli mi: evet
+- Dönem: genel; 1798 için geçerli mi: tartışmalı (evet / genel)
 - Durum: belirsiz / kaynakta karşılığı yok
 - Kaynak (eleştiri): <https://www.ahmetsimsirgil.com/cehalet-mi-ihanet-mi/> (Ahmet Şimşirgil / Muhteşem Yüzyıl): cariye belli bir terbiye almadan doğrudan... saraya getirilmez
 - Kaynak (eleştiri): <https://www.sondakika.com/guncel/haber-tarihciden-muhtesem-yuzyil-dizisine-tepki-3589988/> (Ahmet Şimşirgil / Muhteşem Yüzyıl): Hürrem Kırımlılar tarafından 9 yaşında esir ediliyor
 - Kaynak (eleştiri): <https://www.yenisafak.com/gundem/muhtesem-yuzyilda-muhtesem-hatalar-298064> (Ayşe Böhürler (okur notlarıyla aktarılan eleştiri) / Muhteşem Yüzyıl): Hareme gelen bir kız 3-4 yıl eğitimden geçmeden
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Herhangi bir kanıt sunulmamıştır.
-- Doğrulayan gemini/gemini-3.1-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/cariye>:  Not: Haremdeki eğitim düzeni tarihsel bir gerçektir ancak kanıt sunulmamıştır.
+- Doğrulayan gemini/gemini-3.5-flash-lite: belirsiz; <adres yok>: Kanıt bulunmamaktadır. Not: Madde için herhangi bir kanıt sunulmamıştır.
 - İz: M0116 (ham: harem-kadin-h037, harem-kadin-h015, harem-kadin-h016, harem-kadin-h026, harem-kadin-h027, harem-kadin-h030, harem-kadin-h053, harem-kadin-h062)
 
 ### 2. Padişahın cariye seçmek için iki sıra dizilmiş kızların önüne mendil bırakması.
@@ -21,13 +21,13 @@ Doğrulanan: 7, tartışmalı/şüpheli: 1, toplam aday: 61.
 - Yanlış: Padişahın cariye seçmek için iki sıra dizilmiş kızların önüne mendil bırakması.
 - Doğrusu: Padişahın mendil atarak cariye seçmesi tamamen batılı yazarların fantezisinden ibarettir.
 - Açıklama: Halil İnalcık'a göre bu uygulama gerçekte yoktur; cariyeler sıkı bir disiplin ve eğitimle padişaha takdim edilirdi.
-- Dönem: genel; 1798 için geçerli mi: evet
+- Dönem: genel; 1798 için geçerli mi: tartışmalı (evet / genel)
 - Durum: belirsiz / kaynakta karşılığı yok
 - Kaynak (eleştiri): <https://www.tarihistan.org/halil-ilancik-osmanlida-harem/13573> (Halil İnalcık / Genel (Osmanlı dizileri/filmleri)): beğendiği kızın önünde mendil bıraktığını söyler ki, bu tamamı ile fanteziden
 - Kaynak (eleştiri): <https://www.sabah.com.tr/yazarlar/erhan-afyoncu/2016/03/13/avrupalilarin-harem-fantezileri> (Erhan Afyoncu / Muhteşem Yüzyıl): Mendil atma hikâyesi Batı fantezisi, Lady Montagu yalanlıyor.
 - Kaynak (eleştiri): <https://www.ekrembugraekinci.com/article?ID=313&muhte%C5%9Fem-y%C3%BCzyil%E2%80%99da-g%C3%B6ze-takilanlar> (Ekrem Buğra Ekinci / Muhteşem Yüzyıl): Mendil atma, padişaha bağırma, kucağına düşme gibi hafiflikler
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Herhangi bir kanıt sunulmamıştır.
-- Doğrulayan gemini/gemini-3.1-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/cariye>:  Not: Mendil atma geleneğinin reddi yaygın bir tarihsel görüştür ancak kanıt sunulmamıştır.
+- Doğrulayan gemini/gemini-3.5-flash-lite: belirsiz; <adres yok>: Kanıt bulunmamaktadır. Not: Madde için herhangi bir kanıt sunulmamıştır.
 - İz: M0115 (ham: harem-kadin-h075, harem-kadin-h009, harem-kadin-h013, harem-kadin-h017, harem-kadin-h020)
 
 ### 3. Kanuni Sultan Süleyman döneminin başında haremin Topkapı Sarayı'nda bulunması.
@@ -62,13 +62,13 @@ Doğrulanan: 7, tartışmalı/şüpheli: 1, toplam aday: 61.
 - Yanlış: Haremdeki her cariyenin padişahın sevgilisi veya cinsel partneri olduğu
 - Doğrusu: Haremde yüzlerce cariye bulunsa da büyük kısmı hizmetçidir; padişah içlerinden yalnız birkaç tanesiyle ilgilenir
 - Açıklama: Cariye, öncelikle saray hizmet ve eğitim hiyerarşisi içindeki kadındır. Dizilerdeki 'herkes gözde' klişesi gerçeği yansıtmaz.
-- Dönem: genel; 1798 için geçerli mi: evet
+- Dönem: genel; 1798 için geçerli mi: tartışmalı (evet / genel)
 - Durum: belirsiz / kaynakta karşılığı yok
 - Kaynak (eleştiri): <https://www.internethaber.com/harem-hayatiyla-ilgili-sirlari-ilber-ortayli-acikladi-1576805h.htm> (İlber Ortaylı / genel): 'Herkesin padişahla beraber olması zaten mümkün değildi.'
 - Kaynak (video, 07:45): <https://youtu.be/iuX90WxwyPc?t=465> (Erhan Afyoncu / Genel): Sarayda üç yüz cariye varsa hepsi padişahın koynuna giriyor demek değildir.
 - Kaynak (video, 14:25): <https://youtu.be/y_qAMTz0C88?t=865> (İlber Ortaylı / Belirtilmemiş): Cariyeler haremde çok oturmuyorlar, 5-7 senede olgunlaşıp çırak edilip gidiyorlar.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt sunulmamıştır.
-- Doğrulayan gemini/gemini-3.1-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/cariye>:  Not: Cariyelerin statüsü hakkındaki bilgi doğrudur ancak kanıt sunulmamıştır.
+- Doğrulayan gemini/gemini-3.5-flash-lite: belirsiz; <adres yok>: Kanıt bulunmamaktadır. Not: Madde için herhangi bir kanıt sunulmamıştır.
 - İz: M0118 (ham: harem-kadin-h036, harem-kadin-h007, harem-kadin-h058, harem-kadin-h070)
 
 ### 6. Hareme serbestçe girilip çıkılması ve yabancıların harem halkıyla temas kurması
@@ -103,11 +103,12 @@ Doğrulanan: 7, tartışmalı/şüpheli: 1, toplam aday: 61.
 - Doğrusu: Bu tür sahneler Batılı roman yazarı ve ressamlarının uydurmasıdır.
 - Açıklama: Padişah-harem ilişkisi büyük ciddiyet içinde cereyan eder; bu tasvirler hayal ürünüdür.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (eleştiri): <https://www.ekrembugraekinci.com/article?ID=684> (Ekrem Buğra Ekinci / Osmanlı konulu diziler/filmler (genel)): Batılı roman yazarı ile ressamlarının uydurmasıdır.
 - Kaynak (eleştiri): <https://www.tarihistan.org/halil-ilancik-osmanlida-harem/13573> (Halil İnalcık / Genel (Osmanlı dizileri/filmleri)): hayal ve fantazi dolu, kulaktan duyma tasvirler bırakmıştır
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/oryantalizm>: Oryantalizmin tanımı ve Batı'nın Doğu'yu tasvir etme biçimi anlatılmaktadır. Not: Kanıt oryantalizmin genel tanımını yapar ancak havuz sahneleri gibi spesifik tasvirlere değinmez.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/oryantalizm>:  Not: Bu tür sahnelerin oryantalist bir kurgu olduğu kanıtla desteklenmektedir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/oryantalizm>: Oryantalizm Batılıların Doğu hayalî resimleri ve tasvirleri olarak tanımlanıyor. Not: Kanıt harem sahnelerinin Batılı ressam/yazar uydurması olduğunu destekliyor.
 - İz: M0119 (ham: harem-kadin-h021, harem-kadin-h011)
 
 ### 9. Haremde kadınlar ve erkeklerin (İbrahim Paşa gibi) koridorda rahatça karşılaşıp konuşması.
@@ -165,12 +166,12 @@ Doğrulanan: 7, tartışmalı/şüpheli: 1, toplam aday: 61.
 - Yanlış: Harem kadınlarının okuma yazma bilmeyen, cahil kişiler olarak gösterilmesi
 - Doğrusu: Haremde okuma yazma oranı yüksekti; kadınlar edebiyat ve din eğitimi alırdı
 - Açıklama: Ortaylı haremde iki okul bulunduğunu ve bazı cariyelerin şehzadelerden daha iyi yazdığını belirtiyor. Harem 'ahmakların yükseleceği' bir yer değildi.
-- Dönem: genel; 1798 için geçerli mi: evet
+- Dönem: genel; 1798 için geçerli mi: tartışmalı (evet / genel)
 - Durum: belirsiz / kaynakta karşılığı yok
 - Kaynak (eleştiri): <https://www.internethaber.com/harem-hayatiyla-ilgili-sirlari-ilber-ortayli-acikladi-1576805h.htm> (İlber Ortaylı / genel): 'Harem'de okuma-yazma oranı çok yüksektir.'
 - Kaynak (video, 02:34): <https://youtu.be/xFdpmAal89Y?t=154> (Ceren Sungur / Genel Osmanlı dizileri): Cariyeler 5-6 dil bilen diplomatlar değil, esir pazarından alınan kölelerdir.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt sunulmamıştır.
-- Doğrulayan gemini/gemini-3.1-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/cariye>:  Not: Haremde eğitim düzeyi hakkındaki bilgi doğru olsa da kanıt sunulmamıştır.
+- Doğrulayan gemini/gemini-3.5-flash-lite: belirsiz; <adres yok>: Kanıt bulunmamaktadır. Not: Madde için herhangi bir kanıt sunulmamıştır.
 - İz: M0128 (ham: harem-kadin-h002, harem-kadin-h065)
 
 ### 14. Padişahların her dönem hür Müslüman kadınlarla nikahlanması.
@@ -190,11 +191,11 @@ Doğrulanan: 7, tartışmalı/şüpheli: 1, toplam aday: 61.
 - Yanlış: Padişahların haremlerindeki kadınlarla sık sık resmî nikâh kıydığı
 - Doğrusu: Fâtih'ten sonra hanımlar saray cariyelerinden seçilir; Kanûnî, II. Osman ve Sultan İbrâhim'in resmî nikâhları istisna ve hoş karşılanmamıştır
 - Açıklama: 1798 bağlamında padişahın eşleriyle düzenli resmî nikâh tasviri yanlıştır. Nikâh istisnaiydi ve saray çevresince yadırganırdı.
-- Dönem: genel; 1798 için geçerli mi: evet
+- Dönem: genel; 1798 için geçerli mi: tartışmalı (evet / genel)
 - Durum: belirsiz / kaynakta karşılığı yok
 - Kaynak (video, 11:23): <https://youtu.be/iuX90WxwyPc?t=683> (Murat Bardakçı / Genel): Sarayda nikah yoktu iddiası yanlıştır, son dönemde hepsi nikahlıdır.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt Osmanlı padişahlarını değil, Hz. Peygamber'in eşlerini anlatmaktadır.
-- Doğrulayan gemini/gemini-3.1-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/cariye>:  Not: Padişahların nikâh durumu hakkındaki bilgi doğru olsa da kanıt sunulmamıştır.
+- Doğrulayan gemini/gemini-3.5-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/ummehatul-muminin>: Kanıt Hz. Peygamber'in hanımlarını anlatmaktadır, Osmanlı padişahlarının nikâhını kapsamaz. Not: Sunulan kanıt İslam'ın ilk dönemindeki ümmehâtü'l-mü'minîn ile ilgilidir, Osmanlı padişah nikâhlarını kapsamaz.
 - İz: M0126 (ham: harem-kadin-h035, harem-kadin-h059)
 
 ### 16. Osmanlı'da dudaktan öpüşmenin olmadığı, bunun 19. yüzyılda Avrupalılardan öğrenildiği iddiası.
@@ -231,6 +232,7 @@ Doğrulanan: 7, tartışmalı/şüpheli: 1, toplam aday: 61.
 - Kaynak (eleştiri): <https://www.milliyet.com.tr/cadde/harem-oyle-degil-boyledir-1560178> (İlber Ortaylı / genel): 'Melling... hiçbir zaman Harem'e girmedi. Kimse giremezdi zaten.'
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt oryantalizmin genel tanımını yapar, Melling'in hareme girişine değinmez.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/oryantalizm>: Oryantalizm, Doğu'yu Batılı gözüyle yeniden kurgulayan hayali imgeler ve tasvirler bütünüdür. Not: Melling'in hareme girmesi tarihsel bir gerçeklik değil, oryantalist bir kurgudur. Kanıt, oryantalizmin Doğu'yu hayali resimlerle yeniden kurma çabasını destekler.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/oryantalizm>: Oryantalizm tarihi ve tanımı anlatılıyor, Melling veya Hatice Sultan yok. Not: Kanıt Melling'in hareme girip girmemesine dair bilgi içermiyor.
 - İz: M0131 (ham: harem-kadin-h004)
 
 ### 19. Haremde her cariyenin ayrı ve lüks bir odası olması
@@ -242,7 +244,7 @@ Doğrulanan: 7, tartışmalı/şüpheli: 1, toplam aday: 61.
 - Durum: belirsiz / kaynakta karşılığı yok
 - Kaynak (eleştiri): <https://www.milliyet.com.tr/cadde/harem-oyle-degil-boyledir-1560178> (İlber Ortaylı / genel): 'Herkes aynı odada uyuyor.'
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt sunulmamıştır.
-- Doğrulayan gemini/gemini-3.1-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/cariye>: İlgili madde içeriği boş veya taslak halindedir. Not: Kanıt metni boş olduğu için iddia doğrulanamamıştır. Haremde koğuş sistemi tarihsel olarak doğrudur.
+- Doğrulayan gemini/gemini-3.5-flash-lite: belirsiz; <adres yok>: Kanıt bulunmamaktadır. Not: Madde için herhangi bir kanıt sunulmamıştır.
 - İz: M0132 (ham: harem-kadin-h006)
 
 ### 20. Harem'i yalnız Osmanlı'ya özgü bir kurum gibi göstermek
@@ -291,6 +293,7 @@ Doğrulanan: 7, tartışmalı/şüpheli: 1, toplam aday: 61.
 - Kaynak (eleştiri): <https://www.ekrembugraekinci.com/article?ID=313&muhte%C5%9Fem-y%C3%BCzyil%E2%80%99da-g%C3%B6ze-takilanlar> (Ekrem Buğra Ekinci / Muhteşem Yüzyıl): Hele dizide cariyelerin dansı tamamen uydurmadır.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt oryantalizmin tanımını yapar, haremdeki dans türlerine dair bilgi vermez.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/oryantalizm>: Oryantalizm, Doğu'ya dair ideolojik varsayımlar ve hayali resimler içerir. Not: Haremde oryantal dans, Batılıların Doğu'ya dair oluşturduğu 'hayali resimler' ve fantezilerin bir ürünüdür.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/oryantalizm>: Oryantalizm tanımı ve seyyahlar anlatılıyor, harem dansı yok. Not: Kanıt harem eğlencesi veya oryantal dans konusuna değinmiyor.
 - İz: M0136 (ham: harem-kadin-h018)
 
 ### 24. Padişahın cariyelerle zevk ve safa içinde, gayri ciddi ilişkiler yaşaması.
@@ -298,11 +301,11 @@ Doğrulanan: 7, tartışmalı/şüpheli: 1, toplam aday: 61.
 - Yanlış: Padişahın cariyelerle zevk ve safa içinde, gayri ciddi ilişkiler yaşaması.
 - Doğrusu: Padişahın harem câriyeleriyle alâkası büyük bir ciddiyet içinde cereyan ederdi.
 - Açıklama: Harem hayatı disiplin ve protokol içindedir; dizilerdeki sefahat tasviri gerçeği yansıtmaz.
-- Dönem: genel; 1798 için geçerli mi: evet
+- Dönem: genel; 1798 için geçerli mi: tartışmalı (evet / genel)
 - Durum: belirsiz / kaynakta karşılığı yok
 - Kaynak (eleştiri): <https://www.ekrembugraekinci.com/article?ID=203> (Ekrem Buğra Ekinci / Osmanlı konulu diziler/filmler (genel)): büyük bir ciddiyet içinde cereyan ederdi.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıtlar anayasa ve devlet teorisiyle ilgilidir; haremdeki kişisel ilişkilere veya disipline değinmemektedir.
-- Doğrulayan gemini/gemini-3.1-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/cariye>: İlgili madde içeriği boş veya taslak halindedir. Not: Harem protokolü ciddidir ancak kanıt metni boş olduğu için onaylanamamıştır.
+- Doğrulayan gemini/gemini-3.5-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/devlet>: Kanıt anayasa ve devlet teorilerini anlatır, harem protokolüne değinmez. Not: Sunulan kanıtlar devlet ve anayasa kavramlarıyla ilgilidir, harem yaşamını kapsamamaktadır.
 - İz: M0137 (ham: harem-kadin-h022)
 
 ### 25. Sultan II. Abdülhamid'in aynı anda şer'i sınırın üzerinde zevcesi olduğu iddiası.
@@ -310,11 +313,11 @@ Doğrulanan: 7, tartışmalı/şüpheli: 1, toplam aday: 61.
 - Yanlış: Sultan II. Abdülhamid'in aynı anda şer'i sınırın üzerinde zevcesi olduğu iddiası.
 - Doğrusu: Hür eşlerde 4 sınırına uyulur, cariyelerde sayı sınırı yoktur; aynı anda 4'ten fazla hür zevce olmaz.
 - Açıklama: Televizyonlarda Abdülhamid'in 12 zevcesiyle 4 sınırını aştığı söylenir; hür/cariye ayrımı gözetilmez.
-- Dönem: 19.yy; 1798 için geçerli mi: tartışmalı (evet / hayır)
+- Dönem: 19.yy; 1798 için geçerli mi: evet
 - Durum: belirsiz / kaynakta karşılığı yok
 - Kaynak (eleştiri): <https://www.ekrembugraekinci.com/question?ID=750> (Ekrem Buğra Ekinci / Televizyon programları/diziler (genel)): Padişahın hiçbir zaman 4’ten fazla zevcesi olmamıştır.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Herhangi bir kanıt sunulmamıştır.
-- Doğrulayan gemini/gemini-3.1-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/cariye>: İlgili madde içeriği boş veya taslak halindedir. Not: Madde 19. yüzyıla aittir (II. Abdülhamid dönemi). 1798'deki III. Selim dönemi için geçerli değildir.
+- Doğrulayan gemini/gemini-3.5-flash-lite: belirsiz; <adres yok>: Kanıt bulunmamaktadır. Not: Madde için herhangi bir kanıt sunulmamıştır.
 - İz: M0138 (ham: harem-kadin-h023)
 
 ### 26. Kösem, I. Ahmed döneminde saraya gelme sahnesinde daha olgun yaşta sunuluyor.
@@ -326,6 +329,7 @@ Doğrulanan: 7, tartışmalı/şüpheli: 1, toplam aday: 61.
 - Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
 - Kaynak (eleştiri): <https://www.uludagsozluk.com/k/muhte%C5%9Fem-y%C3%BCzy%C4%B1l-k%C3%B6sem-dizisinde-tarihi-hatalar/> (protest sanayici / Muhteşem Yüzyıl Kösem): “anastasya yani kösem sultan da daha 13 yaşındadır"
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/kosem-sultan>: Kösem'in 1612'de doğum yapması, saraya gelişinin 1609-1610 civarı olduğunu gösterir. Not: Kanıt, Kösem'in saraya giriş ve doğum tarihleri üzerinden genç yaşta olduğunu desteklemektedir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/kosem-sultan>: Kösem'in saraya geliş yılı 1609-1610 olarak hesaplanıyor, yaşı verilmiyor. Not: Kanıt Kösem'in saraya giriş yaşını (13) açıkça belirtmiyor, sadece yıl aralığı veriyor. 17. yy konulu.
 - İz: M0139 (ham: harem-kadin-h031)
 
 ### 27. Padişahın hanımları ve şehzadesiyle cümbür cemaat kahvaltı etmesi.
@@ -350,6 +354,7 @@ Doğrulanan: 7, tartışmalı/şüpheli: 1, toplam aday: 61.
 - Kaynak (video, 24:34): <https://youtu.be/3D7EnWeydWc?t=1474> (Ceren Sungur / belirtilmedi): Yeniçerilerin tahta düşündüğü tek kadın Esma Sultan'dı, Kösem değil.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt Kösem Sultan'ın siyasi gücünü anlatır ancak tahta layık görülme iddiasını karşılamaz.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/kosem-sultan>: Kösem Sultan'ın yeniçerilerce tahta layık görüldüğüne dair bir bilgi yoktur. Not: Kösem Sultan'ın yeniçeriler tarafından tahta layık görüldüğü iddiası tarihsel olarak desteklenmemektedir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/kosem-sultan>: Kösem'in yeniçeri desteğiyle oğullarını tahta çıkarması anlatılıyor. Not: Kanıt yeniçerilerin Kösem'i tahta layık gördüğünü veya Esma Sultan'ı tek kişi olarak belirlemediğini içermiyor. 17-18. yy arası farkı kapsamıyor.
 - İz: M0151 (ham: harem-kadin-h051)
 
 ### 29. Kanuni'nin çok sayıda kadınla birlikte, hareme düşkün gösterilmesi
@@ -369,9 +374,10 @@ Doğrulanan: 7, tartışmalı/şüpheli: 1, toplam aday: 61.
 - Doğrusu: Kanuni'nin hayatında önce Mustafa'nın annesi Mahidevran, sonra Hürrem vardı; Hürrem'den sonra da başka biri oldu
 - Açıklama: Ortaylı, dizideki bu sıralamayı yanlış bulur ve yazımını yüzeysel okumaya bağlar.
 - Dönem: 16.yy; 1798 için geçerli mi: hayır
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (video, 05:44): <https://youtu.be/AoGpO9xZNBM?t=344> (Prof. Dr. İlber Ortaylı / Muhteşem Yüzyıl): Dizide önce Gülfem, sonra Mahidevran, sonra Hürrem var
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/hurrem-sultan>: Mahidevran'ın Hürrem'den önce padişahın hanımı olduğu açıkça belirtilmiştir. Not: Kanıt, Mahidevran'ın Hürrem'den önceki eş/hanım olduğunu doğrulamaktadır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/hurrem-sultan>: Mahidevran Kanuni'nin önceki hanımı, Hürrem'le mücadele etmiş. Not: Kanıt Mahidevran'ın Hürrem'den önce olduğunu doğruluyor. 16. yy konulu.
 - İz: M0153 (ham: harem-kadin-h055)
 
 ### 31. Şehzadelerin tahta çıkmadan önce çocuk sahibi olmasının her dönem yasak olduğunun gösterilmesi.
@@ -380,9 +386,10 @@ Doğrulanan: 7, tartışmalı/şüpheli: 1, toplam aday: 61.
 - Doğrusu: 1. Ahmed'e (1603) kadar olan ilk 13 padişahın tahta çıktığında erkek evladı vardı.
 - Açıklama: Erken dönemde şehzadelerin çocuk sahibi olması yasak değildi; bu durum hanedanın devamlılığı için bir güvence olarak görülüyordu.
 - Dönem: 16.yy; 1798 için geçerli mi: hayır
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (video, 57:45): <https://youtu.be/iuX90WxwyPc?t=3465> (Murat Bardakçı / Genel / Osmanlı konulu yapımlar): İlk 13 padişahın tahta çıktığında erkek evladı vardı, çocuk yasağı yoktu.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/sehzade>: I. Ahmed'e kadar olan 13 hükümdarın çoğu en büyük evlat olarak tahta çıkmıştır. Not: Kanıt, erken dönemde şehzadelerin tahta çıkmadan önce çocuk sahibi olabildiğini destekler.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/sehzade>: I. Ahmed'e kadar 13 padişahın 11'i tahta çıkarken erkek evladı vardı. Not: Kanıt erken dönemde şehzadelerin çocuk sahibi olmasının yaygın, I. Ahmed'den sonra değiştiğini gösteriyor. 1798'de uygulama farklıydı.
 - İz: M0154 (ham: harem-kadin-h060)
 
 ### 32. Osman Bey'in annesinin Osman Bey doğduktan hemen sonra öldüğünün gösterilmesi
@@ -405,7 +412,7 @@ Doğrulanan: 7, tartışmalı/şüpheli: 1, toplam aday: 61.
 - Durum: belirsiz / kaynakta karşılığı yok
 - Kaynak (video, 01:50): <https://youtu.be/vU_1Rx-3yKU?t=110> (SweatATears / Muhteşem Yüzyıl): Yeni padişah tahta geçtiğinde eski haremi kendi haremine katmaz, onları serbest bırakırdı.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt genel kölelik ve azat işlemleriyle ilgilidir, harem protokolünü kapsamaz.
-- Doğrulayan gemini/gemini-3.1-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/cariye>: Kanıt içeriği boş/yetersizdir. Not: İddia 16. yüzyıl için verilmiş, 1798 için de geçerlidir ancak kanıt yetersizdir.
+- Doğrulayan gemini/gemini-3.5-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/kole>: Kanıt genel köle azatlığı ve saraydaki câriyelerin konumunu anlatır. Not: Padişah değişikliğinde eski cariyelerin durumu kanıtta doğrudan geçmemektedir.
 - İz: M0156 (ham: harem-kadin-h063)
 
 ### 34. Fatih'in eşi Helena'nın (Eleni) bir Rum doktorun kızı ve cariye olarak gösterilmesi.
@@ -439,7 +446,7 @@ Doğrulanan: 7, tartışmalı/şüpheli: 1, toplam aday: 61.
 - Durum: belirsiz / kaynakta karşılığı yok
 - Kaynak (video, 12:55): <https://youtu.be/y_qAMTz0C88?t=775> (İlber Ortaylı / Muhteşem Yüzyıl): 16. asırda prenses gelin alma faslı bitti, gelenler cariye ve Müslüman yapılıyor.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt alanı boş olduğu için değerlendirme yapılamamıştır.
-- Doğrulayan gemini/gemini-3.1-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/cariye>: Kanıt içeriği boş/yetersizdir. Not: Klasik dönemde cariyelerin Müslümanlaştırılması genel kuraldır ancak kanıt yetersizdir.
+- Doğrulayan gemini/gemini-3.5-flash-lite: belirsiz; <adres yok>: Kanıt konuyu kapsamamaktadır. Not: Klasik dönem harem uygulamaları 1798'den farklıdır ancak kanıt metinde yer almamaktadır.
 - İz: M0161 (ham: harem-kadin-h069)
 
 ### 37. Saraya köle olarak getirilen her cariyenin padişaha anında aşık olması.
@@ -451,7 +458,7 @@ Doğrulanan: 7, tartışmalı/şüpheli: 1, toplam aday: 61.
 - Durum: belirsiz / kaynakta karşılığı yok
 - Kaynak (video, 36:35): <https://youtu.be/zh5x1Oo8Bxs?t=2195> (Ceren Sungur / Muhteşem Yüzyıl): Zorla getirilen cariyelerin padişaha hemen aşık olması tarihsel gerçeklikle bağdaşmaz.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/kole>: Köleliğin hukuki ve sosyal şartları anlatılmaktadır. Not: Kanıt köleliğin sertliğini desteklese de cariyelerin duygusal durumlarına değinmemektedir.
-- Doğrulayan gemini/gemini-3.1-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/cariye>: Kanıt içeriği boş/yetersizdir. Not: Kölelik kurumunun doğası gereği bu iddia mantıklıdır ancak kanıt sunulmamıştır.
+- Doğrulayan gemini/gemini-3.5-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/kole>: Kölelik ve cariyelerin hukuki durumunu anlatır. Not: Kanıt genel kölelik hukukundan bahseder; cariyelerin padişaha duygusal yaklaşımını doğrudan ele almaz.
 - İz: M0162 (ham: harem-kadin-h072)
 
 ### 38. Hanım sultanların kocalarının yatağa normal şekilde girmesi.
@@ -475,7 +482,7 @@ Doğrulanan: 7, tartışmalı/şüpheli: 1, toplam aday: 61.
 - Durum: belirsiz / kaynakta karşılığı yok
 - Kaynak (video, 128:33): <https://youtu.be/zh5x1Oo8Bxs?t=7713> (Ceren Sungur / Genel Eleştiri): Müslümanın cariyesinden olan çocuğu hür sayılır, cariye de özel statü kazanır.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt alanı boş olduğu için değerlendirme yapılamamıştır.
-- Doğrulayan gemini/gemini-3.1-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/cariye>: Kanıt içeriği boş/yetersizdir. Not: Ummüveled statüsü İslam hukukunda mevcuttur ancak kanıt içeriği boş olduğu için onaylanamadı.
+- Doğrulayan gemini/gemini-3.5-flash-lite: belirsiz; <adres yok>: Kanıt yok. Not: Ümmüveled statüsü İslam hukukunda sabittir ancak sunulan kanıtlar arasında bu maddeye ait metin bulunmamaktadır.
 - İz: M0164 (ham: harem-kadin-h077)
 
 ### 40. Boşanan kadının ekonomik olarak tamamen korumasız kaldığının gösterilmesi.
@@ -520,10 +527,11 @@ Doğrulanan: 7, tartışmalı/şüpheli: 1, toplam aday: 61.
 - Doğrusu: 'Kadınlar saltanatı' XVI. yüzyıl son çeyreğinden XVII. yüzyıl ortalarına kadar sürmüş, 1656'da büyük ölçüde sona ermiştir
 - Açıklama: 1798'de valide sultanın kurumsal itibarı sürse de siyasal müdahale düzeyi 16.-17. yüzyıldaki dönemle aynı sanılmamalıdır.
 - Dönem: 18.yy; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/valide-sultan>: Kadınlar saltanatının 17. yüzyıl ortalarında sona erdiği açıkça belirtilmiştir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/valide-sultan>:  Not: Kanıt, 1798'de bu dönemin kapandığını doğrulamaktadır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/valide-sultan>: Kadınlar saltanatı 1656'da sona ermiş, 18. yüzyılda valide sultan nüfuzu farklıydı. Not: Kanıt 1798'in 'kadınlar saltanatı' döneminden çok sonra olduğunu netleştirir.
 - İz: M0125 (ham: harem-kadin-h040, harem-kadin-h041)
 
 ### 44. Valide sultanın dul kaldıktan veya oğlu tahta çıktıktan sonra yeniden evlenebilmesi
@@ -532,10 +540,11 @@ Doğrulanan: 7, tartışmalı/şüpheli: 1, toplam aday: 61.
 - Doğrusu: Valide sultan olan kadınlar bir daha evlenemezdi
 - Açıklama: Padişah anneliği, hanedan hiyerarşisinde özel ve kalıcı bir konumdu. Valide sultana evlilik kurgulamak yanlıştır.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt Valide Sultan'ın konumunu ve görevlerini anlatmakta, yeniden evlenme yasağına değinmemektedir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/valide-sultan>: Valide sultanlar hanedan hiyerarşisinde özel ve kalıcı bir konuma sahiptir. Not: Valide sultanın evlenemeyeceği bilgisi, hanedan hiyerarşisi ve saray kuralları ile uyumludur.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/valide-sultan>: Valide sultan protokolü, padişah ölümünde haremin Eski Saray'a gönderilişi anlatılıyor. Not: Kanıt valide sultanın yeniden evlenemeyeceği protokolü (Eski Saray/Topkapı hiyerarşisi) destekliyor.
 - İz: M0144 (ham: harem-kadin-h042)
 
 ### 45. Yeni padişahın annesi saraya sessizce ve tören olmadan yerleşir
@@ -544,10 +553,11 @@ Doğrulanan: 7, tartışmalı/şüpheli: 1, toplam aday: 61.
 - Doğrusu: Oğlu tahta geçen kadın, 'valide alayı' denilen büyük ve gösterişli bir törenle Topkapı Sarayı'na getirilirdi
 - Açıklama: Valide sultanın saraya geçişi protokol ve törenle yapılırdı. Bu kurum, saray yaşamının görünür parçasıydı.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/valide-sultan>: Valide alayı töreninin yapıldığı açıkça belirtilmiştir. Not: Kanıt, oğlu tahta geçen kadının 'valide alayı' ile görkemli bir törenle döndüğünü doğrulamaktadır.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/valide-sultan>: Valide sultan, cülûstan sonra 'vâlide alayı' denilen gösterişli bir törenle saraya dönerdi. Not: Valide alayı, Osmanlı protokolünün önemli ve görünür bir parçasıdır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/valide-sultan>: Valide alayı büyük gösterişli törenle yapıldığı, protokolü açıklandığı belirtiliyor. Not: Kanıt valide sultanın saraya dönüşünün 'valide alayı' adıyla törenle gerçekleştiğini netleştiriyor.
 - İz: M0145 (ham: harem-kadin-h043)
 
 ### 46. Haremin yalnızca saraydaki cinsel bir mekân olduğu, ev ve konaklarda böyle bir alan bulunmadığı
@@ -580,10 +590,11 @@ Doğrulanan: 7, tartışmalı/şüpheli: 1, toplam aday: 61.
 - Doğrusu: Kadınlar ferace ve yaşmakla çarşı-pazarda ve mesire yerlerinde görülebiliyordu; kıyafet ve görünürlük dönem dönem düzenlemelere konu oldu
 - Açıklama: Kadınların kamusal görünürlüğü kısıtlı ve kurallıydı, ama mutlak yokluk biçiminde değildi. Lale Devri'nden itibaren mesire görünürlüğü tartışma konusu olmuştur.
 - Dönem: 18.yy; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/ferace>: Kadınların ferace ve yaşmakla mesire ve çarşıda görüldüğü belirtilmektedir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/ferace>: Kadınlar ferace ve yaşmakla mesire yerlerinde ve çarşıda görünür bir hayat sürmüşlerdir. Not: Kanıtlar, 18. yüzyılda kadınların ferace ve yaşmakla kamusal alanda (mesire, çarşı) aktif olduğunu doğrulamaktadır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/ferace>: Lale Devri'nde kadınlar mesirelerde ferace/yaşmakla görünür, sonraları düzenlemeler getirildiği yazıyor. Not: Kanıt 18. yüzyılda kadınların kamusal alanda görünürlüğünü ve buna dair devlet müdahalelerini doğruluyor.
 - İz: M0148 (ham: harem-kadin-h046)
 
 ### 49. Padişah hanımlarının saray dışına serbestçe çıkıp gündelik şehir hayatına karıştığı
@@ -615,10 +626,11 @@ Doğrulanan: 7, tartışmalı/şüpheli: 1, toplam aday: 61.
 - Doğrusu: III. Ahmed sonrası 'sultan' unvanı daha ziyade padişah kızlarını niteler; padişah annesi ise 'valide sultan'dır
 - Açıklama: Saray hiyerarşisinde 'sultan' unvanı seçili kullanılırdı. Cariye veya kadınefendilere gelişigüzel 'sultan' demek 1798 için yanlıştır.
 - Dönem: 18.yy; 1798 için geçerli mi: evet
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt metni 'sultan' unvanının hiyerarşik dağılımı ve III. Ahmed sonrası değişimi hakkında bilgi vermemektedir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/sultan>: Sultan unvanı Osmanlı'da padişahlar ve padişah kızları için özel bir kullanıma sahiptir. Not: Haremdeki tüm kadınlara 'sultan' denilmesi tarihsel hiyerarşiyi yansıtmaz.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/sultan>: XVI. yüzyıldan itibaren sultan unvanı hanedan kadınlarda ismin sonuna (Vâlide Sultan, Hanım Sultan) eklenerek kullanılmış. Not: Kanıt, sultan unvanının resmi olarak padişah anneleri ve kızları için 'Vâlide Sultan', 'Hanım Sultan' şeklinde ismin sonunda kullanıldığını onaylıyor; cariye/kadın efendisi için bu unvan yoktur.
 - İz: M0488 (ham: unvan-hitap-h013)
 
 ### 52. 'Valide sultan' unvanının Osmanlı tarihinin başından beri aynı biçimde kullanılması
@@ -627,10 +639,11 @@ Doğrulanan: 7, tartışmalı/şüpheli: 1, toplam aday: 61.
 - Doğrusu: Valide sultan unvanını ilk defa III. Murad'ın annesi Nurbânû kullandı
 - Açıklama: Unvanın ortaya çıkışı ve yerleşmesi dönemsel bir süreçtir. Erken dönem kadınlarını 1798'deki unvanlarla anmak anakronizmdir.
 - Dönem: 16.yy; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/valide-sultan>: Vâlide sultan unvanını ilk defa III. Murad’ın annesi Nurbânû'nun kullandığı açıkça belirtilmiştir. Not: Kanıt, unvanın başlangıç tarihini doğrudan desteklemektedir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/valide-sultan>: Valide sultan unvanı III. Murad döneminde Nurbânû Sultan ile başlamıştır. Not: Erken dönem kadınlarını bu unvanla anmak anakronizmdir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/valide-sultan>: Valide Sultan unvanı ilk olarak III. Murad annesi Nurbânû Sultan tarafından kullanılmıştır. Not: Kanıt, unvanın başlangıçtan olmadığını, 16. yüzyıl ortalarında (1574) ortaya çıktığını netleştirir.
 - İz: M0489 (ham: unvan-hitap-h015)
 
 ### 53. Haseki unvanının 18. yüzyıl sonu sarayında padişah eşleri için hâlâ başlıca resmi unvan olduğu
@@ -655,6 +668,7 @@ Doğrulanan: 7, tartışmalı/şüpheli: 1, toplam aday: 61.
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt hanedan kadınlarının isimlendirme detaylarını içermiyor.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/sultan>: Padişah kızları 'sultan' unvanıyla anılır. Not: Doğru bir tespittir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: red; <https://islamansiklopedisi.org.tr/sultan>: XVI. yüzyıldan itibaren 'hanım sultan' unvanı padişahların kızları için de kullanıldığı belirtiliyor. Not: Kanıt, 'hanım sultan' unvanının padişah kızları için de geçerli olduğunu gösteriyor; bu yüzden 'hanım sultan' denilmesinin yanlış olduğu iddiası kanıtla çelişiyor.
 - İz: M0498 (ham: unvan-hitap-h028)
 
 ### 55. Padişah kızının kız çocuğuna “sultan” denilmesi
@@ -668,6 +682,7 @@ Doğrulanan: 7, tartışmalı/şüpheli: 1, toplam aday: 61.
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: red; <https://islamansiklopedisi.org.tr/sultan>: Hanım sultan unvanının padişah kızları için de kullanıldığı belirtiliyor. Not: Girdi, hanım sultanın sadece torunlar için olduğunu iddia ederek kanıtla çelişiyor.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/sultan>: Padişah kızlarının çocukları için 'hanım sultan' unvanı kullanılır. Not: Doğru bir tespittir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/sultan>: 'Hanım sultan' unvanı padişah kızları için geçer, torunlar için açıkça belirtilmemiş. Not: Kanıt padişah kızları için 'hanım sultan' kullanıldığını gösteriyor; padişah kızının kızı (torun) için unvan konusunda bilgi vermiyor.
 - İz: M0499 (ham: unvan-hitap-h029)
 
 ### 56. Padişah annesine “kadınefendi” denilmesi
@@ -676,10 +691,11 @@ Doğrulanan: 7, tartışmalı/şüpheli: 1, toplam aday: 61.
 - Doğrusu: Padişah annesine “valide sultan” denilmesi
 - Açıklama: Tahta çıkan padişahın sağ olan annesi valide sultan unvanını taşır; kadınefendi padişah eşleri içindir.
 - Dönem: XVIII. yüzyıl sonu (1798-1800); 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/valide-sultan>: Padişah annesinin Valide Sultan, eşlerinin kadınefendi olduğu belirtiliyor. Not: Kanıt iki unvan arasındaki farkı açıkça ortaya koyuyor.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/valide-sultan>: Padişahın annesi 'valide sultan' unvanını taşır. Not: Kadınefendi unvanı padişah eşleri için kullanılır, valide sultan ile karıştırılmamalıdır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/valide-sultan>: Padişah annesi 'Valide Sultan', eşleri 'Kadınefendi' unvanını taşırdı. Not: Kanıt, valide sultan ve kadınefendi unvanlarının farklı kişiler için kullanıldığını, padişah annesinin valide sultan olduğunu net belirtir.
 - İz: M0500 (ham: unvan-hitap-h030)
 
 ### 57. Valide sultan hayattayken başka bir kadın için “valide sultan” unvanının kullanılması
@@ -688,10 +704,11 @@ Doğrulanan: 7, tartışmalı/şüpheli: 1, toplam aday: 61.
 - Doğrusu: Valide sultan unvanının yalnız tahta çıkan padişahın sağ olan annesine ait olması
 - Açıklama: Valide sultan unvanı padişahın annesine özgüdür; harem hiyerarşisinin en yetkili kişisidir.
 - Dönem: Osmanlı dönemi (1798-1800 dahil); 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/valide-sultan>: Valide sultan unvanının tahta çıkan padişahın sağ olan annesine ait olduğu belirtilmiştir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/valide-sultan>: Valide sultan unvanı tahta çıkan padişahın sağ olan annesine özgüdür.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/valide-sultan>: Valide sultan unvanı padişahın sağ annesindir. Not: Kanıt unvanın tanımını ve tekliğini açıkça belirtir.
 - İz: M0501 (ham: unvan-hitap-h031)
 
 ### 58. Padişah eşinin hiyerarşik derecesiz, tek tip “sultan” diye anılması
@@ -724,10 +741,11 @@ Doğrulanan: 7, tartışmalı/şüpheli: 1, toplam aday: 61.
 - Doğrusu: Valide sultanın huzurunda protokole uyulması, izinsiz yaklaşılıp hitap edilmemesi
 - Açıklama: Valide sultan izin vermedikçe yanına yaklaşılmaz, hitap edilmez ve önünde oturulmazdı.
 - Dönem: Osmanlı dönemi (1798-1800 dahil); 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/valide-sultan>: Valide sultanın izni olmadan yanına yaklaşılmayacağı ve hitap edilmeyeceği belirtilmiştir. Not: Kanıt metni, önerilen doğru kullanımı açıkça desteklemektedir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/valide-sultan>: Valide sultanın huzurunda protokol kuralları çok katıdır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/valide-sultan>: Valide sultan izinsiz yaklaşılmaz, hitap edilmez. Not: Kanıt protokol kurallarını net bir şekilde ortaya koyar.
 - İz: M0511 (ham: unvan-hitap-h048)
 
 ### 61. Hanım sultanın oğluna “şehzade” denilmesi
@@ -740,4 +758,5 @@ Doğrulanan: 7, tartışmalı/şüpheli: 1, toplam aday: 61.
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt metinlerinde 'sultanzade' terimi veya hanım sultan çocuklarının unvan ayrımı geçmemektedir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/sultan>: Hanım sultanların çocukları için sultanzade unvanı kullanılır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/sehzade>: Şehzade tanımı 'hükümdar oğludur', hanım sultan oğulları (sultanzade) için açık tanım yok. Not: Kanıt şehzadenin padişah oğlu olduğunu vurguluyor; hanım sultan erkek çocuğu için 'sultanzade' terimini veya bu ayrımı doğrulamayan bilgi vermiyor.
 - İz: M0513 (ham: unvan-hitap-h050)

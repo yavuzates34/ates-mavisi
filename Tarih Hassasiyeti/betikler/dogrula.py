@@ -56,7 +56,8 @@ def sonuc():
     global KANIT
     ky = os.path.join(KOK, "ham-sayfalar", "kanit.json")
     KANIT = json.load(open(ky, encoding="utf-8")) if os.path.exists(ky) else {}
-    for yol in glob.glob(os.path.join(KOK, "ham-sayfalar", "dogrulama", "*.json")):
+    # düzeltme işleri (-duz-) eskilerin üstüne yazılsın diye en sona
+    for yol in sorted(glob.glob(os.path.join(KOK, "ham-sayfalar", "dogrulama", "*.json")), key=lambda y: ("-duz-" in y, y)):
         d = json.load(open(yol, encoding="utf-8"))
         harf = os.path.basename(yol)[3]
         v = d["veri"]

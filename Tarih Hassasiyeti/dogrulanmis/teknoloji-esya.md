@@ -1,6 +1,6 @@
 # Teknoloji ve eşya – doğrulama sonuçları
 
-Doğrulanan: 4, tartışmalı/şüpheli: 5, toplam aday: 46.
+Doğrulanan: 5, tartışmalı/şüpheli: 3, toplam aday: 46.
 
 ### 1. Okların ve tirkeşin askerin sırtında taşınması.
 
@@ -8,11 +8,12 @@ Doğrulanan: 4, tartışmalı/şüpheli: 5, toplam aday: 46.
 - Doğrusu: Oklar ve tirkeş belde, kemere bağlı şekilde taşınır.
 - Açıklama: Sırttan ok çekmek Hollywood etkisidir; gerçekte belden çekmek çok daha hızlıdır ve göğsü düşmana açmayarak hedefi küçültür.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: tartışmalı (doğrulayıcılar çelişti)
+- Durum: elendi (iki doğrulayıcı da yalanladı)
 - Kaynak (video, 12:42): <https://youtu.be/wO8tY75eCfs?t=762> (Batuhan Yıldız / Hollywood yapımları (Robin Hood vb.)): Okların sırtta taşınması Hollywood efektidir; doğrusu belde, tirkeş içerisinde taşınmasıdır.
 - Kaynak (video, 105:04): <https://youtu.be/wO8tY75eCfs?t=6304> (Mustafa B. Bozkurt / Kuruluş Osman): Okların sırtta durmasının Türklerle alakası yok; saç örgüsüne kadar Legolas'tan araklanmış.
 - Doğrulayan gemini/gemma-4-31b-it: red; <https://islamansiklopedisi.org.tr/ok>: Okların omuza asılan kaplarda taşındığı belirtilmiştir. Not: Kanıt, okların belde değil omuza asılan kaplarda (sadak, tirkeş vb.) taşındığını açıkça belirtmektedir.
-- Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/ok>: Okların sadak, tirkeş veya kubur denilen özel kaplarda taşındığı belirtilmiştir. Not: Sırtta taşıma kullanımı tarihsel gerçekliğe aykırıdır.
+- Doğrulayan gemini/gemini-3.5-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/ok>: Okların tirkeş adı verilen kaplarda taşındığını belirtir. Not: Kanıt okların sadak/tirkeş içinde taşındığını söyler ancak sırtta mı yoksa belde mi taşındığı detayını net doğrulamaz.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: red; <https://islamansiklopedisi.org.tr/ok>: Oklar omuza asılan sadak/tirkeş kapta taşınır. Not: Kanıt 'belde/kemere bağlı' (doğru) ifadesini çürütüp 'omuza asılan' (sırt/yan) olduğunu gösteriyor.
 - İz: M0201 (ham: ordu-h076, ordu-h084)
 
 ### 2. Ertuğrul'un namaz kıldığı seccade modern görünümlüdür.
@@ -44,9 +45,10 @@ Doğrulanan: 4, tartışmalı/şüpheli: 5, toplam aday: 46.
 - Doğrusu: Venedik ile Ceneviz rakiptir; Cenevizliler Venedik simgesini kullanmaz.
 - Açıklama: Semboller ve siyasi kimlikler karıştırılmıştır.
 - Dönem: 15.yy; 1798 için geçerli mi: hayır
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (eleştiri): <https://www.habername.com/haber-fetih-1453te-buyuk-hata-71114.htm> (Erhan Afyoncu / Fetih 1453 (2012)): Venedik’le Ceneviz iki büyük rakiptir. Birbirlerinin simgesini kullanmazlar.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/venedik>: San Marco'nun Venedik simgesi olduğu ve Cenevizle rekabet onaylı. Not: Kanıt, San Marco'nun Venedik'e ait olduğunu ve Cenevizlilerle olan tarihsel rekabeti doğrular.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/venedik>: Venedik ve Ceneviz rekabeti ve semboller anlatılır. Not: Kanıt rakip devletlerin sembol paylaşmadığını destekler.
 - İz: M0043 (ham: diplomasi-donem-h014)
 
 ### 5. Okların konulduğu kılıfa 'sadak' denilmesi.
@@ -60,6 +62,7 @@ Doğrulanan: 4, tartışmalı/şüpheli: 5, toplam aday: 46.
 - Kaynak (video, 10:40): <https://youtu.be/wO8tY75eCfs?t=640> (Batuhan Yıldız / Genel tarihi yapımlar): Okun konduğu çantaya tirkeş denir; sadak ise yayı taşımaya yarayan kılıftır.
 - Doğrulayan gemini/gemma-4-31b-it: red; <https://islamansiklopedisi.org.tr/ok>: Okların sadak, tirkeş veya ok torbasında taşındığı açıkça yazmaktadır. Not: Kanıt, sadak kelimesinin oklar için kullanıldığını belirterek 'dogru' alanını çürütmektedir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/ok>: Oklar sadak, tirkeş veya kubur denilen kaplarda taşınır; terimler bazen birbirinin yerine geçer. Not: Ansiklopedi sadak ve tirkeşin bazen aynı anlamda kullanıldığını belirtse de, ayrım yapılması teknik açıdan doğrudur.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/ok>: Okların sadak, tirkeş gibi kaplarda taşındığı yazılır. Not: Kanıt her iki terimi de ok kılıfı anlamında yan yana geçirir; sadak=yay kılıfı, tirkeş=ok kılıfı ayrımını netleştirmez.
 - İz: M0245 (ham: ordu-h075)
 
 ### 6. Okun yay kirişinden parmaklarla (Avrupa tarzı) çekilmesi.
@@ -68,10 +71,11 @@ Doğrulanan: 4, tartışmalı/şüpheli: 5, toplam aday: 46.
 - Doğrusu: Ok, başparmak çekişi tekniği ve 'zihgir' (yüzük) kullanılarak çekilir.
 - Açıklama: Türk okçuluğunda başparmak çekişi esastır. Bu teknik için 'zihgir' (veya zikir) adı verilen özel bir başparmak yüzüğü kullanılır.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (video, 15:18): <https://youtu.be/wO8tY75eCfs?t=918> (Batuhan Yıldız / Genel tarihi yapımlar): Türk okçuluğunda başparmak çekişi ve zihgir kullanımı temel tekniktir.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/ok>: Başparmak kullanımı ve zihgir yüzüğünün gerekliliği onaylanmıştır.
-- Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/ok>: Türk okçuluğunda başparmak çekişi esastır ve zihgir (yüzük) kullanılır.
+- Doğrulayan gemini/gemini-3.5-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/ok>: Zihgir kullanımını ve okçuluk tekniklerini açıklar. Not: Kanıt başparmak için zihgir kullanıldığını doğrular ancak parmakla çekişin Avrupa tarzı olup olmadığını kıyaslamaz.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/ok>: Başparmağa takılan zihgir (yüzük) ile ok çekildiği belirtiliyor. Not: Kanıt çekiş tekniğini açıkça destekliyor.
 - İz: M0246 (ham: ordu-h077)
 
 ### 7. Askerlerin savaşta sadece 10-12 adet ok taşıması.
@@ -96,6 +100,7 @@ Doğrulanan: 4, tartışmalı/şüpheli: 5, toplam aday: 46.
 - Kaynak (video, 157:32): <https://youtu.be/wO8tY75eCfs?t=9452> (Mustafa B. Bozkurt / genel): Kalkanın bir iple kullanılması filmlerde hiç olmayan, süvariye kolaylık sağlayan bir detaydır.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/kalkan>: Kalkanların tutamaçları ve malzemeleri anlatılmış ancak askı sistemi değinilmemiştir. Not: Kanıt kalkanların tutamaçlarından bahseder ancak omuz askısı sistemine değinmez.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/kalkan>: Kalkanların arkasında tutamak ve taşıma sistemleri mevcuttur. Not: Kalkanlar sadece elde tutulmaz, omuza asılmalarını sağlayan sistemler kullanılırdı.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/kalkan>: Kalkan malzemeleri ve yapım teknikleri açıklanır. Not: Kanıt kalkan taşıma sistemlerini (tutamaç, omuz halkası) kapsamaz; sadece yapı malzemelerine odaklanır.
 - İz: M0260 (ham: ordu-h092)
 
 ### 9. Topkapı Sarayı'nın ısıtılamadığı veya modern sistemlerle ısıtıldığı düşüncesi.
@@ -186,9 +191,10 @@ Doğrulanan: 4, tartışmalı/şüpheli: 5, toplam aday: 46.
 - Doğrulayıcı düzeltmesi: Burak Reis, Kemal Reis ile birlikte Sinop'ta göke tipi gemilerin inşasında görev almış ve bu gemilerin kapudananlığını yapmıştır.
 - Açıklama: Ekşi Şeyler yazarı, gökelerin Kemal Reis ile anıldığını ve Burak Reis'in Karadeniz'de değil Akdeniz'de bilindiğini savunur.
 - Dönem: 15.yy; 1798 için geçerli mi: hayır
-- Durum: şüpheli (bir doğrulayıcı kanıtla yalanladı)
+- Durum: elendi (iki doğrulayıcı da yalanladı)
 - Kaynak (eleştiri): <https://eksiseyler.com/barbaroslar-akdenizin-kilici-dizisinin-ilk-bolumundeki-tarihi-hatalar> (altay horda / Barbaroslar: Akdeniz'in Kılıcı): "göke" adı verilen gemiler kemal reis ile
 - Doğrulayan gemini/gemma-4-31b-it: red; <https://islamansiklopedisi.org.tr/kemal-reis>: Kemal ve Burak Reis'in Sinop'ta göke inşası ve kaptanlıkları anlatılmaktadır. Not: Kanıt, Burak Reis'in de göke inşasında görev aldığını açıkça belirterek 'dogru' alanını çürütmektedir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: red; <https://islamansiklopedisi.org.tr/kemal-reis>: Burak Reis, Kemal Reis ile Sinop'ta göke inşasında görev almış ve İnebahtı'da göke komutanlığı yapmış. Not: Kanıt, Burak Reis'in Sinop'ta göke inşasına başladığını ve göke kapudanlığını yaptığını doğruluyor; 'dogru' alandaki azaltıcı ifade yanlıştır.
 - İz: M0445 (ham: teknoloji-esya-h007)
 
 ### 17. Oruç Reis ve adamlarının neredeyse hepsinde revolver tabanca bulunması
@@ -202,6 +208,7 @@ Doğrulanan: 4, tartışmalı/şüpheli: 5, toplam aday: 46.
 - Kaynak (eleştiri): <https://eksiseyler.com/barbaroslar-akdenizin-kilici-dizisinin-ilk-bolumundeki-tarihi-hatalar> (altay horda / Barbaroslar: Akdeniz'in Kılıcı): oruç reis ve adamlarının neredeyse hepsinde revolver tabancalar var
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/silah>: Genel silah tanımları yapılmış, revolver veya 15. yy detayına girilmemiştir. Not: Madde 15. yüzyıla aittir, romanın geçtiği 1798 dönemiyle ilgisizdir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: red; <https://islamansiklopedisi.org.tr/silah>: Barutlu silahların ilk dönemleri ve genel silah türleri anlatılmaktadır. Not: Madde 15. yüzyıla aittir, 1798 ile ilgisi yoktur.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/silah>: Dönem silâhı ağızdan dolma tüfektir; tabanca/rivolver zikri yok, halk hikayesinde geçer. Not: Kanıt dönemde sadece ağızdan dolma tüfek (tüfek) vurgular, revolvör veya bireysel tabanca kullanımını desteklemez.
 - İz: M0446 (ham: teknoloji-esya-h008)
 
 ### 18. Fragmanda korsanların yelkenli gemilerde, bordalara dizili toplarla çatışması
@@ -366,10 +373,11 @@ Doğrulanan: 4, tartışmalı/şüpheli: 5, toplam aday: 46.
 - Doğrusu: Osmanlı yayları kısa ve kompozit (ahşap, boynuz, sinir) yapıdadır.
 - Açıklama: Osmanlı yayları yaklaşık 100-110 cm ile dünyanın en küçük ve en güçlü yaylarındandır. Kompozit yapısı sayesinde çok uzak menzillere ulaşabilir.
 - Dönem: 16.yy; 1798 için geçerli mi: kısmen
-- Durum: kesin hata (1798 için kısmen geçerli)
+- Durum: kesin hata (üç doğrulayıcı da onayladı) — 1798 için kısmen geçerli
 - Kaynak (video, 16:52): <https://youtu.be/wO8tY75eCfs?t=1012> (Batuhan Yıldız / Genel tarihi yapımlar): Osmanlı yayları kompozit yapıda, kısa ve son derece güçlü silahlardır.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/silah>: Yayın kompozit yapıda ve kısa olduğu kanıtlanmıştır. Not: Teknik bilgi doğrudur ancak kanıt, 18. yy ordusunda yay kullanımının sadece Tatarlarla sınırlı kaldığını belirtmektedir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/silah>: Osmanlı yaylarının kompozit yapıda olduğu ve 18. yüzyılda kullanımının azaldığı belirtilmektedir. Not: 1798'de yay kullanımı orduda neredeyse bitmişti; madde 16. yüzyıl için doğru olsa da 1798 için bağlamı farklıdır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/silah>: Osmanlı yayları kompozit (ahşap, sinir, boynuz), 135-140 cm boyundadır. Not: Kanıt, Osmanlı yayının kompozit ve kısa (135-140 cm) olduğunu açıklar; 18. yüzyılda orduda neredeyse kullanılmamasına rağmen teknik tanım doğrudur.
 - İz: M0468 (ham: teknoloji-esya-h030)
 
 ### 33. Ok kılıfının (tirkeş) koltuk altına gelecek şekilde takılması.
@@ -406,6 +414,7 @@ Doğrulanan: 4, tartışmalı/şüpheli: 5, toplam aday: 46.
 - Kaynak (video, 160:35): <https://youtu.be/wO8tY75eCfs?t=9635> (Mustafa B. Bozkurt / genel): Balçağa haç demek yanlıştır; bu artı formu el koruma amaçlı teknik bir yapıdır.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/kilic>: Balçağın el kaymasını önleme ve koruma işlevi onaylanmıştır.
 - Doğrulayan gemini/gemini-3.1-flash-lite: red; <https://islamansiklopedisi.org.tr/kilic>: Kanıt metin, bazı Memlük kılıçlarında 'haç şeklindeki balçak' ifadesini açıkça kullanmaktadır. Not: Kanıt, 'haç şeklindeki balçak' ifadesini kullanarak bu tanımlamanın tarihsel literatürde var olduğunu doğrulamaktadır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: red; <https://islamansiklopedisi.org.tr/kilic>: Kansu Gavri kılıcında 'haç şeklindeki balçak' ifadesi geçer; form sadece teknik değil. Not: Kanıt, balçağın bir örnekte açıkça 'haç şeklinde' olduğunu belirtir; bu formun sadece teknik olduğu iddiasını zayıflatır.
 - İz: M0471 (ham: teknoloji-esya-h033)
 
 ### 36. Kılıcın kında sadece sürtünmeyle durması
@@ -442,6 +451,7 @@ Doğrulanan: 4, tartışmalı/şüpheli: 5, toplam aday: 46.
 - Kaynak (video, 154:24): <https://youtu.be/wO8tY75eCfs?t=9264> (Mustafa B. Bozkurt / genel): Kalkanın orta göbeği yastıklıdır; darbe aldığınızda yastık olduğu için elinizi korur.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıttaki 'darbe emer' ifadesi kalkan için değil, tombakların yapısı için kullanılmıştır.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/silah>: Madenî göbeğin darbe emici özelliği olduğu kanıt metinde açıkça ifade edilmiştir. Not: Kalkan göbeğinin darbe emici fonksiyonu kanıtla desteklenmektedir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: red; <https://islamansiklopedisi.org.tr/silah>: Kalkan göbeği madenîdır ve darbeyi emer; yastıklı yapı belirtilmemiştir. Not: Kanıt metal göbeğin darbe emdiğini yazar, 'yastıklı iç göbek' iddiasını desteklemez.
 - İz: M0474 (ham: teknoloji-esya-h036)
 
 ### 39. Fatih'in 14 yaşındayken top dökümhanesini gezip Urban'dan bahsetmesi.
@@ -453,6 +463,7 @@ Doğrulanan: 4, tartışmalı/şüpheli: 5, toplam aday: 46.
 - Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
 - Kaynak (video, 19:12): <https://youtu.be/y8Jzdzp3qgA?t=1152> (Ahmet Anapalı / Mehmed: Fetihler Sultanı): Urban ve top dökümü bilgileri Fatih'in ikinci padişahlık dönemine aittir.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/mehmed-ii>: Fatih'in ilk saltanat yaşı (12) ve ikinci saltanat başlangıcı (19) belirtilmiştir. Not: Kanıt, Fatih'in 14 yaşındayken (ilk saltanat) henüz çocuk olduğu ve kuşatmanın ikinci saltanatında gerçekleştiğini doğrular.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/mehmed-ii>: İlk saltanat 12 yaşında, ikinci saltanat 19 yaşında başladığı belirtilir; Urban/top dökümhane zikri yok. Not: Kanıt saltanat yaşlarını doğrular (ikinci dönem 19 yaşında), ancak Urban ve top dökümhanesi konusuna değinmez.
 - İz: M0475 (ham: teknoloji-esya-h037)
 
 ### 40. Osmanlı ordusundaki tüm hafif ve ağır sahra toplarının istisnasız at veya manda çekimli top arabalarıyla taşındığı iddiası.
@@ -485,10 +496,11 @@ Doğrulanan: 4, tartışmalı/şüpheli: 5, toplam aday: 46.
 - Doğrusu: Humbaracılar el bombası imal eden ve kullanan özel bir sınıf olup İstanbul'un fethinden sonra müstakil ocak haline getirilmişti.
 - Açıklama: Humbaracılar mühimmat imalatı ve kullanımıyla görevli bağımsız bir kapıkulu ocağıydı. Merkezdeki humbaracılar ulufeli, taşradakiler ise dirlikli olarak görev yapardı.
 - Dönem: 18.yy; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/humbaraci>: Humbaracıların müstakil ocak olduğu ve 1792 nizamnamesi kanıtlanmıştır. Not: Kanıt, humbaracıların bağımsız bir ocak olduğunu ve 1792'de düzenlemeler yapıldığını açıkça belirtir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/humbaraci>: Humbaracı Ocağı'nın kuruluşu, yapısı ve 1792 nizamnamesi detaylandırılmıştır. Not: Kanıt, humbaracıların bağımsız bir ocak olduğunu ve 1792 düzenlemesini açıkça doğrulamaktadır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/humbaraci>: Humbaracılar 1578'den itibaren ayrı ocak, 1792 kanunnamesiyle tanzim edildi. Not: Kanıt, humbaracıların 1798'de müstakil ocak olduğunu (1792 kanunnamesi) doğrular; ancak 'fetih sonrası' ifadesi 16. yüzyıl sonuna kaydırılmalıdır.
 - İz: M0458 (ham: teknoloji-esya-h020)
 
 ### 43. 1798 İstanbul'unda sahra ve kale toplarının gelişigüzel sivil arabalarla veya mekkârelerle nakledildiğinin kurgulanması.
@@ -509,10 +521,11 @@ Doğrulanan: 4, tartışmalı/şüpheli: 5, toplam aday: 46.
 - Doğrusu: Kapıkulu ordusunun silah temini, tamiri, bakımı ve muhafazası resmi devlet kurumu olan Cebeci Ocağı tarafından yürütülürdü.
 - Açıklama: Cebeciler yeniçeri ve diğer askerlerin lojistik silah ihtiyacını merkeze bağlı olarak karşılardı. Bireysel silah üretimi veya serbest piyasa alışverişi kurumsal orduda uygulanmazdı.
 - Dönem: 18.yy; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/cebeci>: Silah temini ve bakımının Cebeci Ocağı'na ait olduğu belirtilmiştir. Not: Kanıt, Cebeci Ocağı'nın tüfek dahil tüm silahların temini, yapımı ve tamiriyle görevli olduğunu doğrular.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/cebeci>: Cebeci Ocağı'nın silah temini, bakımı ve lojistik görevleri anlatılmaktadır. Not: Kanıt, silahların devlet eliyle (Cebeci Ocağı) temin edildiğini doğrulamaktadır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/cebeci>: Cebeci Ocağı yeniçerilerin silah ve mühimmat teminini resmi olarak yürütürdü. Not: Kanıt, silah teminatinin merkezi bir kurum (Cebeci Ocağı) tarafından yapıldığını, bireysel/serbest piyasa alışverişinin kurumsal orduda yok olduğunu destekler.
 - İz: M0460 (ham: teknoloji-esya-h022)
 
 ### 45. 1798 dönemi muharebe veya kuşatma sahnelerinde patlayıcı olarak modern fünyeli ya da dinamit benzeri gereçlerin lağımcılarca kullanılması.

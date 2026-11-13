@@ -1,6 +1,6 @@
 # Kişi adları – doğrulama sonuçları
 
-Doğrulanan: 1, tartışmalı/şüpheli: 0, toplam aday: 18.
+Doğrulanan: 4, tartışmalı/şüpheli: 0, toplam aday: 18.
 
 ### 1. Ertuğrul Bey'in babası Süleymanşah olarak sunuluyor.
 
@@ -36,7 +36,7 @@ Doğrulanan: 1, tartışmalı/şüpheli: 0, toplam aday: 18.
 - Durum: belirsiz / kaynakta karşılığı yok
 - Kaynak (eleştiri): <https://www.ekrembugraekinci.com/article?ID=684> (Ekrem Buğra Ekinci / Osmanlı konulu diziler/filmler (genel)): Hepsine yeni isim verilir. Hiçbiri Hıristiyan ismiyle anılmaz.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt cariyelerin varlığı ve görevlerinden bahsetmekte ancak isimlendirme geleneklerine değinmemektedir.
-- Doğrulayan gemini/gemini-3.1-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/cariye>: Cariye maddesi genel bir taslak olup saraydaki isim değişikliği pratiğine dair bilgi içermemektedir. Not: Kanıt yetersizdir ancak tarihsel olarak cariyelerin saraya girdiklerinde İslam terbiyesiyle yeni isim aldıkları bilgisi doğrudur. [Orkestratör: gösterilen kaynak bu oturumda okunmuş görünmüyor, onay belirsize indirildi.]
+- Doğrulayan gemini/gemini-3.5-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/kole>: Kadın köleler ve saray cariyeleri hakkındadır. Not: Kanıt sarayda cariyelerin isim değiştirip değiştirmediği konusunu doğrudan kapsamamaktadır.
 - İz: M0174 (ham: isim-ad-h009)
 
 ### 4. Dizide 16. yüzyılda "cellât Kara Ali" adlı bir kişinin yer alması.
@@ -67,9 +67,10 @@ Doğrulanan: 1, tartışmalı/şüpheli: 0, toplam aday: 18.
 - Doğrusu: Kumrular'ın belgelerine göre Kösem ortodoks papaz ailesinden gelmektedir.
 - Açıklama: Dizideki köken anlatısı, araştırmalara dayanan aile bilgisiyle uyuşmaz.
 - Dönem: 17.yy; 1798 için geçerli mi: hayır
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (eleştiri): <https://www.milliyet.com.tr/cadde/sina-kologlu/anastasia-var-mi-2148398> (Özlem Kumrular / Muhteşem Yüzyıl Kösem): “Kösem’in tüccar değil, ortodoks papaz ailesinden geldiği"
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/kosem-sultan>: Kösem Sultan'ın Ortodoks bir papazın kızı olduğu ileri sürülmektedir. Not: Kanıt, papaz kızı olduğu yönündeki görüşü açıkça desteklemektedir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/kosem-sultan>: Kösem'in Ortodoks papaz kızı olduğu ileri sürülür. Not: Kanıt tüccar ailesi iddiasını çürüterek papaz kökenini destekliyor.
 - İz: M0178 (ham: isim-ad-h013)
 
 ### 7. Osman Gazi'nin dedesi Süleymanşah olarak gösteriliyor.
@@ -100,9 +101,10 @@ Doğrulanan: 1, tartışmalı/şüpheli: 0, toplam aday: 18.
 - Doğrusu: Dönem kullanımında ad "Mehmed" biçimiyle anılır.
 - Açıklama: İsimlendirme, tarihsel telaffuz ve yazım alışkanlığından uzaklaşır.
 - Dönem: 15.yy; 1798 için geçerli mi: hayır
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak (eleştiri): <https://www.gazetevatan.com/kultur-sanat/fatih-iyi-ama-431402> (Prof. Dr. Mahmut Ak / Fetih 1453 (2012)): Biz ‘Mehmet’ diyoruz ancak o dönemde ‘Mehmed’ denir.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/mehmed-ii>: Metin boyunca padişahın adı akademik standart olan 'Mehmed' şeklinde yazılmıştır. Not: TDV İslâm Ansiklopedisi'nin kullanım biçimi 'Mehmed' şeklindedir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/mehmed-ii>: Maddede padişah 'Mehmed' olarak yazılıyor. Not: TDV ansiklopedisi dönem kullanımına uygun 'Mehmed' yazımını kullanıyor.
 - İz: M0182 (ham: isim-ad-h022)
 
 ### 10. Doğu Karadeniz'den gelen herkesin 'Laz' sayılması ve III. Selim'i indirenlerin Lazlar olarak anılması
@@ -179,10 +181,11 @@ Doğrulanan: 1, tartışmalı/şüpheli: 0, toplam aday: 18.
 - Doğrusu: 1934 Soyadı Kanunu öncesinde soyadı olmayıp kişiler baba adı, lakap veya memleket nisbesiyle (örn. 'Yılmazoğlu Ahmet' veya 'İstanbullu Ahmet') anılırdı.
 - Açıklama: Osmanlı toplumunda modern anlamda soyadı kullanımı bulunmazdı; kişiler tanımlanırken isimlerinin başına lakap veya sonuna baba adı eklenirdi.
 - Dönem: 18.yy; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/nisbe>: Kişilerin nisbelerle tanımlandığı ve ayırt edildiği açıklanmaktadır.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/nisbe>: Osmanlı'da soyadı yerine nisbe, lakap veya baba adı kullanılırdı. Not: 1798'de modern soyadı kullanımı yoktur, kişiler nisbelerle veya lakaplarla anılırdı.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/nisbe>: İsimlerin nisbe (baba adı, memleket, meslek) ile anlandığı, modern soyadı yokluğu anlatılıyor. Not: Kanıt Osmanlı isimlendirme geleneğinin nisbe sistemine dayandığını, soyadının 1934'te geldiğini destekliyor.
 - İz: M0168 (ham: isim-ad-h023, isim-ad-h025, isim-ad-h026, isim-ad-h027, isim-ad-h028, isim-ad-h030)
 
 ### 17. Devşirme/kul kökenli bir devlet adamının veya paşanın baba adı sorulduğunda öz Hristiyan babasının adının söylenmesi.
@@ -191,10 +194,11 @@ Doğrulanan: 1, tartışmalı/şüpheli: 0, toplam aday: 18.
 - Doğrusu: Kul sisteminden yetişen devşirme kökenlilerin resmi sicildeki baba adı geleneksel olarak 'Abdullah' (Allah'ın kulu) şeklinde yazılırdı.
 - Açıklama: Devşirilip Müslüman yapılan kapıkulu mensuplarının baba adı sicillere ve resmi evraka çoğunlukla 'bin Abdullah' olarak geçerdi.
 - Dönem: 18.yy; 1798 için geçerli mi: evet
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: belirsiz / kaynakta karşılığı yok
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/devsirme>: Devşirme sisteminin işleyişi ve hukuki tartışmaları anlatılmaktadır. Not: Kanıt devşirme sistemini anlatmakta ancak resmi kayıtlardaki baba adı geleneğine değinmemektedir.
-- Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/devsirme>: Devşirmelerin Müslümanlaştırılması ve kul sistemine girişi tarihsel bir gerçektir. Not: Devşirme kökenlilerin baba adının 'Abdullah' olarak kaydedilmesi yerleşik bir uygulamadır.
+- Doğrulayan gemini/gemini-3.5-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/devsirme>: Devşirme sisteminin usulünü ve tarihini açıklar. Not: Kanıt devşirme usullerine değinmektedir ancak sicillerde 'Abdullah' yazıldığı bilgisini içermez.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <adres yok>: Devşirme süreci anlatılıyor, sicil kayıtları değil. Not: Kanıt baba adının 'Abdullah' olarak yazıldığını açıkça belirtmiyor.
 - İz: M0169 (ham: isim-ad-h024, isim-ad-h031)
 
 ### 18. III. Selim'in edebi mahlası olan 'İlhamî' kelimesinin resmi devlet makamında ikinci isim gibi kullanılması.
@@ -203,8 +207,9 @@ Doğrulanan: 1, tartışmalı/şüpheli: 0, toplam aday: 18.
 - Doğrusu: Mahlas şiir ve sanatta takma addır; resmi devlet belgelerinde ve hitapta 'Sultan Selim Han' geçerdi.
 - Açıklama: Padişah veya devlet adamlarının divan edebiyatı mahlasları resmi şahıs ismiyle karıştırılmamalıdır.
 - Dönem: 18.yy; 1798 için geçerli mi: evet
-- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
+- Durum: kesin hata (iki onay: biri A/B, biri üçüncü doğrulayıcı C)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/divan-edebiyati>: Mahlasın şairlerin edebiyat dünyasında kullandığı takma bir ad olduğu belirtilmiştir. Not: Mahlasın 'takma bir edebiyat adı' olduğu bilgisi, resmi isimle karıştırılmaması gerektiğini destekler.
-- Doğrulayan gemini/gemini-3.1-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/mahlas>: Mahlas maddesi genel bir tanımdır, resmi kullanım kuralına dair özel bir kanıt sunmamaktadır. Not: Padişahların resmi belgelerde mahlaslarıyla değil, unvan ve isimleriyle (Sultan Selim Han) anıldıkları tarihsel bir gerçektir. [Orkestratör: gösterilen kaynak bu oturumda okunmuş görünmüyor, onay belirsize indirildi.]
+- Doğrulayan gemini/gemini-3.5-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/divan-edebiyati>: Divan edebiyatında mahlas kullanımını açıklar. Not: Kanıt divan edebiyatında mahlası tanımlar ancak padişahların resmi evrakta mahlas kullanıp kullanmadığını belirtmez.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/divan-edebiyati>: Mahlas şiirde kullanılan takma addır, resmi isim değil. Not: Kanıt mahlasın edebi takma ad olduğunu, resmi belgede kullanılmadığını açıklar.
 - İz: M0183 (ham: isim-ad-h029)

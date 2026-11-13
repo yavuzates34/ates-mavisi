@@ -1,19 +1,20 @@
 # Gündelik dil – doğrulama sonuçları
 
-Doğrulanan: 2, tartışmalı/şüpheli: 2, toplam aday: 16.
+Doğrulanan: 1, tartışmalı/şüpheli: 1, toplam aday: 16.
 
 ### 1. Valide Sultan'ın saraya yeni gelen Hürrem'le Rusça konuşması, 'Kırım Hanı'nın kızıdır da ondan' diye açıklanması
 
 - Yanlış: Valide Sultan'ın saraya yeni gelen Hürrem'le Rusça konuşması, 'Kırım Hanı'nın kızıdır da ondan' diye açıklanması
 - Doğrusu: Ayşe Hafsa Sultan gerçekten Kırım hanının kızıydı ama 16. yüzyıl başında Kırım'da neredeyse hiç Rus etkisi yoktu; bölgenin hâkim dili Kırım Tatarcasıydı.
 - Açıklama: Rusya'nın Kırım üzerinde siyasi ve kültürel etki kurması ancak 250 yıl sonra, 18. yüzyılın sonunda başlayacaktı. Konuşmacı bunu bugünün siyasi haritasını 500 yıl öncesine yapıştırmak olarak görüyor.
-- Dönem: 16.yy; 1798 için geçerli mi: tartışmalı (hayır / evet)
-- Durum: kesin hata
+- Dönem: 16.yy; 1798 için geçerli mi: tartışmalı (hayır / kısmen)
+- Durum: tek onay (bir doğrulayıcı kanıtla onayladı, öteki karar veremedi)
 - Kaynak (eleştiri): <https://www.ekrembugraekinci.com/article?ID=313&muhte%C5%9Fem-y%C3%BCzyil%E2%80%99da-g%C3%B6ze-takilanlar> (Ekrem Buğra Ekinci / Muhteşem Yüzyıl): Kırım’da Rus tesiri bahis mevzuu değildir.
 - Kaynak (eleştiri): <https://www.yenisafak.com/gundem/muhtesem-yuzyilda-muhtesem-hatalar-298064> (Ayşe Böhürler (okur notlarıyla aktarılan eleştiri) / Muhteşem Yüzyıl): Kırım Tatarları 250 yıl daha Rus egemenliğine girmeyecek
 - Kaynak (video, 16:59): <https://youtu.be/4XtiG4ZFQjk?t=1019> (sinema&dizi kanalı sunucusu (adı belirtilmemiş) / Muhteşem Yüzyıl): O dönem Kırım'da neredeyse hiç Rus etkisi yoktu, hâkim dil Kırım Tatarcasıydı
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/kirim>: Kırım Hanlığı'nın kuruluşu ve Osmanlı ile ilişkileri anlatılmaktadır. Not: Kırım Hanlığı'nın bağımsız yapısı ve Moskova ile olan çatışmaları, Rusça kullanımının imkansızlığını destekler.
-- Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/kirim>: Kırım Hanlığı'nın Osmanlı nüfuzu altında olduğunu ve bölge yapısını açıklar. Not: Kanıt, Kırım'ın Osmanlı nüfuzundaki yapısını ve tarihsel sürecini desteklemektedir.
+- Doğrulayan gemini/gemini-3.5-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/kirim>: Kanıt Kırım Hanlığı'nın kurulması ve Osmanlı ilişkilerini anlatır, dil konusuna değinmez. Not: Kırım Hanlığı'nın dili ve dönemsel dil politikası kanıtta yer almamaktadır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/kirim>: Kırım Hanlığı 16. yüzyılda Osmanlı himayesinde, Moskova ile mücadele geç başlar. Not: Kanıt dil değil siyasi tarihi anlatır; Rusça konuşma iddiasını doğrulama/yoklama kapsamaz.
 - İz: M0099 (ham: gundelik-dil-h020, gundelik-dil-h005, gundelik-dil-h007)
 
 ### 2. Devletin adı Devlet-i Âliyye diye, ilk A uzatılarak söyleniyor.
@@ -40,6 +41,7 @@ Doğrulanan: 2, tartışmalı/şüpheli: 2, toplam aday: 16.
 - Kaynak (eleştiri): <https://haber.sol.org.tr/toplum/akpnin-payitaht-abdulhamid-dizisi-hatalarla-dolu-187292> (Murat Bardakçı / Payitaht Abdülhamid): Abdülkadir'in ortasındaki a uzun okunmalıydı, kısaltılmış.
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/bedauni-abdulkadir>: İsimde uzun 'a' kullanımı (Abdülkādir) transkripsiyonla gösterilmiştir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: belirsiz; <adres yok>: Kanıt sunulmamıştır. Not: Dil bilgisi ve telaffuz konusu ansiklopedik bir madde değildir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <adres yok>: Kanıt telaffuz bilgisini içermiyor. Not: TDV maddeleri Abdülkadir isimli kişilerin biyografisini verir, ismin telaffuzunu değil.
 - İz: M0166 (ham: isim-ad-h019, isim-ad-h001)
 
 ### 4. "Rasulallah" kelimesi filmde yanlış yazılmış ve yanlış telaffuz edilmiş.
@@ -72,10 +74,11 @@ Doğrulanan: 2, tartışmalı/şüpheli: 2, toplam aday: 16.
 - Doğrulayıcı düzeltmesi: Kelime Arapça kökenli 'iklîm'dir; 'ı' ile başlamaz.
 - Açıklama: Bardakçı altı kelimenin üçünün telaffuzunun yanlış olduğunu yazıyor. Kelime 1798'de de aynı şekilde okunurdu.
 - Dönem: 17.yy; 1798 için geçerli mi: evet
-- Durum: şüpheli (bir doğrulayıcı kanıtla yalanladı)
+- Durum: elendi (iki doğrulayıcı da yalanladı)
 - Kaynak (eleştiri): <https://kosem.firaz.net/konu-18101.html> (Murat Bardakçı / Muhteşem Yüzyıl: Kösem): Doğrusu ıklîm'dir; oyuncu ikinci i'yi de kısa kesip iklim diyor.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/iklim>: Yeryüzünün yedi iklime ayrılması fikri ve coğrafi tasnif anlatılmaktadır. Not: Kanıt kelimenin coğrafi anlamını tartışmakta, telaffuz kurallarına değinmemektedir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: red; <https://islamansiklopedisi.org.tr/iklim>: Kelime 'İklim' maddesi altında, 'İ' harfi ile başlatılarak tanımlanmıştır. Not: Kanıt, kelimenin 'İklim' şeklinde yazıldığını göstermektedir; 'ıklîm' iddiası yanlıştır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: red; <https://islamansiklopedisi.org.tr/iklim>: Başlık 'İKLİM', metinde 'iklim' yazılır; 'ıklîm' yazımı yoktur. Not: TDV yazımı 'iklim'dir; 'ıklîm' yanlıştır, bu madde sahte bir düzeltme içerir.
 - İz: M0096 (ham: gundelik-dil-h002)
 
 ### 7. Üç kıt'anın padişahı sözünde kıt'a kelimesinin son a'sı uzatılıyor.
@@ -112,6 +115,7 @@ Doğrulanan: 2, tartışmalı/şüpheli: 2, toplam aday: 16.
 - Kaynak (video, 05:46): <https://youtu.be/cfpNs-nS9Po?t=346> (Kadir Mısıroğlu / Payitaht Abdülhamid): Padişah dizide görev ve ödev gibi modern Türkçe kelimelerle konuşturulmaktadır.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <https://islamansiklopedisi.org.tr/abdulhamid-ii>: Sultan'ın 'vazife' kelimesini kullandığına dair alıntı içerir. Not: Madde II. Abdülhamid dönemiyle ilgilidir, romanın geçtiği 1798 yılına uygun değildir.
 - Doğrulayan gemini/gemini-3.1-flash-lite: red; <https://islamansiklopedisi.org.tr/abdulhamid-ii>:  Not: Madde II. Abdülhamid dönemine aittir, 1798'de III. Selim dönemi için de anahronizm geçerlidir. Kanıt, 'görev' kelimesinin 19. yüzyıl sonunda kullanıldığını göstererek 'modern Türkçe kelime' iddiasını çürütmektedir.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/abdulhamid-ii>: II. Abdülhamid'in siyasi faaliyetleri ve Meclis-i Mebusan anlatılıyor. Not: Kanıt dil kullanımına dair bilgi vermiyor. Madde 19. yy sonrası için, 1798 (III. Selim) dönemi kapsamı dışında.
 - İz: M0110 (ham: gundelik-dil-h021)
 
 ### 10. Yabancı kökenli cariyelerin saraya geldikten kısa süre sonra kusursuz Türkçe konuşması.
@@ -119,11 +123,11 @@ Doğrulanan: 2, tartışmalı/şüpheli: 2, toplam aday: 16.
 - Yanlış: Yabancı kökenli cariyelerin saraya geldikten kısa süre sonra kusursuz Türkçe konuşması.
 - Doğrusu: Cariyelerin uzun süre aksanlı konuşması.
 - Açıklama: Ruthenia gibi uzak coğrafyalardan gelen birinin birkaç ayda mükemmel Türkçe öğrenmesi imkansızdır, aksan bir zarurettir.
-- Dönem: genel; 1798 için geçerli mi: evet
+- Dönem: genel; 1798 için geçerli mi: tartışmalı (evet / genel)
 - Durum: belirsiz / kaynakta karşılığı yok
 - Kaynak (video, 01:00): <https://youtu.be/oFWkb0OO39U?t=60> (Meral Okay / Muhteşem Yüzyıl): Ruthenia'dan gelen bir hatunun 3 ayda çok iyi Türkçe konuşması mümkün değildir.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıt kölelik terimleri ve hukuku üzerinedir, dil öğrenimiyle ilgili bilgi içermez.
-- Doğrulayan gemini/gemini-3.1-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/cariye>:  Not: Gündelik hayat ve dil öğrenme süreci ansiklopedik bir bilgi değildir, ancak kanıt yetersizdir.
+- Doğrulayan gemini/gemini-3.5-flash-lite: belirsiz; <https://islamansiklopedisi.org.tr/kole>: Kanıt kölelik terimlerini ve hukuki statülerini açıklar, dil öğrenme süresine değinmez. Not: Cariyelerin Türkçe öğrenme süreleri ve aksanları ansiklopedik bir madde değildir.
 - İz: M0111 (ham: gundelik-dil-h022)
 
 ### 11. Dizilerde karakterlerin bozuk, zorlama bir Türkçe ile konuşması.
@@ -148,6 +152,7 @@ Doğrulanan: 2, tartışmalı/şüpheli: 2, toplam aday: 16.
 - Kaynak (video, 31:25): <https://youtu.be/zh5x1Oo8Bxs?t=1885> (Ceren Sungur / Muhteşem Yüzyıl): Dizide irademdir veya muradınız gibi kelimelerin kullanılması izleyici için bir kazanımdır.
 - Doğrulayan gemini/gemma-4-31b-it: belirsiz; <adres yok>:  Not: Kanıtlar iradenin hukuki/felsefi tanımı ve Divan'ın yapısı üzerinedir, hitap dilini kapsamaz.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/irade>:  Not: Padişahın iradesini beyan etme biçimi dönemin hukuk diliyle uyumludur.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: belirsiz; <https://islamansiklopedisi.org.tr/irade>: İrade kavramı hukuki boyutuyla, iç/dış irade ayrımıyla anlatılıyor. Not: Kanıt padişahın hitap protokolünü ('İrademdir' vb.) değil, hukuki kavramı ele alıyor.
 - İz: M0114 (ham: gundelik-dil-h025)
 
 ### 13. İbrahim Paşa için 'dönme' tabiri kullanılır.
@@ -191,8 +196,9 @@ Doğrulanan: 2, tartışmalı/şüpheli: 2, toplam aday: 16.
 - Doğrusu: 'Millet'i dinî cemaat (Rum milleti, Ermeni milleti vb.) anlamında kullanmak
 - Açıklama: Osmanlı düzeninde millet, etnik ulus değil dinî zümreyi ifade ederdi. Kelimenin modern 'ulus' anlamı daha sonraki dönemde yerleşmiştir.
 - Dönem: genel; 1798 için geçerli mi: evet
-- Durum: kesin hata
+- Durum: kesin hata (üç doğrulayıcı da onayladı)
 - Kaynak: konu taraması (bir tarihçinin ya da yapımın eleştirisine dayanmıyor; dayanak doğrulayıcının okuduğu TDV kanıtıdır)
 - Doğrulayan gemini/gemma-4-31b-it: onay; <https://islamansiklopedisi.org.tr/millet>: Milletin dinî cemaat anlamında kullanıldığı ve modern anlamının sonradan yerleştiği onaylanmıştır.
 - Doğrulayan gemini/gemini-3.1-flash-lite: onay; <https://islamansiklopedisi.org.tr/millet>: Millet kelimesinin Osmanlı'da dinî cemaat anlamında kullanıldığını açıkça belirtir. Not: Kanıt, millet kavramının etnik değil dinî bir aidiyeti ifade ettiğini doğrulamaktadır.
+- Doğrulayan openrouter/nvidia/nemotron-3-ultra-550b-a55b:free: onay; <https://islamansiklopedisi.org.tr/millet>: Millet klasik dönemde dinî cemaat, modern ulus anlamı 19. yüzyıldır. Not: Kanıt 1798 için dinî cemaat anlamının hâkim olduğunu, ulus anlamının 19. yüzyıl sonrası olduğunu destekler.
 - İz: M0106 (ham: gundelik-dil-h015, gundelik-dil-h016)
