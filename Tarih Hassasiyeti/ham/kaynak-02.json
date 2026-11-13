@@ -1,0 +1,315 @@
+{
+ "model": "opencode/deepseek-v4.1-flash-free",
+ "ad": "kaynak-02",
+ "tarih": "2026-11-13 15:10",
+ "veri": {
+  "kaynaklar": [
+   {
+    "url": "https://www.ensonhaber.com/ilber-ortayli-muhtesem-yuzyilin-yapimcisini-azarladi-2016-03-09-h10644363",
+    "baslik": "İlber Ortaylı Muhteşem Yüzyıl'ın yapımcısını azarladı",
+    "kisi": "İlber Ortaylı",
+    "tarih": "9 Mart 2016",
+    "yapim": "Muhteşem Yüzyıl: Kösem",
+    "tur": "haber"
+   },
+   {
+    "url": "https://t24.com.tr/kultur-sanat/ilber-ortaylidan-muhtesem-yuzyil-kosem-elestirisi-dizi-hatalarla-dolu,331507",
+    "baslik": "İlber Ortaylı'dan Muhteşem Yüzyıl Kösem eleştirisi: Dizi hatalarla dolu",
+    "kisi": "İlber Ortaylı",
+    "tarih": "10 Mart 2016",
+    "yapim": "Muhteşem Yüzyıl: Kösem",
+    "tur": "haber"
+   },
+   {
+    "url": "https://t24.com.tr/gundem/ilber-ortaylidan-muhtesem-yuzyil-yorumu-bunu-yazanlarin-hic-bir-sekilde-tarihle-ilgileri-yok,218537",
+    "baslik": "İlber Ortaylı'dan Muhteşem Yüzyıl yorumu: Bunu yazanların hiç bir şekilde tarihle ilgileri yok",
+    "kisi": "İlber Ortaylı",
+    "tarih": "29 Kasım 2012",
+    "yapim": "Muhteşem Yüzyıl",
+    "tur": "röportaj"
+   },
+   {
+    "url": "https://www.milliyet.com.tr/yazarlar/ilber-ortayli/muhtesem-harem-1635800",
+    "baslik": "Muhteşem harem",
+    "kisi": "İlber Ortaylı",
+    "tarih": "2 Aralık 2012",
+    "yapim": "Muhteşem Yüzyıl",
+    "tur": "yazı"
+   },
+   {
+    "url": "https://www.milliyet.com.tr/cadde/harem-oyle-degil-boyledir-1560178",
+    "baslik": "Harem öyle değil, böyledir",
+    "kisi": "İlber Ortaylı",
+    "tarih": "29 Haziran 2012",
+    "yapim": "genel",
+    "tur": "röportaj"
+   },
+   {
+    "url": "https://www.internethaber.com/harem-hayatiyla-ilgili-sirlari-ilber-ortayli-acikladi-1576805h.htm",
+    "baslik": "Harem hayatıyla ilgili sırları İlber Ortaylı açıkladı",
+    "kisi": "İlber Ortaylı",
+    "tarih": "20 Mart 2016",
+    "yapim": "genel",
+    "tur": "haber"
+   },
+   {
+    "url": "https://artigercek.com/guncel/ilber-ortaylidan-trt-dizisine-elestiri-boyle-bir-abdulhamid-yok-80394h",
+    "baslik": "İlber Ortaylı'dan TRT dizisine eleştiri: Böyle bir Abdülhamid yok",
+    "kisi": "İlber Ortaylı",
+    "tarih": "23 Aralık 2018",
+    "yapim": "Payitaht: Abdülhamid",
+    "tur": "haber"
+   },
+   {
+    "url": "https://www.turkiyegazetesi.com.tr/kultur-sanat/ilber-ortaylidan-fatih-dizisine-sert-elestiri-80769",
+    "baslik": "İlber Ortaylı'dan 'Fatih' dizisine sert eleştiri",
+    "kisi": "İlber Ortaylı",
+    "tarih": "25 Eylül 2013",
+    "yapim": "Fatih",
+    "tur": "haber"
+   }
+  ],
+  "maddeler": [
+   {
+    "yanlis": "Dizide 'Venedik Prensesi geliyor' denmesi ve Venedikli bir prenses karakteri",
+    "dogru": "Venedik monarşi değil cumhuriyetti; 'Venedik prensesi' diye bir unvan yoktu",
+    "aciklama": "Ortaylı, Venedik'in cumhuriyet olduğunu, dolayısıyla prenses unvanının uydurma olduğunu söylüyor. Aynı eleştiriyi Muhteşem Yüzyıl için de tekrarlamıştı.",
+    "konu": "unvan-hitap",
+    "donem": "16.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Muhteşem Yüzyıl: Kösem",
+    "kisi": "İlber Ortaylı",
+    "kaynak_url": "https://www.ensonhaber.com/ilber-ortayli-muhtesem-yuzyilin-yapimcisini-azarladi-2016-03-09-h10644363",
+    "kaynak_ozet": "'Venedik'in prensesi olmaz. Venedik, cumhuriyettir çünkü.'"
+   },
+   {
+    "yanlis": "16. yüzyıl İstanbul'unda yabancıların turistik gezi amacıyla gelmesi",
+    "dogru": "16. yüzyılda kimse turistik gezi için İstanbul'a gelmezdi",
+    "aciklama": "Ortaylı bunu 16. yüzyıl dizisi için söylüyor; modern turizm çerçevesi döneme yabancı. 1798'de yabancı seyyahlar bulunsa da 'turist' kavramı anakronik.",
+    "konu": "sehir-mekan",
+    "donem": "16.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Muhteşem Yüzyıl: Kösem",
+    "kisi": "İlber Ortaylı",
+    "kaynak_url": "https://www.ensonhaber.com/ilber-ortayli-muhtesem-yuzyilin-yapimcisini-azarladi-2016-03-09-h10644363",
+    "kaynak_ozet": "'16. asırda kimse turistik gezi için İstanbul'a gelmez.'"
+   },
+   {
+    "yanlis": "Kanuni Süleyman'ın divan-ı hümayunda bir tablo gibi kompozisyon içinde oturtulması",
+    "dogru": "Padişah divanda bu şekilde bir tablo düzeni içinde oturtulmaz",
+    "aciklama": "Ortaylı, divandaki padişah sahnesinin dönemin protokolüne uymadığını söylüyor. 18. yüzyılda divan düzeni değiştiği için 1798 sahnesi ayrıca kurulmalı.",
+    "konu": "saray-devlet",
+    "donem": "16.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Muhteşem Yüzyıl: Kösem",
+    "kisi": "İlber Ortaylı",
+    "kaynak_url": "https://www.ensonhaber.com/ilber-ortayli-muhtesem-yuzyilin-yapimcisini-azarladi-2016-03-09-h10644363",
+    "kaynak_ozet": "'Kanuni Süleyman, divanı hümayunda öyle bir tabloya oturtulmaz.'"
+   },
+   {
+    "yanlis": "Valide sultan ve sultanların dekolte kıyafetlerle gösterilmesi",
+    "dogru": "Osmanlı sultanları vücutta hiç açık bırakmayacak şekilde kapalı giyinirdi",
+    "aciklama": "Ortaylı, dizideki dekolte kostümlerin dönemin giyimini yansıtmadığını söyledi. Saray kadınları baştan aşağı örtülü giyiniyordu.",
+    "konu": "giyim",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl: Kösem",
+    "kisi": "İlber Ortaylı",
+    "kaynak_url": "https://t24.com.tr/kultur-sanat/ilber-ortaylidan-muhtesem-yuzyil-kosem-elestirisi-dizi-hatalarla-dolu,331507",
+    "kaynak_ozet": "'Osmanlı sultanları dizideki gibi dekolte değil, vücutta hiç açık bırakmayacak şekilde kapalı giysiler giyerdi'"
+   },
+   {
+    "yanlis": "Dizide 'ilkokul müsameresi' gibi kılıklar ve döneme uymayan makyaj",
+    "dogru": "Kostüm ve makyaj dönemin gerçek giyim ve görünümüne uymalı",
+    "aciklama": "Ortaylı kumaşı ve Topkapı dekorunu beğenmekle birlikte kılık ve makyajı tarih dışı buluyor. Dizinin tarihi gerçekle ilgisi olmadığını söylüyor.",
+    "konu": "giyim",
+    "donem": "16.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "İlber Ortaylı",
+    "kaynak_url": "https://www.milliyet.com.tr/yazarlar/ilber-ortayli/muhtesem-harem-1635800",
+    "kaynak_ozet": "'ilkokul müsameresindeki gibi kılıklar, garip makyajlar'"
+   },
+   {
+    "yanlis": "Harem dairesinin 16. yüzyıldan önceki dönemlerde de var sayılması",
+    "dogru": "Topkapı Sarayı'nın harem bölümü 16. yüzyıl eseridir, Mimar Sinan yapmıştır",
+    "aciklama": "Ortaylı'ya göre harem dairesi Kanuni'nin emriyle 16. yüzyılda yapıldı. Daha erken dönemi anlatan bir yapımda bu mekân olamaz.",
+    "konu": "sehir-mekan",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "İlber Ortaylı",
+    "kaynak_url": "https://www.internethaber.com/harem-hayatiyla-ilgili-sirlari-ilber-ortayli-acikladi-1576805h.htm",
+    "kaynak_ozet": "'Topkapı Sarayı'nın Harem bölümü... 16'ncı asrın eseridir.'"
+   },
+   {
+    "yanlis": "Haremde yemek pişirilmesi ve sofraların orada kurulması",
+    "dogru": "Yemekler mutfaklardan gelir, harem girişindeki taş sete bırakılırdı",
+    "aciklama": "Ortaylı, haremde mutfak olmadığını, yemeklerin dışarıdan getirilip kapların temizlenerek geri gönderildiğini yazıyor.",
+    "konu": "yemek-kahve-tutun",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "İlber Ortaylı",
+    "kaynak_url": "https://www.internethaber.com/harem-hayatiyla-ilgili-sirlari-ilber-ortayli-acikladi-1576805h.htm",
+    "kaynak_ozet": "'Harem'de yemek pişirilmez... taş set üzerine bırakılır'"
+   },
+   {
+    "yanlis": "Harem kadınlarının okuma yazma bilmeyen, cahil kişiler olarak gösterilmesi",
+    "dogru": "Haremde okuma yazma oranı yüksekti; kadınlar edebiyat ve din eğitimi alırdı",
+    "aciklama": "Ortaylı haremde iki okul bulunduğunu ve bazı cariyelerin şehzadelerden daha iyi yazdığını belirtiyor. Harem 'ahmakların yükseleceği' bir yer değildi.",
+    "konu": "harem-kadin",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "İlber Ortaylı",
+    "kaynak_url": "https://www.internethaber.com/harem-hayatiyla-ilgili-sirlari-ilber-ortayli-acikladi-1576805h.htm",
+    "kaynak_ozet": "'Harem'de okuma-yazma oranı çok yüksektir.'"
+   },
+   {
+    "yanlis": "Haremde kavga, dedikodu ve hırsızlığın serbest ya da hoş görülür gösterilmesi",
+    "dogru": "Haremde sert disiplin vardı; bu suçlar affedilmez, cezalandırılırdı",
+    "aciklama": "Ortaylı haremde katı bir düzen olduğunu ve saray adabına uyulması gerektiğini söylüyor.",
+    "konu": "harem-kadin",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "İlber Ortaylı",
+    "kaynak_url": "https://www.internethaber.com/harem-hayatiyla-ilgili-sirlari-ilber-ortayli-acikladi-1576805h.htm",
+    "kaynak_ozet": "'Kızların kavgacılığı... hırsızlıkları affedilmez, cezalandırılırdı'"
+   },
+   {
+    "yanlis": "Valide sultan dairesinin ve gözde odalarının görkemli, geniş mekânlar olarak çizilmesi",
+    "dogru": "Valide Sultan dairesi fazla geniş değildi; gözde ve haseki odaları küçüktü",
+    "aciklama": "Ortaylı, Topkapı haremindeki dairelerin dar olduğunu ve saraylı kızların 'kırk merdiven' denen alt bölümde yattığını yazıyor.",
+    "konu": "sehir-mekan",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "İlber Ortaylı",
+    "kaynak_url": "https://www.internethaber.com/harem-hayatiyla-ilgili-sirlari-ilber-ortayli-acikladi-1576805h.htm",
+    "kaynak_ozet": "'Valide Sultan Dairesi... fazla geniş değildir.'"
+   },
+   {
+    "yanlis": "Bir yabancı ressamın hareme girip harem hayatını resmetmesi",
+    "dogru": "Melling hareme hiç girmedi; harem tasviri Hatice Sultan'ın konağından esinlenmiş olabilir",
+    "aciklama": "Ortaylı, 18. yüzyıl sonunda Melling'in hareme giremediğini, kimsenin giremediğini söylüyor. Hatice Sultan III. Selim'in kız kardeşiydi.",
+    "konu": "harem-kadin",
+    "donem": "18.yy",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "İlber Ortaylı",
+    "kaynak_url": "https://www.milliyet.com.tr/cadde/harem-oyle-degil-boyledir-1560178",
+    "kaynak_ozet": "'Melling... hiçbir zaman Harem'e girmedi. Kimse giremezdi zaten.'"
+   },
+   {
+    "yanlis": "Hareme serbestçe girilip çıkılması ve yabancıların harem halkıyla temas kurması",
+    "dogru": "Hareme yalnız müzik ve nakkaşlar için izin verilirdi; başka temas yoktu",
+    "aciklama": "Ortaylı'ya göre harem halkıyla dışarıdan kimsenin teması yoktu. Odun taşıyanlar bile başlarını öne eğerek girerdi.",
+    "konu": "harem-kadin",
+    "donem": "18.yy",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "İlber Ortaylı",
+    "kaynak_url": "https://www.milliyet.com.tr/cadde/harem-oyle-degil-boyledir-1560178",
+    "kaynak_ozet": "'Harem'e müzik için girilmiştir ya da bazı nakkaşlara izin verilmiştir'"
+   },
+   {
+    "yanlis": "Haremde her cariyenin ayrı ve lüks bir odası olması",
+    "dogru": "Cariyeler koğuş sisteminde, herkes aynı odada uyurdu",
+    "aciklama": "Ortaylı, haremde koğuş düzeninin geçerli olduğunu ve herkesin aynı odada yattığını söylüyor.",
+    "konu": "harem-kadin",
+    "donem": "18.yy",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "İlber Ortaylı",
+    "kaynak_url": "https://www.milliyet.com.tr/cadde/harem-oyle-degil-boyledir-1560178",
+    "kaynak_ozet": "'Herkes aynı odada uyuyor.'"
+   },
+   {
+    "yanlis": "Devlet adamlarının ve padişahın şehir içinde arabayla dolaşması",
+    "dogru": "Türk devlet adamları hasta değilse at sırtında giderdi; 'arabaya avratlar biner' denirdi",
+    "aciklama": "Ortaylı, Evliya Çelebi'den Karamanlı Mehmet Paşa'nın Avusturya heyetine verdiği bu cevabı aktarıyor. Anekdot 16. yüzyıla ait; 1798 için sınır ayrıca kontrol edilmeli.",
+    "konu": "teknoloji-esya",
+    "donem": "16.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "genel",
+    "kisi": "İlber Ortaylı",
+    "kaynak_url": "https://www.milliyet.com.tr/cadde/harem-oyle-degil-boyledir-1560178",
+    "kaynak_ozet": "'Bizde arabaya avratlar biner' diye çıkışıyor."
+   },
+   {
+    "yanlis": "Haremdeki her kadının padişahın gözdesi ya da hasekisi gibi gösterilmesi",
+    "dogru": "Herkes padişahla beraber olmazdı; cariyeler çırak çıkarılıp evlendirilirdi",
+    "aciklama": "Ortaylı, harem kadınlarının bir kısmının devlet görevlileriyle evlendirildiğini, bazılarının ise isteğiyle kaldığını yazıyor.",
+    "konu": "harem-kadin",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "İlber Ortaylı",
+    "kaynak_url": "https://www.internethaber.com/harem-hayatiyla-ilgili-sirlari-ilber-ortayli-acikladi-1576805h.htm",
+    "kaynak_ozet": "'Herkesin padişahla beraber olması zaten mümkün değildi.'"
+   },
+   {
+    "yanlis": "Harem'i yalnız Osmanlı'ya özgü bir kurum gibi göstermek",
+    "dogru": "Harem evrensel bir kurumdur, Osmanlı'ya has değildir",
+    "aciklama": "Ortaylı, harem kelimesinin Arapça 'haram'dan geldiğini ve normal evlerde de selamlık-harem ayrımı bulunduğunu hatırlatıyor.",
+    "konu": "harem-kadin",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "İlber Ortaylı",
+    "kaynak_url": "https://www.internethaber.com/harem-hayatiyla-ilgili-sirlari-ilber-ortayli-acikladi-1576805h.htm",
+    "kaynak_ozet": "'Harem, Osmanlı'ya has bir kurum değildir. Üniversaldir.'"
+   },
+   {
+    "yanlis": "Padişahın yabancı bir konsolosa tokat atması",
+    "dogru": "Osmanlı padişahı konsolos dövmezdi; bu diplomatik teamüle aykırıydı",
+    "aciklama": "Ortaylı, 'böyle bir Abdülhamid yok' diyerek sahneyi reddediyor. Konsolosu dövdürten kişinin bir şeyhülislam olduğunu söylüyor.",
+    "konu": "diplomasi-donem",
+    "donem": "19.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Payitaht: Abdülhamid",
+    "kisi": "İlber Ortaylı",
+    "kaynak_url": "https://artigercek.com/guncel/ilber-ortaylidan-trt-dizisine-elestiri-boyle-bir-abdulhamid-yok-80394h",
+    "kaynak_ozet": "'Osmanlı padişahı konsolos falan dövmez.'"
+   },
+   {
+    "yanlis": "Abdülhamid'in dizideki gibi atak, hareketli ve renk veren bir karakter olması",
+    "dogru": "Abdülhamid son derece suskun, tedbirli ve hiç renk vermeyen bir padişahtı",
+    "aciklama": "Ortaylı diziyi 'böyle bir Abdülhamid yok, böyle bir devir de yok' diye eleştiriyor.",
+    "konu": "saray-devlet",
+    "donem": "19.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Payitaht: Abdülhamid",
+    "kisi": "İlber Ortaylı",
+    "kaynak_url": "https://artigercek.com/guncel/ilber-ortaylidan-trt-dizisine-elestiri-boyle-bir-abdulhamid-yok-80394h",
+    "kaynak_ozet": "'Son derece suskun, tedbirli konuşan, hiç renk vermeyen... bir padişahtı.'"
+   },
+   {
+    "yanlis": "Fatih dizisinde kostüm ve rejinin dönemi yansıtmaması",
+    "dogru": "Tarihi kişilerde rejiden kostüme kadar her ayrıntı döneme uymalı",
+    "aciklama": "Ortaylı fragmanı izleyip 'birçok hata' bulduğunu söyledi. Senaristlerin tarihi senaryoyu 'çocuk oyuncağı' saydığını belirtti.",
+    "konu": "giyim",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fatih",
+    "kisi": "İlber Ortaylı",
+    "kaynak_url": "https://www.turkiyegazetesi.com.tr/kultur-sanat/ilber-ortaylidan-fatih-dizisine-sert-elestiri-80769",
+    "kaynak_ozet": "'rejiden, kostüme kadar her bir detayın önemli olduğunu'"
+   },
+   {
+    "yanlis": "Hürrem Sultan'ın devletin kaderini tek başına belirleyen figür olarak çizilmesi",
+    "dogru": "Hürrem'in devleti yıktığı anlatısı abartıdır; bu daha çok bazı tarih yazarlarının yaklaşımı",
+    "aciklama": "Ortaylı, 'Osmanlı Devleti'ni Hürrem'e yıktırıyorlar' diyerek bu anlatıyı eleştiriyor. Sinemacının dramanın başka yüzlerini de görmesi gerektiğini söylüyor.",
+    "konu": "saray-devlet",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "İlber Ortaylı",
+    "kaynak_url": "https://t24.com.tr/gundem/ilber-ortaylidan-muhtesem-yuzyil-yorumu-bunu-yazanlarin-hic-bir-sekilde-tarihle-ilgileri-yok,218537",
+    "kaynak_ozet": "'Osmanlı Devleti'ni Hürrem'e yıktırıyorlar.'"
+   }
+  ]
+ }
+}

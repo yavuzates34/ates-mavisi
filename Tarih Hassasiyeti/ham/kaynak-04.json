@@ -1,0 +1,43 @@
+{
+ "model": "opencode/deepseek-v4.1-flash-free",
+ "ad": "kaynak-04",
+ "tarih": "2026-11-13 15:06",
+ "veri": {
+  "kaynaklar": [
+   {
+    "url": "https://marmaraurbanforum.org/s/ceren-sungur?l=tr",
+    "baslik": "Ceren Sungur — Marmara Urban Forum konuşmacı sayfası",
+    "kisi": "Ceren Sungur",
+    "tarih": "bilinmiyor",
+    "yapim": "—",
+    "tur": "yazı"
+   },
+   {
+    "url": "https://vivatolye.com/rehberler/ceren-sungur",
+    "baslik": "Ceren Sungur arşivleri — VivAtölye",
+    "kisi": "Ceren Sungur",
+    "tarih": "bilinmiyor",
+    "yapim": "—",
+    "tur": "yazı"
+   },
+   {
+    "url": "https://medium.com/@tarihobasi/turhan-sultan-haremi-nas%C4%B1l-ele-ge%C3%A7irdi-00f334a567d8",
+    "baslik": "Turhan Sultan Harem'i Nasıl Ele Geçirdi?",
+    "kisi": "Ceren Sungur",
+    "tarih": "14 Eylül 2026",
+    "yapim": "—",
+    "tur": "yazı"
+   },
+   {
+    "url": "https://eksisozluk.com/entry/160940240",
+    "baslik": "ceren sungur — ekşi sözlük girdisi",
+    "kisi": "tirendaz 17 (ekşi sözlük yazarı)",
+    "tarih": "25 Ocak 2024",
+    "yapim": "—",
+    "tur": "forum"
+   }
+  ],
+  "maddeler": [],
+  "not": "Sekiz ayrı arama sorgusu denedim; Ceren Sungur'un Osmanlı konulu dizi ve filmlerdeki somut tarih hatalarını sıraladığı bir yazı, röportaj, haber ya da video açıklaması bulamadım. Okuduğum sayfalarda yalnızca genel Osmanlı toplum tarihi, harem/cariyelik ve tarih metodolojisi (anakronizm eleştirisi) içerikleri var; bunlar 'şu dizide şu kıyafet/şu unvan yanlıştı' biçiminde tek tek hata maddesine dönüşmüyor. Bu yüzden madde uydurmadım, liste boş. T24'ün ilgili video sayfası webfetch ile açılmadı (taşıma hatası), o sayfayı kaynaklara almadım. Dizi hatalarını başka tarihçilerin sayfalarından toplamamı isterseniz ayrı bir turda yapabilirim; o maddelerin 'kisi' alanı Ceren Sungur değil, ilgili tarihçi olur."
+ }
+}

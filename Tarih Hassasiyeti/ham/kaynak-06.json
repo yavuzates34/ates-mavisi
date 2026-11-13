@@ -1,0 +1,151 @@
+{
+ "model": "opencode/deepseek-v4.1-flash-free",
+ "ad": "kaynak-06",
+ "tarih": "2026-11-13 15:08",
+ "veri": {
+  "kaynaklar": [
+   {
+    "url": "https://www.odatv.com/guncel/trtnin-yeni-dizisinde-dakika-1-hata-1-215653",
+    "baslik": "TRT'nin yeni dizisinde dakika 1 hata 1",
+    "kisi": "Emrah Safa Gürkan",
+    "tarih": "20 Haziran 2021",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı (TRT)",
+    "tur": "haber"
+   },
+   {
+    "url": "https://artigercek.com/kultur-sanat/trtnin-yeni-tarih-dizisindeki-tarihi-hata-168685h",
+    "baslik": "TRT'nin yeni tarih dizisindeki tarihi hata",
+    "kisi": "Emrah Safa Gürkan",
+    "tarih": "21 Haziran 2021",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı (TRT)",
+    "tur": "haber"
+   },
+   {
+    "url": "https://www.gercekedebiyat.com/haber-detay/trtnin-yeni-dizisi-barbaros-hayreddin-pasada-tarihi-hata/7257",
+    "baslik": "TRT'nin yeni dizisi Barbaros Hayreddin Paşa'da tarihi hata",
+    "kisi": "Emrah Safa Gürkan",
+    "tarih": "21 Haziran 2021",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı (TRT)",
+    "tur": "haber"
+   },
+   {
+    "url": "https://www.magazinkolik.com/barbaros-dizi-baslamadan-tarihcilerden-elestiri-yagmuru-83645h.htm",
+    "baslik": "Barbaros dizisi başlamadan tarihçilerden eleştiri yağmuru",
+    "kisi": "Emrah Safa Gürkan",
+    "tarih": "22 Haziran 2021",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı (TRT)",
+    "tur": "haber"
+   }
+  ],
+  "maddeler": [
+   {
+    "yanlis": "Barbaros'un korsan gemilerinin yelkenli gemi olarak gösterilmesi",
+    "dogru": "16. yüzyıl Akdeniz korsanları kürekli kadırga tipi gemilerle dolaşıyordu",
+    "aciklama": "Gürkan, dizinin ilk dakikasında korsanların yelkenli gemilere bindirildiğini söyleyerek eleştirdi. Kürekli gemi, kıyıya yakın ve rüzgârdan bağımsız hareket için tercih ediliyordu.",
+    "konu": "denizcilik",
+    "donem": "16. yy (1510-1540)",
+    "gecerli_1798": "kısmen",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı (TRT)",
+    "kisi": "Emrah Safa Gürkan",
+    "kaynak_url": "https://www.odatv.com/guncel/trtnin-yeni-dizisinde-dakika-1-hata-1-215653",
+    "kaynak_ozet": "Adamları yelkenliye bindirmişler, dakika 1 hata 1"
+   },
+   {
+    "yanlis": "Korsan kadırgasında 100-150 kürekçi yerine küçük, seyrek mürettebat gösterilmesi",
+    "dogru": "Bir kadırgada 100 ilâ 150 civarında kürekçi bulunuyordu",
+    "aciklama": "Gürkan, kadırganın gerçek mürettebat mevcudunu hatırlatarak gemideki kalabalığın yanlış kurulduğunu belirtti. Bu sayı geminin boyutunu ve yaşam düzenini değiştirir.",
+    "konu": "denizcilik",
+    "donem": "16. yy (1510-1540)",
+    "gecerli_1798": "hayır",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı (TRT)",
+    "kisi": "Emrah Safa Gürkan",
+    "kaynak_url": "https://artigercek.com/kultur-sanat/trtnin-yeni-tarih-dizisindeki-tarihi-hata-168685h",
+    "kaynak_ozet": "Kadırgada 100-150 kürekçi olurdu"
+   },
+   {
+    "yanlis": "Gemide borda boyunca sıralanmış çok sayıda top bulunması",
+    "dogru": "Kadırgada top yalnızca pruvada, tek ve büyük bir parça hâlindeydi",
+    "aciklama": "Gürkan \"Top sadece önündeydi\" diyerek borda topu dizisini reddetti. Yandan yapılan geniş top atışı, borda toplu kalyonların dönemine aittir.",
+    "konu": "silah-teknoloji",
+    "donem": "16. yy (1510-1540)",
+    "gecerli_1798": "hayır",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı (TRT)",
+    "kisi": "Emrah Safa Gürkan",
+    "kaynak_url": "https://www.odatv.com/guncel/trtnin-yeni-dizisinde-dakika-1-hata-1-215653",
+    "kaynak_ozet": "Top sadece önündeydi ve bir kere ateşlenirdi"
+   },
+   {
+    "yanlis": "Deniz savaşının uzun menzilden top düellosu gibi çekilmesi",
+    "dogru": "Dönemin deniz savaşı yaklaşma, bordalama ve göğüs göğüse çarpışmayla yapılıyordu",
+    "aciklama": "Gürkan, tek atımlık pruva topuyla uzaktan çatışmanın mümkün olmadığını belirtti. Savaşın ağırlığı gemiyi ele geçirmeye dayanıyordu.",
+    "konu": "savaş-taktik",
+    "donem": "16. yy (1510-1540)",
+    "gecerli_1798": "hayır",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı (TRT)",
+    "kisi": "Emrah Safa Gürkan",
+    "kaynak_url": "https://artigercek.com/kultur-sanat/trtnin-yeni-tarih-dizisindeki-tarihi-hata-168685h",
+    "kaynak_ozet": "Uzaktan top atışı değil, bordalama esas"
+   },
+   {
+    "yanlis": "Yelkenli gemilerin o dönemde savaş gemisi olarak kullanılması",
+    "dogru": "Akdeniz'deki yelkenli gemiler ağırlıkla silahsız ticaret gemisiydi",
+    "aciklama": "Gürkan, yelkenlinin varlığını kabul ediyor ama işlevini ayırıyor: bunlar yük taşıyan ticaret gemileriydi. Yani hata geminin varlığı değil, savaş sahnesine konması.",
+    "konu": "denizcilik",
+    "donem": "16. yy (1510-1540)",
+    "gecerli_1798": "hayır",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı (TRT)",
+    "kisi": "Emrah Safa Gürkan",
+    "kaynak_url": "https://www.gercekedebiyat.com/haber-detay/trtnin-yeni-dizisi-barbaros-hayreddin-pasada-tarihi-hata/7257",
+    "kaynak_ozet": "Yelkenli gemiler vardı Akdeniz'de ama bunlar ticaret gemisiydi"
+   },
+   {
+    "yanlis": "O dönemin büyük yelkenli savaş gemisine \"kalyon\" denmesi",
+    "dogru": "16. yüzyılda bu gemilere \"burtun\" deniyordu, \"kalyon\" sonraki kullanımdır",
+    "aciklama": "Gürkan terimin dönem kaymasını ayrıca vurguluyor. İsimlendirme yanlış olunca geminin hangi yüzyıla ait olduğu da bulanıklaşıyor.",
+    "konu": "terminoloji",
+    "donem": "16. yy (1510-1540)",
+    "gecerli_1798": "hayır",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı (TRT)",
+    "kisi": "Emrah Safa Gürkan",
+    "kaynak_url": "https://www.odatv.com/guncel/trtnin-yeni-dizisinde-dakika-1-hata-1-215653",
+    "kaynak_ozet": "bunlara kalyon denmez burtun denir"
+   },
+   {
+    "yanlis": "Dizide galeon/burtun tipi geminin 1540 öncesi sahnelerde görünmesi",
+    "dogru": "Galeon 1540'tan önce okyanusta bile yoktu",
+    "aciklama": "Gürkan, gemi tipinin ortaya çıkış tarihini vererek sahneyi kronolojik olarak imkânsız buluyor. 1510-1540 arası bir hikâyede bu gemi bulunamaz.",
+    "konu": "denizcilik",
+    "donem": "16. yy (1510-1540)",
+    "gecerli_1798": "hayır",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı (TRT)",
+    "kisi": "Emrah Safa Gürkan",
+    "kaynak_url": "https://www.gercekedebiyat.com/haber-detay/trtnin-yeni-dizisi-barbaros-hayreddin-pasada-tarihi-hata/7257",
+    "kaynak_ozet": "1540'dan önce galeon yani burtun okyanusta bile yok"
+   },
+   {
+    "yanlis": "Osmanlı donanmasında galeonun 16. yüzyıl başında var sayılması",
+    "dogru": "Galeon Osmanlılara 1650'lerde geldi",
+    "aciklama": "Gürkan, geminin Osmanlı tarafına geçişini 17. yüzyıl ortasına yerleştiriyor. Yani Barbaros'un gemisi olamaz.",
+    "konu": "denizcilik",
+    "donem": "17. yy ortası",
+    "gecerli_1798": "hayır",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı (TRT)",
+    "kisi": "Emrah Safa Gürkan",
+    "kaynak_url": "https://www.magazinkolik.com/barbaros-dizi-baslamadan-tarihcilerden-elestiri-yagmuru-83645h.htm",
+    "kaynak_ozet": "Osmanlılara 1650'lerde geldi"
+   },
+   {
+    "yanlis": "1510-1540 yıllarında geçen hikâyede 1680'lerin gemi düzeninin gösterilmesi",
+    "dogru": "Sahnedeki gemi ve top düzeni ancak 1680'ler sonrasına oturur",
+    "aciklama": "Gürkan, yanlardaki top dizilimini görünce \"Herhalde 1680'lerdeyiz\" diye yazdı. Bu, geminin sahne içindeki tarihi yaklaşık 150 yıl ileri attığını gösterir.",
+    "konu": "kronoloji",
+    "donem": "16. yy (1510-1540)",
+    "gecerli_1798": "hayır",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı (TRT)",
+    "kisi": "Emrah Safa Gürkan",
+    "kaynak_url": "https://www.odatv.com/guncel/trtnin-yeni-dizisinde-dakika-1-hata-1-215653",
+    "kaynak_ozet": "Yanda toplar. Herhalde 1680'lerde falanız."
+   }
+  ]
+ }
+}

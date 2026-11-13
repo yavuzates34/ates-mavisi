@@ -1,0 +1,74 @@
+{
+ "model": "opencode/iceman-free",
+ "ad": "video-Kbi6hfvngr8",
+ "tarih": "2026-11-13 15:26",
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "Yavuz Sultan Selim'in 1472 yılında yaklaşık 10 yaşında bir çocuk olarak gösterilmesi",
+    "dogru": "Yavuz Sultan Selim 1470 doğumludur; 1472'de yaklaşık 2 yaşında olur ve Fatih'in yanına 1480'de gider",
+    "aciklama": "Dizi 1472'yi canlandırırken Selim'i çok büyük göstermiştir. Bu kronolojik bir hatadır.",
+    "konu": "isim-ad",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetihler Sultanı",
+    "kisi": "Ahmet Anapalı",
+    "kaynak_url": "https://youtu.be/Kbi6hfvngr8?t=187",
+    "zaman": "[03:07]",
+    "kaynak_ozet": "1472'de 2 yaşında olması gerekirken 10 yaşında gösterilmiş."
+   },
+   {
+    "yanlis": "Karamanoğlu İshak Bey'in 1472'de taht mücadelesi içinde ve Uzun Hasan'dan destek isterken gösterilmesi",
+    "dogru": "Karamanoğlu İshak Bey 1465'te ölmüştür; 1472'de Uzun Hasan'ın himaye ettiği aktörler Pir Ahmet ve Kasım Bey'dir",
+    "aciklama": "Dizi 1472 dönemini canlandırdığı için İshak Bey'in yaşadığı gösterilemez. Burada isim karmaşası vardır.",
+    "konu": "isim-ad",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetihler Sultanı",
+    "kisi": "Ahmet Anapalı",
+    "kaynak_url": "https://youtu.be/Kbi6hfvngr8?t=492",
+    "zaman": "[08:12]",
+    "kaynak_ozet": "İshak Bey 1465'te öldü, 1472'de taht mücadelesinde olamaz."
+   },
+   {
+    "yanlis": "Ebubekir Tihrani'nin Venedik-Papalık tertibinin gizli haini ve casusu olarak gösterilmesi",
+    "dogru": "Ebubekir Tihrani Uzun Hasan'ın hizmetinde mektupları kaleme alan bir münşi ve Kitab-ı Diyarbekriyye'nin yazarıdır",
+    "aciklama": "Tihrani'nin hain veya casus olduğuna dair tarihi dayanak yoktur. Dizideki bu rol kurgusaldır.",
+    "konu": "diplomasi-donem",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetihler Sultanı",
+    "kisi": "Ahmet Anapalı",
+    "kaynak_url": "https://youtu.be/Kbi6hfvngr8?t=430",
+    "zaman": "[07:10]",
+    "kaynak_ozet": "Tahranî hain veya casus değildir, tarih yazan bir münşidir."
+   },
+   {
+    "yanlis": "Yanlış yapan esnafı kulağından kapıya çivileme cezasının Rum Mehmed Paşa'ya isnat edilmesi",
+    "dogru": "Bu uygulama Kanuni Sultan Süleyman'ın hocası Ebussuud Efendi'ye aittir",
+    "aciklama": "Dizide Rum Mehmed Paşa'ya atfedilen bu ceza tarihi olarak farklı bir kişiye bağlanır. Bu bir isnat hatasıdır.",
+    "konu": "saray-devlet",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetihler Sultanı",
+    "kisi": "Ahmet Anapalı",
+    "kaynak_url": "https://youtu.be/Kbi6hfvngr8?t=1170",
+    "zaman": "[19:30]",
+    "kaynak_ozet": "Esnafı kapıya çivileme Ebu Suud Efendi'ye aittir."
+   },
+   {
+    "yanlis": "Şehzade Bayezid'in 1472 olayları sırasında Amasya sancakbeyi iken Bursa'da tımar beyleriyle görevlendirilmesi",
+    "dogru": "Bayezid bu dönemde Amasya sancakbeyidir ve doğudaki Akkoyunlu tehlikesi nedeniyle görev bölgesinde olması beklenir",
+    "aciklama": "Konuşmacıya göre böyle bir Bursa görevlendirmesi tarihsel olarak bilinmemektedir. Sahne sonraki kurguya zemin hazırlıyor olabilir.",
+    "konu": "saray-devlet",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetihler Sultanı",
+    "kisi": "Ahmet Anapalı",
+    "kaynak_url": "https://youtu.be/Kbi6hfvngr8?t=922",
+    "zaman": "[15:22]",
+    "kaynak_ozet": "Beyazıt'ın bu olaylarda Bursa'ya görevlendirilmesi tarih anlamında yok."
+   }
+  ]
+ }
+}

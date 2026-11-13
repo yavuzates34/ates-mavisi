@@ -1,0 +1,323 @@
+{
+ "model": "opencode/iceman-free",
+ "ad": "kaynak-09",
+ "tarih": "2026-11-13 15:20",
+ "veri": {
+  "kaynaklar": [
+   {
+    "url": "https://www.ekrembugraekinci.com/article?ID=313&muhte%C5%9Fem-y%C3%BCzyil%E2%80%99da-g%C3%B6ze-takilanlar",
+    "baslik": "MUHTEŞEM YÜZYIL’DA GÖZE TAKILANLAR",
+    "kisi": "Ekrem Buğra Ekinci",
+    "tarih": "12.01.2011",
+    "yapim": "Muhteşem Yüzyıl",
+    "tur": "yazı"
+   },
+   {
+    "url": "https://www.ekrembugraekinci.com/article?ID=684",
+    "baslik": "HAREM AŞK YUVASI DEĞİL, BİR MEKTEP İDİ...",
+    "kisi": "Ekrem Buğra Ekinci",
+    "tarih": "14.03.2016",
+    "yapim": "Osmanlı konulu diziler/filmler (genel)",
+    "tur": "yazı"
+   },
+   {
+    "url": "https://www.ekrembugraekinci.com/article?ID=203",
+    "baslik": "PADİŞAH KİMİNLE EVLENİR?",
+    "kisi": "Ekrem Buğra Ekinci",
+    "tarih": "24.02.2010",
+    "yapim": "Osmanlı konulu diziler/filmler (genel)",
+    "tur": "yazı"
+   },
+   {
+    "url": "https://www.ekrembugraekinci.com/article?ID=618",
+    "baslik": "OSMANLI PADİŞAHLARI KİMİNLE ve NASIL EVLENİR?",
+    "kisi": "Ekrem Buğra Ekinci",
+    "tarih": "13.08.2015",
+    "yapim": "Osmanlı konulu diziler/filmler (genel)",
+    "tur": "yazı"
+   },
+   {
+    "url": "https://www.ekrembugraekinci.com/article?ID=1524&bir-padi%C5%9Fahin-24-saati",
+    "baslik": "BİR PADİŞAHIN 24 SAATİ",
+    "kisi": "Ekrem Buğra Ekinci",
+    "tarih": "17.02.2025",
+    "yapim": "Osmanlı konulu diziler/filmler (genel)",
+    "tur": "yazı"
+   },
+   {
+    "url": "https://www.ekrembugraekinci.com/question?ID=750",
+    "baslik": "Sual: Sultan II. Abdülhamid’in 12 tane zevcesi olduğu iddiası",
+    "kisi": "Ekrem Buğra Ekinci",
+    "tarih": "09.06.2011",
+    "yapim": "Televizyon programları/diziler (genel)",
+    "tur": "yazı"
+   }
+  ],
+  "maddeler": [
+   {
+    "yanlis": "Hafsa Sultan'ın Hürrem ile sarayda Rusça veya Ukraynaca konuşması.",
+    "dogru": "Hafsa Sultan'ın Rusça/Ukraynaca bilmesi beklenmez; Kırım'da Rus tesiri yoktu.",
+    "aciklama": "Dizide Hürrem'in Rusça konuşmasına şaşırılır; o dönemde Kırım'da Rus tesiri bahis konusu değildir.",
+    "konu": "gundelik-dil",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ekrem Buğra Ekinci",
+    "kaynak_url": "https://www.ekrembugraekinci.com/article?ID=313&muhte%C5%9Fem-y%C3%BCzyil%E2%80%99da-g%C3%B6ze-takilanlar",
+    "kaynak_ozet": "Kırım’da Rus tesiri bahis mevzuu değildir."
+   },
+   {
+    "yanlis": "Hasodabaşı İbrahim Paşa'nın devşirme/dönme olduğu için yadırganması.",
+    "dogru": "Has Oda ve Enderun köle/devşirmelerden oluşur; İbrahim Paşa Rum asıllı köleydi.",
+    "aciklama": "Vezirin 'dönmeyi nasıl hasodabaşı yapar' demesi abestir; Enderun zaten devşirmelerden müteşekkildir.",
+    "konu": "saray-devlet",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ekrem Buğra Ekinci",
+    "kaynak_url": "https://www.ekrembugraekinci.com/article?ID=313&muhte%C5%9Fem-y%C3%BCzyil%E2%80%99da-g%C3%B6ze-takilanlar",
+    "kaynak_ozet": "Has Oda ve hatta Enderun’un tamamı zaten köle ve devşirmelerden"
+   },
+   {
+    "yanlis": "Yeniçeri/askerlerin cülus bahşişi beklerken 45-50 yaşında gösterilmesi.",
+    "dogru": "O yaşta kimse orduda kalmazdı.",
+    "aciklama": "Cülus bahşişini bekleyen askerlerin ileri yaşta gösterilmesi dönemin asker profiline uymaz.",
+    "konu": "ordu",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ekrem Buğra Ekinci",
+    "kaynak_url": "https://www.ekrembugraekinci.com/article?ID=313&muhte%C5%9Fem-y%C3%BCzyil%E2%80%99da-g%C3%B6ze-takilanlar",
+    "kaynak_ozet": "O yaşta kimse orduda kalmaz."
+   },
+   {
+    "yanlis": "Dizide hükümdar için sürekli 'sultan', neredeyse hiç 'padişah' denmesi.",
+    "dogru": "Hükmdar için 'padişah' tabiri kullanılmalıdır; kullanım dizide eksiktir.",
+    "aciklama": "Saray dili ve hitaplarda padişah unvanının kullanılmaması döneme uygun değildir.",
+    "konu": "unvan-hitap",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ekrem Buğra Ekinci",
+    "kaynak_url": "https://www.ekrembugraekinci.com/article?ID=313&muhte%C5%9Fem-y%C3%BCzyil%E2%80%99da-g%C3%B6ze-takilanlar",
+    "kaynak_ozet": "“padişah” kelimesi hiç kullanılmıyor. Hakikat böyle değildir."
+   },
+   {
+    "yanlis": "Kanuni Sultan Süleyman'ın Divan toplantısına bizzat katılması.",
+    "dogru": "Fatih'ten itibaren padişahlar divana katılmaz, belki kafes arkasından dinlerdi.",
+    "aciklama": "Padişahın divanda karar açıklaması klasik dönemin saray protokolüne aykırıdır.",
+    "konu": "saray-devlet",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ekrem Buğra Ekinci",
+    "kaynak_url": "https://www.ekrembugraekinci.com/article?ID=313&muhte%C5%9Fem-y%C3%BCzyil%E2%80%99da-g%C3%B6ze-takilanlar",
+    "kaynak_ozet": "padişahlar divan toplantısına katılmaz, belki kafes arkasından dinlerdi."
+   },
+   {
+    "yanlis": "16. yüzyıl başında Osmanlı donanmasında kalyonların bulunması.",
+    "dogru": "Kalyonun denizcilik tarihine girişi bu tarihten bir asır sonradır.",
+    "aciklama": "Yavuz Sultan Selim'in kalyon yaptırması anlatımı anakroniktir; o dönemde kalyon yoktu.",
+    "konu": "teknoloji-esya",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ekrem Buğra Ekinci",
+    "kaynak_url": "https://www.ekrembugraekinci.com/article?ID=313&muhte%C5%9Fem-y%C3%BCzyil%E2%80%99da-g%C3%B6ze-takilanlar",
+    "kaynak_ozet": "kalyonun girişi bu tarihten bir asır sonradır."
+   },
+   {
+    "yanlis": "Yavuz Sultan Selim'in vefatı sırasında havai fişek atılması.",
+    "dogru": "Matem varken havai fişek ve eğlence tertibi olacak iş değildir.",
+    "aciklama": "Padişah ölümünde matem atmosferi varken havai fişek gösterisi döneme ve adaba uymaz.",
+    "konu": "saray-devlet",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ekrem Buğra Ekinci",
+    "kaynak_url": "https://www.ekrembugraekinci.com/article?ID=313&muhte%C5%9Fem-y%C3%BCzyil%E2%80%99da-g%C3%B6ze-takilanlar",
+    "kaynak_ozet": "Bir yanda havai fişekler atılıyor... Olacak iş değil."
+   },
+   {
+    "yanlis": "Kanuni döneminde Topkapı Sarayı'nda harem dairesinin hazır bulunması.",
+    "dogru": "Topkapı Sarayı harem dairesi Sultan III. Murad devrinde kurulmuştur.",
+    "aciklama": "Kanuni tahta çıktığında Topkapı Sarayı'nda harem dairesi yoktu; padişah Eski Saray'a giderdi.",
+    "konu": "sehir-mekan",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ekrem Buğra Ekinci",
+    "kaynak_url": "https://www.ekrembugraekinci.com/article?ID=313&muhte%C5%9Fem-y%C3%BCzyil%E2%80%99da-g%C3%B6ze-takilanlar",
+    "kaynak_ozet": "harem dairesi Sultan III. Murad devrinde kurulmuştur."
+   },
+   {
+    "yanlis": "Venedik doçuna 'Venedik dükü' denmesi.",
+    "dogru": "Doğru unvan 'Doç'tur; dük farklı anlam taşır.",
+    "aciklama": "Venedik devlet başkanı için kullanılan 'Doç' unvanının 'dük' diye çevrilmesi yanlıştır.",
+    "konu": "unvan-hitap",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ekrem Buğra Ekinci",
+    "kaynak_url": "https://www.ekrembugraekinci.com/article?ID=313&muhte%C5%9Fem-y%C3%BCzyil%E2%80%99da-g%C3%B6ze-takilanlar",
+    "kaynak_ozet": "Bunun doğrusu “Doç” olacaktır."
+   },
+   {
+    "yanlis": "Haremde mendil atma, padişaha bağırma, kucağına düşme gibi hafiflikler.",
+    "dogru": "Haremde böyle hafiflikler yoktur; hayat ciddi bir terbiye ve düzen içindeydi.",
+    "aciklama": "Haremin eğlence yeri gibi gösterilmesi ve bu tür sahneler saray adabına aykırıdır.",
+    "konu": "harem-kadin",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ekrem Buğra Ekinci",
+    "kaynak_url": "https://www.ekrembugraekinci.com/article?ID=313&muhte%C5%9Fem-y%C3%BCzyil%E2%80%99da-g%C3%B6ze-takilanlar",
+    "kaynak_ozet": "Mendil atma, padişaha bağırma, kucağına düşme gibi hafiflikler"
+   },
+   {
+    "yanlis": "Haremde cariyelerin oryantal dans edip padişahı eğlendirmesi.",
+    "dogru": "Cariyelerin dansı tamamen uydurmadır; oryantal dans son yıllarda gelmiştir.",
+    "aciklama": "Haremde cariyelerin oynattığı sahneler Osmanlı eğlence telakkisine uymaz.",
+    "konu": "harem-kadin",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ekrem Buğra Ekinci",
+    "kaynak_url": "https://www.ekrembugraekinci.com/article?ID=313&muhte%C5%9Fem-y%C3%BCzyil%E2%80%99da-g%C3%B6ze-takilanlar",
+    "kaynak_ozet": "Hele dizide cariyelerin dansı tamamen uydurmadır."
+   },
+   {
+    "yanlis": "Hasodabaşının cariyeleri seçip padişaha sunması.",
+    "dogru": "Hasodabaşı hareme bile giremez; cariyeleri valide sultan takdim eder.",
+    "aciklama": "Harem içi düzen ve görev dağılımı dizide yanlış gösterilmiştir.",
+    "konu": "saray-devlet",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ekrem Buğra Ekinci",
+    "kaynak_url": "https://www.ekrembugraekinci.com/article?ID=313&muhte%C5%9Fem-y%C3%BCzyil%E2%80%99da-g%C3%B6ze-takilanlar",
+    "kaynak_ozet": "Hasodabaşı hareme bile giremez."
+   },
+   {
+    "yanlis": "Padişah ve devlet adamlarının sarayda başı açık gezmesi.",
+    "dogru": "Resmiyette kavuk, evde işlemeli takke giyilir; başı açık durmak ayıptır.",
+    "aciklama": "Saray protokolünde baş örtüsü esastır; başı açık tasvir döneme uymaz.",
+    "konu": "giyim",
+    "donem": "16.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ekrem Buğra Ekinci",
+    "kaynak_url": "https://www.ekrembugraekinci.com/article?ID=313&muhte%C5%9Fem-y%C3%BCzyil%E2%80%99da-g%C3%B6ze-takilanlar",
+    "kaynak_ozet": "Resmiyette kavuk, evde ise işlemeli takke giyilir."
+   },
+   {
+    "yanlis": "Haremin aşk ve eğlence yuvası gibi tasvir edilmesi.",
+    "dogru": "Harem kızlara tahsil ve terbiye verilen bir mekteptir; aşk yuvası değildir.",
+    "aciklama": "Harem, saray terbiyesi ve eğitim verilen ciddi bir kurumdur, dizilerdeki eğlence imajı yanlıştır.",
+    "konu": "harem-kadin",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Osmanlı konulu diziler/filmler (genel)",
+    "kisi": "Ekrem Buğra Ekinci",
+    "kaynak_url": "https://www.ekrembugraekinci.com/article?ID=684",
+    "kaynak_ozet": "HAREM AŞK YUVASI DEĞİL, BİR MEKTEP İDİ..."
+   },
+   {
+    "yanlis": "Cariyelerin yola dizilip padişahın mendil atarak seçmesi.",
+    "dogru": "Mendil atma, padişaha bağırma, kucağına düşme gibi hafiflikler yoktur.",
+    "aciklama": "Padişahın cariye seçimini bu şekilde yapması saray adabına ve gerçeğe aykırıdır.",
+    "konu": "harem-kadin",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Osmanlı konulu diziler/filmler (genel)",
+    "kisi": "Ekrem Buğra Ekinci",
+    "kaynak_url": "https://www.ekrembugraekinci.com/article?ID=684",
+    "kaynak_ozet": "Mendil atma, padişaha bağırma, kucağına düşme gibi hafiflikler"
+   },
+   {
+    "yanlis": "Cariyelerin çırılçıplak havuzda oynatılıp seyredilmesi.",
+    "dogru": "Bu tür sahneler Batılı roman yazarı ve ressamlarının uydurmasıdır.",
+    "aciklama": "Padişah-harem ilişkisi büyük ciddiyet içinde cereyan eder; bu tasvirler hayal ürünüdür.",
+    "konu": "harem-kadin",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Osmanlı konulu diziler/filmler (genel)",
+    "kisi": "Ekrem Buğra Ekinci",
+    "kaynak_url": "https://www.ekrembugraekinci.com/article?ID=684",
+    "kaynak_ozet": "Batılı roman yazarı ile ressamlarının uydurmasıdır."
+   },
+   {
+    "yanlis": "Padişahın cariyelerle zevk ve safa içinde, gayri ciddi ilişkiler yaşaması.",
+    "dogru": "Padişahın harem câriyeleriyle alâkası büyük bir ciddiyet içinde cereyan ederdi.",
+    "aciklama": "Harem hayatı disiplin ve protokol içindedir; dizilerdeki sefahat tasviri gerçeği yansıtmaz.",
+    "konu": "harem-kadin",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Osmanlı konulu diziler/filmler (genel)",
+    "kisi": "Ekrem Buğra Ekinci",
+    "kaynak_url": "https://www.ekrembugraekinci.com/article?ID=203",
+    "kaynak_ozet": "büyük bir ciddiyet içinde cereyan ederdi."
+   },
+   {
+    "yanlis": "Cariyelerin sarayda Hristiyan isimleriyle anılmaya devam etmesi.",
+    "dogru": "Sarayda cariyelere yeni isim verilir; hiçbiri Hristiyan ismiyle anılmaz.",
+    "aciklama": "Saray kültürüne giren cariyeler İslam terbiyesiyle yetişir ve yeni isim alırdı.",
+    "konu": "isim-ad",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Osmanlı konulu diziler/filmler (genel)",
+    "kisi": "Ekrem Buğra Ekinci",
+    "kaynak_url": "https://www.ekrembugraekinci.com/article?ID=684",
+    "kaynak_ozet": "Hepsine yeni isim verilir. Hiçbiri Hıristiyan ismiyle anılmaz."
+   },
+   {
+    "yanlis": "Haremde cariyelerin dizilerdeki gibi gelişigüzel, başı açık ve şuh gezmesi.",
+    "dogru": "Osmanlı terbiyesi kapalı giyinmeyi gerektirir; cariyeler şer‘i tesettüre dikkat ederdi.",
+    "aciklama": "Harem içi mahremiyet kuralları olsa da saray terbiyesi ve tesettür hassasiyeti esastı.",
+    "konu": "giyim",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Osmanlı konulu diziler/filmler (genel)",
+    "kisi": "Ekrem Buğra Ekinci",
+    "kaynak_url": "https://www.ekrembugraekinci.com/article?ID=618",
+    "kaynak_ozet": "harem halkı ve câriyeler şer‘î tesettüre dikkat ederek"
+   },
+   {
+    "yanlis": "Havuz başında cariye oynatan, sefahat içinde yaşayan padişah imajı.",
+    "dogru": "Sarayda hayat ciddiyet içindedir; bu imaj ecnebi ressamların uydurmasıdır.",
+    "aciklama": "Padişahın günlük hayatı ibadet ve devlet işleriyle geçer; sefahat tasviri gerçek dışıdır.",
+    "konu": "saray-devlet",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Osmanlı konulu diziler/filmler (genel)",
+    "kisi": "Ekrem Buğra Ekinci",
+    "kaynak_url": "https://www.ekrembugraekinci.com/article?ID=1524&bir-padi%C5%9Fahin-24-saati",
+    "kaynak_ozet": "Havuz başında cariye oynatan padişah imajını ecnebi ressamlar uydurmuştur."
+   },
+   {
+    "yanlis": "Padişahların zevceleriyle sık sık birlikte aile sofrasında yemek yemesi.",
+    "dogru": "Padişahlar yemeklerini hep yalnız yemiştir; birlikte yemek pek vaki değildir.",
+    "aciklama": "Klasik saray düzeninde padişahın yalnız yemesi adettir; modern aile sofrası sahneleri yanlıştır.",
+    "konu": "saray-devlet",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Osmanlı konulu diziler/filmler (genel)",
+    "kisi": "Ekrem Buğra Ekinci",
+    "kaynak_url": "https://www.ekrembugraekinci.com/article?ID=1524&bir-padi%C5%9Fahin-24-saati",
+    "kaynak_ozet": "padişahlar yemeklerini hep yalnız yemiştir."
+   },
+   {
+    "yanlis": "Sultan II. Abdülhamid'in aynı anda şer'i sınırın üzerinde zevcesi olduğu iddiası.",
+    "dogru": "Hür eşlerde 4 sınırına uyulur, cariyelerde sayı sınırı yoktur; aynı anda 4'ten fazla hür zevce olmaz.",
+    "aciklama": "Televizyonlarda Abdülhamid'in 12 zevcesiyle 4 sınırını aştığı söylenir; hür/cariye ayrımı gözetilmez.",
+    "konu": "harem-kadin",
+    "donem": "19.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Televizyon programları/diziler (genel)",
+    "kisi": "Ekrem Buğra Ekinci",
+    "kaynak_url": "https://www.ekrembugraekinci.com/question?ID=750",
+    "kaynak_ozet": "Padişahın hiçbir zaman 4’ten fazla zevcesi olmamıştır."
+   }
+  ]
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "model": "opencode/iceman-free",
+ "ad": "video-AoGpO9xZNBM",
+ "tarih": "2026-11-13 15:17",
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "Kanuni Sultan Süleyman'ın sarayda, hareme kapanmış şekilde yaşadığı izlenimi",
+    "dogru": "Kanuni sık sık sefere çıkan, ordusuyla uzun süre sahada kalan bir hükümdardı",
+    "aciklama": "Ortaylı'ya göre 46 yıllık saltanatında 13 sefer yaptı ve ömrünün yaklaşık 5-6 yılı seferde geçti.",
+    "konu": "saray-devlet",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Prof. Dr. İlber Ortaylı",
+    "kaynak_url": "https://youtu.be/AoGpO9xZNBM?t=30",
+    "zaman": "00:30",
+    "kaynak_ozet": "Haremden çıkmayan bir Kanuni ben bilmiyorum"
+   },
+   {
+    "yanlis": "Kanuni'nin çok sayıda kadınla birlikte, hareme düşkün gösterilmesi",
+    "dogru": "Kanuni tek eşli eğilimliydi ve hayatında ağırlıklı olarak tek kadınla vakit geçirirdi",
+    "aciklama": "Ortaylı, Kanuni'yi monogam karakterde biri olarak tanımlar; hayatında birden fazla kadın olsa da aynı anda tek kadınla birlikte olurdu.",
+    "konu": "harem-kadin",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Prof. Dr. İlber Ortaylı",
+    "kaynak_url": "https://youtu.be/AoGpO9xZNBM?t=251",
+    "zaman": "04:11",
+    "kaynak_ozet": "Kanuni monogam karakterde bir adam"
+   },
+   {
+    "yanlis": "Kanuni'nin hayatındaki kadınların dizide Gülfem Hatun, Mahidevran, Hürrem sırasıyla gösterilmesi",
+    "dogru": "Kanuni'nin hayatında önce Mustafa'nın annesi Mahidevran, sonra Hürrem vardı; Hürrem'den sonra da başka biri oldu",
+    "aciklama": "Ortaylı, dizideki bu sıralamayı yanlış bulur ve yazımını yüzeysel okumaya bağlar.",
+    "konu": "harem-kadin",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Prof. Dr. İlber Ortaylı",
+    "kaynak_url": "https://youtu.be/AoGpO9xZNBM?t=344",
+    "zaman": "05:44",
+    "kaynak_ozet": "Dizide önce Gülfem, sonra Mahidevran, sonra Hürrem var"
+   }
+  ]
+ }
+}

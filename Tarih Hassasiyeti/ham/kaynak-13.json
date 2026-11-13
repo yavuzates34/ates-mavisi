@@ -1,0 +1,383 @@
+{
+ "model": "opencode/iceman-free",
+ "ad": "kaynak-13",
+ "tarih": "2026-11-13 15:25",
+ "veri": {
+  "kaynaklar": [
+   {
+    "url": "https://www.yenisafak.com/gundem/muhtesem-yuzyilda-muhtesem-hatalar-298064",
+    "baslik": "Muhteşem Yüzyıl'da muhteşem hatalar",
+    "kisi": "Ayşe Böhürler",
+    "tarih": "15/01/2011",
+    "yapim": "Muhteşem Yüzyıl",
+    "tur": "yazı/haber"
+   },
+   {
+    "url": "https://www.hurriyetdailynews.com/designer-promotes-ottoman-motifs-to-the-world-19607",
+    "baslik": "Designer promotes Ottoman motifs to the world",
+    "kisi": "Zuhal Yorgancıoğlu (Anatolia News Agency haberi)",
+    "tarih": "30/04/2012",
+    "yapim": "Muhteşem Yüzyıl",
+    "tur": "haber"
+   },
+   {
+    "url": "https://www.gzt.com/tarih/muhtesem-yuzyil-ve-osmanli-gelenegi-2648181",
+    "baslik": "Muhteşem Yüzyıl ve Osmanlı geleneği",
+    "kisi": "Prof. Dr. Yusuf Halaçoğlu; Şehzade Osman Selahaddin Osmanoğlu (Ersin Çelik, Derin Tarih röportajı)",
+    "tarih": "21/04/2017",
+    "yapim": "Muhteşem Yüzyıl",
+    "tur": "röportaj"
+   },
+   {
+    "url": "https://www.milliyet.com.tr/gundem/her-kafadan-bir-ses-cikiyor-kanuni-opusmezdi-cunku-1633821",
+    "baslik": "Her kafadan bir ses çıkıyor... 'Kanuni öpüşmezdi çünkü...'",
+    "kisi": "Yavuz Bahadıroğlu",
+    "tarih": "27/11/2012",
+    "yapim": "Muhteşem Yüzyıl",
+    "tur": "haber"
+   },
+   {
+    "url": "https://www.memleket.com.tr/tarihcilerden-muhtesem-yuzyil-yorumu-89823h.htm",
+    "baslik": "Tarihçilerden 'Muhteşem Yüzyıl' yorumu",
+    "kisi": "Prof. Dr. Mehmet İpçioğlu; Doç. Dr. Caner Arabacı",
+    "tarih": "29/01/2011",
+    "yapim": "Muhteşem Yüzyıl",
+    "tur": "röportaj"
+   },
+   {
+    "url": "https://www.turkrus.com/61138-rusyada-akademisyenler-muhtesem-yuzyili-tartisti-neyi-begendiler-neleri-kinadilar-xh.aspx",
+    "baslik": "Rusya'da akademisyenler \"Muhteşem Yüzyıl\"ı tartıştı: Neyi beğendiler, neleri kınadılar?",
+    "kisi": "Mihail Meyer; Svetlana Oreşkova; Natalya Ulçenko",
+    "tarih": "30/05/2013",
+    "yapim": "Muhteşem Yüzyıl",
+    "tur": "haber"
+   }
+  ],
+  "maddeler": [
+   {
+    "yanlis": "Saray kadınlarının dar, dekolteli ve beli sıkı elbiseler giymesi.",
+    "dogru": "Kadınlar kaftan ve altına bol şalvar giyerdi; kaftanlar dekolte ve beli dar olmazdı.",
+    "aciklama": "16. yüzyıl Osmanlı saray giyimi için bu kesim yanlıştır; Fransız etkili moda daha geçtir.",
+    "konu": "giyim",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Zuhal Yorgancıoğlu",
+    "kaynak_url": "https://www.hurriyetdailynews.com/designer-promotes-ottoman-motifs-to-the-world-19607",
+    "kaynak_ozet": "Women wore caftans and baggy trousers... not tight, scoop-neck"
+   },
+   {
+    "yanlis": "Dizideki kadın kostümlerinin 16. yüzyıl Osmanlı sarayına ait gibi sunulması.",
+    "dogru": "Görülen tarz, Fransız modasına daha yakındır; sarayda Fransız kostüm etkisi Abdülaziz döneminde belirginleşir.",
+    "aciklama": "Kostüm dili dönem dışı bir Batı modasını yansıtır.",
+    "konu": "giyim",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Zuhal Yorgancıoğlu",
+    "kaynak_url": "https://www.hurriyetdailynews.com/designer-promotes-ottoman-motifs-to-the-world-19607",
+    "kaynak_ozet": "What we see... closer to French fashion of that time"
+   },
+   {
+    "yanlis": "Saray hanımlarının 16. yüzyılda 19. yüzyıl Fransız modasına uygun dekolteli giysilerle dolaşması.",
+    "dogru": "Bu giyim tarzı 16. yüzyıl Osmanlı saray âdetlerine uymaz.",
+    "aciklama": "Eleştiriye göre döneme ve saray şartlarına aykırı bir kadın giyimi gösterilmiştir.",
+    "konu": "giyim",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Yusuf Halaçoğlu",
+    "kaynak_url": "https://www.gzt.com/tarih/muhtesem-yuzyil-ve-osmanli-gelenegi-2648181",
+    "kaynak_ozet": "saray hanımları 19. yüzyıl Fransız modasına uygun giyiniyorlar"
+   },
+   {
+    "yanlis": "Padişahın ve Has Odabaşı İbrahim Paşa'nın saray içinde başı açık gezmesi.",
+    "dogru": "Kavuk çıkarılsa bile takke giyilmesi gerekirdi.",
+    "aciklama": "Baş örtüsüne ilişkin saray âdeti göz ardı edilmiştir.",
+    "konu": "giyim",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ayşe Böhürler (okur notlarıyla aktarılan eleştiri)",
+    "kaynak_url": "https://www.yenisafak.com/gundem/muhtesem-yuzyilda-muhtesem-hatalar-298064",
+    "kaynak_ozet": "padişah... başı açık geziyor... takke giymeleri gerekirdi"
+   },
+   {
+    "yanlis": "Vezirlerin ve has odabaşının kavuksuz biçimde padişahın karşısına çıkıp onunla sofraya oturması.",
+    "dogru": "Rütbe göstergesi başlıklar protokol gereğiydi; padişah kimseyle birlikte yemek yemezdi.",
+    "aciklama": "Saray protokolü ve sofra âdeti birlikte ihlal edilmiştir.",
+    "konu": "saray-devlet",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Yusuf Halaçoğlu",
+    "kaynak_url": "https://www.gzt.com/tarih/muhtesem-yuzyil-ve-osmanli-gelenegi-2648181",
+    "kaynak_ozet": "has odabaşı ve vezirler kavuksuz geziyorlar"
+   },
+   {
+    "yanlis": "Kanuni tahta çıktığında haremin Topkapı Sarayı'nda gösterilmesi.",
+    "dogru": "Kanuni tahta çıktığında harem Eski Saray'daydı.",
+    "aciklama": "Mekân ve dönem kronolojisi uyuşmamaktadır.",
+    "konu": "sehir-mekan",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ayşe Böhürler (okur notlarıyla aktarılan eleştiri)",
+    "kaynak_url": "https://www.yenisafak.com/gundem/muhtesem-yuzyilda-muhtesem-hatalar-298064",
+    "kaynak_ozet": "Harem, Topkapı Sarayında değil Eski Saray'da idi"
+   },
+   {
+    "yanlis": "Muhteşem Yüzyıl döneminde haremin Topkapı Sarayı'nda işlediğinin varsayılması.",
+    "dogru": "Eleştiriye göre o dönemde harem Topkapı Sarayı'nda değildi.",
+    "aciklama": "Saray mekânlarının dönemsel yerleşimi yanlış aktarılmıştır.",
+    "konu": "sehir-mekan",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Osman Selahaddin Osmanoğlu",
+    "kaynak_url": "https://www.gzt.com/tarih/muhtesem-yuzyil-ve-osmanli-gelenegi-2648181",
+    "kaynak_ozet": "o dönemde harem Topkapı Sarayı’nda da değil"
+   },
+   {
+    "yanlis": "Haremde kadınlar ve erkeklerin (İbrahim Paşa gibi) koridorda rahatça karşılaşıp konuşması.",
+    "dogru": "Haremde erkek bulunmaz; devlet adamları haremden geçerek padişahın huzuruna alınmazdı.",
+    "aciklama": "Haremin erişim ve mahremiyet kuralları ihlal edilmiştir.",
+    "konu": "harem-kadin",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Osman Selahaddin Osmanoğlu",
+    "kaynak_url": "https://www.gzt.com/tarih/muhtesem-yuzyil-ve-osmanli-gelenegi-2648181",
+    "kaynak_ozet": "haremde sadece kadınlar vardır; koridorlarda dahi olsa erkek olmaz"
+   },
+   {
+    "yanlis": "Hareme yeniçeriler dahil herkesin girip çıkabilmesi.",
+    "dogru": "Hareme kimlerin gireceği katı kurallara bağlıydı.",
+    "aciklama": "Harem erişimi dizide keyfi ve denetimsiz gösterilmiştir.",
+    "konu": "harem-kadin",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Yusuf Halaçoğlu",
+    "kaynak_url": "https://www.gzt.com/tarih/muhtesem-yuzyil-ve-osmanli-gelenegi-2648181",
+    "kaynak_ozet": "hareme yeniçeriler dahil herkes girip çıkıyor; ancak... kurallara bağlıdır"
+   },
+   {
+    "yanlis": "Hareme yeni gelen Hürrem'in eğitim almadan kısa sürede padişahın huzuruna çıkarılması.",
+    "dogru": "Hareme gelen bir kız, padişahın karşısına çıkarılmadan önce yıllarca eğitimden geçerdi.",
+    "aciklama": "Saray haremindeki eğitim ve hiyerarşi süreci atlanmıştır.",
+    "konu": "harem-kadin",
+    "donem": "16.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ayşe Böhürler (okur notlarıyla aktarılan eleştiri)",
+    "kaynak_url": "https://www.yenisafak.com/gundem/muhtesem-yuzyilda-muhtesem-hatalar-298064",
+    "kaynak_ozet": "Hareme gelen bir kız 3-4 yıl eğitimden geçmeden"
+   },
+   {
+    "yanlis": "Cariyelerin neredeyse hiç eğitime ihtiyaç duyulmadan padişahın huzuruna çıkabilmesi.",
+    "dogru": "Cariyeler en az üç yıllık özel eğitimden sonra padişahın huzuruna çıkabilirdi.",
+    "aciklama": "Haremin disiplinli eğitim kurumu niteliği zayıf gösterilmiştir.",
+    "konu": "harem-kadin",
+    "donem": "16.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Yusuf Halaçoğlu",
+    "kaynak_url": "https://www.gzt.com/tarih/muhtesem-yuzyil-ve-osmanli-gelenegi-2648181",
+    "kaynak_ozet": "Cariyeler en az 3 yıllık özel bir eğitimin ardından"
+   },
+   {
+    "yanlis": "Haremin, kadınların dışarı çıkabildiği ve erkeklerin rahatça girebildiği oldukça serbest bir alan gibi sunulması.",
+    "dogru": "Harem daha izoleydi; her erkeğin girebileceği bir yer değildi.",
+    "aciklama": "Uzmanlara göre haremin kapalılığı ve iç düzeni yeterince yansıtılmamıştır.",
+    "konu": "harem-kadin",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Mihail Meyer; Svetlana Oreşkova",
+    "kaynak_url": "https://www.turkrus.com/61138-rusyada-akademisyenler-muhtesem-yuzyili-tartisti-neyi-begendiler-neleri-kinadilar-xh.aspx",
+    "kaynak_ozet": "haremin daha izole... her erkeğin giremeyeceği bir yer"
+   },
+   {
+    "yanlis": "Kanuni'nin tahta çıktıktan sonra divan toplantısına katılıp kararları bizzat aktarması.",
+    "dogru": "Fatih döneminden beri padişahlar divan toplantısına katılmaz, gerektiğinde kafes arkasından dinlerdi.",
+    "aciklama": "Padişahın divanla ilişkisine dair yerleşik uygulama yanlış gösterilmiştir.",
+    "konu": "saray-devlet",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ayşe Böhürler (okur notlarıyla aktarılan eleştiri)",
+    "kaynak_url": "https://www.yenisafak.com/gundem/muhtesem-yuzyilda-muhtesem-hatalar-298064",
+    "kaynak_ozet": "padişahlar divan toplantısına katılmaz... kafes arkasından dinlerlerdi"
+   },
+   {
+    "yanlis": "Yabancı elçilerin yerlerde süründürülerek padişahın huzuruna alınması.",
+    "dogru": "Böyle bir uygulama yoktu; Türk boyları ve Türkmenler hariç elçiler divanın toplandığı odaya giremezdi.",
+    "aciklama": "Diplomatik kabul protokolü abartılı ve hatalı gösterilmiştir.",
+    "konu": "diplomasi-donem",
+    "donem": "16.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Yusuf Halaçoğlu",
+    "kaynak_url": "https://www.gzt.com/tarih/muhtesem-yuzyil-ve-osmanli-gelenegi-2648181",
+    "kaynak_ozet": "yabancı ülkelerin elçileri yerlerde süründürülerek padişahın huzuruna"
+   },
+   {
+    "yanlis": "Kanuni'nin Venedik elçisiyle konuşurken \"Venedik dükü\" ifadesini kullanması.",
+    "dogru": "Doğru unvan Doge (Doç) idi.",
+    "aciklama": "Dönemin diplomatik unvanı yanlış aktarılmıştır.",
+    "konu": "unvan-hitap",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ayşe Böhürler (okur notlarıyla aktarılan eleştiri)",
+    "kaynak_url": "https://www.yenisafak.com/gundem/muhtesem-yuzyilda-muhtesem-hatalar-298064",
+    "kaynak_ozet": "bu kelimenin doğrusu \"Doge\"dur ve dilimize \"Doc\" diye geçmiştir"
+   },
+   {
+    "yanlis": "Has Oda başına getirilen İbrahim Paşa'nın devşirme kökeni üzerinden \"bu dönmeyi nasıl has odabaşı yapar\" diye itiraz edilmesi.",
+    "dogru": "Has Oda ve Enderun'un tamamı devşirmelerden oluşurdu.",
+    "aciklama": "Saray teşkilatının personel yapısı yanlış yorumlanmıştır.",
+    "konu": "saray-devlet",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ayşe Böhürler (okur notlarıyla aktarılan eleştiri)",
+    "kaynak_url": "https://www.yenisafak.com/gundem/muhtesem-yuzyilda-muhtesem-hatalar-298064",
+    "kaynak_ozet": "Has Oda ve hatta Enderun'un tamamı zaten devşirmelerden oluşur"
+   },
+   {
+    "yanlis": "Devlet adamlarının padişah tarafından has odasında kabul edilmesi.",
+    "dogru": "Padişah devlet adamlarını has odasına değil, arz odasına kabul ederdi.",
+    "aciklama": "Kabul mekânına ilişkin saray teşrifatı yanlış gösterilmiştir.",
+    "konu": "saray-devlet",
+    "donem": "16.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Osman Selahaddin Osmanoğlu",
+    "kaynak_url": "https://www.gzt.com/tarih/muhtesem-yuzyil-ve-osmanli-gelenegi-2648181",
+    "kaynak_ozet": "padişah devlet adamlarını has odasına değil, arz odasına kabul eder"
+   },
+   {
+    "yanlis": "Kaptan-ı Derya Cafer Paşa'nın kılıçla, padişahın gözü önünde idam edilmesi ve kafasının ibret taşında kesilmesi.",
+    "dogru": "Üst düzey görevliler genelde kementle boğularak idam edilirdi; idam baltayla yapılacaksa baltacılarca yürütülürdü ve padişah infazı seyretmezdi.",
+    "aciklama": "İnfaz yöntemi, icracılar ve padişahın rolü hatalı aktarılmıştır.",
+    "konu": "saray-devlet",
+    "donem": "16.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Yusuf Halaçoğlu",
+    "kaynak_url": "https://www.gzt.com/tarih/muhtesem-yuzyil-ve-osmanli-gelenegi-2648181",
+    "kaynak_ozet": "üst düzey görevliler kementle boğularak idam edilirdi"
+   },
+   {
+    "yanlis": "Dizide 16. yüzyılda \"cellât Kara Ali\" adlı bir kişinin yer alması.",
+    "dogru": "Kara Ali, eleştiriye göre o tarihlerden yaklaşık 150 yıl sonra yaşamış bir kişidir.",
+    "aciklama": "Tarihsel kişi dönem dışı bir bağlama yerleştirilmiştir.",
+    "konu": "isim-ad",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ayşe Böhürler (okur notlarıyla aktarılan eleştiri)",
+    "kaynak_url": "https://www.yenisafak.com/gundem/muhtesem-yuzyilda-muhtesem-hatalar-298064",
+    "kaynak_ozet": "cellât Kara Ali, o tarihlerden 150 yıl sonra yaşamış"
+   },
+   {
+    "yanlis": "Yavuz Sultan Selim'in 200 kalyonluk bir donanma hazırlattığının söylenmesi.",
+    "dogru": "Donanma için ilk kalyon 17. yüzyılın ortasında yapılmıştır.",
+    "aciklama": "Gemi türüne ilişkin anakronik bir iddia kullanılmıştır.",
+    "konu": "teknoloji-esya",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ayşe Böhürler (okur notlarıyla aktarılan eleştiri)",
+    "kaynak_url": "https://www.yenisafak.com/gundem/muhtesem-yuzyilda-muhtesem-hatalar-298064",
+    "kaynak_ozet": "donanma için ilk kalyon 17.yüzyılın ortasında yapılmıştır"
+   },
+   {
+    "yanlis": "Dizide erkek karakterlerin pantolon giymesi.",
+    "dogru": "Osmanlı'ya pantolon 1800'lerde, II. Mahmud döneminde geldi.",
+    "aciklama": "16. yüzyıl için pantolonlu kostüm anakroniktir.",
+    "konu": "giyim",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Yusuf Halaçoğlu",
+    "kaynak_url": "https://www.gzt.com/tarih/muhtesem-yuzyil-ve-osmanli-gelenegi-2648181",
+    "kaynak_ozet": "Osmanlı’ya pantolon 1800’lerde, II. Mahmud döneminde geldi"
+   },
+   {
+    "yanlis": "Kanuni'nin tahta çıkmaya hazırlanırken sakallı gösterilmesi.",
+    "dogru": "Osmanlı'da şehzadeler sakal bırakmazdı; sakal bırakma izni tahta cülustan sonra gelirdi.",
+    "aciklama": "Şehzadelik dönemi görünümü hanedan âdetine aykırı gösterilmiştir.",
+    "konu": "gundelik-dil",
+    "donem": "16.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Yusuf Halaçoğlu",
+    "kaynak_url": "https://www.gzt.com/tarih/muhtesem-yuzyil-ve-osmanli-gelenegi-2648181",
+    "kaynak_ozet": "şehzadeler sakal bırakmaz; ancak tahta cülus ettikten sonra"
+   },
+   {
+    "yanlis": "Kanuni'nin tahta çıkışının (cülus) havai fişeklerle duyurulması.",
+    "dogru": "Osmanlı'da cülusun duyurulması için 101 pare top atılması geleneği vardı.",
+    "aciklama": "Dönemin bilinen ilan ritüeli yerine modern bir gösteri kullanılmıştır.",
+    "konu": "saray-devlet",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Yusuf Halaçoğlu",
+    "kaynak_url": "https://www.gzt.com/tarih/muhtesem-yuzyil-ve-osmanli-gelenegi-2648181",
+    "kaynak_ozet": "cülusun... duyurulması için 101 pare top atılması geleneği vardı"
+   },
+   {
+    "yanlis": "Valide Sultan'ın yeni gelen Hürrem'le Rusça konuşması ve buna Kırım Hanı'nın kızı olmasıyla açıklama getirilmesi.",
+    "dogru": "Eleştiriye göre o sıralarda Kırım Tatarları Rus egemenliği altında değildi; Kırım'da Rus etkisi bu bağlamda söz konusu değildir.",
+    "aciklama": "Dil ve tarihsel bağlam ilişkilendirmesi hatalı sunulmuştur.",
+    "konu": "gundelik-dil",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ayşe Böhürler (okur notlarıyla aktarılan eleştiri)",
+    "kaynak_url": "https://www.yenisafak.com/gundem/muhtesem-yuzyilda-muhtesem-hatalar-298064",
+    "kaynak_ozet": "Kırım Tatarları 250 yıl daha Rus egemenliğine girmeyecek"
+   },
+   {
+    "yanlis": "Haremde erkeklerin kadınla görüşmesinin olağan ve kolay bir durum gibi gösterilmesi.",
+    "dogru": "Haremde erkeğin kadınla görüşmesi mümkün değildi.",
+    "aciklama": "Haremin temel mahremiyet kuralı göz ardı edilmiştir.",
+    "konu": "harem-kadin",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Yavuz Bahadıroğlu",
+    "kaynak_url": "https://www.milliyet.com.tr/gundem/her-kafadan-bir-ses-cikiyor-kanuni-opusmezdi-cunku-1633821",
+    "kaynak_ozet": "Haremde erkeğin kadınla görüşmesi bile mümkün değildi"
+   },
+   {
+    "yanlis": "Kanuni ve saray çevresinde yaygın ve serbest öpüşme sahnelerinin gösterilmesi.",
+    "dogru": "Eleştiriye göre Osmanlı sarayında öpüşme yoktu; yanaktan ve alından öpme vardı.",
+    "aciklama": "Saraydaki temas ve selamlaşma biçimleri yanlış yansıtılmıştır.",
+    "konu": "gundelik-dil",
+    "donem": "16.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Yavuz Bahadıroğlu",
+    "kaynak_url": "https://www.milliyet.com.tr/gundem/her-kafadan-bir-ses-cikiyor-kanuni-opusmezdi-cunku-1633821",
+    "kaynak_ozet": "Osmanlı sarayında öpüşme yoktu. Çünkü padişahlar salgın hastalık"
+   },
+   {
+    "yanlis": "Padişahın vaktinin büyük bölümünü sürekli hareme girip çıkarak geçirmesi.",
+    "dogru": "Padişahlar haftada iki kez hareme gider, geri kalan günlerde devlet işleriyle uğraşırlardı.",
+    "aciklama": "Hükümdarın günlük düzeni ve devlet işleriyle ilişkisi çarpıtılmıştır.",
+    "konu": "saray-devlet",
+    "donem": "16.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Yavuz Bahadıroğlu",
+    "kaynak_url": "https://www.milliyet.com.tr/gundem/her-kafadan-bir-ses-cikiyor-kanuni-opusmezdi-cunku-1633821",
+    "kaynak_ozet": "Padişahlar haftada 2 kez hareme giderdi"
+   }
+  ]
+ }
+}

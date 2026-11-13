@@ -1,0 +1,271 @@
+{
+ "model": "opencode/iceman-free",
+ "ad": "kaynak-17",
+ "tarih": "2026-11-13 15:30",
+ "veri": {
+  "kaynaklar": [
+   {
+    "url": "https://www.milliyet.com.tr/cadde/murat-bardakci-payitaht-istanbul-dizisindeki-hatayi-yazdi-2405503",
+    "baslik": "Murat Bardakçı, \"Payitaht İstanbul\" dizisindeki hatayı yazdı!",
+    "kisi": "Murat Bardakçı",
+    "tarih": "2017-03-01",
+    "yapim": "Payitaht Abdülhamid",
+    "tur": "haber"
+   },
+   {
+    "url": "https://www.medyafaresi.com/haber/payitaht-abdulhamiddeki-hatalari-unlu-tarihci-yakaladi/809684",
+    "baslik": "Payitaht Abdülhamid dizisindeki hataları ünlü tarihçi yakaladı!",
+    "kisi": "Murat Bardakçı",
+    "tarih": "2017-03-01",
+    "yapim": "Payitaht Abdülhamid",
+    "tur": "haber"
+   },
+   {
+    "url": "https://www.medyafaresi.com/haber/murat-bardakci-payitaht-abdulhamiddeki-hatalari-siraladi/813831",
+    "baslik": "Murat Bardakçı, Payitaht Abdülhamid'deki hataları sıraladı",
+    "kisi": "Murat Bardakçı",
+    "tarih": "2017-03-27",
+    "yapim": "Payitaht Abdülhamid",
+    "tur": "haber"
+   },
+   {
+    "url": "https://artigercek.com/makale/tarih-ve-tahrifat-33920",
+    "baslik": "Tarih ve Tahrifat...",
+    "kisi": "Ertuğrul Günay",
+    "tarih": "2017-10-12",
+    "yapim": "Payitaht Abdülhamid",
+    "tur": "yazı"
+   },
+   {
+    "url": "https://www.tyb.org.tr/d-mehmet-dogandan-payitaht-abdulhamid-aciklamasi-28981h.htm",
+    "baslik": "D. Mehmet Doğan’dan “Payitaht Abdülhamid” açıklaması",
+    "kisi": "D. Mehmet Doğan",
+    "tarih": "2017-03-08",
+    "yapim": "Payitaht Abdülhamid",
+    "tur": "yazı"
+   },
+   {
+    "url": "https://www.ahaber.com.tr/yasam/2019/03/10/payitaht-abdulhamidde-olmamasi-gereken-iki-sey-sahnelere-boyle-yansidi",
+    "baslik": "'Payitaht Abdülhamid'de olmaması gereken iki şey! Sahnelere böyle yansıdı...",
+    "kisi": "Yüksel Aytuğ (aktaran: Hüsamettin Saygan)",
+    "tarih": "2019-03-10",
+    "yapim": "Payitaht Abdülhamid",
+    "tur": "haber"
+   },
+   {
+    "url": "https://www.internethaber.com/trt-dizisinde-buyuk-gaf-1757688h.htm",
+    "baslik": "TRT dizisinde büyük gaf!",
+    "kisi": "Yüksel Aytuğ",
+    "tarih": "2017-02-28",
+    "yapim": "Payitaht Abdülhamid",
+    "tur": "haber"
+   }
+  ],
+  "maddeler": [
+   {
+    "yanlis": "II. Abdülhamid döneminde Cuma selamlığında ve sarayda mehter çalınması.",
+    "dogru": "Mehter 1826'da kaldırıldı; dönemde saray bandosu Batı müziği icra ederdi.",
+    "aciklama": "Mehter 1911'de müzede, askerî takım olarak 1917'de ihya edilmiştir.",
+    "konu": "saray-devlet",
+    "donem": "19.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://www.milliyet.com.tr/cadde/murat-bardakci-payitaht-istanbul-dizisindeki-hatayi-yazdi-2405503",
+    "kaynak_ozet": "O devirde mehter ne arar?"
+   },
+   {
+    "yanlis": "Taht önünde sopaya bağlı püskülün şapır şapır öpülmesi.",
+    "dogru": "Mabeyincinin tuttuğu saçağa ellerle öper gibi yapılıp büyük temenna edilirdi.",
+    "aciklama": "Resmî merasim protokolü dizideki gibi gösterilmemiştir.",
+    "konu": "saray-devlet",
+    "donem": "19.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://www.medyafaresi.com/haber/payitaht-abdulhamiddeki-hatalari-unlu-tarihci-yakaladi/809684",
+    "kaynak_ozet": "sopaya bağlı bir püskül... öpme âdeti vardı!"
+   },
+   {
+    "yanlis": "Padişahın hanımları ve şehzadesiyle cümbür cemaat kahvaltı etmesi.",
+    "dogru": "Padişahlar genelde tek başına yer; nadiren bazı hanımlarla sofraya otururdu.",
+    "aciklama": "Yıldız Sarayı dahil Osmanlı saraylarında böyle toplu kahvaltı âdeti yoktu.",
+    "konu": "harem-kadin",
+    "donem": "19.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://www.medyafaresi.com/haber/payitaht-abdulhamiddeki-hatalari-unlu-tarihci-yakaladi/809684",
+    "kaynak_ozet": "cümbür cemaat bir kahvaltı... asla mevcut olmamıştı!"
+   },
+   {
+    "yanlis": "Şehzadenin padişaha \"Baba, babacığım\" diye hitap etmesi.",
+    "dogru": "Şehzade, hükümdara \"Efendimiz\" veya samimi anlarda \"Pederim\" derdi.",
+    "aciklama": "Saray içi hitaplarda protokol ve hiyerarşi gözetilirdi.",
+    "konu": "unvan-hitap",
+    "donem": "19.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://www.medyafaresi.com/haber/payitaht-abdulhamiddeki-hatalari-unlu-tarihci-yakaladi/809684",
+    "kaynak_ozet": "\"Baba, babacığım\" diyebilmesi ise ne mümkün?"
+   },
+   {
+    "yanlis": "\"Devlet-i Aliyye\" adındaki \"Aliyye\"nin \"Âliyye\" gibi uzatılarak söylenmesi.",
+    "dogru": "\"Aliyye\" kelimesinin başındaki \"A\" kısa okunur.",
+    "aciklama": "Devletin resmî adının telaffuzu dizide hatalı verilmiştir.",
+    "konu": "gundelik-dil",
+    "donem": "19.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://www.medyafaresi.com/haber/payitaht-abdulhamiddeki-hatalari-unlu-tarihci-yakaladi/809684",
+    "kaynak_ozet": "\"Aliyye\"... maaşallah uzatılıp çekiliyor, \"Âliyye\" oluyor"
+   },
+   {
+    "yanlis": "\"Abdülkadir\" isminde ortadaki \"a\"nın kısaltılarak söylenmesi.",
+    "dogru": "İsmin ortasındaki \"a\" uzun okunmalıdır.",
+    "aciklama": "Telaffuz hatası Bardakçı tarafından bozuk şiveye benzetilmiştir.",
+    "konu": "isim-ad",
+    "donem": "19.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://www.medyafaresi.com/haber/payitaht-abdulhamiddeki-hatalari-unlu-tarihci-yakaladi/809684",
+    "kaynak_ozet": "ortasındaki \"a\"nın uzun okunması gerektiği halde kısaltılıp"
+   },
+   {
+    "yanlis": "II. Abdülhamid'in İngiliz elçisinin suratına tokat atması.",
+    "dogru": "Padişahın sakinliği, temkini ve protokole riayetiyle bağdaşmayan hayalî bir sahnedir.",
+    "aciklama": "Diplomatik protokol ve padişahın bilinen tavrı böyle bir davranışı desteklemez.",
+    "konu": "diplomasi-donem",
+    "donem": "19.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://www.medyafaresi.com/haber/payitaht-abdulhamiddeki-hatalari-unlu-tarihci-yakaladi/809684",
+    "kaynak_ozet": "İngiliz elçisinin suratına şrrrrak diye bir tokat"
+   },
+   {
+    "yanlis": "Dizide gösterilen Osmanlıca belgelerde \"arz\", \"kara\", \"Harbiye\", \"nezaret\" gibi kelimelerin yanlış yazılması.",
+    "dogru": "Bu kelimeler dönemin doğru imlasıyla yazılmalıdır (ör. \"arz\" ayınla başlar).",
+    "aciklama": "Bardakçı, senaryo gereği gösterilen evrakın imlasının neredeyse tamamını hatalı bulmuştur.",
+    "konu": "yazi-belge",
+    "donem": "19.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://www.medyafaresi.com/haber/murat-bardakci-payitaht-abdulhamiddeki-hatalari-siraladi/813831",
+    "kaynak_ozet": "resmî belgelerin... neredeyse tamamının imlâsı maalesef yanlış"
+   },
+   {
+    "yanlis": "Resmî bir yazının üst tarafına İstiklâl Marşı'nın ilk mısralarının konulması.",
+    "dogru": "İstiklâl Marşı 1921'de yazılmıştır; II. Abdülhamid döneminde kullanılamaz.",
+    "aciklama": "Belge dekorunda bariz bir dönem dışı unsur kullanılmıştır.",
+    "konu": "yazi-belge",
+    "donem": "19.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://www.medyafaresi.com/haber/murat-bardakci-payitaht-abdulhamiddeki-hatalari-siraladi/813831",
+    "kaynak_ozet": "üst tarafına İstiklâl Marşı'nın ilk mısralarındaki kelimeleri"
+   },
+   {
+    "yanlis": "Damat Mahmud Celaleddin Paşa'nın lime lime, dilenci kılığında gösterilmesi.",
+    "dogru": "Mahmud Celaleddin Paşa, Sultan Abdülhamid'in eniştesi ve önemli bir Osmanlı paşasıydı.",
+    "aciklama": "Tarihî şahsiyetin sosyal konumu ve görünümü dizide karikatürize edilmiştir.",
+    "konu": "giyim",
+    "donem": "19.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Ertuğrul Günay",
+    "kaynak_url": "https://artigercek.com/makale/tarih-ve-tahrifat-33920",
+    "kaynak_ozet": "lime lime... ilk gören 'dilenci' sanıyor"
+   },
+   {
+    "yanlis": "Prens Sabahaddin'in 1896 sonrası İstanbul'da entrikalar kuran genç olarak gösterilmesi.",
+    "dogru": "Sabahaddin, 1899'da babasıyla Paris'e gitmiş ve 20 yaşını doldurmadan Türkiye'den ayrılmıştır.",
+    "aciklama": "Kronoloji ve biyografi dizide tarihsel gerçekliğe uymayacak şekilde kurgulanmıştır.",
+    "konu": "saray-devlet",
+    "donem": "19.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Ertuğrul Günay",
+    "kaynak_url": "https://artigercek.com/makale/tarih-ve-tahrifat-33920",
+    "kaynak_ozet": "Sabahaddin, daha 20 yaşını doldurmadan Türkiye'den ayrılmış"
+   },
+   {
+    "yanlis": "II. Abdülhamid'in mehter dinlediği veya mehter marşı besteletmiş gibi sunulması.",
+    "dogru": "II. Mahmud'dan sonra Mehter-i Hakanî kaldırılmış, yerine Mızıka-yı Hümayun kurulmuştur.",
+    "aciklama": "Abdülhamid döneminde sarayda batı müziği icra edilir, mehter ihyası söz konusu değildir.",
+    "konu": "saray-devlet",
+    "donem": "19.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "D. Mehmet Doğan",
+    "kaynak_url": "https://www.tyb.org.tr/d-mehmet-dogandan-payitaht-abdulhamid-aciklamasi-28981h.htm",
+    "kaynak_ozet": "Abdülhamid hiç mehter dinlememişti! Mehter marşı da besteletmemişti!"
+   },
+   {
+    "yanlis": "Şeyhülislamın padişah için \"Yeryüzünde Allah'ın halifesi\" ifadesini kullanması.",
+    "dogru": "Osmanlı'da sultanlar için \"zıllullah fi'l-arz\" gibi tabirler bilinir; bu hitap hatalıdır.",
+    "aciklama": "Unvanlandırma dinî ve tarihî terminolojiye uygun değildir.",
+    "konu": "unvan-hitap",
+    "donem": "19.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "D. Mehmet Doğan",
+    "kaynak_url": "https://www.tyb.org.tr/d-mehmet-dogandan-payitaht-abdulhamid-aciklamasi-28981h.htm",
+    "kaynak_ozet": "\"Yeryüzünde Allahın halifesi...\" hitabında bulunuyor"
+   },
+   {
+    "yanlis": "1896'da Hicaz Demiryolu'nun İngilizlere yaptırılacağı ve harita değiştirildiği kurgusu.",
+    "dogru": "Hicaz Demiryolu 1900-1908 arasında öz kaynaklarla ve bağışlarla inşa edilmiştir.",
+    "aciklama": "Projenin zamanı, finansmanı ve diplomatik çerçevesi dizide yanlış aktarılmıştır.",
+    "konu": "diplomasi-donem",
+    "donem": "19.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "D. Mehmet Doğan",
+    "kaynak_url": "https://www.tyb.org.tr/d-mehmet-dogandan-payitaht-abdulhamid-aciklamasi-28981h.htm",
+    "kaynak_ozet": "Hicaz demiryolu 1900 ila 1908 yılları arasında"
+   },
+   {
+    "yanlis": "Tek kişilik cemaatle namazda cemaatin imamın solunda durması.",
+    "dogru": "Cemaat tek kişi ise imamın sağ tarafında durmalıdır.",
+    "aciklama": "Namaz düzeniyle ilgili temel bir fıkhî uygulama hatası gösterilmiştir.",
+    "konu": "din-gundelik",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Yüksel Aytuğ (aktaran: Hüsamettin Saygan)",
+    "kaynak_url": "https://www.ahaber.com.tr/yasam/2019/03/10/payitaht-abdulhamidde-olmamasi-gereken-iki-sey-sahnelere-boyle-yansidi",
+    "kaynak_ozet": "tek kişi ise... imamın sağ tarafında safa durmasıdır"
+   },
+   {
+    "yanlis": "II. Abdülhamid döneminde modern görünümlü Çin malı şemsiyelerin kullanılması.",
+    "dogru": "Sahneye döneme uygun şemsiye veya aksesuar kullanılmalıdır.",
+    "aciklama": "Kostüm ve aksesuar tercihi dönemin maddi kültürüne uyumsuz bulunmuştur.",
+    "konu": "teknoloji-esya",
+    "donem": "19.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Yüksel Aytuğ (aktaran: Hüsamettin Saygan)",
+    "kaynak_url": "https://www.ahaber.com.tr/yasam/2019/03/10/payitaht-abdulhamidde-olmamasi-gereken-iki-sey-sahnelere-boyle-yansidi",
+    "kaynak_ozet": "ikisinin elinde 10 liralık Çin malı şemsiyeler"
+   },
+   {
+    "yanlis": "1896'da geçen bir sahnede ağza fermuar çekme jestinin yapılması.",
+    "dogru": "Fermuar 1914'te icat edilmiş ve başlangıçta yaygın kullanıma girmemiştir.",
+    "aciklama": "Dönem dışı bir nesneye dayanan jest anakronizm oluşturur.",
+    "konu": "teknoloji-esya",
+    "donem": "19.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Yüksel Aytuğ",
+    "kaynak_url": "https://www.internethaber.com/trt-dizisinde-buyuk-gaf-1757688h.htm",
+    "kaynak_ozet": "fermuar dediğiniz şey, 1914 yılında icat edilmiş"
+   }
+  ]
+ }
+}

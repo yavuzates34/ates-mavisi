@@ -1,0 +1,48 @@
+{
+ "model": "opencode/deepseek-v4.1-flash-free",
+ "ad": "video-8vpj2aEjEB0",
+ "tarih": "2026-11-13 15:10",
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "Kuruluş Osman'da Bizans komutanı olarak sunulan 'Flavius' karakterinin gerçek bir tarihî kişi gibi işlenmesi ve Fatma Hatun'la aşk yaşaması",
+    "dogru": "Böyle bir karakter ve böyle bir aşk yok. Dizide tutulması için babası Kıpçak Türk'ü yapılıyor, yani kişi tümüyle sonradan kurulmuş.",
+    "aciklama": "Konuşmacı, karakterin reyting için uydurulduğunu ve sonradan Osmanlı tarafına yaklaştırıldığını söylüyor. Ona göre sadece adı değil, Bursa komutanlığı ve Fatma Hatun ilişkisi de tarihte yok.",
+    "konu": "isim-ad",
+    "donem": "genel",
+    "gecerli_1798": "hayır",
+    "yapim": "Kuruluş Osman",
+    "kisi": "Ahmet Anapalı",
+    "kaynak_url": "https://youtu.be/8vpj2aEjEB0?t=462",
+    "zaman": "07:42",
+    "kaynak_ozet": "Hiç öyle bir aşk yok. Flavius diye bir karakter de yok."
+   },
+   {
+    "yanlis": "Dizide haberin sabah söylenip akşam Bosna'da olması; günler süren yolun iki saniyede alınması",
+    "dogru": "Bükreş ile Saraybosna arası 886 kilometre; atla hiç durmadan 7 gün, gerçek sefer şartlarında 1-1,5 ay sürer.",
+    "aciklama": "Konuşmacı dağ, taş, orman, nehir ve köprü yokluğunun geçişi uzattığını hatırlatıyor. Ona göre bu sahne en az bir buçuk aya yayılmalıydı.",
+    "konu": "sehir-mekan",
+    "donem": "15.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Fatih (dizi)",
+    "kisi": "Ahmet Anapalı",
+    "kaynak_url": "https://youtu.be/8vpj2aEjEB0?t=680",
+    "zaman": "11:20",
+    "kaynak_ozet": "Bükreş-Saraybosna 886 km, 7 gün; bunu 1,5 aya yayman lazım."
+   },
+   {
+    "yanlis": "Cüneyt Arkın'ın Kara Murat ve Malkoçoğlu filmlerinin tarihî olayları aktardığının sanılması",
+    "dogru": "Yalnızca karakter adları gerçek (Fatih, Drakula, Hızır Paşa); olay örgüsünün tamamı kurmaca.",
+    "aciklama": "Konuşmacı sinema filmlerini dizilerden ayırıp bu filmleri 'tamamen kurmaca' diye niteliyor. Tarih kaynağı olarak kullanılamayacaklarını söylüyor.",
+    "konu": "isim-ad",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Kara Murat / Malkoçoğlu filmleri",
+    "kisi": "Ahmet Anapalı",
+    "kaynak_url": "https://youtu.be/8vpj2aEjEB0?t=98",
+    "zaman": "01:38",
+    "kaynak_ozet": "Sadece karakterlerinin isimleri doğru; Drakula, Fatih, Hızır Paşa gerçek, dışındaki her şey uydurma."
+   }
+  ]
+ }
+}

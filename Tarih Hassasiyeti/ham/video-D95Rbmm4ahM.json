@@ -1,0 +1,100 @@
+{
+ "model": "opencode/iceman-free",
+ "ad": "video-D95Rbmm4ahM",
+ "tarih": "2026-11-13 15:34",
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "Yaşlı Ertuğrul Bey'in Kayı obasından Konya'ya gitmesi.",
+    "dogru": "Ertuğrul Bey o dönemde 90-93 yaşlarındaydı ve Konya'ya gitmemiştir.",
+    "aciklama": "Konuşmacıya göre bu sahne senaryo gereği uydurulmuştur; böyle bir durumda elçi gönderilirdi.",
+    "konu": "saray-devlet",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Kuruluş Osman",
+    "kisi": "Tarihini Seven Adam",
+    "kaynak_url": "https://youtu.be/D95Rbmm4ahM?t=185",
+    "zaman": "03:05",
+    "kaynak_ozet": "Ertuğrul Bey kesinlikle Konya'ya gitmemiştir, 90-93 yaşlarındaydı."
+   },
+   {
+    "yanlis": "Ertuğrul Bey Konya'dayken Dündar Bey'in Kayı obasına bey seçilmesi.",
+    "dogru": "Osman Bey, babası tarafından aşiretin başına getirilmişti ve işleri yürütmekteydi.",
+    "aciklama": "Konuşmacı, Dündar Bey'in Kayı obasına bey olmadığını belirtir.",
+    "konu": "saray-devlet",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Kuruluş Osman",
+    "kisi": "Tarihini Seven Adam",
+    "kaynak_url": "https://youtu.be/D95Rbmm4ahM?t=217",
+    "zaman": "03:37",
+    "kaynak_ozet": "Dündar Bey Kayı obasında bey olmamıştır."
+   },
+   {
+    "yanlis": "Osman Bey'in ağabeyleri Savcı ve Gündüz ile sürekli kavga halinde gösterilmesi.",
+    "dogru": "Savcı ve Gündüz Bey, Osman Bey ile iyi anlaşır ve ona danışman gibi destek olurdu.",
+    "aciklama": "Konuşmacı, aile içi sürekli çatışma tasvirinin doğru olmadığını söyler.",
+    "konu": "saray-devlet",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Kuruluş Osman",
+    "kisi": "Tarihini Seven Adam",
+    "kaynak_url": "https://youtu.be/D95Rbmm4ahM?t=250",
+    "zaman": "04:10",
+    "kaynak_ozet": "Savcı ve Gündüz, Osman Bey'e danışman gibi görev yaparlardı."
+   },
+   {
+    "yanlis": "Eskişehir beyi Alişar Bey'in Kayı obasında beyleri aşağılayıcı bir üslupla azarlaması.",
+    "dogru": "Bir sancak beyinin obaya gelip beyleri böyle aşağılaması dönemin devlet terbiyesi ve töresine uymazdı.",
+    "aciklama": "Konuşmacı, bu tür hitap ve davranışın o dönemde kabul edilemez olduğunu vurgular.",
+    "konu": "unvan-hitap",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Kuruluş Osman",
+    "kisi": "Tarihini Seven Adam",
+    "kaynak_url": "https://youtu.be/D95Rbmm4ahM?t=280",
+    "zaman": "04:40",
+    "kaynak_ozet": "Sancak beyinin böyle aşağılayıcı üslup kullanması kabul edilemezdi."
+   },
+   {
+    "yanlis": "Osman Bey'in Şeyh Edebali ile ilk kez sonradan, dergâhta karşılaşması.",
+    "dogru": "Osman Bey çocukluğundan beri Şeyh Edebali'nin dergâhına gider, onun terbiyesi altında yetişirdi.",
+    "aciklama": "Konuşmacıya göre Bala Hatun ile tanışma ve evlilik süreci de dizide olduğundan farklı gelişmiştir.",
+    "konu": "din-gundelik",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Kuruluş Osman",
+    "kisi": "Tarihini Seven Adam",
+    "kaynak_url": "https://youtu.be/D95Rbmm4ahM?t=374",
+    "zaman": "06:14",
+    "kaynak_ozet": "Osman Bey, Şeyh Edebali'nin dergâhına çocukluktan beri giderdi."
+   },
+   {
+    "yanlis": "Osman Bey'in Bala Hatun'u dergâhta sonradan görüp hemen evlilik talebinin kabul edilmesi.",
+    "dogru": "Osman Bey Bala Hatun'u dergâha gidiş gelişlerinde görüp sevmiş; Şeyh Edebali önce kabul etmemiş, evlilik rüyadan sonra gerçekleşmiştir.",
+    "aciklama": "Konuşmacı, tanışma ve evliliğin dizideki gibi değil daha farklı bir süreçte olduğunu anlatır.",
+    "konu": "din-gundelik",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Kuruluş Osman",
+    "kisi": "Tarihini Seven Adam",
+    "kaynak_url": "https://youtu.be/D95Rbmm4ahM?t=405",
+    "zaman": "06:45",
+    "kaynak_ozet": "Bala Hatun istenmiş, Şeyh Edebali önce kabul etmemiştir."
+   },
+   {
+    "yanlis": "Bala Hatun'un Bilecik kalesine gidip rahibe kılığına girerek casusluk yapması.",
+    "dogru": "Konuşmacıya göre Bala Hatun'un böyle bir casusluk faaliyeti olmamıştır.",
+    "aciklama": "Sahne, dizideki senaryoya ait uydurma bir olay olarak eleştirilir.",
+    "konu": "saray-devlet",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Kuruluş Osman",
+    "kisi": "Tarihini Seven Adam",
+    "kaynak_url": "https://youtu.be/D95Rbmm4ahM?t=436",
+    "zaman": "07:16",
+    "kaynak_ozet": "Bala Hatun rahibe kılığına girerek casusluk yapmamıştır."
+   }
+  ]
+ }
+}

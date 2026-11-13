@@ -1,0 +1,339 @@
+{
+ "model": "opencode/iceman-free",
+ "ad": "kaynak-21",
+ "tarih": "2026-11-13 15:31",
+ "veri": {
+  "kaynaklar": [
+   {
+    "url": "https://www.ahmetsimsirgil.com/fetih-1453-ve-dusundurdukleri/",
+    "baslik": "Fetih 1453 ve Düşündürdükleri",
+    "kisi": "Prof. Dr. Ahmet Şimşirgil",
+    "tarih": "bilinmiyor",
+    "yapim": "Fetih 1453 (2012)",
+    "tur": "yazı"
+   },
+   {
+    "url": "https://www.gazetevatan.com/kultur-sanat/fatih-iyi-ama-431402",
+    "baslik": "'Fatih iyi ama...'",
+    "kisi": "Prof. Dr. Mahmut Ak; Prof. Dr. Fahameddin Başar",
+    "tarih": "17.02.2012",
+    "yapim": "Fetih 1453 (2012)",
+    "tur": "haber"
+   },
+   {
+    "url": "https://www.habername.com/haber-fetih-1453te-buyuk-hata-71114.htm",
+    "baslik": "'Fetih 1453'te büyük hata!",
+    "kisi": "Erhan Afyoncu",
+    "tarih": "17.02.2012",
+    "yapim": "Fetih 1453 (2012)",
+    "tur": "haber"
+   },
+   {
+    "url": "https://www.habervaktim.com/yazar/47871/filmlere-belgesel-muamelesi-yapmayalim.html",
+    "baslik": "Filmlere belgesel muamelesi yapmayalım",
+    "kisi": "Niyazi Özdemir; Mustafa Armağan (aktaran: Habervaktim yazarı)",
+    "tarih": "21.02.2012",
+    "yapim": "Fetih 1453 (2012)",
+    "tur": "yazı"
+   },
+   {
+    "url": "https://www.habervaktim.com/haber/281248/1453te-clintoni-degil-fatihi-gormek-isterdik.html",
+    "baslik": "1453'te Clinton'ı değil Fatih'i görmek isterdik",
+    "kisi": "Prof. Dr. Ahmet Şimşirgil",
+    "tarih": "01.03.2012",
+    "yapim": "Fetih 1453 (2012)",
+    "tur": "röportaj"
+   }
+  ],
+  "maddeler": [
+   {
+    "yanlis": "Fatih, Karamanoğlu İbrahim Bey ile yüz yüze görüşüp onu azarlıyor.",
+    "dogru": "İbrahim Bey elçi göndermiş, yeminle anlaşma sağlanmış; Fatih ile yüzleşme olmamıştır.",
+    "aciklama": "Karaman seferi sırasında doğrudan görüşme ve azarlama sahnesi tarihsel kaynaklara uymaz.",
+    "konu": "diplomasi-donem",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetih 1453 (2012)",
+    "kisi": "Prof. Dr. Ahmet Şimşirgil",
+    "kaynak_url": "https://www.ahmetsimsirgil.com/fetih-1453-ve-dusundurdukleri/",
+    "kaynak_ozet": "İbrahim Bey elçilerini gönderecek... görüşmesi ise yoktur."
+   },
+   {
+    "yanlis": "Fatih, Şehzade Orhan'ın tahsisatı için gelen Bizans elçilerini kovar.",
+    "dogru": "Fatih elçileri güler yüzle karşılamış, Edirne'de görüşme vaadiyle göndermiştir.",
+    "aciklama": "Filmdeki sert kovma sahnesi diplomatik tutumla örtüşmez.",
+    "konu": "diplomasi-donem",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetih 1453 (2012)",
+    "kisi": "Prof. Dr. Ahmet Şimşirgil",
+    "kaynak_url": "https://www.ahmetsimsirgil.com/fetih-1453-ve-dusundurdukleri/",
+    "kaynak_ozet": "Padişah kendilerini güler yüzle karşılamış, sükûnetle dinlemiş"
+   },
+   {
+    "yanlis": "Rumeli Hisarı inşa emri Edirne'ye dönüldükten sonra veriliyor.",
+    "dogru": "Fatih, Karaman seferinden dönerken hisar yerini tespit edip hazırlıkları başlatmıştır.",
+    "aciklama": "İnşa kararının zamanı ve süreci filmde yanlış sıralanır.",
+    "konu": "saray-devlet",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetih 1453 (2012)",
+    "kisi": "Prof. Dr. Ahmet Şimşirgil",
+    "kaynak_url": "https://www.ahmetsimsirgil.com/fetih-1453-ve-dusundurdukleri/",
+    "kaynak_ozet": "Karaman seferinden dönerken... yerini tespit ettikten sonra"
+   },
+   {
+    "yanlis": "Şahi topları döken ve öne çıkan tek kişi Macar Urban olarak gösteriliyor.",
+    "dogru": "Dört şahiden üçünü Muslihiddin ve Saruca Sekban, birini Urban dökmüştür.",
+    "aciklama": "Fatih'in mühendisliği ve Osmanlı ustalarının rolü filmde geri plana itilmiştir.",
+    "konu": "teknoloji-esya",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetih 1453 (2012)",
+    "kisi": "Prof. Dr. Ahmet Şimşirgil",
+    "kaynak_url": "https://www.ahmetsimsirgil.com/fetih-1453-ve-dusundurdukleri/",
+    "kaynak_ozet": "Dört şahi toptan üçünü Osmanlı mühendisleri... dökmüştür."
+   },
+   {
+    "yanlis": "Bütün top işi Macar Urban'a yüklenmiş; tek şahi top varmış gibi aktarılıyor.",
+    "dogru": "Topların balistik hesaplarını Fatih yapmış; dört top vardı, Urban'ın topu erken çatlamıştır.",
+    "aciklama": "Film Osmanlı mühendisliğini küçültüp üretimi tek ustaya bağlar.",
+    "konu": "teknoloji-esya",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetih 1453 (2012)",
+    "kisi": "Prof. Dr. Ahmet Şimşirgil",
+    "kaynak_url": "https://www.habervaktim.com/haber/281248/1453te-clintoni-degil-fatihi-gormek-isterdik.html",
+    "kaynak_ozet": "dört top var. Üçünü Osmanlı mühendisleri sadece birini Urban"
+   },
+   {
+    "yanlis": "Şahi top parçalandığında Fatih'in onu tamir ettirmeye çalışması gösteriliyor.",
+    "dogru": "Dökümü aylar süren şahi topun onarılması mümkün değildi.",
+    "aciklama": "Bu talep dönemin teknik gerçekleriyle bağdaşmaz.",
+    "konu": "teknoloji-esya",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetih 1453 (2012)",
+    "kisi": "Prof. Dr. Ahmet Şimşirgil",
+    "kaynak_url": "https://www.ahmetsimsirgil.com/fetih-1453-ve-dusundurdukleri/",
+    "kaynak_ozet": "dökümü aylar alan ve onarılması imkansız olan bu topun"
+   },
+   {
+    "yanlis": "Fatih, \"Ya ben İstanbul'u alırım ya İstanbul beni\" sözünü hanımına söylüyor.",
+    "dogru": "Bu söz, deniz savaşından sonra gelen Bizans elçilerine kararlılık göstermek için söylenmiştir.",
+    "aciklama": "Ünlü sözün bağlamı ve muhatabı filmde değiştirilmiştir.",
+    "konu": "saray-devlet",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetih 1453 (2012)",
+    "kisi": "Prof. Dr. Ahmet Şimşirgil",
+    "kaynak_url": "https://www.ahmetsimsirgil.com/fetih-1453-ve-dusundurdukleri/",
+    "kaynak_ozet": "kararlılığını göstermek için söylenen bu sözleri yatağında hanımına"
+   },
+   {
+    "yanlis": "Fatih ile Bizans imparatoru kuşatma başında surların önünde yüz yüze konuşuyor.",
+    "dogru": "Böyle bir karşılaşma ve konuşma tarihsel olarak gerçekleşmemiştir.",
+    "aciklama": "Sahne dramatik kurgu olup dönemin olay akışına uymaz.",
+    "konu": "diplomasi-donem",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetih 1453 (2012)",
+    "kisi": "Prof. Dr. Ahmet Şimşirgil; Erhan Afyoncu",
+    "kaynak_url": "https://www.ahmetsimsirgil.com/fetih-1453-ve-dusundurdukleri/",
+    "kaynak_ozet": "Ne filmdeki etkileyici sözlerin ne de böyle bir karşılaşmanın aslı"
+   },
+   {
+    "yanlis": "Osmanlı divanında vezirler Fatih'in huzurunda kavga eder gibi tartışıyor.",
+    "dogru": "Divan toplantılarında tartışma olabilir; vezirlerin böyle kavga etmesi usule uygun değildir.",
+    "aciklama": "Saray protokolü ve divan adabı filmde yanlış yansıtılmıştır.",
+    "konu": "saray-devlet",
+    "donem": "15.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Fetih 1453 (2012)",
+    "kisi": "Prof. Dr. Ahmet Şimşirgil; Prof. Dr. Mahmut Ak",
+    "kaynak_url": "https://www.gazetevatan.com/kultur-sanat/fatih-iyi-ama-431402",
+    "kaynak_ozet": "Divan toplantılarında tartışma çıkardı ama kavga olmazdı."
+   },
+   {
+    "yanlis": "Padişah, ok talimi yaparken Çandarlı ile tartışma yürütüyor.",
+    "dogru": "Çandarlı görüşlerini divanda beyan eder; böyle bir huzur sahnesi uygun değildir.",
+    "aciklama": "Hükümdar-vezir ilişkisinin biçimi ve protokolü hatalı gösterilir.",
+    "konu": "saray-devlet",
+    "donem": "15.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Fetih 1453 (2012)",
+    "kisi": "Prof. Dr. Ahmet Şimşirgil",
+    "kaynak_url": "https://www.ahmetsimsirgil.com/fetih-1453-ve-dusundurdukleri/",
+    "kaynak_ozet": "Padişahın ok talimi yaparken Çandarlı’yla tartışması olacak bir şey değildir."
+   },
+   {
+    "yanlis": "Dört geminin kuşatmayı yararak İstanbul'a girmesi 15 Mayıs civarında gösteriliyor.",
+    "dogru": "Olay kuşatmanın 15. günü, 20 Nisan 1453'te gerçekleşmiştir.",
+    "aciklama": "Kuşatma kronolojisindeki bu kaydırma olayların anlamını da değiştirir.",
+    "konu": "ordu",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetih 1453 (2012)",
+    "kisi": "Erhan Afyoncu; Prof. Dr. Ahmet Şimşirgil",
+    "kaynak_url": "https://www.habername.com/haber-fetih-1453te-buyuk-hata-71114.htm",
+    "kaynak_ozet": "20Nisan’da cereyan eden... 40. gününde 15Mayıs’ta gösteriliyor."
+   },
+   {
+    "yanlis": "Ebu Eyyub el-Ensari'nin mezarı kuşatma sırasında bulunmuş gibi gösteriliyor.",
+    "dogru": "Mezarın bulunması kuşatma sırasında değil, fetihten sonraki yıllarda gerçekleşmiştir.",
+    "aciklama": "Manevi bir hadisenin zamanı filmde geriye çekilmiştir.",
+    "konu": "din-gundelik",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetih 1453 (2012)",
+    "kisi": "Erhan Afyoncu; Prof. Dr. Ahmet Şimşirgil",
+    "kaynak_url": "https://www.habername.com/haber-fetih-1453te-buyuk-hata-71114.htm",
+    "kaynak_ozet": "kuşatma sırasında Hz. Eyüb’ün mezarının bulunduğuna dair hiçbir bilgi"
+   },
+   {
+    "yanlis": "Akşemseddin kuşatmanın sonlarında ortaya çıkan bir figür gibi sunuluyor.",
+    "dogru": "Akşemseddin kuşatmaya ilk günlerden itibaren katılmış ve manevî destek vermiştir.",
+    "aciklama": "Tarihsel rolü ve kuşatmadaki sürekliliği azaltılarak aktarılır.",
+    "konu": "din-gundelik",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetih 1453 (2012)",
+    "kisi": "Erhan Afyoncu",
+    "kaynak_url": "https://www.habername.com/haber-fetih-1453te-buyuk-hata-71114.htm",
+    "kaynak_ozet": "Akşemseddin, kuşatmaya ilk günlerden itibaren katılmış"
+   },
+   {
+    "yanlis": "Akşemseddin gür ve beyaz sakallı olarak tasvir ediliyor.",
+    "dogru": "Akşemseddin \"Köse\" lakabıyla bilinir; sakalsız tasviri tarihsel anlatımlarla uyumludur.",
+    "aciklama": "Tanınmış bir din âliminin fiziksel görünümü yanlış gösterilmiştir.",
+    "konu": "giyim",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetih 1453 (2012)",
+    "kisi": "Prof. Dr. Ahmet Şimşirgil; Niyazi Özdemir",
+    "kaynak_url": "https://www.habervaktim.com/yazar/47871/filmlere-belgesel-muamelesi-yapmayalim.html",
+    "kaynak_ozet": "Akşemsettin'in sakalı bulunmadığını, tam tersine köse olduğunu"
+   },
+   {
+    "yanlis": "Son hücum öncesi ordunun kıldığı namaza Fatih Sultan Mehmet imamlık ediyor.",
+    "dogru": "Padişahların seferde orduya namaz kıldırdığına dair kayıt yoktur; namazı hocalar kıldırırdı.",
+    "aciklama": "Dini tören düzeni ve liderlik rolü hatalı biçimde padişaha yüklenir.",
+    "konu": "din-gundelik",
+    "donem": "15.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Fetih 1453 (2012)",
+    "kisi": "Prof. Dr. Ahmet Şimşirgil",
+    "kaynak_url": "https://www.ahmetsimsirgil.com/fetih-1453-ve-dusundurdukleri/",
+    "kaynak_ozet": "padişahların... orduya imamlık ettiğine dair hiçbir kayıt yoktur."
+   },
+   {
+    "yanlis": "Fatih, surların önünde ordusuna namaz kıldırıyor.",
+    "dogru": "Fatih'in orduya namaz kıldırdığına dair tarihsel bir dayanak yoktur.",
+    "aciklama": "Kuşatma sırasındaki ibadet sahnesinde padişahın rolü abartılmıştır.",
+    "konu": "din-gundelik",
+    "donem": "15.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Fetih 1453 (2012)",
+    "kisi": "Mustafa Armağan (aktaran Habervaktim)",
+    "kaynak_url": "https://www.habervaktim.com/yazar/47871/filmlere-belgesel-muamelesi-yapmayalim.html",
+    "kaynak_ozet": "surların önünde ordusuna namaz kıldırmasının... ilgisi yok"
+   },
+   {
+    "yanlis": "Fatih atla giderken Akşemseddin yaya koşarak ona yetişmeye çalışıyor.",
+    "dogru": "Yazılı eserlerde Fatih ve hocasının birlikte at üzerinde gittikleri aktarılır.",
+    "aciklama": "Hoca-talebe ilişkisi ve saygı gösterimi filmde tersine çevrilmiştir.",
+    "konu": "unvan-hitap",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetih 1453 (2012)",
+    "kisi": "Prof. Dr. Ahmet Şimşirgil",
+    "kaynak_url": "https://www.habervaktim.com/haber/281248/1453te-clintoni-degil-fatihi-gormek-isterdik.html",
+    "kaynak_ozet": "Fatih atıyla giderken Akşemseddin arkasından yaya olarak koşuyor."
+   },
+   {
+    "yanlis": "Ceneviz dükasının masasının önünde Venedik'in simgesi kanatlı San Marco arslanı bulunuyor.",
+    "dogru": "Venedik ile Ceneviz rakiptir; Cenevizliler Venedik simgesini kullanmaz.",
+    "aciklama": "Semboller ve siyasi kimlikler karıştırılmıştır.",
+    "konu": "diplomasi-donem",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetih 1453 (2012)",
+    "kisi": "Erhan Afyoncu",
+    "kaynak_url": "https://www.habername.com/haber-fetih-1453te-buyuk-hata-71114.htm",
+    "kaynak_ozet": "Venedik’le Ceneviz iki büyük rakiptir. Birbirlerinin simgesini kullanmazlar."
+   },
+   {
+    "yanlis": "Bizans imparatorunun cesedi Fatih İstanbul'a girerken bulunmuş gibi gösteriliyor.",
+    "dogru": "İmparatorun cesedi fetihten sonra Fatih'in araştırmaları sonucu bulunmuştur.",
+    "aciklama": "Önemli bir olayın zamanı filmde öne alınmıştır.",
+    "konu": "diplomasi-donem",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetih 1453 (2012)",
+    "kisi": "Erhan Afyoncu",
+    "kaynak_url": "https://www.habername.com/haber-fetih-1453te-buyuk-hata-71114.htm",
+    "kaynak_ozet": "İmparatorun cesedi fetihten sonra... bulunmuştur."
+   },
+   {
+    "yanlis": "Fatih, kuşatma sırasında İstanbul kapı ve yerleşimlerine Ayvansaray gibi Türkçe adlarla asker yerleştiriyor.",
+    "dogru": "Fetihten önce bu Türkçe veya Türkçeleşmiş isimler kullanılmıyordu.",
+    "aciklama": "Yer adlarının kullanımı dönem dışı bir anakronizm oluşturur.",
+    "konu": "sehir-mekan",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetih 1453 (2012)",
+    "kisi": "Erhan Afyoncu",
+    "kaynak_url": "https://www.habername.com/haber-fetih-1453te-buyuk-hata-71114.htm",
+    "kaynak_ozet": "Fetihten önce bu Türkçe veya Türkçeleşmiş isimler kullanılmıyordu."
+   },
+   {
+    "yanlis": "Giustiniani surlarda Ulubatlı Hasan tarafından öldürülmüş gibi gösteriliyor.",
+    "dogru": "Giustiniani son hücumda arkebüzle yaralanmış, Sakız'a ulaştıktan sonra ölmüştür.",
+    "aciklama": "Komutanın ölüm şekli ve yeri dramatik etki için değiştirilmiştir.",
+    "konu": "ordu",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetih 1453 (2012)",
+    "kisi": "Erhan Afyoncu",
+    "kaynak_url": "https://www.habername.com/haber-fetih-1453te-buyuk-hata-71114.htm",
+    "kaynak_ozet": "arkebüzle yaralanmış... Sakız’a vardıktan sonra ölmüştür."
+   },
+   {
+    "yanlis": "\"Rasulallah\" kelimesi filmde yanlış yazılmış ve yanlış telaffuz edilmiş.",
+    "dogru": "Dini ifadelerin yazımı ve telaffuzu döneme ve doğru kullanıma uygun olmalıdır.",
+    "aciklama": "Dini metin/ifade aktarımında teknik hata yapıldığı belirtilmiştir.",
+    "konu": "din-gundelik",
+    "donem": "15.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Fetih 1453 (2012)",
+    "kisi": "Prof. Dr. Mahmut Ak",
+    "kaynak_url": "https://www.gazetevatan.com/kultur-sanat/fatih-iyi-ama-431402",
+    "kaynak_ozet": "‘Rasulallah” kelimesi hem yanlış yazılmış hem de yanlış telaffuz"
+   },
+   {
+    "yanlis": "Filmde padişahın adı dönemin kullanımına aykırı biçimde \"Mehmet\" şeklinde geçiyor.",
+    "dogru": "Dönem kullanımında ad \"Mehmed\" biçimiyle anılır.",
+    "aciklama": "İsimlendirme, tarihsel telaffuz ve yazım alışkanlığından uzaklaşır.",
+    "konu": "isim-ad",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetih 1453 (2012)",
+    "kisi": "Prof. Dr. Mahmut Ak",
+    "kaynak_url": "https://www.gazetevatan.com/kultur-sanat/fatih-iyi-ama-431402",
+    "kaynak_ozet": "Biz ‘Mehmet’ diyoruz ancak o dönemde ‘Mehmed’ denir."
+   },
+   {
+    "yanlis": "\"Ya ben İstanbul'u alırım ya İstanbul beni\" sözü film akışında çok erken dile getiriliyor.",
+    "dogru": "Bu söz belirli bir diplomatik bağlamda ve daha uygun bir aşamada söylenmiştir.",
+    "aciklama": "Sözün kronolojisi olay örgüsü içinde öne çekilmiştir.",
+    "konu": "diplomasi-donem",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetih 1453 (2012)",
+    "kisi": "Prof. Dr. Mahmut Ak",
+    "kaynak_url": "https://www.gazetevatan.com/kultur-sanat/fatih-iyi-ama-431402",
+    "kaynak_ozet": "bu film akışında erken dile getirilmiş."
+   }
+  ]
+ }
+}

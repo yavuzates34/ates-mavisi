@@ -1,0 +1,152 @@
+{
+ "model": "opencode/iceman-free",
+ "ad": "video-WMOY4O_i32c",
+ "tarih": "2026-11-13 15:39",
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "Şehzade Selim'in sünnetinin tek başına, farklı bir tarihte yapılması.",
+    "dogru": "Selim 1480'de, 10 yaşındayken İstanbul'da diğer şehzadelerle birlikte toplu sünnet edildi.",
+    "aciklama": "Konuşmacı dizide Selim'in tek başına sünnet olduğunu, oysa toplu törenin 1480'de yapıldığını belirtiyor.",
+    "konu": "saray-devlet",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetihler Sultanı Mehmet",
+    "kisi": "Ahmet Anapalı",
+    "kaynak_url": "https://youtu.be/WMOY4O_i32c?t=313",
+    "zaman": "05:13",
+    "kaynak_ozet": "Selim 1480'de 10 yaşında, toplu sünnet töreni yapılmalıydı."
+   },
+   {
+    "yanlis": "Fatih Sultan Mehmet'in torunu Selim'e 'Yavuz'um' diye hitap etmesi.",
+    "dogru": "Yavuz kelimesinin hakaret anlamı taşıdığı, aslının ise Yabuz olduğu belirtilir.",
+    "aciklama": "Konuşmacıya göre Selim'e sevgi ifadesiyle Yavuz demek anakronik ve anlamca yanlıştır; köken Yabuz'dur.",
+    "konu": "unvan-hitap",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetihler Sultanı Mehmet",
+    "kisi": "Ahmet Anapalı",
+    "kaynak_url": "https://youtu.be/WMOY4O_i32c?t=404",
+    "zaman": "06:44",
+    "kaynak_ozet": "Yavuz hakarettir, orijinali Yabuz'dur; Fatih Yavuz'um diyor."
+   },
+   {
+    "yanlis": "Uğurlu Mehmet'in esir olarak İstanbul'a getirilmesi ve esir muamelesi görmesi.",
+    "dogru": "Uğurlu Mehmet esir değildi, Fatih'in misafiri olarak kabul edilmişti.",
+    "aciklama": "Konuşmacı, Uğurlu Mehmet'in esir statüsünde gösterilmesini ve buna dayalı mektup/olayları kurgu olarak eleştirir.",
+    "konu": "diplomasi-donem",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetihler Sultanı Mehmet",
+    "kisi": "Ahmet Anapalı",
+    "kaynak_url": "https://youtu.be/WMOY4O_i32c?t=589",
+    "zaman": "09:49",
+    "kaynak_ozet": "Uğurlu Mehmet esir değildir, misafirimdir der Fatih."
+   },
+   {
+    "yanlis": "Uzun Hasan'ın Fatih'in mektubu sonrası mecliste ılımlı, sakin ve uzlaşmacı gösterilmesi.",
+    "dogru": "Uzun Hasan çığırtkanlık yapıp saldırıyı savunuyor, vezirler ise onu sakinleştirmeye çalışıyordu.",
+    "aciklama": "Konuşmacıya göre dizide Hasan ile vezirlerin tutumu ters çevrilmiştir. Uzun Hasan Fatih'e karşı tehditkâr bir siyaset izliyordu.",
+    "konu": "diplomasi-donem",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetihler Sultanı Mehmet",
+    "kisi": "Ahmet Anapalı",
+    "kaynak_url": "https://youtu.be/WMOY4O_i32c?t=683",
+    "zaman": "11:23",
+    "kaynak_ozet": "Hasan çığırtkanlık yapıp saldıralım diyordu, vezirler sakin ol derken."
+   },
+   {
+    "yanlis": "Uğurlu Mehmet'e yönelik Vatikan casusu, yakalama, dövme, öldürme ve Tebriz'e gönderme olayları.",
+    "dogru": "Bu olayların hiçbiri yaşanmadı; konuşmacı bunları tamamen senaryo ürünü sayar.",
+    "aciklama": "Konuşmacı Gedik Ahmed Paşa'nın yakalaması, Has Murad Paşa'nın dövmesi, Fatih'in topuzla öldürmesi gibi sahneleri uydurma olarak listeler.",
+    "konu": "saray-devlet",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetihler Sultanı Mehmet",
+    "kisi": "Ahmet Anapalı",
+    "kaynak_url": "https://youtu.be/WMOY4O_i32c?t=776",
+    "zaman": "12:56",
+    "kaynak_ozet": "Casus, yakalama, dövme, öldürme, Tebriz'e gönderme tamamen uydurma."
+   },
+   {
+    "yanlis": "Yeniçeri Ocağı'nda keskin kılıçlarla karşılıklı vuruşma ve kavga yapılması.",
+    "dogru": "Türk kültüründe kılıç talimleri bez sarılı kılıçlarla yapılır.",
+    "aciklama": "Konuşmacı, Yeniçerilerin birbirine keskin kılıçla saldırmasını talim geleneğine aykırı ve tehlikeli bir yanlış olarak eleştirir.",
+    "konu": "ordu",
+    "donem": "15.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Fetihler Sultanı Mehmet",
+    "kisi": "Ahmet Anapalı",
+    "kaynak_url": "https://youtu.be/WMOY4O_i32c?t=900",
+    "zaman": "15:00",
+    "kaynak_ozet": "Türk kültüründe kılıç talimleri bez sarılı kılıçlarla yapılır."
+   },
+   {
+    "yanlis": "Şehzade Selim'in Enderun Mektebi'nde eğitim alması gerektiğinin ima edilmesi.",
+    "dogru": "Şehzadeler Enderun Mektebi'nde değil, şehzadegan mekteplerinde eğitim alır.",
+    "aciklama": "Konuşmacı, Enderun'un paşa ve vezir yetiştirdiğini, şehzadelerin ayrı ve özel eğitim aldığını vurgular.",
+    "konu": "saray-devlet",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetihler Sultanı Mehmet",
+    "kisi": "Ahmet Anapalı",
+    "kaynak_url": "https://youtu.be/WMOY4O_i32c?t=1054",
+    "zaman": "17:34",
+    "kaynak_ozet": "Şehzadeler Enderun'da okumaz, şehzadegan mektepleri vardır."
+   },
+   {
+    "yanlis": "Dizide Şehzade Selim'in sünnet öncesi yaşının yaklaşık 10 yaş gibi gösterilmesi.",
+    "dogru": "Konuşmacıya göre dizide oynayan çocuk ve Selim'in o dönemdeki yaşı 6-7 civarındadır.",
+    "aciklama": "Sünnet tarihi tartışmasıyla birlikte Selim'in ekrandaki yaş tasviri de konuşmacı tarafından düzeltilir.",
+    "konu": "saray-devlet",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetihler Sultanı Mehmet",
+    "kisi": "Ahmet Anapalı",
+    "kaynak_url": "https://youtu.be/WMOY4O_i32c?t=1178",
+    "zaman": "19:38",
+    "kaynak_ozet": "Dizide 10 yaşında görünmesine bakmayın, çocuk 6-7 yaşında."
+   },
+   {
+    "yanlis": "Eyüp Sultan Türbesi ve Külliyesi'nin 1470 sahnesinde bugünkü/sonraki görünümüyle gösterilmesi.",
+    "dogru": "1458'deki yapı ahşap ağırlıklı kagirdi; bugünkü cami ve türbe 1800 sonrası görünümdedir.",
+    "aciklama": "Konuşmacı, 1765 depremiyle yıkılan yapı ve 1800 yapımı barok caminin 1470'e yansıtılmasını anakronik bulur.",
+    "konu": "sehir-mekan",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetihler Sultanı Mehmet",
+    "kisi": "Ahmet Anapalı",
+    "kaynak_url": "https://youtu.be/WMOY4O_i32c?t=1209",
+    "zaman": "20:09",
+    "kaynak_ozet": "1458'deki Eyüp külliyesi ahşap ağırlıklı kagirdi, bugünkü gibi değil."
+   },
+   {
+    "yanlis": "Eyüp Sultan Türbesi'nde 1470 sahnesinde 1720 Lale Devri çinilerinin bulunması.",
+    "dogru": "Türbedeki söz konusu çiniler 3. Ahmed döneminde, 1720 yılında yapılmıştır.",
+    "aciklama": "Konuşmacı çinilerin yapım tarihini vererek 15. yüzyıl sahnesindeki varlığını açık bir anakronizm olarak belirtir.",
+    "konu": "sehir-mekan",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetihler Sultanı Mehmet",
+    "kisi": "Ahmet Anapalı",
+    "kaynak_url": "https://youtu.be/WMOY4O_i32c?t=1239",
+    "zaman": "20:39",
+    "kaynak_ozet": "Çiniler 3. Ahmed Lale Devri'nde 1720'de yapıldı."
+   },
+   {
+    "yanlis": "Fatih döneminde haremin Topkapı Sarayı'nda gösterilmesi veya öyle anlaşılması.",
+    "dogru": "Fatih döneminde harem Eski Saray'da (Saray-ı Atik) idi; Topkapı Sarayı 1478'de yapıldı.",
+    "aciklama": "Konuşmacı, Topkapı Sarayı henüz yapılmadığı için harem mekânının Eski Saray olması gerektiğini belirtiyor.",
+    "konu": "harem-kadin",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fetihler Sultanı Mehmet",
+    "kisi": "Ahmet Anapalı",
+    "kaynak_url": "https://youtu.be/WMOY4O_i32c?t=1392",
+    "zaman": "23:12",
+    "kaynak_ozet": "Fatih zamanında harem Topkapı'da değil, Eski Saray'daydı."
+   }
+  ]
+ }
+}

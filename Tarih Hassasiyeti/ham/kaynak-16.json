@@ -1,0 +1,63 @@
+{
+ "model": "opencode/iceman-free",
+ "ad": "kaynak-16",
+ "tarih": "2026-11-13 15:27",
+ "veri": {
+  "kaynaklar": [
+   {
+    "url": "https://www.odatv.com/guncel/tarih-dizileri-cok-seviliyor-peki-tarihciler-ne-diyor-120135119",
+    "baslik": "Tarih dizileri çok seviliyor... Peki tarihçiler ne diyor",
+    "kisi": "Prof. Dr. Haşim Şahin; Ceren Erdoğdu (haber)",
+    "tarih": "2026-02-17",
+    "yapim": "Kuruluş: Osman",
+    "tur": "haber"
+   },
+   {
+    "url": "https://televizyongazetesi.com/kurulus-osman-alparslan-barbaroslar-dizilerini-sevenlere-buyuk-sok/153904",
+    "baslik": "Kuruluş Osman, Alparslan, Barbaroslar dizilerini sevenlere büyük şok!",
+    "kisi": "Prof. Dr. Yusuf Hakan Erdem",
+    "tarih": "2021-11-09",
+    "yapim": "Kuruluş Osman",
+    "tur": "haber"
+   }
+  ],
+  "maddeler": [
+   {
+    "yanlis": "Bir asker 'Osman kafayı yemiş!' diye bağırıyor.",
+    "dogru": "13. yüzyıl bağlamına uygun, dönemin diline ait bir ifade kullanılmalıdır.",
+    "aciklama": "Replik, 13. yüzyıl için modern bir söyleyiş olarak eleştirilmiştir. Tarihçi ifadeyi döneme uygun bulmamıştır.",
+    "konu": "gundelik-dil",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Kuruluş: Osman",
+    "kisi": "Prof. Dr. Haşim Şahin",
+    "kaynak_url": "https://www.odatv.com/guncel/tarih-dizileri-cok-seviliyor-peki-tarihciler-ne-diyor-120135119",
+    "kaynak_ozet": "\"Bu modern bir ifade. 13. yüzyılda kullanılmaz.\""
+   },
+   {
+    "yanlis": "Osman Gazi tek başına kalabalık bir düşman ordusuna at sürüyor.",
+    "dogru": "Bey/liderin savaşta korunması ve doğrudan böyle risk alınmaması beklenir.",
+    "aciklama": "Sahne, askeri mantıkla bağdaşmadığı gerekçesiyle eleştirilmiştir. Liderin böylesi riske atılması tarihsel açıdan sorunlu görülmüştür.",
+    "konu": "ordu",
+    "donem": "13.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Kuruluş: Osman",
+    "kisi": "Prof. Dr. Haşim Şahin",
+    "kaynak_url": "https://www.odatv.com/guncel/tarih-dizileri-cok-seviliyor-peki-tarihciler-ne-diyor-120135119",
+    "kaynak_ozet": "\"bir padişahın tek başına binlerce askerin arasına girmesinin\""
+   },
+   {
+    "yanlis": "Kostümler 'Game of Thrones'tan esinlenmiş gibi, döneme uyumsuz tasarlanmış.",
+    "dogru": "Kostümler Selçuklu ve erken Osmanlı dönemi giyim kuşamına uygun olmalıdır.",
+    "aciklama": "Tarihçi, kostümlerin Selçuklu ya da Osmanlı dönemiyle ilgisinin olmadığını belirtmiştir. Tasarımlar dönem dışı bulunmuştur.",
+    "konu": "giyim",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Kuruluş Osman",
+    "kisi": "Prof. Dr. Yusuf Hakan Erdem",
+    "kaynak_url": "https://televizyongazetesi.com/kurulus-osman-alparslan-barbaroslar-dizilerini-sevenlere-buyuk-sok/153904",
+    "kaynak_ozet": "\"hiç kostümlerin alakası yok; ne Selçuklu, ne Osmanlı\""
+   }
+  ]
+ }
+}

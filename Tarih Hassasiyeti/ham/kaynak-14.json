@@ -1,0 +1,251 @@
+{
+ "model": "opencode/iceman-free",
+ "ad": "kaynak-14",
+ "tarih": "2026-11-13 15:25",
+ "veri": {
+  "kaynaklar": [
+   {
+    "url": "https://www.milliyet.com.tr/cadde/sina-kologlu/anastasia-var-mi-2148398",
+    "baslik": "ANASTASIA VAR MI?",
+    "kisi": "Sina Koloğlu (Özlem Kumrular'ın görüşlerine yer veriyor)",
+    "tarih": "2015-11-16",
+    "yapim": "Muhteşem Yüzyıl Kösem",
+    "tur": "yazı"
+   },
+   {
+    "url": "https://www.medyaloji.net/son-haber/kosem-dizisi-yanlislar-silsilesi_23640984.html",
+    "baslik": "Kösem dizisi yanlışlar silsilesi",
+    "kisi": "Özlem Kumrular (aktaran: Medyaloji)",
+    "tarih": "2015-11-23",
+    "yapim": "Muhteşem Yüzyıl Kösem",
+    "tur": "haber"
+   },
+   {
+    "url": "https://www.yeniakit.com.tr/haber/kosem-sultan-dizisinde-padisaha-kiz-toplama-skandali-111362.html",
+    "baslik": "Kösem Sultan dizisinde 'Padişaha kız toplama' skandalı",
+    "kisi": "Talha Uğurluel",
+    "tarih": "2015-12-05",
+    "yapim": "Muhteşem Yüzyıl Kösem",
+    "tur": "haber"
+   },
+   {
+    "url": "https://www.hurriyet.com.tr/kelebek/keyif/ozlem-kumrular-kosem-sultanin-senarist-kadrosu-kendi-bildigini-okumus-40016420",
+    "baslik": "Özlem Kumrular: Kösem Sultan'ın senarist kadrosu kendi bildiğini okumuş",
+    "kisi": "Özlem Kumrular",
+    "tarih": "2015-11-20",
+    "yapim": "Muhteşem Yüzyıl Kösem",
+    "tur": "röportaj"
+   },
+   {
+    "url": "https://www.uludagsozluk.com/k/muhte%C5%9Fem-y%C3%BCzy%C4%B1l-k%C3%B6sem-dizisinde-tarihi-hatalar/",
+    "baslik": "muhteşem yüzyıl kösem dizisinde tarihi hatalar",
+    "kisi": "protest sanayici (Uludağ Sözlük yazarı)",
+    "tarih": "2015-11-12",
+    "yapim": "Muhteşem Yüzyıl Kösem",
+    "tur": "forum"
+   },
+   {
+    "url": "https://www.odatv.com/guncel/tarih-dizileri-cok-seviliyor-peki-tarihciler-ne-diyor-120135119",
+    "baslik": "Tarih dizileri çok seviliyor... Peki tarihçiler ne diyor",
+    "kisi": "Çağrı Başkurt (saray tarihçisi)",
+    "tarih": "2026-02-17",
+    "yapim": "Muhteşem Yüzyıl: Kösem",
+    "tur": "yazı"
+   }
+  ],
+  "maddeler": [
+   {
+    "yanlis": "Kösem Sultan'ın (Anastasia) doğum yeri Kefalonya olarak gösteriliyor.",
+    "dogru": "Özlem Kumrular'ın araştırmasına göre Kösem Tinos'ta doğmuştur.",
+    "aciklama": "Kumrular, Kefalonya'da Venedikli nüfusun fazla olduğunu, Kösem'in ise Yunan hâkimiyetindeki Tinos'ta doğduğunu belirtir.",
+    "konu": "isim-ad",
+    "donem": "17.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl Kösem",
+    "kisi": "Özlem Kumrular",
+    "kaynak_url": "https://www.milliyet.com.tr/cadde/sina-kologlu/anastasia-var-mi-2148398",
+    "kaynak_ozet": "Dizi “Kefalonya” diyor. Özlem Kumrular, “Hayır, Tinos.\""
+   },
+   {
+    "yanlis": "Kösem Sultan'ın saraya gelmeden önceki adı Anastasia olarak sunuluyor.",
+    "dogru": "Tarihi belgelerde Anastasia adına rastlanmadığı, bu adın 17. yüzyıl kurgu bir romandan geldiği ileri sürülür.",
+    "aciklama": "Kumrular'a göre bu isim, II. Osman'ın hayatını anlatan Fransız bir yazarın eserinde geçer.",
+    "konu": "isim-ad",
+    "donem": "17.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl Kösem",
+    "kisi": "Özlem Kumrular",
+    "kaynak_url": "https://www.milliyet.com.tr/cadde/sina-kologlu/anastasia-var-mi-2148398",
+    "kaynak_ozet": "“Tarihi belgelerde böyle bir isimden bahsetmiyor.\""
+   },
+   {
+    "yanlis": "Kösem Sultan'ın kökeni tüccar ailesi gibi işleniyor.",
+    "dogru": "Kumrular'ın belgelerine göre Kösem ortodoks papaz ailesinden gelmektedir.",
+    "aciklama": "Dizideki köken anlatısı, araştırmalara dayanan aile bilgisiyle uyuşmaz.",
+    "konu": "isim-ad",
+    "donem": "17.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl Kösem",
+    "kisi": "Özlem Kumrular",
+    "kaynak_url": "https://www.milliyet.com.tr/cadde/sina-kologlu/anastasia-var-mi-2148398",
+    "kaynak_ozet": "“Kösem’in tüccar değil, ortodoks papaz ailesinden geldiği\""
+   },
+   {
+    "yanlis": "Kösem'in esir edilme sahnesi rastgele/kolay bir şekilde gösteriliyor.",
+    "dogru": "Esir edilmenin tarihte kendine özgü yolu ve yordamı vardır.",
+    "aciklama": "Kumrular, esir alınma sürecinin dizideki gibi basitleştirilemeyeceğini vurgular.",
+    "konu": "saray-devlet",
+    "donem": "17.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl Kösem",
+    "kisi": "Özlem Kumrular",
+    "kaynak_url": "https://www.milliyet.com.tr/cadde/sina-kologlu/anastasia-var-mi-2148398",
+    "kaynak_ozet": "“Çiçek toplar gibi olmaz, tarihte bunun yolu yordamı vardır\""
+   },
+   {
+    "yanlis": "Safiye Sultan, I. Ahmed'e Anastasia'yı (Kösem) bizzat bulup hediye ediyor.",
+    "dogru": "Kumrular'a göre Anastasia'yı Bosna paşası, Ahmed'in annesine hediye etmiştir.",
+    "aciklama": "Dizideki hediyeleşme kurgusu, aktarılan tarihsel bilgiyle çelişir.",
+    "konu": "saray-devlet",
+    "donem": "17.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl Kösem",
+    "kisi": "Özlem Kumrular",
+    "kaynak_url": "https://www.medyaloji.net/son-haber/kosem-dizisi-yanlislar-silsilesi_23640984.html",
+    "kaynak_ozet": "“Bosna paşası Ahmed’in annesine Anastasia’yı (Kösem) hediye ediyor.\""
+   },
+   {
+    "yanlis": "Safiye Sultan, I. Ahmed tahta çıktıktan sonra uzun süre sarayda güçlü konumda kalıyor.",
+    "dogru": "Ahmed tahta çıkar çıkmaz Safiye Sultan'ın saraydan gönderilmesi gerektiği belirtilir.",
+    "aciklama": "Kumrular, Safiye'nin sarayda kalmasının o dönemde daha ciddi sorunlar çıkarabileceğini söyler.",
+    "konu": "saray-devlet",
+    "donem": "17.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl Kösem",
+    "kisi": "Özlem Kumrular",
+    "kaynak_url": "https://www.medyaloji.net/son-haber/kosem-dizisi-yanlislar-silsilesi_23640984.html",
+    "kaynak_ozet": "“Ahmed tahta çıkar çıkmaz Safiye Sultan’ı saraydan yolluyor...\""
+   },
+   {
+    "yanlis": "Osmanlı akıncıları, şehzadeler için Avrupa'dan güzel kız topluyor gibi gösteriliyor.",
+    "dogru": "Akıncıların böyle bir işle görevlendirilmesi tarihsel gerçeklikle bağdaşmaz.",
+    "aciklama": "Talha Uğurluel, bu canlandırmayı Osmanlı saray yaşantısını çarpıtan fantastik bir kurgu olarak eleştirir.",
+    "konu": "ordu",
+    "donem": "17.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl Kösem",
+    "kisi": "Talha Uğurluel",
+    "kaynak_url": "https://www.yeniakit.com.tr/haber/kosem-sultan-dizisinde-padisaha-kiz-toplama-skandali-111362.html",
+    "kaynak_ozet": "“Akıncıların işi Avrupa'dan güzel kız toplamak sanki.\""
+   },
+   {
+    "yanlis": "Saray için getirilen kızlar kısa sürede şehzadelerle evlendirilebiliyor gibi sunuluyor.",
+    "dogru": "Saraydaki kızlar yıllarca eğitim alır ve yetiştirilirdi.",
+    "aciklama": "Uğurluel, 'tombaladan çıkan kızlarla evlendirme' kurgusunun mümkün olmadığını belirtir.",
+    "konu": "harem-kadin",
+    "donem": "17.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl Kösem",
+    "kisi": "Talha Uğurluel",
+    "kaynak_url": "https://www.yeniakit.com.tr/haber/kosem-sultan-dizisinde-padisaha-kiz-toplama-skandali-111362.html",
+    "kaynak_ozet": "“Bu kız yıllarca eğitim alıyor, yetişiyor.\""
+   },
+   {
+    "yanlis": "I. Ahmed, tahta çıktığında yetişkin (25'li yaşlarda) biri gibi canlandırılıyor.",
+    "dogru": "I. Ahmed 13 yaşında tahta çıkmıştır.",
+    "aciklama": "Uludağ Sözlük'teki eleştiride padişahın yaşı ile oyuncu/canlandırma yaşının uyuşmadığı belirtilir.",
+    "konu": "saray-devlet",
+    "donem": "17.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl Kösem",
+    "kisi": "protest sanayici",
+    "kaynak_url": "https://www.uludagsozluk.com/k/muhte%C5%9Fem-y%C3%BCzy%C4%B1l-k%C3%B6sem-dizisinde-tarihi-hatalar/",
+    "kaynak_ozet": "“1. ahmet 13 yaşında tahta çıkmıştır, dizide ise 25'li\""
+   },
+   {
+    "yanlis": "Kösem, I. Ahmed döneminde saraya gelme sahnesinde daha olgun yaşta sunuluyor.",
+    "dogru": "Kösem (Anastasia) o dönemde yaklaşık 13 yaşındaydı.",
+    "aciklama": "Aynı eleştiride, Kösem'in yaşı ve fiziksel gelişimine ilişkin tutarsızlığa dikkat çekilir.",
+    "konu": "harem-kadin",
+    "donem": "17.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl Kösem",
+    "kisi": "protest sanayici",
+    "kaynak_url": "https://www.uludagsozluk.com/k/muhte%C5%9Fem-y%C3%BCzy%C4%B1l-k%C3%B6sem-dizisinde-tarihi-hatalar/",
+    "kaynak_ozet": "“anastasya yani kösem sultan da daha 13 yaşındadır\""
+   },
+   {
+    "yanlis": "Kösem, payitahta giderken Rumeli'de Celalilerle çatışma yaşar gibi gösteriliyor.",
+    "dogru": "Rumeli topraklarında Celali isyancıları yoktu; Celaliler Anadolu'da mücadele ediyordu.",
+    "aciklama": "Bu sahne, Celali isyanlarının coğrafi konumunu yanlış yansıtır.",
+    "konu": "ordu",
+    "donem": "17.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl Kösem",
+    "kisi": "protest sanayici",
+    "kaynak_url": "https://www.uludagsozluk.com/k/muhte%C5%9Fem-y%C3%BCzy%C4%B1l-k%C3%B6sem-dizisinde-tarihi-hatalar/",
+    "kaynak_ozet": "“rumeli topraklarında herhangi bir celali isyancısı yoktu\""
+   },
+   {
+    "yanlis": "I. Ahmed'in tahta çıkışı sırasında İngiltere Kraliçesi I. Elizabeth hayattaymış gibi ima ediliyor.",
+    "dogru": "I. Elizabeth, I. Ahmed'in tahta geçmesinden birkaç ay önce vefat etmiştir.",
+    "aciklama": "Safiye Sultan'ın kedisine yapılan göndermeyle kurulan kronoloji hatalıdır.",
+    "konu": "diplomasi-donem",
+    "donem": "17.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl Kösem",
+    "kisi": "protest sanayici",
+    "kaynak_url": "https://www.uludagsozluk.com/k/muhte%C5%9Fem-y%C3%BCzy%C4%B1l-k%C3%B6sem-dizisinde-tarihi-hatalar/",
+    "kaynak_ozet": "“1. elizabeth, 1. ahmet'in tahta geçmesinden birkaç ay önce vefat\""
+   },
+   {
+    "yanlis": "Kalenderoğlu, I. Ahmed'in tahta çıktığı dönemde çok yaşlı ve halihazırda isyankâr bir eşkıya gibi gösteriliyor.",
+    "dogru": "Kalenderoğlu isyanı 1604'tedir; o dönemde devletle barışık konumda olup ileri yaşta değildir.",
+    "aciklama": "Dizideki yaş ve isyan zamanlaması, bilinen kronolojiyle uyuşmaz.",
+    "konu": "ordu",
+    "donem": "17.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl Kösem",
+    "kisi": "protest sanayici",
+    "kaynak_url": "https://www.uludagsozluk.com/k/muhte%C5%9Fem-y%C3%BCzy%C4%B1l-k%C3%B6sem-dizisinde-tarihi-hatalar/",
+    "kaynak_ozet": "“kalenderoğlu isyanı... 1604 yılındadır.\""
+   },
+   {
+    "yanlis": "I. Ahmed, tahta çıktığı gün kardeş katli sistemini kaldırmış gibi gösteriliyor.",
+    "dogru": "I. Ahmed bu değişikliği tahta çıktığı gün değil, daha sonraki günlerde yapmıştır.",
+    "aciklama": "Kararın zamanlaması dizide yanlış aktarılmıştır.",
+    "konu": "saray-devlet",
+    "donem": "17.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl Kösem",
+    "kisi": "protest sanayici",
+    "kaynak_url": "https://www.uludagsozluk.com/k/muhte%C5%9Fem-y%C3%BCzy%C4%B1l-k%C3%B6sem-dizisinde-tarihi-hatalar/",
+    "kaynak_ozet": "“1. ahmet padişah olduğu gün değil, daha sonraki günlerde\""
+   },
+   {
+    "yanlis": "Şehzade Mustafa, kardeş katlinin kaldırılmasından sonra sarayda serbestçe gezip dolaşıyor.",
+    "dogru": "Kafes sisteminde şehzadeler kafes adı verilen kasırlarda, halktan kopuk yaşarlardı.",
+    "aciklama": "Dizi, Mustafa'nın saray içindeki yaşam koşullarını kafes uygulamasıyla uyumsuz gösterir.",
+    "konu": "saray-devlet",
+    "donem": "17.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl Kösem",
+    "kisi": "protest sanayici",
+    "kaynak_url": "https://www.uludagsozluk.com/k/muhte%C5%9Fem-y%C3%BCzy%C4%B1l-k%C3%B6sem-dizisinde-tarihi-hatalar/",
+    "kaynak_ozet": "“veliahtlar kafes adı verilen kasırlarda halktan kopuk\""
+   },
+   {
+    "yanlis": "IV. Murat'ın gürzle adam öldürdüğü sahnede silahın tasarımı ve kullanımı birebir tarihsel gerçeklikteki gibi sunuluyor.",
+    "dogru": "IV. Murat'ın gürz kullandığı ve fiziksel gücüyle bilindiği doğru; ancak dizideki silah tasarımı/kullanımı birebir tarihsel değildir.",
+    "aciklama": "Çağrı Başkurt, sahnedeki silahın tasarımı ve kullanım biçiminin tarihsel olarak birebir taşımadığını belirtir.",
+    "konu": "teknoloji-esya",
+    "donem": "17.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl: Kösem",
+    "kisi": "Çağrı Başkurt",
+    "kaynak_url": "https://www.odatv.com/guncel/tarih-dizileri-cok-seviliyor-peki-tarihciler-ne-diyor-120135119",
+    "kaynak_ozet": "“silahın tasarımı ve kullanım biçimi tarihsel olarak bire birlik taşımıyor.\""
+   }
+  ]
+ }
+}

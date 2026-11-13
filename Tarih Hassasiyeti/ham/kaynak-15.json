@@ -1,0 +1,371 @@
+{
+ "model": "opencode/iceman-free",
+ "ad": "kaynak-15",
+ "tarih": "2026-11-13 15:27",
+ "veri": {
+  "kaynaklar": [
+   {
+    "url": "https://www.yeniakit.com.tr/haber/tarihciler-dirilis-ertugrul-dizisi-icin-ne-dedi-43915.html",
+    "baslik": "Tarihçiler 'Diriliş Ertuğrul' dizisi için ne dedi?",
+    "kisi": "Doç. Dr. Muharrem Kesik, Prof. Abdülkadir Özcan, Prof. Fahameddin Başar, Prof. Dr. Feridun Emecen",
+    "tarih": "2014-12-31",
+    "yapim": "Diriliş Ertuğrul",
+    "tur": "haber"
+   },
+   {
+    "url": "https://www.milliyet.com.tr/yerel-haberler/samsun/unlu-profesorden-dirilis-ertugrul-dizisine-elestiri-11232807",
+    "baslik": "ÜNLÜ PROFESÖRDEN “DİRİLİŞ ERTUĞRUL” DİZİSİNE ELEŞTİRİ",
+    "kisi": "Prof. Dr. Ahmet Şimşirgil",
+    "tarih": "2016-02-25",
+    "yapim": "Diriliş Ertuğrul",
+    "tur": "haber"
+   },
+   {
+    "url": "https://www.sozcu.com.tr/dirilis-ertugrul-dizisine-ahlattan-elestiri-wp818301",
+    "baslik": "'Diriliş Ertuğrul' dizisine Ahlat'tan eleştiri",
+    "kisi": "İsmail Yurttaş",
+    "tarih": "2015-04-29",
+    "yapim": "Diriliş Ertuğrul",
+    "tur": "haber"
+   },
+   {
+    "url": "http://erdeminblogu.blogspot.com/2017/10/dirilis-ertugruldaki-tarihi-hatalar.html",
+    "baslik": "Diriliş: Ertuğrul'daki Tarihi Hatalar",
+    "kisi": "Erdem Ö. Hayalî",
+    "tarih": "2017-10-03",
+    "yapim": "Diriliş Ertuğrul",
+    "tur": "yazı"
+   },
+   {
+    "url": "https://www.yenisafak.com/hayat/dirilis-ertugrul-dizisinde-tarihi-hata-3224255",
+    "baslik": "Diriliş Ertuğrul dizisinde tarihi hata",
+    "kisi": "Halil İnalcık (aktaran: Yeni Şafak)",
+    "tarih": "2018-04-11",
+    "yapim": "Diriliş Ertuğrul",
+    "tur": "haber"
+   },
+   {
+    "url": "https://www.milliyet.com.tr/cadde/ertugrul-gazi-solak-miydi-1999276",
+    "baslik": "Ertuğrul Gazi solak mıydı?",
+    "kisi": "Prof. Feridun Emecen, Prof. Ahmet Şimşirgil",
+    "tarih": "2015-01-16",
+    "yapim": "Diriliş Ertuğrul",
+    "tur": "haber"
+   }
+  ],
+  "maddeler": [
+   {
+    "yanlis": "Osman Gazi'nin dedesi Süleymanşah olarak gösteriliyor.",
+    "dogru": "Son çalışmalara göre dedesi Gündüz Alp kabul edilir.",
+    "aciklama": "Erken Osmanlı şecerelerinde baba/dede adı tartışmalıdır. Dizinin Süleymanşah tercihi eleştirilmiştir.",
+    "konu": "isim-ad",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "Doç. Dr. Muharrem Kesik",
+    "kaynak_url": "https://www.yeniakit.com.tr/haber/tarihciler-dirilis-ertugrul-dizisi-icin-ne-dedi-43915.html",
+    "kaynak_ozet": "dedesi Süleymanşah olarak gösteriliyor... kanaati dedesinin Gündüz Alp"
+   },
+   {
+    "yanlis": "Kayı boyunun bölgeye girişi I. Alaeddin Keykubat dönemi gibi kabul ediliyor.",
+    "dogru": "Kayıların bölgeye gelişi II. Alaeddin Keykubat dönemindedir.",
+    "aciklama": "Dizide zaman mefhumu ve dönemlendirmede kaymalar olduğu belirtilmiştir.",
+    "konu": "diplomasi-donem",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "Doç. Dr. Muharrem Kesik",
+    "kaynak_url": "https://www.yeniakit.com.tr/haber/tarihciler-dirilis-ertugrul-dizisi-icin-ne-dedi-43915.html",
+    "kaynak_ozet": "I. Alaeddin Keykubat dönemi kabul etmişler, aslında II. Alaeddin Keykubat"
+   },
+   {
+    "yanlis": "İlk bölümlerde Moğol tehdidi Anadolu'dan uzakmış gibi işleniyor.",
+    "dogru": "Bu dönemde Anadolu'da Moğollar etkindi.",
+    "aciklama": "Dönemin ana siyasi baskısı yansıtılmamıştır. Bu, bağlamı çarpıtan bir hatadır.",
+    "konu": "saray-devlet",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "Doç. Dr. Muharrem Kesik",
+    "kaynak_url": "https://www.yeniakit.com.tr/haber/tarihciler-dirilis-ertugrul-dizisi-icin-ne-dedi-43915.html",
+    "kaynak_ozet": "bu dönemde Anadolu'da Moğollar etkin"
+   },
+   {
+    "yanlis": "Selçuklu kumandanının kostümü döneme uygun gösteriliyor.",
+    "dogru": "Gösterilen Selçuklu kumandan kostümü gerçeklere uygun değildir.",
+    "aciklama": "Uzman, Selçuklu temsilinde kostüm ve genel tasvirin eksik-yanlış olduğunu belirtmiştir.",
+    "konu": "giyim",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "Doç. Dr. Muharrem Kesik",
+    "kaynak_url": "https://www.yeniakit.com.tr/haber/tarihciler-dirilis-ertugrul-dizisi-icin-ne-dedi-43915.html",
+    "kaynak_ozet": "Selçuklu kumandanı olarak gösterilen kişinin kostümü gerçeklere uygun değil"
+   },
+   {
+    "yanlis": "Ertuğrul Bey'in babası Süleymanşah olarak sunuluyor.",
+    "dogru": "Ahmedî ve Osman Gazi akçesi gibi verilere göre babası Gündüz Alp'tir.",
+    "aciklama": "Süleymanşah bağlantısı siyasi saiklerle sonraki geleneklerde öne çıkmıştır.",
+    "konu": "isim-ad",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "Prof. Abdülkadir Özcan",
+    "kaynak_url": "https://www.yeniakit.com.tr/haber/tarihciler-dirilis-ertugrul-dizisi-icin-ne-dedi-43915.html",
+    "kaynak_ozet": "Ertuğrul Bey'in babasının Süleymanşah değil, Gündüz Alp olduğu"
+   },
+   {
+    "yanlis": "Ertuğrul, yurt talebi için Halep'e gidiyor.",
+    "dogru": "Yer gösteren Selçuklu sultanı Konya'dadır, Halep'e gitmek mantıklı değildir.",
+    "aciklama": "Siyasi hiyerarşi ve mekân kurgusu dönemin şartlarıyla uyuşmamaktadır.",
+    "konu": "saray-devlet",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "Prof. Abdülkadir Özcan",
+    "kaynak_url": "https://www.yeniakit.com.tr/haber/tarihciler-dirilis-ertugrul-dizisi-icin-ne-dedi-43915.html",
+    "kaynak_ozet": "Ertuğrul niye yurt talebi için Halep'e gitsin?"
+   },
+   {
+    "yanlis": "İbnü'l-Arabî ile Ertuğrul doğrudan karşılaşıyor.",
+    "dogru": "Aradaki yaş farkı nedeniyle bu karşılaşma imkân dâhilinde değildir.",
+    "aciklama": "İbnü'l-Arabî'nin vefatı ile Ertuğrul'un ömrü arasında büyük zaman farkı vardır.",
+    "konu": "diplomasi-donem",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "Prof. Abdülkadir Özcan",
+    "kaynak_url": "https://www.yeniakit.com.tr/haber/tarihciler-dirilis-ertugrul-dizisi-icin-ne-dedi-43915.html",
+    "kaynak_ozet": "İbnü'l-Arabî'nin Ertuğrul ile karşılaşması biraz zor­lama gibi"
+   },
+   {
+    "yanlis": "Asıl tehlike sürekli Haçlılar olarak vurgulanıyor.",
+    "dogru": "O sırada asıl tehlike Moğollardır.",
+    "aciklama": "Dönemin güç dengeleri ve tehdit öncelikleri yanlış aktarılmıştır.",
+    "konu": "ordu",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "Prof. Abdülkadir Özcan",
+    "kaynak_url": "https://www.yeniakit.com.tr/haber/tarihciler-dirilis-ertugrul-dizisi-icin-ne-dedi-43915.html",
+    "kaynak_ozet": "asıl tehlike Moğollardır"
+   },
+   {
+    "yanlis": "Ertuğrul'un namaz kıldığı seccade modern görünümlüdür.",
+    "dogru": "Gösterilen ucu püsküllü bez seccade döneme göre fazlaca moderndir.",
+    "aciklama": "Gündelik ibadet eşyasının biçimi anakronik bulunmuştur.",
+    "konu": "din-gundelik",
+    "donem": "13.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "Prof. Abdülkadir Özcan",
+    "kaynak_url": "https://www.yeniakit.com.tr/haber/tarihciler-dirilis-ertugrul-dizisi-icin-ne-dedi-43915.html",
+    "kaynak_ozet": "evlerimizdeki ucu püsküllü bez seccade gibiydi... fazlaca modern görünümlü"
+   },
+   {
+    "yanlis": "Ertuğrul Halep Emiri'nden kışlak olarak yurt ister.",
+    "dogru": "Bu talep ve güzergâh kurgusu tarihsel olarak garip ve sorunludur.",
+    "aciklama": "Kayıların yerleşim ve talep süreci farklı aktarılmıştır.",
+    "konu": "sehir-mekan",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "Prof. Fahameddin Başar",
+    "kaynak_url": "https://www.yeniakit.com.tr/haber/tarihciler-dirilis-ertugrul-dizisi-icin-ne-dedi-43915.html",
+    "kaynak_ozet": "Halep'e gidip Halep Emiri'nden kışlak olarak yurt istemesi bana biraz garip"
+   },
+   {
+    "yanlis": "Karakterler yemeklerini sürekli sol elle yer.",
+    "dogru": "Kayı Boyu ve Müslümanlar hastalık harici yemeklerini sağ elle yer.",
+    "aciklama": "Gündelik sofra adabına aykırı bir davranış tekrar eden biçimde gösterilmiştir.",
+    "konu": "din-gundelik",
+    "donem": "13.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "Prof. Dr. Ahmet Şimşirgil",
+    "kaynak_url": "https://www.milliyet.com.tr/yerel-haberler/samsun/unlu-profesorden-dirilis-ertugrul-dizisine-elestiri-11232807",
+    "kaynak_ozet": "hastalık durumu haricinde yemeklerini sağ elle yerler"
+   },
+   {
+    "yanlis": "Beyin huzuruna izin almadan, destur demeden giriliyor.",
+    "dogru": "İçeri girerken destur denilmesi ve izin usulüne uyulması gerekir.",
+    "aciklama": "Oba/beylik protokolündeki temel görgü kuralı ihlal edilmiştir.",
+    "konu": "gundelik-dil",
+    "donem": "13.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "Prof. Dr. Ahmet Şimşirgil",
+    "kaynak_url": "https://www.milliyet.com.tr/yerel-haberler/samsun/unlu-profesorden-dirilis-ertugrul-dizisine-elestiri-11232807",
+    "kaynak_ozet": "izin almadan içeri giriyorlar. Destur deyip birden içeri giriyorlar"
+   },
+   {
+    "yanlis": "Tapınak Şövalyeleri ile Osmanlı/Kayı çevresi doğrudan bağlantılı gösteriliyor.",
+    "dogru": "Tapınak Şövalyeleri ile Osmanlı'nın böyle bir bağlantısı yoktur.",
+    "aciklama": "1. sezon kurgusu tarihsel ilişki olmadığı belirtilen bir düşmanlık üzerine kurulmuştur.",
+    "konu": "ordu",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "Prof. Dr. Ahmet Şimşirgil",
+    "kaynak_url": "https://www.milliyet.com.tr/yerel-haberler/samsun/unlu-profesorden-dirilis-ertugrul-dizisine-elestiri-11232807",
+    "kaynak_ozet": "Tapınak Şövalyeleri ile Osmanlı’nın hiçbir bağlantısı olmadı"
+   },
+   {
+    "yanlis": "Ertuğrul Moğolların eline geçer ve eline çivi çakılır.",
+    "dogru": "Ertuğrul Moğolların eline hiç geçmedi, böyle bir olay yoktur.",
+    "aciklama": "Dizide kahramanın başına gelen dramatik esaret sahnesi uydurmadır.",
+    "konu": "saray-devlet",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "Prof. Dr. Ahmet Şimşirgil",
+    "kaynak_url": "https://www.milliyet.com.tr/yerel-haberler/samsun/unlu-profesorden-dirilis-ertugrul-dizisine-elestiri-11232807",
+    "kaynak_ozet": "Ertuğrul, Moğollar’ın eline hiç geçmedi"
+   },
+   {
+    "yanlis": "Kayı Boyu Dodurga obasına sığınır.",
+    "dogru": "Kayı Boyu Dodurga'ya hiç sığınmadı.",
+    "aciklama": "Boylar arası ilişki ve yerleşim kurgusu tarihsel kayıtlarla uyuşmaz.",
+    "konu": "sehir-mekan",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "Prof. Dr. Ahmet Şimşirgil",
+    "kaynak_url": "https://www.milliyet.com.tr/yerel-haberler/samsun/unlu-profesorden-dirilis-ertugrul-dizisine-elestiri-11232807",
+    "kaynak_ozet": "Kayı Boyu, Dodurga’ya hiç sığınmadı"
+   },
+   {
+    "yanlis": "Baycu Noyan Kayıların eline geçer.",
+    "dogru": "Baycu Noyan bizimkilerin eline hiç geçmedi.",
+    "aciklama": "Tarihi bir komutanın esir edilmesi kurgusal olarak eklenmiştir.",
+    "konu": "ordu",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "Prof. Dr. Ahmet Şimşirgil",
+    "kaynak_url": "https://www.milliyet.com.tr/yerel-haberler/samsun/unlu-profesorden-dirilis-ertugrul-dizisine-elestiri-11232807",
+    "kaynak_ozet": "Baycu Noyan, bizimkilerin eline hiç geçmedi"
+   },
+   {
+    "yanlis": "Kayı Boyu Halep'e gider.",
+    "dogru": "Kayılar Halep'e gitmemiş, Ahlat'ta yaşayıp sonra batıya yönelmiştir.",
+    "aciklama": "Yurttaş'a göre Kayılar Yassıçemen sonrası Karacadağ ve Söğüt'e yerleştirilmiştir.",
+    "konu": "sehir-mekan",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "İsmail Yurttaş",
+    "kaynak_url": "https://www.sozcu.com.tr/dirilis-ertugrul-dizisine-ahlattan-elestiri-wp818301",
+    "kaynak_ozet": "Kayılar filmde anlatıldığı şekilde Halep’e hiç gitmemiştir"
+   },
+   {
+    "yanlis": "Talimler gerçek, keskin kılıçlarla yapılıyor.",
+    "dogru": "Acemiler tahta, ustalar keskin olmayan demir kılıçlarla talim yapardı.",
+    "aciklama": "Dövüş eğitimi ve sahne kullanımı güvenlik ve dönem pratiğine uymaz.",
+    "konu": "ordu",
+    "donem": "13.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "Erdem Ö. Hayalî",
+    "kaynak_url": "http://erdeminblogu.blogspot.com/2017/10/dirilis-ertugruldaki-tarihi-hatalar.html",
+    "kaynak_ozet": "talimler acemiler arasında tahta kılıçlarla... keskin olmayan demir kılıçlarla"
+   },
+   {
+    "yanlis": "Kürkler düşmesin diye kaftanlara dikiliyor.",
+    "dogru": "Kürk/post boyna atılır ya da kopça/kemerle tutturulurdu, dikilmezdi.",
+    "aciklama": "Giyim aksesuarının kullanım biçimi hatalı tasvir edilmiştir.",
+    "konu": "giyim",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "Erdem Ö. Hayalî",
+    "kaynak_url": "http://erdeminblogu.blogspot.com/2017/10/dirilis-ertugruldaki-tarihi-hatalar.html",
+    "kaynak_ozet": "Kürklerin düşmesin diye kaftanlara dikilmesi"
+   },
+   {
+    "yanlis": "Obadakiler arasında keyfiye takan kimse yok.",
+    "dogru": "Selçuklu'da sığınmış Türkmenlerin alamet-i farikası keyfiyedir.",
+    "aciklama": "Döneme özgü başlık/kimlik unsuru eksik bırakılmıştır.",
+    "konu": "giyim",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "Erdem Ö. Hayalî",
+    "kaynak_url": "http://erdeminblogu.blogspot.com/2017/10/dirilis-ertugruldaki-tarihi-hatalar.html",
+    "kaynak_ozet": "Türkmenlerin alamet-i farikası keyfiyedir"
+   },
+   {
+    "yanlis": "Kadın başlıklarındaki tülbent çok sıkı ve tamamen kapatıcıdır.",
+    "dogru": "Tülbent daha gevşek, saçı hafifçe örten basit bir örtü biçimindeydi.",
+    "aciklama": "Kadın başlığı ve örtünme biçimi abartılı gösterilmiştir.",
+    "konu": "giyim",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "Erdem Ö. Hayalî",
+    "kaynak_url": "http://erdeminblogu.blogspot.com/2017/10/dirilis-ertugruldaki-tarihi-hatalar.html",
+    "kaynak_ozet": "saça atılan basit bir örtü biçimindeydi; tam olarak kapatmazdı"
+   },
+   {
+    "yanlis": "Kayıların tümü Müslüman olarak gösteriliyor.",
+    "dogru": "Dönemde Selçuklu ve Türkmen gruplar içinde farklı inançlar da vardı.",
+    "aciklama": "Topluluğun dini yapısı tek tipleştirilerek basitleştirilmiştir.",
+    "konu": "din-gundelik",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "Erdem Ö. Hayalî",
+    "kaynak_url": "http://erdeminblogu.blogspot.com/2017/10/dirilis-ertugruldaki-tarihi-hatalar.html",
+    "kaynak_ozet": "Selçukluların bile tümü Müslüman değildi o dönemde"
+   },
+   {
+    "yanlis": "Ertuğrul Bey'in babasının adı Süleyman Şah'tır.",
+    "dogru": "Yazara göre gerçek adı Gündüz Bey olup Süleyman Şah bir lakaptır.",
+    "aciklama": "Baba adı/lakap karışıklığı dizide hatalı aktarılmıştır.",
+    "konu": "isim-ad",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "Erdem Ö. Hayalî",
+    "kaynak_url": "http://erdeminblogu.blogspot.com/2017/10/dirilis-ertugruldaki-tarihi-hatalar.html",
+    "kaynak_ozet": "adı değil, lakabı Süleyman Şah'tı Gerçek adı Gündüz Bey'di"
+   },
+   {
+    "yanlis": "Çavdar Tatarlarına Türkmen deniyor.",
+    "dogru": "Çavdarlar Müslüman Moğollardır, Türkmen değildir.",
+    "aciklama": "Etnik-siyasi kimlik yanlış adlandırılmıştır.",
+    "konu": "isim-ad",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "Erdem Ö. Hayalî",
+    "kaynak_url": "http://erdeminblogu.blogspot.com/2017/10/dirilis-ertugruldaki-tarihi-hatalar.html",
+    "kaynak_ozet": "Çavdarların Müslüman Moğollar olduğunu"
+   },
+   {
+    "yanlis": "Ertuğrul Gazi'nin babası Süleyman Şah olarak gösteriliyor.",
+    "dogru": "Halil İnalcık'a göre Ertuğrul Gazi'nin babası Gündüz Alp'tir.",
+    "aciklama": "Dizideki soy bağı, bazı tarihsel değerlendirmelerle çelişmektedir.",
+    "konu": "isim-ad",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "Halil İnalcık (aktaran: Yeni Şafak)",
+    "kaynak_url": "https://www.yenisafak.com/hayat/dirilis-ertugrul-dizisinde-tarihi-hata-3224255",
+    "kaynak_ozet": "Ertuğrul Gazi'nin babasının Süleyman Şah değil Gündüz Alp"
+   },
+   {
+    "yanlis": "Ertuğrul Gazi sol elini kullanarak kılıç tutar ve yemek yer.",
+    "dogru": "Solaklığına dair tarihi kayıt olmadığı belirtilir; bu tasvir tartışmalıdır.",
+    "aciklama": "Oyuncu tercihinin karaktere yansıtılması tarihsel dayanağı sorgulanan bir ayrıntıdır.",
+    "konu": "gundelik-dil",
+    "donem": "13.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "Prof. Feridun Emecen, Prof. Ahmet Şimşirgil",
+    "kaynak_url": "https://www.milliyet.com.tr/cadde/ertugrul-gazi-solak-miydi-1999276",
+    "kaynak_ozet": "Solak olup olmadığını kesin olarak bilmiyoruz... Böyle bir tarihi kayıt yok"
+   }
+  ]
+ }
+}

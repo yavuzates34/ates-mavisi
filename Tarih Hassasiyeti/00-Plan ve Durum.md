@@ -28,9 +28,10 @@ Betikler: `betikler/`. Ham sayfa dökümleri ve iş klasörleri `ham-sayfalar/` 
 ## Durum
 
 - [x] Araç keşfi
-- [ ] Kaynak toplama
-- [ ] Video kaynakları (arama, transkript, çıkarım)
-- [ ] Konu taraması
+- [~] Kaynak toplama: 24 iş (12 kişi + 12 yapım), deepseek-v4.1-flash-free. Deneme işi (Bardakçı) 8 kaynak, 20 madde verdi; örnekleme denetiminde maddeler somut ve kaynaklı.
+- [~] Video kaynakları: yt-dlp ile 35 sorgu → 101 aday; başlığa göre 48 video seçildi (`ham-sayfalar/video/secilen.json`), 42'sinin Türkçe altyazısı çekildi, 6'sında altyazı yok. Uzun transkriptler 35 bin karakterlik parçalara bölündü: 61 çıkarım işi.
+- [~] Konu taraması: 14 konu işi.
+  Üç aşama tek kuyrukta, 8 paralel işle 13 Kasım 15:05'te başlatıldı (`ham-sayfalar/isler-asama1.json`, günlük `ham-sayfalar/asama1.log`). Betik kaldığı yerden devam eder: çıktısı olan işi atlar.
 - [ ] Birleştirme
 - [ ] Doğrulama
 - [ ] Kalite denetimi
@@ -42,3 +43,17 @@ Betikler: `betikler/`. Ham sayfa dökümleri ve iş klasörleri `ham-sayfalar/` 
 - OpenCode, iş klasörü yerine git kökünü (Ateş Mavisi) proje dizini olarak görüyor. İstemler dosya yazdırmıyor; yine de her aşama sonunda `git status` ile kitap dosyalarına dokunulmadığı denetleniyor.
 
 - Pakalın'ın sözlüğü çevrimiçi serbest erişimde değil; doğrulamada pratikte TDV İslam Ansiklopedisi birincil başvuru oldu.
+
+## Durum notu – 13 Kasım 2026, 15:50 (orkestratör erken rapor vermek zorunda kaldı)
+
+- OpenCode Zen ücretsiz kotası 15:10–15:40 arasında bütün "-free" modellerde doldu ("Free usage limit reached"). O ana kadar 67 çıkarım işi bitti: 486 ham madde (iceman-free 385, deepseek-v4.1-flash-free 101), 97 web kaynağı (`kaynaklar/kaynak-listesi.md`).
+- Yavuz'un ücretsiz Gemini anahtarı (kullanıcı ortam değişkeni GEMINI_API_KEY; değer hiçbir yere yazılmıyor) çalışıyor. Ücretsiz katmanda gemini-3.5-flash ve gemini-3.1-flash-lite yanıt veriyor; gemini-3.8-flash ve Google Search aracı 429 veriyor. url_context ile TDV sayfaları açılıyor ve hangi adresin okunduğu yanıtta kanıtlanıyor.
+- Kalan 32 çıkarım işi (27 video parçası, 5 konu) `betikler/gemini.py isler ham-sayfalar/isler-kalan1.json 3` ile Gemini'de çalışıyordu; günlük `ham-sayfalar/asama1-gemini.log`. Betik kaldığı yerden devam eder.
+- Doğrulama henüz BAŞLAMADI. Hazır: `dogrula.py` iki doğrulayıcı tanımlı (A gemini-3.5-flash, B gemini-3.1-flash-lite); kaynağı gerçekten okunmamış onaylar otomatik olarak belirsize iniyor.
+
+### Devam adımları
+1. `cd betikler; set PYTHONUTF8=1`; kalan çıkarımı bitir: `python gemini.py isler ../ham-sayfalar/isler-kalan1.json 3`
+2. `python birlestir.py topla` → `python birlestir.py isler > ../ham-sayfalar/isler-tekil.json` → `python gemini.py isler ../ham-sayfalar/isler-tekil.json 2` → `python birlestir.py uygula`
+3. `python dogrula.py isler 6` → `python gemini.py isler ../ham-sayfalar/isler-dogA.json 2 gemini-3.5-flash` ve `python gemini.py isler ../ham-sayfalar/isler-dogB.json 2 gemini-3.1-flash-lite` → `python dogrula.py sonuc`
+4. `python kilavuz.py` → `ham-sayfalar/kilavuz-govde.md`'ye giriş ve en çarpıcı maddeler eklenerek `Tarih Hassasiyet Kılavuzu.md`.
+5. Örnekleme ile kalite denetimi; her aşamada commit ve push.

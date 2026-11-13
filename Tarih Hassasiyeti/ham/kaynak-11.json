@@ -1,0 +1,50 @@
+{
+ "model": "opencode/iceman-free",
+ "ad": "kaynak-11",
+ "tarih": "2026-11-13 15:23",
+ "veri": {
+  "kaynaklar": [
+   {
+    "url": "https://www.haberturk.com/gundem/haber/994771-kaybeden-ozur-dilesin",
+    "baslik": "\"Kaybeden özür dilesin\"",
+    "kisi": "İskender Pala (Balçiçek İlter röportajı)",
+    "tarih": "2014-09-29",
+    "yapim": "",
+    "tur": "haber/röportaj"
+   },
+   {
+    "url": "https://sdplatform.com/prof-dr-iskender-pala-ben-bir-fikir-bezirganiyim-eskiden-aliyorum-bugune-satiyorum",
+    "baslik": "Prof. Dr. İskender Pala: Ben Bir Fikir Bezirgânıyım; Eskiden Alıyorum, Bugüne Satıyorum",
+    "kisi": "İskender Pala",
+    "tarih": "",
+    "yapim": "",
+    "tur": "söyleşi"
+   },
+   {
+    "url": "https://www.yenisafak.com/gundem/muhtesem-rezalet-295412",
+    "baslik": "Muhteşem rezalet",
+    "kisi": "Yusuf Kaplan, Ali Satan, Okay Tiryakioğlu, Mustafa Armağan (aktaran: Orhan Turan)",
+    "tarih": "",
+    "yapim": "Muhteşem Yüzyıl",
+    "tur": "haber"
+   },
+   {
+    "url": "https://www.aa.com.tr/tr/kultur-sanat/turkiyede-parcalanmis-bir-edebiyat-akimi-var-zannediliyor/1545984",
+    "baslik": "'Türkiye'de parçalanmış bir edebiyat akımı var zannediliyor'",
+    "kisi": "İskender Pala",
+    "tarih": "2019-07-31",
+    "yapim": "",
+    "tur": "haber"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/%C4%B0skender_Pala",
+    "baslik": "İskender Pala",
+    "kisi": "",
+    "tarih": "",
+    "yapim": "",
+    "tur": "ansiklopedi"
+   }
+  ],
+  "maddeler": []
+ }
+}

@@ -1,0 +1,215 @@
+{
+ "model": "opencode/iceman-free",
+ "ad": "kaynak-20",
+ "tarih": "2026-11-13 15:30",
+ "veri": {
+  "kaynaklar": [
+   {
+    "url": "https://eksiseyler.com/barbaroslar-akdenizin-kilici-dizisinin-ilk-bolumundeki-tarihi-hatalar",
+    "baslik": "Barbaroslar: Akdeniz'in Kılıcı Dizisinin İlk Bölümündeki Tarihi Hatalar",
+    "kisi": "altay horda",
+    "tarih": "2021-09-17",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı",
+    "tur": "yazı"
+   },
+   {
+    "url": "https://www.aydinlik.com.tr/haber/ahdimiz-bahtimiz-olsun-257691",
+    "baslik": "Ahdımız bahtımız olsun!",
+    "kisi": "Tevfik Kadan",
+    "tarih": "2021-09-18",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı",
+    "tur": "haber"
+   },
+   {
+    "url": "https://serbestgorus.com/2021/06/trtnin-yeni-tarih-dizisindeki-tarihi-hata/",
+    "baslik": "TRT’nin yeni tarih dizisindeki ‘tarihi hata’",
+    "kisi": "Doç. Dr. Emrah Safa Gürkan (aktaran: Serbest Görüş)",
+    "tarih": "2021-06-21",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı",
+    "tur": "haber"
+   },
+   {
+    "url": "https://www.akasyam.com/yazi/baba-oruc-ve-barbaros-kardesler-7985.html",
+    "baslik": "Baba Oruç Ve Barbaros Kardeşler!",
+    "kisi": "Vehbi Kara",
+    "tarih": "2021-09-21",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı",
+    "tur": "yazı"
+   },
+   {
+    "url": "https://www.sonkaleizmir.com/haber/TRT-nin-Barbaroslar-dizisinde-dakika-1-hata-1/98586",
+    "baslik": "TRT'nin ''Barbaroslar'' dizisinde dakika 1 hata 1",
+    "kisi": "Doç. Dr. Emrah Safa Gürkan (aktaran: Son Kale İzmir)",
+    "tarih": "2021-06-21",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı",
+    "tur": "haber"
+   },
+   {
+    "url": "https://www.dizifilmdergisiturkiye.com/haber-trtnin-yeni-dizisi-barbarosun-fragmanini-elestirdiler-22842.html",
+    "baslik": "TRT'nin yeni dizisi Barbaros'un fragmanını eleştirdiler",
+    "kisi": "Doç. Dr. Emrah Safa Gürkan (aktaran: Dizi Film Dergisi Türkiye)",
+    "tarih": "2021-06-21",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı",
+    "tur": "haber"
+   }
+  ],
+  "maddeler": [
+   {
+    "yanlis": "Oruç Reis'in, Burak Reis'in Sinop'ta tersane kurup göke gemileri yaptığını söylemesi",
+    "dogru": "Göke tipi gemiler daha çok Kemal Reis ile özdeşleştirilir; Burak Reis Akdeniz'de nam salmıştır.",
+    "aciklama": "Ekşi Şeyler yazarı, gökelerin Kemal Reis ile anıldığını ve Burak Reis'in Karadeniz'de değil Akdeniz'de bilindiğini savunur.",
+    "konu": "teknoloji-esya",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı",
+    "kisi": "altay horda",
+    "kaynak_url": "https://eksiseyler.com/barbaroslar-akdenizin-kilici-dizisinin-ilk-bolumundeki-tarihi-hatalar",
+    "kaynak_ozet": "\"göke\" adı verilen gemiler kemal reis ile"
+   },
+   {
+    "yanlis": "Kuzey Afrika sahillerinde ticarete hakim 'Kılıç Reis' adlı bir denizcinin varlığı",
+    "dogru": "O yıllarda bu adla bilinen bir Türk denizcisi yoktur; kastedilen Kurtoğlu ailesi olabilir.",
+    "aciklama": "Yazar, anılan kişinin muhtemelen Kurtoğlu Muslihittin Reis veya babası Kurtoğlu Ahmet Reis olabileceğini belirtir.",
+    "konu": "isim-ad",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı",
+    "kisi": "altay horda",
+    "kaynak_url": "https://eksiseyler.com/barbaroslar-akdenizin-kilici-dizisinin-ilk-bolumundeki-tarihi-hatalar",
+    "kaynak_ozet": "o yıllarda \"kılıç reis\" diye bir türk denizcisi bilinmiyor"
+   },
+   {
+    "yanlis": "Oruç Reis ve adamlarının neredeyse hepsinde revolver tabanca bulunması",
+    "dogru": "O dönemde bu tip bireysel tabanca kullanımı yaygın değildi; daha çok tüfek kullanılırdı.",
+    "aciklama": "1495-1500 arası bağlamda revolver benzeri tabancaların yaygın bireysel kullanımına itiraz edilir.",
+    "konu": "teknoloji-esya",
+    "donem": "15.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı",
+    "kisi": "altay horda",
+    "kaynak_url": "https://eksiseyler.com/barbaroslar-akdenizin-kilici-dizisinin-ilk-bolumundeki-tarihi-hatalar",
+    "kaynak_ozet": "oruç reis ve adamlarının neredeyse hepsinde revolver tabancalar var"
+   },
+   {
+    "yanlis": "Hızır Reis'in Midilli'den Kalimnos'a yelkenli tekneyle yaklaşık bir günde ulaşması",
+    "dogru": "Yaklaşık 250 millik bu mesafenin bu sürede küçük bir teknede alınması mümkün değildir.",
+    "aciklama": "Sahnedeki seyir süresi, dönemin denizcilik koşulları ve mesafe açısından gerçekçi bulunmamıştır.",
+    "konu": "sehir-mekan",
+    "donem": "15.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı",
+    "kisi": "altay horda",
+    "kaynak_url": "https://eksiseyler.com/barbaroslar-akdenizin-kilici-dizisinin-ilk-bolumundeki-tarihi-hatalar",
+    "kaynak_ozet": "yaklaşık 250 millik bir mesafeyi 1 günden kısa sürede"
+   },
+   {
+    "yanlis": "Barbaros kardeşlerin 1503 öncesinde Osmanlı adına hareket eden, Osmanlı'ya bağlı figürler olarak gösterilmesi",
+    "dogru": "Oruç Reis'in 1503'te Şehzade Korkut ile temasından önce kardeşlerin Osmanlı ile teması yoktu.",
+    "aciklama": "Erken dönemde kardeşlerin bağımsız denizcilik faaliyetleri, dizide fazla erken Osmanlı bağlantısıyla resmedilmiş sayılır.",
+    "konu": "saray-devlet",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı",
+    "kisi": "altay horda",
+    "kaynak_url": "https://eksiseyler.com/barbaroslar-akdenizin-kilici-dizisinin-ilk-bolumundeki-tarihi-hatalar",
+    "kaynak_ozet": "1503 yılında şehzade korkut ile temasından evvel"
+   },
+   {
+    "yanlis": "Midilli'de Türkler ve Rumların Hıdrellez'de birlikte mani söyleyip kardeşçe yaşaması",
+    "dogru": "Yazar bunu Osmanlı'nın barışçıl ortamını abartan bir algı çalışması olarak eleştirir.",
+    "aciklama": "Sosyal uyum sahnesi tarihsel gerçeklikten çok ideolojik temsil olarak değerlendirilmiştir.",
+    "konu": "din-gundelik",
+    "donem": "15.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı",
+    "kisi": "altay horda",
+    "kaynak_url": "https://eksiseyler.com/barbaroslar-akdenizin-kilici-dizisinin-ilk-bolumundeki-tarihi-hatalar",
+    "kaynak_ozet": "rumlar ile türkler ne güzel kardeş kardeş yaşıyorlar"
+   },
+   {
+    "yanlis": "İskenderiye'nin Venediklilerin istedikleri gibi at koşturduğu beynelmilel bir liman gibi gösterilmesi",
+    "dogru": "İskenderiye Memlük Sultanı'na bağlı bir limandı; Venediklilerin geniş imtiyazları ve ilişkileri o kadar iyi değildi.",
+    "aciklama": "Memlük-Venedik ilişkileri ve limanın statüsü, dizideki serbest ticaret/etki tasvirine uymayacak şekilde aktarılır.",
+    "konu": "diplomasi-donem",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı",
+    "kisi": "altay horda",
+    "kaynak_url": "https://eksiseyler.com/barbaroslar-akdenizin-kilici-dizisinin-ilk-bolumundeki-tarihi-hatalar",
+    "kaynak_ozet": "iskenderiye, memlük sultanına bağlı bir liman şehriydi"
+   },
+   {
+    "yanlis": "Fragmanda korsanların yelkenli gemilerde, bordalara dizili toplarla çatışması",
+    "dogru": "O dönemde Akdeniz'deki korsan gemileri çoğunlukla kürekli kadırga/kayık tipindeydi.",
+    "aciklama": "Emrah Safa Gürkan, fragmandaki gemi tipi ve top düzeninin döneme uymadığını belirtir.",
+    "konu": "teknoloji-esya",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı",
+    "kisi": "Doç. Dr. Emrah Safa Gürkan",
+    "kaynak_url": "https://serbestgorus.com/2021/06/trtnin-yeni-tarih-dizisindeki-tarihi-hata/",
+    "kaynak_ozet": "o dönemde Akdeniz’deki korsan gemileri kadırgaydı ve kayık"
+   },
+   {
+    "yanlis": "Korsan gemilerinin kürek yerine esas olarak yelken gücüne dayalı savaş platformları gibi gösterilmesi",
+    "dogru": "Kadırga tipi korsan gemileri kürekliydi ve yaklaşık 100-150 kürekçisi olurdu.",
+    "aciklama": "Gürkan'a göre erken dönem korsan çatışmalarında kürekli küçük gemiler baskındı.",
+    "konu": "teknoloji-esya",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı",
+    "kisi": "Doç. Dr. Emrah Safa Gürkan",
+    "kaynak_url": "https://serbestgorus.com/2021/06/trtnin-yeni-tarih-dizisindeki-tarihi-hata/",
+    "kaynak_ozet": "Kürekliydi bunlar, 100 150 kürekçisi vardı."
+   },
+   {
+    "yanlis": "Gemilerde borda boyunca çok sayıda topla uzaktan top düellosu yapılması",
+    "dogru": "Kadırgalarda top genelde önde olur, bir kez ateşlenir ve çatışma borda ederek sürerdi.",
+    "aciklama": "Gürkan, erken dönem Akdeniz korsan savaşının gemiye atlayıp çarpışmaya dayandığını vurgular.",
+    "konu": "ordu",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı",
+    "kisi": "Doç. Dr. Emrah Safa Gürkan",
+    "kaynak_url": "https://serbestgorus.com/2021/06/trtnin-yeni-tarih-dizisindeki-tarihi-hata/",
+    "kaynak_ozet": "Top sadece önündeydi ve bir kere ateşlenirdi"
+   },
+   {
+    "yanlis": "O dönemin yelkenli ticaret gemilerinin topçu platformları gibi tasvir edilmesi",
+    "dogru": "Akdeniz'de yelkenli ticaret gemileri vardı ama o dönemde topları yoktu.",
+    "aciklama": "Gürkan, fragmandaki silahlı yelkenli tasvirinin erken dönem ticaret gemisi gerçeğiyle uyuşmadığını söyler.",
+    "konu": "teknoloji-esya",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı",
+    "kisi": "Doç. Dr. Emrah Safa Gürkan",
+    "kaynak_url": "https://serbestgorus.com/2021/06/trtnin-yeni-tarih-dizisindeki-tarihi-hata/",
+    "kaynak_ozet": "bunlar ticaret gemisiydi ve topları yoktu."
+   },
+   {
+    "yanlis": "Fragmandaki çok toplu gemi düzeninin 15. yüzyıl sonu/16. yüzyıl başı için uygun gösterilmesi",
+    "dogru": "50'li toplu galeon/burtun tipi gemiler o dönemde yoktu; burtun okyanusta bile 1540'tan önce görülmez.",
+    "aciklama": "Gürkan, ağır topçu taşıyan büyük yelkenli savaş gemilerinin tarihlendirmesinin çok daha geç olduğunu belirtir.",
+    "konu": "teknoloji-esya",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı",
+    "kisi": "Doç. Dr. Emrah Safa Gürkan",
+    "kaynak_url": "https://serbestgorus.com/2021/06/trtnin-yeni-tarih-dizisindeki-tarihi-hata/",
+    "kaynak_ozet": "1540’dan önce galeon yani burtun okyanusta bile yok."
+   },
+   {
+    "yanlis": "İlk bölümde deniz sahnelerinde kürekli gemilerin neredeyse hiç yer almaması",
+    "dogru": "16. yüzyılda yük gemilerinin bir kısmı ve savaş gemilerinin neredeyse tamamı kürekliydi.",
+    "aciklama": "Vehbi Kara, kürekli gemi eksikliğini dönemin denizciliğine ve forsa kullanımına aykırı bulur.",
+    "konu": "teknoloji-esya",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı",
+    "kisi": "Vehbi Kara",
+    "kaynak_url": "https://www.akasyam.com/yazi/baba-oruc-ve-barbaros-kardesler-7985.html",
+    "kaynak_ozet": "ilk bölümünde kürekli gemiler yer almıyordu."
+   }
+  ]
+ }
+}

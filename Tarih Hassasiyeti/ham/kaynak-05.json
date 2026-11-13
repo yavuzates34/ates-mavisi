@@ -1,0 +1,203 @@
+{
+ "model": "opencode/deepseek-v4.1-flash-free",
+ "ad": "kaynak-05",
+ "tarih": "2026-11-13 15:08",
+ "veri": {
+  "kaynaklar": [
+   {
+    "url": "https://www.lacivertdergi.com/dosya/2016/03/01/bir-tarihci-olarak-sunu-goruyorum-tarih-bizi-zehirliyor",
+    "baslik": "Bir tarihçi olarak şunu görüyorum: Tarih bizi zehirliyor",
+    "kisi": "Erhan Afyoncu",
+    "tarih": "1 Mart 2016",
+    "yapim": "Tarihî diziler (genel)",
+    "tur": "röportaj"
+   },
+   {
+    "url": "https://www.dailysabah.com/history/2015/11/23/tv-series-put-female-dominance-in-ottoman-palace-on-agenda",
+    "baslik": "TV series put female dominance in Ottoman palace on agenda",
+    "kisi": "Erhan Afyoncu",
+    "tarih": "23 Kasım 2015",
+    "yapim": "Muhteşem Yüzyıl",
+    "tur": "haber"
+   },
+   {
+    "url": "https://www.haberturk.com/medya/haber/983445-valide-i-muazzama",
+    "baslik": "Valide-i Muazzama",
+    "kisi": "Erhan Afyoncu",
+    "tarih": "25 Ağustos 2014",
+    "yapim": "Muhteşem Yüzyıl: Kösem",
+    "tur": "röportaj"
+   },
+   {
+    "url": "https://www.yenisafak.com/hayat/harem-hayatini-kimse-bilmiyor-2338575",
+    "baslik": "Harem hayatını kimse bilmiyor",
+    "kisi": "Erhan Afyoncu",
+    "tarih": "8 Kasım 2015",
+    "yapim": "Muhteşem Yüzyıl",
+    "tur": "haber"
+   },
+   {
+    "url": "https://www.sabah.com.tr/yazarlar/erhan-afyoncu/2016/03/13/avrupalilarin-harem-fantezileri",
+    "baslik": "Avrupalıların harem fantezileri",
+    "kisi": "Erhan Afyoncu",
+    "tarih": "13 Mart 2016",
+    "yapim": "Muhteşem Yüzyıl",
+    "tur": "köşe yazısı"
+   },
+   {
+    "url": "https://www.hurriyetdailynews.com/its-not-real-scholars-tell-critics-of-historical-dramas-34487",
+    "baslik": "'It's not real,' scholars tell critics of historical dramas",
+    "kisi": "Erhan Afyoncu",
+    "tarih": "13 Kasım 2012",
+    "yapim": "Muhteşem Yüzyıl",
+    "tur": "haber"
+   }
+  ],
+  "maddeler": [
+   {
+    "yanlis": "Haremde ve saray çevresinde kadınların siyah çarşaf giymesi",
+    "dogru": "Kara çarşaf Osmanlı dünyasına 19. yüzyılda girdi; ondan önce kadınlar ferace ile örtünüyordu.",
+    "aciklama": "Afyoncu siyah çarşafın 19. yüzyılda yaygınlaştığını, öncesinde ferace kullanıldığını söylüyor. 1798 İstanbul'u için doğru örtünme biçimi ferace ve yaşmaktır, kara çarşaf değil.",
+    "konu": "giyim",
+    "donem": "19.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl: Kösem",
+    "kisi": "Erhan Afyoncu",
+    "kaynak_url": "https://www.haberturk.com/medya/haber/983445-valide-i-muazzama",
+    "kaynak_ozet": "Kara çarşaf 19. yüzyılda girdi, öncesinde ferace vardı."
+   },
+   {
+    "yanlis": "Haremde kadınların tek tip siyah veya koyu renkli giyinmesi",
+    "dogru": "Harem giysisi renkliydi; siyah çarşaf harem giysisi değildi.",
+    "aciklama": "Aynı söyleşide Afyoncu harem giysilerinin renkli olduğunu, siyahın hareme ait olmadığını belirtiyor. Harem sahnelerini siyah tek renge boyamak dönemi yanlış kuruyor.",
+    "konu": "giyim",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl: Kösem",
+    "kisi": "Erhan Afyoncu",
+    "kaynak_url": "https://www.haberturk.com/medya/haber/983445-valide-i-muazzama",
+    "kaynak_ozet": "Harem giysileri renkliydi, siyah çarşaf hareme ait değil."
+   },
+   {
+    "yanlis": "Haremde kadınların dışarı giysisiyle, her an örtülü dolaşması",
+    "dogru": "Harem giysisi iç mekân giysisiydi; hareme erkek girmediği için örtünme gerekmiyordu.",
+    "aciklama": "Afyoncu haremde örtünme ihtiyacı doğmadığını, çünkü hareme erkek alınmadığını söylüyor. Bu yüzden harem içi sahnelerde ferace ve çarşaf fazlalığı yanlış.",
+    "konu": "giyim",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Erhan Afyoncu",
+    "kaynak_url": "https://www.yenisafak.com/hayat/harem-hayatini-kimse-bilmiyor-2338575",
+    "kaynak_ozet": "Harem giysisi iç mekân giysisi, hareme erkek girmiyor."
+   },
+   {
+    "yanlis": "Haremı yüzlerce güzel kadının eğlendiği sıcak, şenlikli bir mekân gibi göstermek",
+    "dogru": "Gerçek harem soğuktu, kışın insanlar donuyordu; orası bir eğlence yeri değildi.",
+    "aciklama": "Afyoncu 'yüzlerce güzel kadının eğlendiği yer' hayalinin Batı kaynaklı bir fantezi olduğunu söylüyor. Sarayın ısıtma koşulları haremi soğuk bir yer yapıyordu.",
+    "konu": "harem-kadin",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Tarihî diziler (genel)",
+    "kisi": "Erhan Afyoncu",
+    "kaynak_url": "https://www.lacivertdergi.com/dosya/2016/03/01/bir-tarihci-olarak-sunu-goruyorum-tarih-bizi-zehirliyor",
+    "kaynak_ozet": "Harem fantezisi yüzlerce güzel kadın; gerçekte soğuk, donulan yer."
+   },
+   {
+    "yanlis": "Padişahın beğendiği cariyenin önüne mendil atması",
+    "dogru": "Bu hikâye Batılı bir uydurma; Lady Montagu'nun mektupları da yanlışlığını gösteriyor.",
+    "aciklama": "Rycaut'nun anlattığı mendil sahnesi Afyoncu'ya göre Batı fantezisi. 18. yüzyıl İstanbul'unu yazan Lady Montagu bile bunu yalanlıyor.",
+    "konu": "harem-kadin",
+    "donem": "17.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Erhan Afyoncu",
+    "kaynak_url": "https://www.sabah.com.tr/yazarlar/erhan-afyoncu/2016/03/13/avrupalilarin-harem-fantezileri",
+    "kaynak_ozet": "Mendil atma hikâyesi Batı fantezisi, Lady Montagu yalanlıyor."
+   },
+   {
+    "yanlis": "16. yüzyıl kavuklarının dizideki gibi küçük ve alçak gösterilmesi",
+    "dogru": "Kavuklar olması gerekenden çok daha büyüktü; yapımcılar ekran estetiği için büyütmeyi reddetti.",
+    "aciklama": "Afyoncu kavukların boyutunun yanlış olduğunu söyleyince yapımcılar görüntüyü bozacağı için kabul etmedi. Bu yüzden dizide başlıklar gerçeğinden küçük kaldı.",
+    "konu": "giyim",
+    "donem": "16.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Erhan Afyoncu",
+    "kaynak_url": "https://www.dailysabah.com/history/2015/11/23/tv-series-put-female-dominance-in-ottoman-palace-on-agenda",
+    "kaynak_ozet": "Kavuklar küçük gösterildi; yapımcılar ekran için büyütmedi."
+   },
+   {
+    "yanlis": "Hürrem Sultan'ın devleti tek başına yönettiği, kararları tek başına verdiği",
+    "dogru": "Hürrem devleti tek başına yönetmedi; etkisi vardı ama yönetim onun elinde değildi.",
+    "aciklama": "Afyoncu Hürrem'in tek başına hüküm sürmediğini, doğrudan yönetenlerin Kösem ve Turhan olduğunu söylüyor. Dizi Hürrem'in gücünü abartıyor.",
+    "konu": "saray-devlet",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Erhan Afyoncu",
+    "kaynak_url": "https://www.dailysabah.com/history/2015/11/23/tv-series-put-female-dominance-in-ottoman-palace-on-agenda",
+    "kaynak_ozet": "Hürrem tek başına yönetmedi; Kösem ve Turhan doğrudan yönetti."
+   },
+   {
+    "yanlis": "Kadınlar Saltanatı'nı kadınların devleti çürüttüğü bir çöküş dönemi gibi anlatmak",
+    "dogru": "Bu olumsuz tez çürütüldü; valide sultanların yönetimi sanıldığı gibi bir yıkım değildi.",
+    "aciklama": "Afyoncu Leslie Peirce'ün çalışmasına dayanarak 'Kadınlar Saltanatı' tezinin olumsuz çerçevesinin reddedildiğini söylüyor. Saray kadınlarını sadece entrika kaynağı yapan anlatım tarihî değil.",
+    "konu": "saray-devlet",
+    "donem": "17.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Erhan Afyoncu",
+    "kaynak_url": "https://www.yenisafak.com/hayat/harem-hayatini-kimse-bilmiyor-2338575",
+    "kaynak_ozet": "Kadınlar Saltanatı tezinin olumsuz çerçevesi çürütüldü."
+   },
+   {
+    "yanlis": "Sarayda yaşayan şehzadelerin çocuk sahibi olması",
+    "dogru": "17. yüzyılda saraydaki şehzadelerin çocuk yapmasına izin verilmiyordu.",
+    "aciklama": "Afyoncu 1640'lar için bu yasağı açıkça söylüyor. 1798'deki kafes usulünün ayrıntısını okuduğum kaynakta bulamadım, o yüzden bu maddeyi 1798 için kesin saymıyorum.",
+    "konu": "saray-devlet",
+    "donem": "17.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Muhteşem Yüzyıl: Kösem",
+    "kisi": "Erhan Afyoncu",
+    "kaynak_url": "https://www.haberturk.com/medya/haber/983445-valide-i-muazzama",
+    "kaynak_ozet": "1640'larda saray şehzadelerinin çocuk yapması yasaktı."
+   },
+   {
+    "yanlis": "Kösem Sultan'ın medrese eğitimi almış bir hattat gibi düzgün yazı yazması",
+    "dogru": "Kösem'in el yazısı kendine özgüydü, medrese çıkışlı bir yazı değildi.",
+    "aciklama": "Afyoncu Kösem'in yazısının ayırt edici olduğunu belirtiyor. Saray kadınlarının yazısını medrese hattı gibi göstermek belgeyi yanlış kurmak olur.",
+    "konu": "yazi-belge",
+    "donem": "17.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl: Kösem",
+    "kisi": "Erhan Afyoncu",
+    "kaynak_url": "https://www.haberturk.com/medya/haber/983445-valide-i-muazzama",
+    "kaynak_ozet": "Kösem'in el yazısı medrese yazısı değil, kendine özgüydü."
+   },
+   {
+    "yanlis": "16. yüzyıl harem hayatını kesin ve ayrıntılı bilgiyle anlatmak",
+    "dogru": "Harem hayatına dair bilgiler ancak geç dönemden geliyor; 16. yüzyıl için bilmiyoruz.",
+    "aciklama": "Afyoncu harem hayatının geç dönem dışında bilinmediğini söylüyor. 1798 geç döneme girdiği için elinde daha çok belge var, 16. yüzyıl için ise boşluk var.",
+    "konu": "harem-kadin",
+    "donem": "16.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Tarihî diziler (genel)",
+    "kisi": "Erhan Afyoncu",
+    "kaynak_url": "https://www.lacivertdergi.com/dosya/2016/03/01/bir-tarihci-olarak-sunu-goruyorum-tarih-bizi-zehirliyor",
+    "kaynak_ozet": "Harem hayatı geç dönem dışında bilinmiyor."
+   },
+   {
+    "yanlis": "Padişahın eşine nasıl davrandığını, günlük hayatını kesin sahnelerle göstermek",
+    "dogru": "Bu bilinmiyor; dizi bu yüzden kurgulamak zorunda, belgesel değil.",
+    "aciklama": "Afyoncu dizi ile belgeselin karıştırıldığını, sarayın özel hayatının bilinmediğini söylüyor. Tarihî dizi kurgudur, belgesel gibi okunmamalı.",
+    "konu": "saray-devlet",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Erhan Afyoncu",
+    "kaynak_url": "https://www.hurriyetdailynews.com/its-not-real-scholars-tell-critics-of-historical-dramas-34487",
+    "kaynak_ozet": "Dizi belgesel değil; sultanın özel hayatını kimse bilmiyor."
+   }
+  ]
+ }
+}

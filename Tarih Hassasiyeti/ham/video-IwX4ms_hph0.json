@@ -1,0 +1,61 @@
+{
+ "model": "opencode/iceman-free",
+ "ad": "video-IwX4ms_hph0",
+ "tarih": "2026-11-13 15:26",
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "Baltaoğlu Süleyman Paşa'nın idamını engellemek için Akşemseddin araya girmiş gibi gösterilmesi",
+    "dogru": "Araya girenler siyasi komuta kademesidir",
+    "aciklama": "Talha Uğurluel, Baltaoğlu'nun idamdan dönmesinde Akşemseddin'in değil siyasi komuta kademesinin araya girdiğini söyler. Fatih'i asıl vazgeçiren Baltaoğlu'nun ağır yaralı olmasıdır.",
+    "konu": "saray-devlet",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fatih Sultan Mehmet (TRT dizisi)",
+    "kisi": "Talha Uğurluel",
+    "kaynak_url": "https://youtu.be/IwX4ms_hph0?t=876",
+    "zaman": "[14:36]",
+    "kaynak_ozet": "Dizide Akşemseddin araya girmiş gibi, aslında siyasi komuta kademesi."
+   },
+   {
+    "yanlis": "Giovanni Giustiniani'nin kuşatmanın ortasında öldürülmesi",
+    "dogru": "Son gün Edirnekapı'da ağır yaralanıp Sakız Adası'na gitmiş, orada ölmüştür",
+    "aciklama": "Konuşmacı, dizide Giustiniani'nin kuşatmanın ortasında pat diye öldürüldüğünü belirtir. Gerçekte 29 Mayıs'ta yaralanarak gemiyle ayrılmış, birkaç gün sonra Sakız'da ölmüştür.",
+    "konu": "ordu",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fatih Sultan Mehmet (TRT dizisi)",
+    "kisi": "Talha Uğurluel",
+    "kaynak_url": "https://youtu.be/IwX4ms_hph0?t=1156",
+    "zaman": "[19:16]",
+    "kaynak_ozet": "Dizide kuşatmanın ortasında öldürüldü; aslında yaralanıp Sakız'da öldü."
+   },
+   {
+    "yanlis": "Doğu Roma imparatorunun erkek kardeşinin Osmanlı lehine casusluk yapması",
+    "dogru": "Böyle bir casusluk söz konusu değildir",
+    "aciklama": "Talha Uğurluel, dizide imparatorun kardeşinin Fatih lehine casusluk yapıyor gibi gösterildiğini söyler. Tarihte böyle bir durumun olmadığını vurgular.",
+    "konu": "saray-devlet",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fatih Sultan Mehmet (TRT dizisi)",
+    "kisi": "Talha Uğurluel",
+    "kaynak_url": "https://youtu.be/IwX4ms_hph0?t=1344",
+    "zaman": "[22:24]",
+    "kaynak_ozet": "Dizide casusluk yapıyor gibi; tarihte böyle bir durum yok."
+   },
+   {
+    "yanlis": "Doğu Roma imparatorunun erkek kardeşinin kundaktaki bebeğinin öldürülmesi",
+    "dogru": "Bu bebek yaşamalıydı; ileride Mesih Paşa (II. Bayezid'in sadrazamı) olacaktı",
+    "aciklama": "Konuşmacı, dizide kardeşin kundaktaki bebeğinin öldürüldüğünü eleştirir. Tarihte bu çocuğun yetişip Mesih Paşa adıyla sadrazam olduğunu, kardeşi Murat Paşa ile birlikte Osmanlı'da hizmet ettiğini belirtir.",
+    "konu": "isim-ad",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Fatih Sultan Mehmet (TRT dizisi)",
+    "kisi": "Talha Uğurluel",
+    "kaynak_url": "https://youtu.be/IwX4ms_hph0?t=1496",
+    "zaman": "[24:56]",
+    "kaynak_ozet": "Bebeği niye öldürdünüz; yaşayıp Mesih Paşa olacaktı."
+   }
+  ]
+ }
+}

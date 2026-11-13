@@ -1,0 +1,219 @@
+{
+ "model": "opencode/iceman-free",
+ "ad": "kaynak-22",
+ "tarih": "2026-11-13 15:36",
+ "veri": {
+  "kaynaklar": [
+   {
+    "url": "https://www.arkitera.com/gorus/lakin-hunkarim/",
+    "baslik": "Lakin Hünkarım",
+    "kisi": "Ahmet Turan Köksal",
+    "tarih": "2018-07-31",
+    "yapim": "Kalbimin Sultanı",
+    "tur": "yazı"
+   },
+   {
+    "url": "https://www.yeniasir.com.tr/hayatinicinden/2011/01/16/muhtesem_hatalar",
+    "baslik": "Muhteşem hatalar",
+    "kisi": "Yusuf Halaçoğlu",
+    "tarih": "2011-01-16",
+    "yapim": "Muhteşem Yüzyıl",
+    "tur": "röportaj"
+   },
+   {
+    "url": "https://www.habervaktim.com/yazar/48357/reyting-icin-tarihi-ve-ecdadi-kim-satti.html",
+    "baslik": "Reyting için tarihî ve ecdadı kim sattı?",
+    "kisi": "Ahmet Şimşirgil",
+    "tarih": "2012-03-06",
+    "yapim": "Muhteşem Yüzyıl; Fetih 1453",
+    "tur": "yazı"
+   },
+   {
+    "url": "https://www.odatv.com/guncel/tarih-dizileri-cok-seviliyor-peki-tarihciler-ne-diyor-120135119",
+    "baslik": "Tarih dizileri çok seviliyor... Peki tarihçiler ne diyor",
+    "kisi": "Haşim Şahin",
+    "tarih": "2026-02-17",
+    "yapim": "Kuruluş: Osman",
+    "tur": "haber"
+   },
+   {
+    "url": "https://www.bbc.com/turkce/articles/ckg03ny5d1lo",
+    "baslik": "Osmanlı dizilerinde kadınlar gerçeğe uygun yansıtılıyor mu?",
+    "kisi": "Fatmagül Berktay",
+    "tarih": "2025-01-26",
+    "yapim": "Genel (Osmanlı dizileri)",
+    "tur": "haber"
+   }
+  ],
+  "maddeler": [
+   {
+    "yanlis": "Et Meydanı kapısının ortasında çeşme gösterilmesi.",
+    "dogru": "Çeşme kapının içinde değil yanında olmalıdır.",
+    "aciklama": "Yazar, kapı düzeninin yanlış betimlendiğini ve giriş yanındaki mekânların farklı olması gerektiğini belirtir.",
+    "konu": "sehir-mekan",
+    "donem": "18.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Kalbimin Sultanı",
+    "kisi": "Ahmet Turan Köksal",
+    "kaynak_url": "https://www.arkitera.com/gorus/lakin-hunkarim/",
+    "kaynak_ozet": "Normalde çeşme kapının içinde değil yanında olmalı."
+   },
+   {
+    "yanlis": "Yeniçeri ortalarının bayraklarının siyah renkte gösterilmesi.",
+    "dogru": "Yeniçeri bayraklarının renkleri farklı ve anlamlıdır; siyah değildir.",
+    "aciklama": "Köksal, bayrak renklerinin önemli bir detay olduğunu ve dizide yanlış kullanıldığını vurgular.",
+    "konu": "ordu",
+    "donem": "18.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Kalbimin Sultanı",
+    "kisi": "Ahmet Turan Köksal",
+    "kaynak_url": "https://www.arkitera.com/gorus/lakin-hunkarim/",
+    "kaynak_ozet": "Yeniçeri ortalarının bayrakları siyah olmaz."
+   },
+   {
+    "yanlis": "Yeniçerilerin tüfekli saray muhafızlarına karşı kılıçla saldırması.",
+    "dogru": "Yeniçeriler de barutlu silahlar kullanırdı.",
+    "aciklama": "Yazar, yeniçerilerin ateşli silaha karşı yalnızca kılıçla saldırır gibi gösterilmesini eleştirir.",
+    "konu": "ordu",
+    "donem": "18.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Kalbimin Sultanı",
+    "kisi": "Ahmet Turan Köksal",
+    "kaynak_url": "https://www.arkitera.com/gorus/lakin-hunkarim/",
+    "kaynak_ozet": "Yeniçeri de barut kullanırdı, onlar tüfeğe karşı"
+   },
+   {
+    "yanlis": "Beşiktaş Sarayları için kullanılan 3 boyutlu modelde rıhtım, demir korkuluk ve pencere düzeninin hatalı gösterilmesi.",
+    "dogru": "Beşiktaş Sarayları tasvirinde bu unsurlar gravürlerdeki gibi değildir.",
+    "aciklama": "Köksal, sahne geçişlerindeki modelin tarihsel yapı özellikleriyle bağdaşmadığını belirtir.",
+    "konu": "sehir-mekan",
+    "donem": "18.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Kalbimin Sultanı",
+    "kisi": "Ahmet Turan Köksal",
+    "kaynak_url": "https://www.arkitera.com/gorus/lakin-hunkarim/",
+    "kaynak_ozet": "Ne rıhtım var ne de rıhtımda demir korkuluklar"
+   },
+   {
+    "yanlis": "1800'lerin başındaki saray iç mekânlarında beyaz lake mobilya ve CNC/MDF görünümlü detayların kullanılması.",
+    "dogru": "Bu tür malzeme ve mobilya dili dönemin saray mekânlarına uymaz.",
+    "aciklama": "Yazar, iç mekânlardaki modern işçilik ve mobilya tercihlerini dönem açısından hatalı bulur.",
+    "konu": "teknoloji-esya",
+    "donem": "19.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Kalbimin Sultanı",
+    "kisi": "Ahmet Turan Köksal",
+    "kaynak_url": "https://www.arkitera.com/gorus/lakin-hunkarim/",
+    "kaynak_ozet": "1800'lerin başında beyaz mobilya nereden çıktı, lake dolaplar."
+   },
+   {
+    "yanlis": "Haritada Hocapaşa ile Eyüp'ün aynı karede birbirine çok yakınmış gibi gösterilmesi.",
+    "dogru": "Bu iki bölgenin dizideki harita gösterimi İstanbul topografyasıyla uyuşmaz.",
+    "aciklama": "Köksal, dönemin İstanbul haritasında böyle bir yerleşim gösteriminin bağdaşmadığını ifade eder.",
+    "konu": "sehir-mekan",
+    "donem": "18.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Kalbimin Sultanı",
+    "kisi": "Ahmet Turan Köksal",
+    "kaynak_url": "https://www.arkitera.com/gorus/lakin-hunkarim/",
+    "kaynak_ozet": "Hocapaşa ile Eyüp'ün aynı karede gösterilmesini... bağdaştıramadım."
+   },
+   {
+    "yanlis": "Kanuni Sultan Süleyman'ın dizide pantolon giymesi.",
+    "dogru": "Osmanlı'da pantolon 19. yüzyılda, II. Mahmud döneminde yaygınlaşmıştır.",
+    "aciklama": "Halaçoğlu, 16. yüzyıl padişahı için pantolon kullanımını dönem dışı bir giyim hatası olarak gösterir.",
+    "konu": "giyim",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Yusuf Halaçoğlu",
+    "kaynak_url": "https://www.yeniasir.com.tr/hayatinicinden/2011/01/16/muhtesem_hatalar",
+    "kaynak_ozet": "Osmanlı'ya pantolon 2. Mahmut döneminde 1800'lerde geldi."
+   },
+   {
+    "yanlis": "Tahta çıkan Kanuni'nin sakallı olarak gösterilmesi.",
+    "dogru": "Osmanlı'da şehzadeler sakal bırakmazdı; Kanuni ilk tahta çıktığında sakalsızdı.",
+    "aciklama": "Halaçoğlu, padişahın tahta çıkışındaki görünümünü dönem teamüllerine aykırı bulur.",
+    "konu": "giyim",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Yusuf Halaçoğlu",
+    "kaynak_url": "https://www.yeniasir.com.tr/hayatinicinden/2011/01/16/muhtesem_hatalar",
+    "kaynak_ozet": "Kanuni'de ilk tahta çıktığında sakalsızdı."
+   },
+   {
+    "yanlis": "Padişahın tahta çıkışında havai fişek atılması.",
+    "dogru": "Osmanlı'da padişah tahta çıkınca 121 pare top atışı yapılırdı.",
+    "aciklama": "Halaçoğlu, tahta çıkış töreninde gösterilen kutlama biçimini döneme uymayan bir ayrıntı sayar.",
+    "konu": "saray-devlet",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Yusuf Halaçoğlu",
+    "kaynak_url": "https://www.yeniasir.com.tr/hayatinicinden/2011/01/16/muhtesem_hatalar",
+    "kaynak_ozet": "padişahlar tahta çıkınca 121 pare top atışı yapılırdı."
+   },
+   {
+    "yanlis": "Kanuni döneminde haremin Topkapı Sarayı'nda gösterilmesi.",
+    "dogru": "Kanuni tahta çıktığında harem Topkapı Sarayı'nda değil, eski saraydaydı.",
+    "aciklama": "Halaçoğlu, mekân kullanımını kronolojik olarak yanlış bulur.",
+    "konu": "sehir-mekan",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Yusuf Halaçoğlu",
+    "kaynak_url": "https://www.yeniasir.com.tr/hayatinicinden/2011/01/16/muhtesem_hatalar",
+    "kaynak_ozet": "harem Topkapı Sarayı'nda değil, eski saraydaydı."
+   },
+   {
+    "yanlis": "Hürrem Sultan'ın mabette esir edilip mabet ortamının kan gölüne çevrilmesi.",
+    "dogru": "Mabetlere saldırılmaması Osmanlı savaş geleneğinde temel prensiptir.",
+    "aciklama": "Şimşirgil, bu sahneyi savaş geleneğine aykırı bir tasvir olarak eleştirir.",
+    "konu": "din-gundelik",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ahmet Şimşirgil",
+    "kaynak_url": "https://www.habervaktim.com/yazar/48357/reyting-icin-tarihi-ve-ecdadi-kim-satti.html",
+    "kaynak_ozet": "Mabetlere asla saldırmayın derler."
+   },
+   {
+    "yanlis": "Fetih 1453 filminde Akşemseddin'in Fatih'in arkasından yaya koşması.",
+    "dogru": "Fatih, hocası Akşemseddin odaya girdiğinde ayağa kalkacak kadar saygı gösterirdi.",
+    "aciklama": "Şimşirgil, padişah-hoca ilişkisindeki saygı düzenini ters gösteren bu sahneyi hatalı bulur.",
+    "konu": "unvan-hitap",
+    "donem": "15.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Fetih 1453",
+    "kisi": "Ahmet Şimşirgil",
+    "kaynak_url": "https://www.habervaktim.com/yazar/48357/reyting-icin-tarihi-ve-ecdadi-kim-satti.html",
+    "kaynak_ozet": "Fatih hocası Akşemseddin odaya girdiği zaman ayağa kalkar"
+   },
+   {
+    "yanlis": "Kuruluş: Osman'da bir askerin Osman Gazi için \"Osman kafayı yemiş!\" demesi.",
+    "dogru": "Bu modern bir ifadedir ve 13. yüzyılda kullanılmaz.",
+    "aciklama": "Şahin, repliği dönemin diline uymayan anakronik bir kullanım olarak değerlendirir.",
+    "konu": "gundelik-dil",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Kuruluş: Osman",
+    "kisi": "Haşim Şahin",
+    "kaynak_url": "https://www.odatv.com/guncel/tarih-dizileri-cok-seviliyor-peki-tarihciler-ne-diyor-120135119",
+    "kaynak_ozet": "Bu modern bir ifade. 13. yüzyılda kullanılmaz."
+   },
+   {
+    "yanlis": "Dizilerde kadınların sokakta tek tip ve her yerde aşırı örtülü gösterilmesi.",
+    "dogru": "III. Selim zamanında yasaklara rağmen mesirelerde rengarenk feraceli kadınlar görülüyordu.",
+    "aciklama": "Berktay, kılık kıyafet yasaklarının ihlal edildiğini ve kadınların modayı izlediğini aktarır.",
+    "konu": "giyim",
+    "donem": "18.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Genel (Osmanlı dizileri)",
+    "kisi": "Fatmagül Berktay",
+    "kaynak_url": "https://www.bbc.com/turkce/articles/ckg03ny5d1lo",
+    "kaynak_ozet": "uzun yakalı, parlak renkli feraceler yasaklanmasına rağmen"
+   }
+  ]
+ }
+}

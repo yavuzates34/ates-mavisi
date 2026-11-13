@@ -1,0 +1,35 @@
+{
+ "model": "opencode/iceman-free",
+ "ad": "video-DeGBoBsYXVc",
+ "tarih": "2026-11-13 15:18",
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "Devletin adının 'Anadolu Selçukluları' olarak kullanılması.",
+    "dogru": "Devletin adı 'Türkiye Selçukluları'dır; 1085'ten itibaren Anadolu'nun adı Türkiye olmuştur.",
+    "aciklama": "Konuşmacı 'Anadolu Selçukluları' adlandırmasının doğru olmadığını, devletin adının Türkiye Selçukluları olduğunu belirtiyor.",
+    "konu": "isim-ad",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "genel",
+    "kisi": "Prof. Dr. Erhan Afyoncu",
+    "kaynak_url": "https://youtu.be/DeGBoBsYXVc?t=60",
+    "zaman": "01:00",
+    "kaynak_ozet": "Anadolu Selçukluları denir ama doğru değildir, adı Türkiye Selçuklularıdır."
+   },
+   {
+    "yanlis": "Alanya'nın Selçuklu fethi döneminde 'Alanya' adıyla anılması.",
+    "dogru": "Selçuklu ve Osmanlı döneminde şehir 'Alaiye' olarak anılırdı; ad Alaeddin Keykubat'tan gelir.",
+    "aciklama": "Konuşmacı, Alaeddin Keykubat'ın fethinden sonra şehrin dönemin kaynak ve kullanımında Alaiye olduğunu belirtiyor.",
+    "konu": "isim-ad",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Aşk ve Taht",
+    "kisi": "Prof. Dr. Erhan Afyoncu",
+    "kaynak_url": "https://youtu.be/DeGBoBsYXVc?t=211",
+    "zaman": "03:31",
+    "kaynak_ozet": "O dönemde ve Selçuklu, Osmanlı döneminde Alaiye'ydi."
+   }
+  ]
+ }
+}

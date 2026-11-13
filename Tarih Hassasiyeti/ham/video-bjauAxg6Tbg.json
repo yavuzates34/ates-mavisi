@@ -1,0 +1,74 @@
+{
+ "model": "opencode/iceman-free",
+ "ad": "video-bjauAxg6Tbg",
+ "tarih": "2026-11-13 15:40",
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "Osmanlı dizilerinde saraydaki herkesin uzun sakallı gösterilmesi.",
+    "dogru": "Sakal bırakmak padişah alametiydi; sarayda izinsiz sakal bırakılamazdı.",
+    "aciklama": "Konuşmacı, sakalın padişaha özgü bir alamet sayıldığını ve padişah izni olmadan bırakılmadığını belirtir. Saray erkanının sakalsız tasvirine örnek olarak Arifi'nin Süleymanname minyatürleri gösterilir.",
+    "konu": "giyim",
+    "donem": "genel",
+    "gecerli_1798": "kısmen",
+    "yapim": "Osmanlı dönemi dizi ve filmleri (genel)",
+    "kisi": "ZAMANDA YOLCULUK (kanal anlatıcısı)",
+    "kaynak_url": "https://youtu.be/bjauAxg6Tbg?t=0",
+    "zaman": "00:00",
+    "kaynak_ozet": "Saraydaki herkesin sakallı olması gerçekle alakası yok."
+   },
+   {
+    "yanlis": "Sarayda padişahtan başka sakal bırakma hakkı olan kimse olmadığı ya da herkesin sakallı gezdiği izlenimi.",
+    "dogru": "Padişah dışında sarayda sakal bırakma hakkına sahip kişi bostancıbaşıydı.",
+    "aciklama": "Bostancıbaşı, padişahın yanında ve saltanat kayığında görev yaptığı için bu yakınlıkla sakal bırakma hakkına sahipti. Bu durum, dizilerdeki genel sakallı saray görüntüsünden ayrılır.",
+    "konu": "saray-devlet",
+    "donem": "genel",
+    "gecerli_1798": "kısmen",
+    "yapim": "Osmanlı dönemi dizi ve filmleri (genel)",
+    "kisi": "ZAMANDA YOLCULUK (kanal anlatıcısı)",
+    "kaynak_url": "https://youtu.be/bjauAxg6Tbg?t=93",
+    "zaman": "01:33",
+    "kaynak_ozet": "Padişah dışında sakal hakkı olan tek kişi bostancıbaşıydı."
+   },
+   {
+    "yanlis": "Sadrazam ve şeyhülislamın sakal izni almadan uzun sakallarla görev yapması.",
+    "dogru": "Sadrazam sakal için padişahtan izin almak zorundaydı; şeyhülislamın izni temsili olsa da izin isterdi.",
+    "aciklama": "Konuşmacı, dizilerde bu izin süreçlerinin gösterilmediğini; sadrazam ve şeyhülislam dahil üst düzey görevlilerin izin gerekliliğine bağlı olduğunu söyler.",
+    "konu": "saray-devlet",
+    "donem": "genel",
+    "gecerli_1798": "kısmen",
+    "yapim": "Osmanlı dönemi dizi ve filmleri (genel)",
+    "kisi": "ZAMANDA YOLCULUK (kanal anlatıcısı)",
+    "kaynak_url": "https://youtu.be/bjauAxg6Tbg?t=124",
+    "zaman": "02:04",
+    "kaynak_ozet": "Veziriazam ve şeyhülislam dahi sakal için izin almak zorundaydı."
+   },
+   {
+    "yanlis": "Dizilerde saray erkanının neredeyse tamamının sakallı gösterilmesi; müneccimbaşıdan has odabaşına kadar herkes sakallı.",
+    "dogru": "Saray erkanının büyük bölümü izinsiz sakal bırakamazdı; izinsiz sakal başkaldırı sayılırdı.",
+    "aciklama": "Konuşmacı, sakalsız saray erkanı yerine sakallı bir görüntünün yaygınlaştırıldığını eleştirir. İzinsiz sakal bırakmayı padişaha başkaldırı olarak niteler.",
+    "konu": "giyim",
+    "donem": "genel",
+    "gecerli_1798": "kısmen",
+    "yapim": "Osmanlı dönemi dizi ve filmleri (genel)",
+    "kisi": "ZAMANDA YOLCULUK (kanal anlatıcısı)",
+    "kaynak_url": "https://youtu.be/bjauAxg6Tbg?t=186",
+    "zaman": "03:06",
+    "kaynak_ozet": "Müneccimbaşından has odabaşına kadar herkes sakallı gösteriliyor."
+   },
+   {
+    "yanlis": "Sadece şehzadelerin sakal bırakmasının yasak olduğu sanısı.",
+    "dogru": "İzinsiz sakal yasağı yalnız şehzadeler için değil, tüm saray erkanı için geçerliydi.",
+    "aciklama": "Konuşmacı, bu yasağın şehzadelerle sınırlı sanılmasının yanlış olduğunu belirtir. Sarayda izinsiz sakal bırakmak padişaha başkaldırı anlamına geliyordu.",
+    "konu": "saray-devlet",
+    "donem": "genel",
+    "gecerli_1798": "kısmen",
+    "yapim": "Osmanlı dönemi dizi ve filmleri (genel)",
+    "kisi": "ZAMANDA YOLCULUK (kanal anlatıcısı)",
+    "kaynak_url": "https://youtu.be/bjauAxg6Tbg?t=186",
+    "zaman": "03:06",
+    "kaynak_ozet": "Sakal yasağı sadece şehzadelere değil tüm saray erkanına."
+   }
+  ]
+ }
+}

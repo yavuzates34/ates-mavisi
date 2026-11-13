@@ -1,0 +1,126 @@
+{
+ "model": "opencode/deepseek-v4.1-flash-free",
+ "ad": "video-3D7EnWeydWc-p3",
+ "tarih": "2026-11-13 15:09",
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "Gayrimüslim tebaanın köle statüsünde, sırtında kırbaç şaklayan, plantasyonda çalıştırılan insanlar gibi gösterilmesi",
+    "dogru": "Zimmîler köle değildi, zimmî statüsündeydi; eşitsizlikler vardı ama plantasyon köleliği yoktu.",
+    "aciklama": "Konuşmacı bu imgenin Batı'nın kölecilik tasvirinden ödünç alındığını söylüyor. Eşitsizliğin varlığını kabul ediyor, kölelik benzetmesini reddediyor.",
+    "konu": "din-gundelik",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "belirtilmedi",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/3D7EnWeydWc?t=392",
+    "zaman": "06:32",
+    "kaynak_ozet": "Zimmî tebaa köle değildi; kırbaç ve plantasyon benzetmesi yanlış."
+   },
+   {
+    "yanlis": "Kabakçı Mustafa İsyanı'nın, yamakların Nizam-ı Cedid elbisesi giymeyi reddetmesiyle çıktığı anlatısı",
+    "dogru": "İsyanı Sadaret Kaymakamı Köse Musa Paşa ile Şeyhülislam Topal Ataullah tahrik etti; elbise sadece bahane.",
+    "aciklama": "Konuşmacı bunun resmî anlatı olduğunu, Reşat Ekrem Koçu'da bile böyle bir sebep bulunmadığını söylüyor. Yamaklar görünüşte elbiseye patlıyor.",
+    "konu": "ordu",
+    "donem": "19.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "belirtilmedi",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/3D7EnWeydWc?t=2500",
+    "zaman": "41:40",
+    "kaynak_ozet": "Elbise anlatısı eski anlatı; isyanı Köse Musa ve Topal Ataullah azdırdı."
+   },
+   {
+    "yanlis": "Şehzade ve sultanların hançer veya kılıçla, kanı akıtılarak öldürülmesi",
+    "dogru": "Hanedan kanı akıtılmaz, boğularak öldürülürdü; III. Selim bu teamülün dışında katledildi.",
+    "aciklama": "Türk-Moğol geleneğinde hanedan soyu kutsal sayıldığı için kan dökmek günah sayılırdı. Selim'in yüzü gözü yırtılmış ve kanı akıtılmış hâlde bulunması teamüle aykırıydı.",
+    "konu": "saray-devlet",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "belirtilmedi",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/3D7EnWeydWc?t=1072",
+    "zaman": "17:52",
+    "kaynak_ozet": "Hanedan mensubunun kanı akıtılmaz, boğularak öldürülür."
+   },
+   {
+    "yanlis": "1798-1800 İstanbul'unda paşaların ve memurların fes, setre ve pantolonla gösterilmesi",
+    "dogru": "Fes, ceket ve pantolon 1829'da II. Mahmut'un kılık kıyafet nizamnamesiyle geldi.",
+    "aciklama": "Konuşmacı II. Mahmut'un portresinde bu kıyafeti 'daha önce hiçbir sultan giymedi' diye vurguluyor. 1829 zorunluluğu yalnız memurlara getirildi, halka değil.",
+    "konu": "giyim",
+    "donem": "19.yy",
+    "gecerli_1798": "evet",
+    "yapim": "belirtilmedi",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/3D7EnWeydWc?t=5504",
+    "zaman": "91:44",
+    "kaynak_ozet": "Fes, ceket, pantolon 1829'da memurlara zorunlu oldu; halka değil."
+   },
+   {
+    "yanlis": "Sened-i İttifak'ın anayasa ya da demokratikleşmenin ilk adımı sayılması",
+    "dogru": "Sened-i İttifak anayasa değil; padişahın gücünü ayanlarla senetle sınırlayan bir belge.",
+    "aciklama": "Konuşmacı 'mutlak otorite ilk kez sınırlandı' cümlesini tarihçi olarak fazla buluyor. Magna Carta benzetmesinin de abartı olduğunu söylüyor.",
+    "konu": "saray-devlet",
+    "donem": "19.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "belirtilmedi",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/3D7EnWeydWc?t=4237",
+    "zaman": "70:37",
+    "kaynak_ozet": "Sened-i İttifak anayasa değil, kesinlikle; benzetme abartılı."
+   },
+   {
+    "yanlis": "II. Mahmut'un kurduğu meclislerle halkın yönetime katıldığı iddiası",
+    "dogru": "Meclislerin hiçbiri seçimle gelmedi, hepsi atanmıştı; demokratikleşme sağlanmadı.",
+    "aciklama": "Konuşmacı bazı KPSS kaynaklarında çıkan bu seçeneği açıkça reddediyor. Halkın yönetime katılımı ancak II. Abdülhamit döneminde kısa süreliğine gündeme gelecek.",
+    "konu": "saray-devlet",
+    "donem": "19.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "belirtilmedi",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/3D7EnWeydWc?t=7433",
+    "zaman": "123:53",
+    "kaynak_ozet": "Meclisler atanmıştı; halk yönetime katılmadı, demokratikleşme yok."
+   },
+   {
+    "yanlis": "İstanbul'a giriş kontrolünü anlatırken 16.-18. yüzyıl için 'mürur tezkeresi' denmesi",
+    "dogru": "Mürur tezkeresi II. Mahmut dönemi belgesi; giriş kontrolü daha eski ama etnik değil.",
+    "aciklama": "Konuşmacı 'Türkler İstanbul'a pasaportsuz giremiyordu' sözünü cahillik diye niteliyor. Kontrol başkent düzeni içindi, Türk olup olmamakla ilgili değildi.",
+    "konu": "yazi-belge",
+    "donem": "19.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "belirtilmedi",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/3D7EnWeydWc?t=7614",
+    "zaman": "126:54",
+    "kaynak_ozet": "Mürur tezkeresi II. Mahmut dönemine ait; giriş kontrolü etnik değildi."
+   },
+   {
+    "yanlis": "III. Selim'in din ve şeriat düşmanı bir sultan gibi gösterilmesi",
+    "dogru": "'Dinsizlik' suçlaması IV. Mustafa'nın meşruiyet hamlesiydi; muhalefetin derdi Nizam-ı Cedid'i bidat saymaktı.",
+    "aciklama": "Konuşmacı IV. Mustafa'nın tahta çıkınca şeriat yanlısı imaj çizdiğini, Selim'i Allah'a kitaba karşı gelmiş gibi gösterdiğini söylüyor. Selim'in asıl suçu reformdu.",
+    "konu": "din-gundelik",
+    "donem": "19.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "belirtilmedi",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/3D7EnWeydWc?t=3058",
+    "zaman": "50:58",
+    "kaynak_ozet": "IV. Mustafa, Selim'i din düşmanı gibi göstererek meşruiyet kurdu."
+   },
+   {
+    "yanlis": "Kösem Sultan'ın da yeniçeriler tarafından tahta layık görüldüğü anlatısı",
+    "dogru": "Yeniçerilerin tahta layık gördüğü tek kadın Esma Sultan'dı; Kösem'e bu paye verilmedi.",
+    "aciklama": "Konuşmacı bunu 'tarihte tek kişi' diye vurguluyor. Esma Sultan 1778 doğumlu, IV. Mustafa'nın kız kardeşi.",
+    "konu": "harem-kadin",
+    "donem": "18.yy",
+    "gecerli_1798": "evet",
+    "yapim": "belirtilmedi",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/3D7EnWeydWc?t=1474",
+    "zaman": "24:34",
+    "kaynak_ozet": "Yeniçerilerin tahta düşündüğü tek kadın Esma Sultan'dı, Kösem değil."
+   }
+  ]
+ }
+}

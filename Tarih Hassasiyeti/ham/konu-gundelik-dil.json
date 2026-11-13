@@ -1,0 +1,69 @@
+{
+ "model": "opencode/iceman-free",
+ "ad": "konu-gundelik-dil",
+ "tarih": "2026-11-13 15:39",
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "Devleti veya ülkeyi günlük konuşmada doğrudan 'Türkiye' diye adlandırmak",
+    "dogru": "Devlet-i Aliyye, Memâlik-i Mahrûse veya Osmanlı diyarı gibi ifadeler kullanmak",
+    "aciklama": "1798'de 'Türkiye' resmî devlet adı değildi; bu ad uluslararası belgelerde daha sonra yer aldı. XIV. yüzyıldaki 'berrü't-Türkiyye' ifadesi coğrafi kullanımdır.",
+    "konu": "gundelik-dil",
+    "donem": "18.yy",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "konu taraması",
+    "kaynak_url": "https://islamansiklopedisi.org.tr/turkiye",
+    "kaynak_ozet": "Gümrü Antlaşması’yla Türkiye adı ilk defa uluslararası belgelere girdi"
+   },
+   {
+    "yanlis": "'Millet' sözcüğünü modern ulus anlamında kullanmak",
+    "dogru": "'Millet'i dinî cemaat (Rum milleti, Ermeni milleti vb.) anlamında kullanmak",
+    "aciklama": "Osmanlı düzeninde millet, etnik ulus değil dinî zümreyi ifade ederdi. Kelimenin modern 'ulus' anlamı daha sonraki dönemde yerleşmiştir.",
+    "konu": "gundelik-dil",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "konu taraması",
+    "kaynak_url": "https://islamansiklopedisi.org.tr/millet",
+    "kaynak_ozet": "XIX. yüzyıldan önce millet sözünün dinî bir topluluk"
+   },
+   {
+    "yanlis": "'Millet' sözcüğünü bugünkü vatandaş ulusu karşılığı gibi düşünmek",
+    "dogru": "Milleti din temelli toplumsal ve hukukî aidiyet olarak anlamak",
+    "aciklama": "Klasik dönemde millet dinî aidiyeti ifade ederken, 'nation' karşılığı sosyolojik-siyasal anlam Türkçeye modern dönemde geçmiştir. 1798 İstanbul'unda bu anlam kayması henüz yerleşik değildi.",
+    "konu": "gundelik-dil",
+    "donem": "18.yy",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "konu taraması",
+    "kaynak_url": "https://islamansiklopedisi.org.tr/millet",
+    "kaynak_ozet": "Batı’daki “nation” kavramının karşılığı olarak Türkçe... geçmiş"
+   },
+   {
+    "yanlis": "'Saat kaç?' sorusunu bugünkü alafranga saat düzenini varsayarak sormak",
+    "dogru": "Vakti ezânî/gurûbî (alaturka) hesaba göre sormak veya belirtmek",
+    "aciklama": "Osmanlı alaturka düzeninde gün güneş batarken başlar ve saatler buna göre ayarlanırdı. Alafranga saatin resmî ve yaygın kullanımı çok daha sonradır.",
+    "konu": "gundelik-dil",
+    "donem": "18.yy",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "konu taraması",
+    "kaynak_url": "https://islamansiklopedisi.org.tr/saat",
+    "kaynak_ozet": "akşam güneş batarken başlatılması (gurûbî/ezânî, alaturka)"
+   },
+   {
+    "yanlis": "Gün başlangıcını ve saat 12'yi gece yarısı kabul etmek",
+    "dogru": "Gurûbî düzende yeni günün güneş batımıyla ve saatin 12 ile başlamasını esas almak",
+    "aciklama": "Hicrî kamerî takvimde güneş ufukta batarken yeni gün başlar ve bu an saat 12 kabul edilir. Gece yarısı başlangıcı alafranga uygulamayla ilişkilidir.",
+    "konu": "gundelik-dil",
+    "donem": "18.yy",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "konu taraması",
+    "kaynak_url": "https://islamansiklopedisi.org.tr/saat",
+    "kaynak_ozet": "güneş ufukta batarken... saatin 12.00 yahut 0.00 olduğu kabul edilir"
+   }
+  ]
+ }
+}

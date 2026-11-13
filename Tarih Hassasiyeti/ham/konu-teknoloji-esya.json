@@ -1,0 +1,81 @@
+{
+ "model": "gemini/gemini-3.5-flash",
+ "ad": "konu-teknoloji-esya",
+ "tarih": "2026-11-13 15:47",
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "1798-1800 İstanbul'unda humbaracıların bağımsız bir ocak olmayıp cebeci veya topçulara bağlı sıradan piyadeler gibi gösterilmesi ve el bombasının modern tarzda tasviri.",
+    "dogru": "Humbaracılar el bombası imal eden ve kullanan özel bir sınıf olup İstanbul'un fethinden sonra müstakil ocak haline getirilmişti.",
+    "aciklama": "Humbaracılar mühimmat imalatı ve kullanımıyla görevli bağımsız bir kapıkulu ocağıydı. Merkezdeki humbaracılar ulufeli, taşradakiler ise dirlikli olarak görev yapardı.",
+    "konu": "teknoloji-esya",
+    "donem": "18.yy",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "konu taraması",
+    "kaynak_url": "https://islamansiklopedisi.org.tr/kapikulu",
+    "kaynak_ozet": "Bir tür el bombası imal edicileri ve kullanıcıları olan humbaracılar müstakil hale getirilmişlerdi."
+   },
+   {
+    "yanlis": "1798 İstanbul'unda sahra ve kale toplarının gelişigüzel sivil arabalarla veya mekkârelerle nakledildiğinin kurgulanması.",
+    "dogru": "Ağır topların nakli Tophane ve Şehremini merkezli Top Arabacıları Ocağı'nca üretilen özel toplu arabalarla; hafif toplar ise katır ve deve sırtında taşınırdı.",
+    "aciklama": "Top naklinin imkânsız olduğu engebeli arazi şartlarında ise seyyar dökümhaneler kurularak toplar yerinde dökülürdü. Arabaları çeken hayvanların ahırları Ahırkapı semtindeydi.",
+    "konu": "teknoloji-esya",
+    "donem": "18.yy",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "konu taraması",
+    "kaynak_url": "https://islamansiklopedisi.org.tr/kapikulu",
+    "kaynak_ozet": "Küçük ve fazla ağır olmayan toplar katır ve deve sırtında taşınır."
+   },
+   {
+    "yanlis": "Yeniçerilerin kendi ateşli silahlarını şahsi imkanlarıyla tüccarlardan temin ettiği veya kişisel olarak imal ettiğinin varsayılması.",
+    "dogru": "Kapıkulu ordusunun silah temini, tamiri, bakımı ve muhafazası resmi devlet kurumu olan Cebeci Ocağı tarafından yürütülürdü.",
+    "aciklama": "Cebeciler yeniçeri ve diğer askerlerin lojistik silah ihtiyacını merkeze bağlı olarak karşılardı. Bireysel silah üretimi veya serbest piyasa alışverişi kurumsal orduda uygulanmazdı.",
+    "konu": "teknoloji-esya",
+    "donem": "18.yy",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "konu taraması",
+    "kaynak_url": "https://islamansiklopedisi.org.tr/kapikulu",
+    "kaynak_ozet": "Cebecilerin başlıca görevi yeniçerilere silâh temin etmek, bu silâhların bakım ve muhafazasını yapmaktı."
+   },
+   {
+    "yanlis": "1798 dönemi muharebe veya kuşatma sahnelerinde patlayıcı olarak modern fünyeli ya da dinamit benzeri gereçlerin lağımcılarca kullanılması.",
+    "dogru": "Lağımcılar kale surlarını çökertmek için toprak altında tünel açıp geleneksel barut patlayıcıları yerleştiren askeri teknik sınıftı.",
+    "aciklama": "Ulufeli lağımcılar merkeze, dirlikli lağımcılar ise taşraya bağlı çalışarak yer altı patlatma tekniklerini uygulardı. Kimyasal modern patlayıcılar bu dönemde mevcut değildi.",
+    "konu": "teknoloji-esya",
+    "donem": "18.yy",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "konu taraması",
+    "kaynak_url": "https://islamansiklopedisi.org.tr/kapikulu",
+    "kaynak_ozet": "Toprak altında tüneller açarak buralara yerleştirdikleri patlayıcı maddelerle fetihleri kolaylaştırırlardı."
+   },
+   {
+    "yanlis": "18. yüzyıl sonu Osmanlı ordusunda Topçu Ocağı'nın sadece yabancı hazır mühimmat veya füze benzeri patlayıcılar kullandığının işlenmesi.",
+    "dogru": "Topçu Ocağı yerli üretim imkanlarıyla Tophane'de ve kışlalarda çeşitli ebatlarda demir ve taş gülleler döküp hazırlayan teknik uzmanlardan oluşmaktaydı.",
+    "aciklama": "Topçular top imal edenler ve dökülen topları kullananlar şeklinde iki uzmanlık sınıfına ayrılmıştı. Askeri kaynakları Acemi Ocağı'na dayanmaktaydı.",
+    "konu": "teknoloji-esya",
+    "donem": "18.yy",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "konu taraması",
+    "kaynak_url": "https://islamansiklopedisi.org.tr/kapikulu",
+    "kaynak_ozet": "Topçu Ocağı'nda çeşitli ebatta gülleler atabilen irili ufaklı toplar imal edilir."
+   },
+   {
+    "yanlis": "1798-1800 İstanbul'unda Nizâm-ı Cedîd ordusu kurulduğu için Yeniçeri Ocağı'nın tamamen lağvedildiğinin gösterilmesi.",
+    "dogru": "1798'de Nizâm-ı Cedîd yeni kurulan paralel bir birlikti; Yeniçeri Ocağı ise varlığını koruyup Nizâm-ı Cedîd'e karşı ciddi tehdit ve muhalefet oluşturmaktaydı.",
+    "aciklama": "Nizâm-ı Cedîd ordusu yeniçerilerin baskısı sonucu ilga edilmiş, Yeniçeri Ocağı ise 1826 yılına kadar varlığını sürdürmüştür. İki askeri yapının bir arada bulunması dönemin ana gerilim kaynağıydı.",
+    "konu": "ordu",
+    "donem": "18.yy",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "konu taraması",
+    "kaynak_url": "https://islamansiklopedisi.org.tr/kapikulu",
+    "kaynak_ozet": "III. Selim döneminde kurulan Nizâm-ı Cedîd ordusunun yeniçerilerin tehdidiyle ilga edilmesinin ardından."
+   }
+  ]
+ }
+}

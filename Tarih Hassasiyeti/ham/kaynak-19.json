@@ -1,0 +1,231 @@
+{
+ "model": "opencode/iceman-free",
+ "ad": "kaynak-19",
+ "tarih": "2026-11-13 15:33",
+ "veri": {
+  "kaynaklar": [
+   {
+    "url": "https://www.dailysabah.com/arts/reviews/netflix-docudrama-reveals-great-defense-of-byzantium-the-small-conquest-of-ottoman-empire",
+    "baslik": "Netflix docudrama reveals great defense of Byzantium, the small conquest of Ottoman Empire",
+    "kisi": "Ali Tüfekçi",
+    "tarih": "2020-04-08",
+    "yapim": "Rise of Empires: Ottoman",
+    "tur": "yazı"
+   },
+   {
+    "url": "https://frockflicks.com/the-bitchy-historian-takes-on-rise-of-empires-ottoman-2020/",
+    "baslik": "The Bitchy Historian Takes on Rise of Empires: Ottoman (2020)",
+    "kisi": "The Bitchy Historian",
+    "tarih": "2020-02-06",
+    "yapim": "Rise of Empires: Ottoman",
+    "tur": "yazı"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Rise_of_Empires:_Ottoman",
+    "baslik": "Rise of Empires: Ottoman",
+    "kisi": "Wikipedia katkıcıları; alıntı: Florian George Calian",
+    "tarih": "2026-09-18",
+    "yapim": "Rise of Empires: Ottoman",
+    "tur": "yazı"
+   },
+   {
+    "url": "https://www.duvarenglish.com/columns/2020/02/18/rise-of-empires-ottoman-a-quasi-historical-blend-of-documentary-and-dramatic-reenactment",
+    "baslik": "A quasi-historical blend of documentary and dramatic reenactment",
+    "kisi": "Nicholas Danforth",
+    "tarih": "2020-02-18",
+    "yapim": "Rise of Empires: Ottoman",
+    "tur": "yazı"
+   },
+   {
+    "url": "https://www.looper.com/1152066/how-historically-accurate-is-netflixs-rise-of-empires-ottoman/",
+    "baslik": "How Historically Accurate Is Netflix's Rise Of Empires: Ottoman?",
+    "kisi": "Deepayan Sengupta",
+    "tarih": "2022-12-30",
+    "yapim": "Rise of Empires: Ottoman",
+    "tur": "yazı"
+   }
+  ],
+  "maddeler": [
+   {
+    "yanlis": "İmparator Konstantinos'un vergi artışı talebini ileten elçiler idam edilir.",
+    "dogru": "Elçilerin öldürüldüğüne dair kayıt yoktur; bu savaş hukukuna aykırıdır.",
+    "aciklama": "Yazıya göre Roma ve Türk kaynaklarında böyle bir olay geçmez. İslam savaş hukukuna da aykırıdır.",
+    "konu": "diplomasi-donem",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Rise of Empires: Ottoman",
+    "kisi": "Ali Tüfekçi",
+    "kaynak_url": "https://www.dailysabah.com/arts/reviews/netflix-docudrama-reveals-great-defense-of-byzantium-the-small-conquest-of-ottoman-empire",
+    "kaynak_ozet": "elçilerin öldürüldüğü ne Roma ne Türk tarihinde"
+   },
+   {
+    "yanlis": "Çandarlı Halil Paşa, Bizanslı Lukas Notaras ile gizlice görüşen bir hain olarak gösterilir.",
+    "dogru": "Çandarlı'nın Notaras ile buluştuğuna dair tarihsel bilgi yoktur.",
+    "aciklama": "Yazı bu buluşmayı kurgusal sayar. Çandarlı'nın ihaneti bu şekilde belgelenmez.",
+    "konu": "saray-devlet",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Rise of Empires: Ottoman",
+    "kisi": "Ali Tüfekçi",
+    "kaynak_url": "https://www.dailysabah.com/arts/reviews/netflix-docudrama-reveals-great-defense-of-byzantium-the-small-conquest-of-ottoman-empire",
+    "kaynak_ozet": "Çandarlı bir hain değildi, Lukas ile buluşmadı"
+   },
+   {
+    "yanlis": "Mara Hatun, kuşatma sırasında Mehmed'i yatıştıran yakın bir danışman gibi sunulur.",
+    "dogru": "Mara Hatun 1451'de Sırbistan'a gönderilmişti; bu etkisi belgelenmez.",
+    "aciklama": "Mara'nın bu dönemde sarayda böyle bir rolü olduğuna dair bilgi yoktur. Kronolojiyle de çelişir.",
+    "konu": "harem-kadin",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Rise of Empires: Ottoman",
+    "kisi": "Ali Tüfekçi",
+    "kaynak_url": "https://www.dailysabah.com/arts/reviews/netflix-docudrama-reveals-great-defense-of-byzantium-the-small-conquest-of-ottoman-empire",
+    "kaynak_ozet": "Mara 1451'de Sırbistan'a gönderildi"
+   },
+   {
+    "yanlis": "Şehzade Mehmed annesinden ayrı, yabancı ve Mara Brankoviç tarafından yetiştirilmiş gösterilir.",
+    "dogru": "Mehmed'in annesi 1449'a kadar yaşadı ve sancakbeyliği sırasında yanındaydı.",
+    "aciklama": "Şehzadeler sancak sisteminde annelerinin gözetiminde yetişirdi. Ayrı ve yabancı yetiştirilme kurgusaldır.",
+    "konu": "saray-devlet",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Rise of Empires: Ottoman",
+    "kisi": "Ali Tüfekçi",
+    "kaynak_url": "https://www.dailysabah.com/arts/reviews/netflix-docudrama-reveals-great-defense-of-byzantium-the-small-conquest-of-ottoman-empire",
+    "kaynak_ozet": "annesi 1449'da öldü, sancakbeyliği süresince yanındaydı"
+   },
+   {
+    "yanlis": "Şehzade Mehmed, eğitimi sırasında Çandarlı Halil Paşa tarafından kırbaçlanır.",
+    "dogru": "Şehzade eğitimi devlet görevlilerinin işi değildi; bu sahne kurgudur.",
+    "aciklama": "Sadrazamın şehzade eğitiminde böyle bir ceza uygulaması tarihsel değildir. Yazı bunu abartılı drama olarak niteler.",
+    "konu": "saray-devlet",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Rise of Empires: Ottoman",
+    "kisi": "Ali Tüfekçi",
+    "kaynak_url": "https://www.dailysabah.com/arts/reviews/netflix-docudrama-reveals-great-defense-of-byzantium-the-small-conquest-of-ottoman-empire",
+    "kaynak_ozet": "devlet görevlileri şehzade eğitimine karışmazdı"
+   },
+   {
+    "yanlis": "II. Mehmed, Ayasofya'ya tek başına girip binayı boş halde camiye çevirir.",
+    "dogru": "Bu sahne tarihsel değildir.",
+    "aciklama": "Florian George Calian'a göre dizideki bu canlandırma yanlış sunulur. Uzman yorumları sahneye belgesel havası verse de anlatım hatalıdır.",
+    "konu": "din-gundelik",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Rise of Empires: Ottoman",
+    "kisi": "Florian George Calian",
+    "kaynak_url": "https://en.wikipedia.org/wiki/Rise_of_Empires:_Ottoman",
+    "kaynak_ozet": "Mehmed boş Ayasofya'ya tek başına girer; her şey yanlış"
+   },
+   {
+    "yanlis": "İmparator XI. Konstantinos, işlenmiş deri zırh ve uygunsuz miğferle tasvir edilir.",
+    "dogru": "Palaiologos dönemi tasvirleri bu kostümle uyuşmaz.",
+    "aciklama": "Kostüm tarihçisi, son imparatorun görünümünün dönemin görsel kaynaklarına uymadığını belirtir. Bu, 15. yüzyıl Bizans saray giyiminden sapmadır.",
+    "konu": "giyim",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Rise of Empires: Ottoman",
+    "kisi": "The Bitchy Historian",
+    "kaynak_url": "https://frockflicks.com/the-bitchy-historian-takes-on-rise-of-empires-ottoman-2020/",
+    "kaynak_ozet": "Constantine XI in tooled leather, wrong helmet"
+   },
+   {
+    "yanlis": "Osmanlılar kuşatma sahnelerinde ağırlıkla siyah deri ve bol kürkle gösterilir.",
+    "dogru": "Osmanlı seçkin giyimi renkli kumaşlar ve farklı katmanlardan oluşuyordu.",
+    "aciklama": "Yazar, dönemin görsellerinde canlı renklerin öne çıktığını vurgular. Aşırı kürk ve karanlık palet 15. yüzyıl tasvirini basitleştirir.",
+    "konu": "giyim",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Rise of Empires: Ottoman",
+    "kisi": "The Bitchy Historian",
+    "kaynak_url": "https://frockflicks.com/the-bitchy-historian-takes-on-rise-of-empires-ottoman-2020/",
+    "kaynak_ozet": "so much fur; eliminate color, add leather"
+   },
+   {
+    "yanlis": "Bizans saray mensupları, 6. yüzyıl Ravenna mozaiklerini anımsatan kostümlerle görünür.",
+    "dogru": "15. yüzyıl Bizans modası farklılaşmıştı; bin yıl önceki görünüm doğru değildir.",
+    "aciklama": "Kostüm tarihçisi, Bizans giyiminin yüzyıllar içinde değiştiğini belirtir. Geç dönem saray görünümü bu şekilde temsil edilemez.",
+    "konu": "giyim",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Rise of Empires: Ottoman",
+    "kisi": "The Bitchy Historian",
+    "kaynak_url": "https://frockflicks.com/the-bitchy-historian-takes-on-rise-of-empires-ottoman-2020/",
+    "kaynak_ozet": "San Vitale mosaics made almost 1000 years prior"
+   },
+   {
+    "yanlis": "Bizanslı soylu kadın, döneme uymayan dekolte ve fantastik süslemelerle tasvir edilir.",
+    "dogru": "Geç Bizans kadın giyimi farklı kesim ve katmanlara sahipti.",
+    "aciklama": "Yazar, Lincoln Typikon gibi örneklerin çok farklı bir siluet sunduğunu belirtir. Dizideki tasarım tarihsel temelden kopuktur.",
+    "konu": "giyim",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Rise of Empires: Ottoman",
+    "kisi": "The Bitchy Historian",
+    "kaynak_url": "https://frockflicks.com/the-bitchy-historian-takes-on-rise-of-empires-ottoman-2020/",
+    "kaynak_ozet": "not even in the same damn ballpark"
+   },
+   {
+    "yanlis": "Osmanlı kadınları açık saç, baş kolyeleri ve kap kol gibi unsurlarla gösterilir.",
+    "dogru": "Dönem tasvirlerinde katmanlı entari ve örtülü başlıklar öne çıkar.",
+    "aciklama": "Kostüm eleştirisi, kadın giyiminin görsel kaynaklarla bağdaşmadığını söyler. Bu ayrıntılar 15. yüzyıl saray kadınları için hatalıdır.",
+    "konu": "giyim",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Rise of Empires: Ottoman",
+    "kisi": "The Bitchy Historian",
+    "kaynak_url": "https://frockflicks.com/the-bitchy-historian-takes-on-rise-of-empires-ottoman-2020/",
+    "kaynak_ozet": "loose hair for days, head necklaces, cap sleeves"
+   },
+   {
+    "yanlis": "Yeniçeriler fazla deri süs ve böbrek kemeri benzeri parçalarla resmedilir.",
+    "dogru": "Dönem çizimlerine göre yeniçeri kıyafeti daha sade unsurlarla bilinir.",
+    "aciklama": "Yazar, Gentile Bellini'nin 15. yüzyıl çizimiyle karşılaştırarak ek deri detaylarını eleştirir. Bu, yeniçeri görünümünü abartır.",
+    "konu": "giyim",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Rise of Empires: Ottoman",
+    "kisi": "The Bitchy Historian",
+    "kaynak_url": "https://frockflicks.com/the-bitchy-historian-takes-on-rise-of-empires-ottoman-2020/",
+    "kaynak_ozet": "extra leather trimmings and kidney belts"
+   },
+   {
+    "yanlis": "II. Mehmed'in surlara gidip Giovanni Giustiniani'yi satın almaya çalıştığı gösterilir.",
+    "dogru": "Böyle bir rüşvet girişimine dair kayıt bulunmaz; sahne dramatiktir.",
+    "aciklama": "Yazı, Giovanni'nin önemli bir engel olduğunu kabul eder ama bu görüşmenin belgelendiğini söylemez. Bu ayrıntı kurgusal kabul edilir.",
+    "konu": "diplomasi-donem",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Rise of Empires: Ottoman",
+    "kisi": "Deepayan Sengupta (Daily History'ye atıfla)",
+    "kaynak_url": "https://www.looper.com/1152066/how-historically-accurate-is-netflixs-rise-of-empires-ottoman/",
+    "kaynak_ozet": "no record of Mehmed attempting to bribe Giovanni"
+   },
+   {
+    "yanlis": "Çandarlı Halil Paşa'nın idam nedeni dizide kesin bir gerekçeyle açıklanır.",
+    "dogru": "İdam gerçekleşmiştir ancak kesin gerekçesi kaynaklarda belirsizdir.",
+    "aciklama": "Yazı, olayın kendisinin doğru kabul edildiğini ama motivasyonun kaybolduğunu belirtir. Dizinin sunduğu neden kesin bilgi değildir.",
+    "konu": "saray-devlet",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Rise of Empires: Ottoman",
+    "kisi": "Deepayan Sengupta (Daily History'ye atıfla)",
+    "kaynak_url": "https://www.looper.com/1152066/how-historically-accurate-is-netflixs-rise-of-empires-ottoman/",
+    "kaynak_ozet": "motivations have been lost to time"
+   },
+   {
+    "yanlis": "II. Mehmed'in burnu, tarihi tasvirlere aykırı biçimde olduğundan küçük gösterilir.",
+    "dogru": "Mevcut tarihi betimlemeler daha belirgin bir burun ima eder.",
+    "aciklama": "Nicholas Danforth bu küçültmeyi gereksiz bir güzelleştirme olarak eleştirir. Fiziksel tasvir dönemin görsel kanıtlarıyla uyumsuzdur.",
+    "konu": "isim-ad",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Rise of Empires: Ottoman",
+    "kisi": "Nicholas Danforth",
+    "kaynak_url": "https://www.duvarenglish.com/columns/2020/02/18/rise-of-empires-ottoman-a-quasi-historical-blend-of-documentary-and-dramatic-reenactment",
+    "kaynak_ozet": "downplays the size of Fatih’s nose"
+   }
+  ]
+ }
+}

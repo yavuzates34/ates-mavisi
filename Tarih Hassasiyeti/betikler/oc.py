@@ -34,6 +34,22 @@ def json_cek(metin):
     return None
 
 
+import threading
+TUKENEN = set()          # kotası dolan modeller (bu çalıştırma boyunca)
+KILIT = threading.Lock()
+HAVUZ = {
+    # çıkarım: deepseek tükenirse sırayla bunlar denenir
+    "opencode/deepseek-v4.1-flash-free": ["opencode/deepseek-v4.1-flash-free", "opencode/longcat-2.5-free", "opencode/iceman-free",
+                                          "opencode/beam-free", "opencode/minimax-m3.1-flash-free", "opencode/inkling-2-small-free"],
+    # doğrulayıcı A ve B havuzları birbirinden ayrık tutulur
+    "opencode/glm-5.3-flash-free": ["opencode/glm-5.3-flash-free", "opencode/longcat-2.5-free", "opencode/nemotron-3.5-super-vl-free"],
+    # B doğrulayıcı (A artık Gemini): OpenCode ücretsiz modellerinden hangisi açıksa
+    "opencode/mimo-v2.6-flash-free": ["opencode/mimo-v2.6-flash-free", "opencode/longcat-2.5-free", "opencode/beam-free",
+                                      "opencode/glm-5.3-flash-free", "opencode/iceman-free", "opencode/minimax-m3.1-flash-free",
+                                      "opencode/deepseek-v4.1-flash-free", "opencode/nemotron-3.5-super-vl-free"],
+}
+
+
 def calistir(is_):
     ad, model, istem, cikti = is_["ad"], is_["model"], is_["istem"], is_["cikti"]
     if not os.path.isabs(cikti):
@@ -48,7 +64,14 @@ def calistir(is_):
         with open(os.path.join(kl, "girdi.json"), "w", encoding="utf-8") as f:
             f.write(is_["girdi"])
     son = "hata"
-    for deneme in range(int(is_.get("deneme", 2))):
+    havuz = HAVUZ.get(model, [model])
+    deneme = 0
+    while deneme < int(is_.get("deneme", 2)):
+        with KILIT:
+            uygun = [m for m in havuz if m not in TUKENEN]
+        if not uygun:
+            return ad, "kota bitti (havuzdaki tüm modeller)"
+        model = uygun[0]
         t0 = time.time()
         try:
             p = subprocess.run(
@@ -61,6 +84,11 @@ def calistir(is_):
             out = "ZAMAN AŞIMI\n" + ANSI.sub("", (e.stdout or b"").decode("utf-8", "replace") if isinstance(e.stdout, bytes) else (e.stdout or ""))
         with open(os.path.join(LOG, f"{ad}.{deneme}.txt"), "w", encoding="utf-8") as f:
             f.write(out)
+        if "Free usage limit reached" in out:
+            with KILIT:
+                TUKENEN.add(model)
+            continue
+        deneme += 1
         veri = json_cek(out)
         if veri is not None:
             with open(cikti, "w", encoding="utf-8") as f:

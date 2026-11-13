@@ -1,0 +1,52 @@
+# Video kaynakları
+
+YouTube'da yt-dlp aramasıyla bulunan ve otomatik Türkçe altyazısı (transkripti) çekilen videolar. Ham transkriptler git dışında (`ham-sayfalar/video/`). Madde sayısı, ücretsiz modelin transkriptten çıkardığı ham madde sayısıdır.
+
+- Bardakçı 'Payitaht Abdülhamid Dizisi Hatalı' Dedi | Az Önce Konuştum | TV100 Candaş Tolga Işık ile Az Önce Konuştum | 23 dk | <https://youtu.be/XYe6aNrTVOQ> | transkript var | madde: 1
+- "Payitaht İstanbul" Dizisindeki Hatalar | Az Önce Konuştum | TV100 Candaş Tolga Işık ile Az Önce Konuştum | 23 dk | <https://youtu.be/u7QNKS1Wio4> | transkript var | madde: -
+- Murat Bardakçı'nın Muhteşem Yüzyıl Görüşü | Candaş Tolga Işık ile Az Önce Konuştum | TV100 Candaş Tolga Işık ile Az Önce Konuştum | 4 dk | <https://youtu.be/eo7Urd6VPhY> | transkript var | madde: 2
+- Ünlü Tarihçi Murat Bardakçı Muhteşem Yüzyıl Dizisini Değerlendiriyor | Gece Sobeti | TV100 Candaş Tolga Işık ile Az Önce Konuştum | 4 dk | <https://youtu.be/IPGuQ6Iemmc> | transkript var | madde: 0
+- Muhteşem Yüzyıl'ın Senaristi Meral Okay Diziyle İlgili Bilinmeyenleri Habertürk'e Anlatmıştı | HT Bilim Tarih Felsefe | 11 dk | <https://youtu.be/oFWkb0OO39U> | transkript var | madde: -
+- Prof. Dr. İlber Ortaylı Tarih Dizilerini Hem Övdü Hem Yerdi | İmam Bakır Ercanlar | 2 dk | <https://youtu.be/31UoK6jEKmo> | altyazı yok | madde: -
+- İlber Ortaylı: "Dizilere çıkıp bana yalan söylemesinler, senaryolar palavra." | Derince | 2 dk | <https://youtu.be/UUBcr8qejW0> | transkript var | madde: 0
+- Prof.Dr İlber Ortaylı - Muhteşem Yüzyıl'daki Kanuni gerçeği yansıtmıyor! (05.02.2014) | Azraistanbul İlber Ortaylı | 11 dk | <https://youtu.be/AoGpO9xZNBM> | transkript var | madde: 3
+- İlber Ortaylı’nın Netflix’te İzlediği Dizi | Cahille Sohbeti Kestim | KAFA TV | 15 dk | <https://youtu.be/y6pF7krMKFo> | transkript var | madde: -
+- Kanuni Gerçekten Muhteşem Miydi? #İlberHocayaSoruyorum (1. Bölüm) | KAFA TV | 14 dk | <https://youtu.be/IkNQnIC3v3w> | transkript var | madde: 0
+- İlber Hoca Harem Gerçeklerini Anlattı.. | HT Bilim Tarih Felsefe | 18 dk | <https://youtu.be/y_qAMTz0C88> | transkript var | madde: -
+- Film İzlemek 101 - Emrah Safa Gürkan | OMNIBUS | 21 dk | <https://youtu.be/QfoEHEnDBPg> | transkript var | madde: 0
+- Netflix Ottoman - Olmaz Öyle Saçma Şey - İlker Canikligil - S3B21 | Flu | 20 dk | <https://youtu.be/FS3-ON1MgTM> | altyazı yok | madde: -
+- MEHMED: FETİHLER SULTANI SAÇMALIKLAR DİZİSİ OLDU! - AHMET ŞİMŞİRGİL | Prof. Dr. Ahmet Şimşirgil | 10 dk | <https://youtu.be/SP1ywpYudTA> | transkript var | madde: 3
+- NETFLIX'TEN AKIL ALMAZ HATALAR - RISE OF EMPIRES OTTOMAN - AHMET ŞİMŞİRGİL | Prof. Dr. Ahmet Şimşirgil | 37 dk | <https://youtu.be/SIL5xiY0SlE> | altyazı yok | madde: -
+- Ahmet Şimşirgil'in Payitaht Abdulhamid dizisi yorumu | Ayaklı Mikrofon | 5 dk | <https://youtu.be/Jkpio92is30> | transkript var | madde: 1
+- FATİH DİZİSİNDEKİ BÜYÜK TARİHİ HATALAR NELER? | Ahmet Anapalı | Ahmet Anapalı | 42 dk | <https://youtu.be/y8Jzdzp3qgA> | transkript var | madde: -
+- AKINCI BEYİNİ CELLAT MI SANDINIZ? MEHMED: FETİHLER SULTANI - AHMET ŞİMŞİRGİL | Prof. Dr. Ahmet Şimşirgil | 9 dk | <https://youtu.be/N29lqKljuT8> | transkript var | madde: 3
+- FATİH DİZİSİNDE BUNLAR OLMAMALIYDI  ! | Talha Uğurluel | 37 dk | <https://youtu.be/IwX4ms_hph0> | transkript var | madde: 4
+- "Payitaht Abdülhamid" Dizisi Hakkında (Tenkit) | Üstad Kadir Mısıroğlu Resmî Youtube Sayfasıdır !.. | 19 dk | <https://youtu.be/cfpNs-nS9Po> | transkript var | madde: -
+- TARİHÇİLER, OSMANLI DİZİ SAHNELERİNİ İZLİYOR! | TepkiKolik | 37 dk | <https://youtu.be/ZlpGwH0o-sY> | transkript var | madde: 0
+- TARİHÇİ, YABANCI DİZİLERDEKİ OSMANLI SAHNELERİNİ İZLİYOR! | Literat | 38 dk | <https://youtu.be/kNdpoYuZYVk> | transkript var | madde: -
+- Kuruluş Osman da Pes dedirten Tarihi Hatalar | Tarihini Seven Adam | 10 dk | <https://youtu.be/D95Rbmm4ahM> | transkript var | madde: 7
+- TARİH DİZİLERİ NEDEN GERÇEĞİ ANLATMIYOR? | Ahmet Anapalı | Ahmet Anapalı and Abdullah Enes Sanlı | 18 dk | <https://youtu.be/8vpj2aEjEB0> | transkript var | madde: 3
+- Osmanlı dizilerindeki sakal hatası! | ZAMANDA YOLCULUK | 3 dk | <https://youtu.be/bjauAxg6Tbg> | transkript var | madde: 5
+- Muhteşem Yüzyıl Dizisinde Yapılan Hata - Tarihte Yürüyen Adam | Tarihte Yürüyen Adam'la Vakıf Eserlerimiz | 6 dk | <https://youtu.be/-oIglN_UisA> | transkript var | madde: 3
+- MUHTEŞEM YÜZYIL | Dizideki hatalar  | sinema&dizi | 19 dk | <https://youtu.be/4XtiG4ZFQjk> | transkript var | madde: 14
+- Tarih Dizilerindeki Akıl Almaz Hatalar | 10 Dakikada Tarih | 2 dk | <https://youtu.be/tU3evg9HDc0> | transkript var | madde: -
+- Kuruluş Osman'daki Tarihi Hatalar (Belgelerle) | Tolga Doğan Tarih | 6 dk | <https://youtu.be/uFIjLq3gkZc> | transkript var | madde: -
+- Netflix Rise of Empires Ottoman Dizisindeki HATALAR | Eren Ertem | 8 dk | <https://youtu.be/UUr51p4B2gk> | altyazı yok | madde: -
+- Rise of Empires Ottoman - Anlatılanlar Ne Kadar Doğru - Soru Cevap 21 | Talha Uğurluel | 55 dk | <https://youtu.be/Zjwi6QbvP4M> | altyazı yok | madde: -
+- FETİHLER SULTANI 90. BÖLÜM İNCELEME - BÖLÜMDEKİ TARİHİ HATALAR VE DOĞRULAR | Ahmet Anapalı | 26 dk | <https://youtu.be/WMOY4O_i32c> | transkript var | madde: 11
+- EKSİKLER VAR AMA GAYET İYİ! | FETİHLER SULTANI 87. BÖLÜM İNCELEME | Ahmet Anapalı | 22 dk | <https://youtu.be/Kbi6hfvngr8> | transkript var | madde: 5
+- Muhteşem Yüzyıldaki AKIL ALMAZ Hatalar! | SweatATears | 4 dk | <https://youtu.be/vU_1Rx-3yKU> | transkript var | madde: -
+- Muhteşem Yüzyıl Dizisi - Tarihi Gerçekler ve Dizi Yorumları | Tarih Obası (Ceren Sungur) | 144 dk | <https://youtu.be/zh5x1Oo8Bxs> | transkript var | madde: -
+- OSMANLI'yı Neden Kötülüyorsun? | Soramazsın: Ceren Sungur | 321Media Productions | 11 dk | <https://youtu.be/xFdpmAal89Y> | transkript var | madde: -
+- Osmanlı'da Kadınlara Yasaklanan Renkler, Feraceler, Yaşmaklar | Tarih Obası (Ceren Sungur) | 175 dk | <https://youtu.be/PH3snF3w8yk> | transkript var | madde: 0
+- Osmanlı Sarayında ve Harem'de Ramazan ve Bayram | Tarih Obası (Ceren Sungur) | 114 dk | <https://youtu.be/cOghevnRx-Q> | transkript var | madde: 0
+- Görsellerle Osmanlı'da Gündelik Hayattan Kesitler | Tarih Obası (Ceren Sungur) | 155 dk | <https://youtu.be/M5-kVltqYyw> | transkript var | madde: 0
+- KPSS Tarih Hikâyeli Osmanlı Tarihi Kronolojisi- I. Abdülhamit, III. Selim, IV. Mustafa | Tarih Obası (Ceren Sungur) | 134 dk | <https://youtu.be/3D7EnWeydWc> | transkript var | madde: 18
+- Prof. Dr. Erhan Afyoncu: Destina, Hürrem Sultan ve Kösem Sultan karışımı bir hatundur | Aşk ve Taht | 11 dk | <https://youtu.be/DeGBoBsYXVc> | transkript var | madde: 2
+- Prof. Dr. Erhan Afyoncu ile Aşk ve Taht'ı Birlikte İzleyelim | Aşk ve Taht | 6 dk | <https://youtu.be/FTB_MwXoi0U> | transkript var | madde: 0
+- Dizilerdeki Tarihi Kostümler: Osmanlı Askeri Nasıl Giyinirdi? | Mustafa B. Bozkurt | 194 dk | <https://youtu.be/wO8tY75eCfs> | transkript var | madde: -
+- Prof. Dr. Feridun Emecen Kuruluş Osman Hakkında Merak Edilen Sorular | Bozdağ Film | 6 dk | <https://youtu.be/FGQFkpJZWkg> | transkript var | madde: 0
+- Barbaroslar Dizisi'ni yorumluyoruz. Beğendiklerimiz, eksiklikler, hatalar. | Gold Tarih | 20 dk | <https://youtu.be/hWPTp16_0fs> | transkript var | madde: -
+- Gelenekler - Olmaz Öyle Saçma Tarih - Emrah Safa Gürkan | Flu | 25 dk | <https://youtu.be/UMsZnePoMaA> | altyazı yok | madde: -
+- Şehzadelerin Tahta Geçmeden Çocuk Sahibi Olması Yasaktı (Bardakçı) | HT Bilim Tarih Felsefe | 92 dk | <https://youtu.be/iuX90WxwyPc> | transkript var | madde: -
+- 3. Selim | 1. Bölüm | TRT Belgesel | 29 dk | <https://youtu.be/ORRFjVzusws> | transkript var | madde: 0

@@ -1,0 +1,295 @@
+{
+ "model": "opencode/iceman-free",
+ "ad": "kaynak-08",
+ "tarih": "2026-11-13 15:26",
+ "veri": {
+  "kaynaklar": [
+   {
+    "url": "https://www.ahmetsimsirgil.com/cehalet-mi-ihanet-mi/",
+    "baslik": "Cehalet mi ihanet mi?",
+    "kisi": "Ahmet Şimşirgil",
+    "tarih": "2011-06-16",
+    "yapim": "Muhteşem Yüzyıl",
+    "tur": "yazı"
+   },
+   {
+    "url": "https://www.habervaktim.com/yazar/48357/reyting-icin-tarihi-ve-ecdadi-kim-satti.html",
+    "baslik": "Reyting için tarihî ve ecdadı kim sattı?",
+    "kisi": "Faruk Çakır (Ahmet Şimşirgil röportajından aktarımlar)",
+    "tarih": "2012-03-06",
+    "yapim": "Muhteşem Yüzyıl, Fetih 1453",
+    "tur": "yazı"
+   },
+   {
+    "url": "https://beyazgazete.com/haber/2011/1/17/tarihci-simsirgil-den-muhtesem-yuzyil-degerlendirmesi-885002.html",
+    "baslik": "Tarihçi Şimşirgil’den ’Muhteşem Yüzyıl’ Değerlendirmesi",
+    "kisi": "Ahmet Şimşirgil",
+    "tarih": "2011-01-17",
+    "yapim": "Muhteşem Yüzyıl",
+    "tur": "haber"
+   },
+   {
+    "url": "https://www.sondakika.com/guncel/haber-tarihciden-muhtesem-yuzyil-dizisine-tepki-3589988/",
+    "baslik": "Tarihçiden Muhteşem Yüzyıl Dizisine Tepki",
+    "kisi": "Ahmet Şimşirgil",
+    "tarih": "2012-05-04",
+    "yapim": "Muhteşem Yüzyıl",
+    "tur": "haber"
+   },
+   {
+    "url": "https://www.turkiyegazetesi.com.tr/kultur-sanat/tarihci-prof-dr-ahmet-simsirgil-mehmed-fetihler-sultani-dizisini-yerden-yere-1025448",
+    "baslik": "Tarihçi Ahmet Şimşirgil \"Mehmed Fetihler Sultanı\" dizisini yerden yere vurdu: Böyle bir savaş yok!",
+    "kisi": "Ahmet Şimşirgil",
+    "tarih": "2024-03-02",
+    "yapim": "Mehmed: Fetihler Sultanı",
+    "tur": "haber"
+   },
+   {
+    "url": "https://www.milliyet.com.tr/yerel-haberler/samsun/unlu-profesorden-dirilis-ertugrul-dizisine-elestiri-11232807",
+    "baslik": "ÜNLÜ PROFESÖRDEN “DİRİLİŞ ERTUĞRUL” DİZİSİNE ELEŞTİRİ",
+    "kisi": "Ahmet Şimşirgil",
+    "tarih": "2016-02-25",
+    "yapim": "Diriliş Ertuğrul, Fetih 1453",
+    "tur": "haber"
+   },
+   {
+    "url": "https://www.cagdaskocaeli.com.tr/haber/4627088/dizilerde-anlatilan-osmanli-600-degil-6-yil-bile-yasamazdi",
+    "baslik": "'Dizilerde anlatılan Osmanlı 600 değil 6 yıl bile yaşamazdı'",
+    "kisi": "Ahmet Şimşirgil",
+    "tarih": "2015-05-17",
+    "yapim": "Muhteşem Yüzyıl, Fetih 1453",
+    "tur": "haber"
+   }
+  ],
+  "maddeler": [
+   {
+    "yanlis": "Hürrem Sultan, Kırımlıların bir kiliseyi/mabedi basıp kan gölüne çevirmesiyle esir alınır.",
+    "dogru": "Savaş ve akınlarda mabetlere ve din adamlarına dokunulmaması temel prensiptir.",
+    "aciklama": "Şimşirgil, Hürrem'in mabette esir edilmesi kurgusunu savaş geleneğine aykırı bulur.",
+    "konu": "din-gundelik",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ahmet Şimşirgil",
+    "kaynak_url": "https://www.ahmetsimsirgil.com/cehalet-mi-ihanet-mi/",
+    "kaynak_ozet": "mabetlere ve din adamlarına dokunulmaması birinci prensiptir"
+   },
+   {
+    "yanlis": "Hürrem Sultan esir alındığı gibi zulümle İstanbul'a getirilip saraya tıkılır.",
+    "dogru": "Bir cariye belli bir terbiye almadan doğrudan saraya getirilmez.",
+    "aciklama": "Hürrem'in önce bir süre eğitim görüp sonra saraya verildiği belirtilir.",
+    "konu": "harem-kadin",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ahmet Şimşirgil",
+    "kaynak_url": "https://www.ahmetsimsirgil.com/cehalet-mi-ihanet-mi/",
+    "kaynak_ozet": "cariye belli bir terbiye almadan doğrudan... saraya getirilmez"
+   },
+   {
+    "yanlis": "Hürrem Sultan yetişkin yaşta esir edilip hemen saraya sokulur.",
+    "dogru": "Hürrem, Kırımlılarca küçük yaşta (yaklaşık 9) esir edilip terbiye edilmiştir.",
+    "aciklama": "Dizideki yaş ve süreç kurgusu eleştirilir; iyi terbiye aldığı vurgulanır.",
+    "konu": "harem-kadin",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ahmet Şimşirgil",
+    "kaynak_url": "https://www.sondakika.com/guncel/haber-tarihciden-muhtesem-yuzyil-dizisine-tepki-3589988/",
+    "kaynak_ozet": "Hürrem Kırımlılar tarafından 9 yaşında esir ediliyor"
+   },
+   {
+    "yanlis": "İbrahim Paşa için 'dönme' tabiri kullanılır.",
+    "dogru": "O dönemde 'dönme' tabiri kullanılmaz; 17. yüzyıldan itibaren görülür.",
+    "aciklama": "İbrahim Paşa küçük yaşta esir alınıp Müslüman olmuş, devşirme değil köledir.",
+    "konu": "isim-ad",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ahmet Şimşirgil",
+    "kaynak_url": "https://www.ahmetsimsirgil.com/cehalet-mi-ihanet-mi/",
+    "kaynak_ozet": "dönme tabiri 17. Yüzyıldan itibaren... kullanılmaya başlanmıştır"
+   },
+   {
+    "yanlis": "Haremde zenci hadımlar yerine beyaz hadımlar görev yapar.",
+    "dogru": "Haremde zenci hadımağalarının görev alanı ve düzeni farklıdır.",
+    "aciklama": "Şimşirgil, saray teşkilatında hadımların yeri ve görevlerinin yanlış gösterildiğini söyler.",
+    "konu": "saray-devlet",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ahmet Şimşirgil",
+    "kaynak_url": "https://www.ahmetsimsirgil.com/cehalet-mi-ihanet-mi/",
+    "kaynak_ozet": "zenci yerine beyaz hadımların haremde kol gezmesi"
+   },
+   {
+    "yanlis": "Saray mutfağı, haremi ve eğitim alanları şamata ve gürültü içindedir.",
+    "dogru": "Osmanlı sarayının önemli özelliklerinden biri sessizliktir.",
+    "aciklama": "Sarayda düzen, sessizlik ve herkesin vazifesini bilmesi vurgulanır.",
+    "konu": "gundelik-dil",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ahmet Şimşirgil",
+    "kaynak_url": "https://www.ahmetsimsirgil.com/cehalet-mi-ihanet-mi/",
+    "kaynak_ozet": "en önemli özelliklerinden birinin sessizlik olduğunu belirtirler"
+   },
+   {
+    "yanlis": "Kanuni ve ileri gelenler sarayda başı açık, kavuksuz/sarıksız dolaşır.",
+    "dogru": "Başın açık dolaşılması kabul görmez; sarığın çıkarılması büyük cezadır.",
+    "aciklama": "Enderun terbiyesine göre sarık/kavuk başlığın önemi vurgulanır.",
+    "konu": "giyim",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ahmet Şimşirgil",
+    "kaynak_url": "https://www.ahmetsimsirgil.com/cehalet-mi-ihanet-mi/",
+    "kaynak_ozet": "başı açık hiçbir şekilde dolaşılmazdı"
+   },
+   {
+    "yanlis": "Kanuni, Hasan Can gibi âlimlere omuzuna tokat atar, küçümsercesine davranır.",
+    "dogru": "Padişahın âlimlere saygılı protokolü vardır; böyle davranış tarihî değildir.",
+    "aciklama": "Aktarılan olayın bağlamı ve üslubu kaynaklardaki anlatıma uymaz.",
+    "konu": "unvan-hitap",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ahmet Şimşirgil",
+    "kaynak_url": "https://www.ahmetsimsirgil.com/cehalet-mi-ihanet-mi/",
+    "kaynak_ozet": "bir âlimi aşağılayan ve... tokatlar atan garip"
+   },
+   {
+    "yanlis": "Hasan Can, Kanuni döneminin başında 60'lı yaşlarda gösterilir.",
+    "dogru": "Hasan Can o yıllarda 30'lu yaşlardadır.",
+    "aciklama": "Şimşirgil, Hasan Can'ın babasıyla 1514'te Yavuz'un hizmetine girdiğini belirtir.",
+    "konu": "isim-ad",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ahmet Şimşirgil",
+    "kaynak_url": "https://www.ahmetsimsirgil.com/cehalet-mi-ihanet-mi/",
+    "kaynak_ozet": "o yıllarda otuzlu yaşlardadır"
+   },
+   {
+    "yanlis": "Cariyelerin harem içindeki giyim kuşamı açık saçık ve uygunsuz gösterilir.",
+    "dogru": "Cariyelerin günlük işlere uygun kıyafetleri ve düzenli bir eğitim hayatı vardır.",
+    "aciklama": "Haremde terbiye, ders ve ibadet düzeni vurgulanır; gösterilen kıyafet eleştirilir.",
+    "konu": "giyim",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ahmet Şimşirgil",
+    "kaynak_url": "https://www.habervaktim.com/yazar/48357/reyting-icin-tarihi-ve-ecdadi-kim-satti.html",
+    "kaynak_ozet": "Cariyelerin günlük işlerde günlük kıyafetleri vardır"
+   },
+   {
+    "yanlis": "Harem hayatı sürekli entrika ve cinsellik odağında gösterilir; ibadet düzeni yoktur.",
+    "dogru": "Cariyeler fıkıh ve ahlak dersleri alır, vakit namazlarını kılar ve dua eder.",
+    "aciklama": "Şimşirgil, haremdeki eğitim ve ibadet düzeninin dizide yansıtılmadığını söyler.",
+    "konu": "din-gundelik",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ahmet Şimşirgil",
+    "kaynak_url": "https://www.habervaktim.com/yazar/48357/reyting-icin-tarihi-ve-ecdadi-kim-satti.html",
+    "kaynak_ozet": "fıkıh, ahlâk dersleri alırlar... namazları kılınır"
+   },
+   {
+    "yanlis": "Fetih 1453 filminde Fatih, Akşemseddin atla giderken hocasını arkada yaya koşturur.",
+    "dogru": "Fatih hocasına büyük saygı gösterir; hocayı yaya koşturması mümkün değildir.",
+    "aciklama": "Şimşirgil, Fatih'in Akşemseddin'e saygısını vurgulayarak sahneyi eleştirir.",
+    "konu": "unvan-hitap",
+    "donem": "15.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Fetih 1453",
+    "kisi": "Ahmet Şimşirgil",
+    "kaynak_url": "https://www.habervaktim.com/yazar/48357/reyting-icin-tarihi-ve-ecdadi-kim-satti.html",
+    "kaynak_ozet": "Akşemseddin arkasından yaya olarak koşuyor. Böyle bir şey mümkün mü?"
+   },
+   {
+    "yanlis": "Mehmed, ilk saltanatında 18-20 yaşlarında genç olarak gösterilir.",
+    "dogru": "Babası II. Murad, Mehmed'i 12 yaşında tahta çıkarmıştır.",
+    "aciklama": "Yaşın yanlış verilmesi, sonraki olayların kurgusunu da etkiler.",
+    "konu": "isim-ad",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Mehmed: Fetihler Sultanı",
+    "kisi": "Ahmet Şimşirgil",
+    "kaynak_url": "https://www.turkiyegazetesi.com.tr/kultur-sanat/tarihci-prof-dr-ahmet-simsirgil-mehmed-fetihler-sultani-dizisini-yerden-yere-1025448",
+    "kaynak_ozet": "12 yaşında babası onu tahta çıkarttı!"
+   },
+   {
+    "yanlis": "Mehmed, amcası Orhan'la büyük bir meydan savaşı yapar ve bizzat çarpışır.",
+    "dogru": "Böyle bir savaş yaşanmamıştır; Orhan yanına adam bulamayıp Bizans'a sığınmıştır.",
+    "aciklama": "Şimşirgil, Orhan üzerine birlik gönderildiğini ancak büyük savaş olmadığını belirtir.",
+    "konu": "ordu",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Mehmed: Fetihler Sultanı",
+    "kisi": "Ahmet Şimşirgil",
+    "kaynak_url": "https://www.turkiyegazetesi.com.tr/kultur-sanat/tarihci-prof-dr-ahmet-simsirgil-mehmed-fetihler-sultani-dizisini-yerden-yere-1025448",
+    "kaynak_ozet": "Böyle bir savaş da yok. Amcası Orhan’la öyle bir savaş yok!"
+   },
+   {
+    "yanlis": "Bizans, Orhan'a Osmanlı üzerine yürümesi için büyük bir ordu verir.",
+    "dogru": "Bizans'ın o dönemde Orhan'a böyle bir ordu verecek gücü yoktur.",
+    "aciklama": "Orhan'ın Bizans desteğiyle büyük ordu kurduğu kurgusu reddedilir.",
+    "konu": "ordu",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Mehmed: Fetihler Sultanı",
+    "kisi": "Ahmet Şimşirgil",
+    "kaynak_url": "https://www.turkiyegazetesi.com.tr/kultur-sanat/tarihci-prof-dr-ahmet-simsirgil-mehmed-fetihler-sultani-dizisini-yerden-yere-1025448",
+    "kaynak_ozet": "Bizans'ın öyle bir ordusu yok"
+   },
+   {
+    "yanlis": "Diriliş Ertuğrul'da karakterler yemeklerini sürekli sol elle yer.",
+    "dogru": "Kayı Boyu ve Müslümanlar hastalık durumu hariç yemeklerini sağ elle yer.",
+    "aciklama": "Gündelik adaba aykırı davranış somut hata olarak eleştirilir.",
+    "konu": "din-gundelik",
+    "donem": "13.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "Ahmet Şimşirgil",
+    "kaynak_url": "https://www.milliyet.com.tr/yerel-haberler/samsun/unlu-profesorden-dirilis-ertugrul-dizisine-elestiri-11232807",
+    "kaynak_ozet": "yemeklerini sağ elle yerler. ‘Bunlar... sol elle götürüp duruyor’"
+   },
+   {
+    "yanlis": "Diriliş Ertuğrul'da Kayı Boyu, Dodurga obasına sığınır.",
+    "dogru": "Kayı Boyu Dodurga'ya hiç sığınmamıştır.",
+    "aciklama": "Obalar arası ilişki ve sığınma kurgusu tarihî değil sayılır.",
+    "konu": "saray-devlet",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "Ahmet Şimşirgil",
+    "kaynak_url": "https://www.milliyet.com.tr/yerel-haberler/samsun/unlu-profesorden-dirilis-ertugrul-dizisine-elestiri-11232807",
+    "kaynak_ozet": "Kayı Boyu, Dodurga’ya hiç sığınmadı"
+   },
+   {
+    "yanlis": "Diriliş Ertuğrul'da Ertuğrul Moğolların eline geçer ve eline çivi çakılır.",
+    "dogru": "Ertuğrul Moğolların eline hiç geçmemiştir.",
+    "aciklama": "Böyle bir esaret yaşansaydı tarihî lakap/kayıtlara yansırdı.",
+    "konu": "ordu",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "Ahmet Şimşirgil",
+    "kaynak_url": "https://www.milliyet.com.tr/yerel-haberler/samsun/unlu-profesorden-dirilis-ertugrul-dizisine-elestiri-11232807",
+    "kaynak_ozet": "Ertuğrul, Moğollar’ın eline hiç geçmedi"
+   },
+   {
+    "yanlis": "Diriliş Ertuğrul'da Baycu Noyan, Ertuğrul ve adamlarının eline geçer.",
+    "dogru": "Baycu Noyan, onların eline hiç geçmemiştir.",
+    "aciklama": "Karakterler arasındaki esaret/çatışma kurgusu tarihî sayılmaz.",
+    "konu": "ordu",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "Ahmet Şimşirgil",
+    "kaynak_url": "https://www.milliyet.com.tr/yerel-haberler/samsun/unlu-profesorden-dirilis-ertugrul-dizisine-elestiri-11232807",
+    "kaynak_ozet": "Baycu Noyan, bizimkilerin eline hiç geçmedi"
+   }
+  ]
+ }
+}

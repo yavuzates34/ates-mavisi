@@ -1,0 +1,48 @@
+{
+ "model": "opencode/iceman-free",
+ "ad": "video-N29lqKljuT8",
+ "tarih": "2026-11-13 15:31",
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "Fatih'in kardeşini öldürtmek için Evrenosoğlu Ali Bey'in gönderilmesi ve kurbanın 9-10 yaşlarında çocuk gösterilmesi",
+    "dogru": "Kardeş henüz beşikte, memeden kesilmemiş çok küçük bir çocuktu; öldürtülmesi muhtemelen hadım ağalardan birine teslim edilerek yapıldı, akıncı beyi bu işe gönderilmedi",
+    "aciklama": "Konuşmacı, akıncı beylerinin cellat gibi kullanılmasını ve çocuğun yaşının abartılmasını eleştirir. Öldürülme şeklinin kayıtlarda net olmadığı da belirtilir.",
+    "konu": "ordu",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Mehmed: Fetihler Sultanı",
+    "kisi": "Prof. Dr. Ahmet Şimşirgil",
+    "kaynak_url": "https://youtu.be/N29lqKljuT8?t=288",
+    "zaman": "04:48",
+    "kaynak_ozet": "Akıncılar ne zaman cellat oldu, çocuk beşikteydi, akıncı beyi mi gönderilir?"
+   },
+   {
+    "yanlis": "Evrenosoğlu Ali Bey'in Şehzade Bayezid'in lalası yapılması ve 'eğitemedin, canını al' görevi verilmesi",
+    "dogru": "Akıncı beyi olan Evrenosoğlu Ali Bey'in şehzadeye lala yapılması ve böyle bir infaz görevi alması konuşmacıya göre tarih dışıdır",
+    "aciklama": "Konuşmacı, akıncı beyinin lala olmasını ve lalaya şehzadenin kellesini alma görevinin verilmesini reddeder. Bayezid'in bu sahnede 6-7 yaşlarında gösterildiği de eleştirilir.",
+    "konu": "unvan-hitap",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Mehmed: Fetihler Sultanı",
+    "kisi": "Prof. Dr. Ahmet Şimşirgil",
+    "kaynak_url": "https://youtu.be/N29lqKljuT8?t=352",
+    "zaman": "05:52",
+    "kaynak_ozet": "Akıncı bey ne zaman lala oldu, eğitemedik diye canını al denir mi?"
+   },
+   {
+    "yanlis": "Saray içinde elleri kılıçlı askerlerin çocuğu yay kirişiyle boğması, anasına ve padişahın hanımlarına saldırıp onları sürüklemesi",
+    "dogru": "Osmanlı sarayında eli kılıçlı adamların kadınları kucaklayıp sürüklemesi ve böyle bir infaz sahnesinin yaşanması konuşmacıya göre mümkün değildir",
+    "aciklama": "Konuşmacı, saray adabına ve güvenliğine aykırı bu şiddet sahnelerini tarih dışı bir iftira olarak niteler. Fatih'in hanımının ve II. Murad'ın hanımının böyle muamele görmesini reddeder.",
+    "konu": "saray-devlet",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Mehmed: Fetihler Sultanı",
+    "kisi": "Prof. Dr. Ahmet Şimşirgil",
+    "kaynak_url": "https://youtu.be/N29lqKljuT8?t=416",
+    "zaman": "06:56",
+    "kaynak_ozet": "Sarayda eli kılıçlı adamlar kadınları kucaklayacak, yerde sürükleyecek mi?"
+   }
+  ]
+ }
+}

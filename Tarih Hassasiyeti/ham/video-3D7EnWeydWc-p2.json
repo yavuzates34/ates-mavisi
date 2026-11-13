@@ -1,0 +1,126 @@
+{
+ "model": "opencode/deepseek-v4.1-flash-free",
+ "ad": "video-3D7EnWeydWc-p2",
+ "tarih": "2026-11-13 15:08",
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "Osmanlı'nın gayrimüslim tebaasının köle statüsünde tutulup kırbaçlandığı, plantasyonlarda çalıştırıldığı tasviri",
+    "dogru": "Gayrimüslimler zımmî statüsündeydi; eşitsizlikler vardı ama kölelik ve plantasyon düzeni yoktu",
+    "aciklama": "Ceren Sungur, Batı'nın Hristiyan tebaayı koruma bahanesini eleştirirken bu tasvirin gerçeğe uymadığını söylüyor. Zımmîliğin kölelikle karıştırılmasını Atlantik köle ticareti benzetmesiyle açıkça reddediyor.",
+    "konu": "din-gundelik",
+    "donem": "18.yy",
+    "gecerli_1798": "evet",
+    "yapim": "belirtilmemiş",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/3D7EnWeydWc?t=392",
+    "zaman": "06:32",
+    "kaynak_ozet": "Zımmî tebaa köle değildi; Afrika'dan getirilip plantasyonda çalıştırılan kölelerle karıştırılıyor"
+   },
+   {
+    "yanlis": "Doğu Karadeniz'den gelen herkesin 'Laz' sayılması ve III. Selim'i indirenlerin Lazlar olarak anılması",
+    "dogru": "Lazlar ayrı bir halk ve ayrı bir dile sahip; isyancılar Boğaz kaleleri için getirilen yamaklardı",
+    "aciklama": "Konuşmacı, bugün Doğu Karadeniz'in bütün sakinlerine Laz denmesini yanlış buluyor ve Lazların kendi dili olan ayrı bir halk olduğunu söylüyor. İsyanı çıkaranlar ise Boğaz kalelerini tutmak için getirilmiş yamaklardı.",
+    "konu": "isim-ad",
+    "donem": "19.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "belirtilmemiş",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/3D7EnWeydWc?t=2343",
+    "zaman": "39:03",
+    "kaynak_ozet": "Karadeniz'de yaşayan herkese Laz deniyor ama Lazlar ayrı halk, dilleri var"
+   },
+   {
+    "yanlis": "Kabakçı Mustafa İsyanı'nın, yamaklara Nizam-ı Cedid elbisesi giydirilmek istenmesi yüzünden çıktığı anlatısı",
+    "dogru": "İsyanı saray içinden Köse Musa Paşa ile Şeyhülislam Topal Ataullah Mehmet Efendi tahrik etti; elbise bahane edildi",
+    "aciklama": "Resmî anlatı isyanı elbise meselesine bağlar, oysa konuşmacı Reşat Ekrem Koçu'da bile böyle bir gerekçe bulunmadığını söylüyor. İki isim 'Köse ve Topal İttifakı' olarak isyanı bizzat azdırmıştı.",
+    "konu": "ordu",
+    "donem": "19.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "belirtilmemiş",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/3D7EnWeydWc?t=2467",
+    "zaman": "41:07",
+    "kaynak_ozet": "Elbise anlatısı yanlış; yamakları Köse Musa Paşa ile Şeyhülislam Topal Ataullah tahrik etti"
+   },
+   {
+    "yanlis": "Sened-i İttifak'ın bir anayasa ya da padişahın çaresizliğinin resmî belgesi sayılması",
+    "dogru": "Sened-i İttifak anayasa değildir; padişahın gücünü senetle sınırlayan ilk adım olarak anılabilir",
+    "aciklama": "Konuşmacı belgenin anayasa olmadığını kesin bir dille söylüyor. Yine de padişahın yetkisinin bir senetle kısıtlanmasını hukuk devleti yolunda ilk kıvılcım sayıyor.",
+    "konu": "saray-devlet",
+    "donem": "19.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "belirtilmemiş",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/3D7EnWeydWc?t=4237",
+    "zaman": "70:37",
+    "kaynak_ozet": "Sened-i İttifak bir anayasa değil, kesinlikle; sadece ilk kıvılcım"
+   },
+   {
+    "yanlis": "Padişahın 18. yüzyılda fes, setre ve pantolonla tasvir edilmesi",
+    "dogru": "Bu kılık II. Mahmud'la başlar; ondan önce hiçbir padişah böyle giyinip poz vermemişti",
+    "aciklama": "Konuşmacı portredeki fes, setre, beyaz pantolon ve pelerini II. Mahmud'un kıyafet devriminin işareti sayıyor. Fesi de Osmanlı'ya II. Mahmud getirmişti.",
+    "konu": "giyim",
+    "donem": "19.yy",
+    "gecerli_1798": "evet",
+    "yapim": "belirtilmemiş",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/3D7EnWeydWc?t=4667",
+    "zaman": "77:47",
+    "kaynak_ozet": "Daha önce hiçbir Osmanlı sultanı bu kılıkta gezmemişti; fesi II. Mahmud getirdi"
+   },
+   {
+    "yanlis": "1824'te ilköğretimin tüm ülkede zorunlu hale getirildiği bilgisi",
+    "dogru": "Zorunluluk yalnız İstanbul için getirildi",
+    "aciklama": "Konuşmacı bunu KPSS kaynaklarındaki en büyük çeldiricilerden biri olarak anıyor. Tüm yurtta zorunluluk iddiası yanlış.",
+    "konu": "saray-devlet",
+    "donem": "19.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "belirtilmemiş",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/3D7EnWeydWc?t=4941",
+    "zaman": "82:21",
+    "kaynak_ozet": "Tüm yurtta değil, sadece İstanbul'da ilköğretim zorunlu hale getirilmiş"
+   },
+   {
+    "yanlis": "1829 kılık kıyafet düzenlemesinin fes, ceket ve pantolonu bütün halka zorunlu kıldığı sanılması",
+    "dogru": "Zorunluluk yalnız devlet memurlarına getirildi, halka değil",
+    "aciklama": "Konuşmacı bu ayrımı özellikle vurguluyor; düzenleme memurların statüsünü görünür kılmak için yapıldı. Halk için böyle bir zorunluluk yoktu.",
+    "konu": "giyim",
+    "donem": "19.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "belirtilmemiş",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/3D7EnWeydWc?t=5534",
+    "zaman": "92:14",
+    "kaynak_ozet": "1829'da memurlara fes, ceket ve pantolon zorunluluğu getirildi; halka değil"
+   },
+   {
+    "yanlis": "II. Mahmud'un kurduğu meclislerle halkın yönetime katıldığı ve demokratikleşme sağlandığı iddiası",
+    "dogru": "Meclislerin hepsi atanmıştı; halk seçmiyordu, demokratik katılım yoktu",
+    "aciklama": "Konuşmacı bu meclislerin hiçbirinin seçimle oluşmadığını söylüyor. Halkın yönetime katılımı ancak II. Abdülhamit döneminde, o da kısa süreliğine söz konusu olacaktı.",
+    "konu": "saray-devlet",
+    "donem": "19.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "belirtilmemiş",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/3D7EnWeydWc?t=7433",
+    "zaman": "123:53",
+    "kaynak_ozet": "Meclislerin hiçbirini halk seçmiyor; hepsi atanmış, halk yönetime katılmadı"
+   },
+   {
+    "yanlis": "'Türkler İstanbul'a pasaportsuz giremiyordu' denerek mürur tezkeresinin eski dönemlere ait bir uygulama sanılması",
+    "dogru": "Mürur tezkeresi II. Mahmud döneminde çıktı; 16-18. yüzyıllarda şehre giriş kefil ve mahalle bağıyla denetlenirdi",
+    "aciklama": "Konuşmacı bu iddiayı 'cahillik' diye niteliyor ve iç pasaportun 19. yüzyıl uygulaması olduğunu söylüyor. Başkente giriş her dönem sınırlıydı ama ölçüt Türk olmak değil, kefil ve geçim bağıydı.",
+    "konu": "sehir-mekan",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "belirtilmemiş",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/3D7EnWeydWc?t=7584",
+    "zaman": "126:24",
+    "kaynak_ozet": "Mürur tezkeresi II. Mahmut dönemi; Türkler İstanbul'a giremiyordu iddiası cahillik"
+   }
+  ]
+ }
+}

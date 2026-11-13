@@ -1,0 +1,48 @@
+{
+ "model": "opencode/iceman-free",
+ "ad": "video-SP1ywpYudTA",
+ "tarih": "2026-11-13 15:36",
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "Çandarlı Halil Paşa, Baltaoğlu Süleyman Paşa'yı fetih sırasında öldürttü.",
+    "dogru": "Fatih, deniz yenilgisi sonrası Baltaoğlu'nu azletti; idamdan vazgeçildi, Baltaoğlu kara ordusunda fetihte ve sonrasında görev aldı, çok sonra öldü.",
+    "aciklama": "Konuşmacıya göre Baltaoğlu fetihte öldürülmedi ve Çandarlı tarafından öldürülmedi. Ölüm zamanı bilinmemekle birlikte kuşatmadan sonra da savaşlara katıldı.",
+    "konu": "ordu",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Mehmed: Fetihler Sultanı",
+    "kisi": "Prof. Dr. Ahmet Şimşirgil",
+    "kaynak_url": "https://youtu.be/SP1ywpYudTA?t=96",
+    "zaman": "[01:36]",
+    "kaynak_ozet": "Fatih azletti, kara ordusunda bulundu, çok sonra öldü."
+   },
+   {
+    "yanlis": "Hızır Bey fetih sırasında İstanbul'da başkadı olarak sarayda fail arıyor.",
+    "dogru": "Hızır Bey İstanbul'un fethinden sonra tayin edildi; kadı fail aramaz, yakalananı muhakeme eder.",
+    "aciklama": "Konuşmacı, fetihten önce başkadı atanmadığını ve Hızır Bey'in kuşatma sırasında sarayda bu görevle bulunmadığını söyler. Kadının görevinin muhakeme olduğunu vurgular.",
+    "konu": "saray-devlet",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Mehmed: Fetihler Sultanı",
+    "kisi": "Prof. Dr. Ahmet Şimşirgil",
+    "kaynak_url": "https://youtu.be/SP1ywpYudTA?t=159",
+    "zaman": "[02:39]",
+    "kaynak_ozet": "Hızır Bey fetih sonrası geldi, kadı faili aramaz."
+   },
+   {
+    "yanlis": "Mara Hatun fetih döneminde İstanbul sarayında Fatih üzerinde etkili, valide sultan gibi yaşıyor.",
+    "dogru": "Mara Hatun, I. Murad'ın ölümünden sonra Sırbistan'a gitti; Fatih ile görüşüp ayrıldı, sarayda kalmadı ve Fatih'in annesi değildi.",
+    "aciklama": "Konuşmacı, Mara Hatun'un sarayda yerinin ve etkisinin olmadığını belirtir. Onu valide sultan sanmanın yanlış olduğunu söyler.",
+    "konu": "harem-kadin",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Mehmed: Fetihler Sultanı",
+    "kisi": "Prof. Dr. Ahmet Şimşirgil",
+    "kaynak_url": "https://youtu.be/SP1ywpYudTA?t=440",
+    "zaman": "[07:20]",
+    "kaynak_ozet": "Mara Hatun Sırbistan'a gitti, sarayda ne işi var."
+   }
+  ]
+ }
+}

@@ -7,7 +7,7 @@ import glob, json, os, sys
 from collections import Counter
 
 KOK = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DOGRULAYICILAR = {"A": "opencode/glm-5.3-flash-free", "B": "opencode/mimo-v2.6-flash-free"}
+DOGRULAYICILAR = {"A": "gemini/gemini-3.5-flash", "B": "gemini/gemini-3.1-flash-lite"}  # ikisi de gemini.py ile; OpenCode ücretsiz kotası 13 Kasım 15:40 itibarıyla tükendi
 
 ISTEM = (
     "Sen bir Osmanlı tarihi doğrulayıcısısın. Bir alternatif tarih romanı 1798-1800 İstanbul'unda (III. Selim dönemi) geçiyor. "
@@ -38,11 +38,10 @@ def isler():
             ad = f"dog{harf}-{p[0]['mid']}"
             out.append({"ad": ad, "model": model, "istem": ISTEM, "girdi": json.dumps(p, ensure_ascii=False, indent=1),
                         "cikti": f"ham-sayfalar/dogrulama/{ad}.json", "sure": 1500})
-    # A ve B işlerini iç içe sırala ki ikisi paralel ilerlesin
-    a = [x for x in out if x["ad"].startswith("dogA")]
-    b = [x for x in out if x["ad"].startswith("dogB")]
-    sirali = [x for pair in zip(a, b) for x in pair]
-    print(json.dumps(sirali, ensure_ascii=False, indent=1))
+    for harf in DOGRULAYICILAR:
+        json.dump([x for x in out if x["ad"].startswith("dog" + harf)],
+                  open(os.path.join(KOK, "ham-sayfalar", f"isler-dog{harf}.json"), "w", encoding="utf-8"), ensure_ascii=False)
+    print(len(out))
 
 
 def sonuc():
@@ -54,9 +53,16 @@ def sonuc():
         v = d["veri"]
         if isinstance(v, dict):
             v = next((x for x in v.values() if isinstance(x, list)), [])
+        norm = lambda u: (u or "").strip().lower().rstrip("/").replace("http://", "https://").replace("://www.", "://")
+        okunan = {norm(u["url"]) for u in d.get("okunan_adresler", []) if u.get("durum") == "SUCCESS"}
         for k in v:
             if isinstance(k, dict) and k.get("mid") in ms:
                 k["model"] = d["model"]
+                # kaynağı gerçekten okunmamış onay sayılmaz
+                if k.get("karar") == "onay" and norm(k.get("kaynak_url")) not in okunan:
+                    k["karar_ilk"] = "onay"
+                    k["karar"] = "belirsiz"
+                    k["not"] = ((k.get("not") or "") + " [Orkestratör: gösterilen kaynak bu oturumda okunmuş görünmüyor, onay belirsize indirildi.]").strip()
                 kararlar[harf][k["mid"]] = k
     sayac = Counter()
     for mid, m in ms.items():
