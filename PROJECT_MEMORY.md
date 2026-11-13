@@ -17,6 +17,8 @@ Yavuz Ateş alternatif tarih roman serisinin (1798 Osmanlı, zaman yolcusu mühe
 - 13 Kasım 2026 17:43: Tarih hassasiyeti araştırmasının ikinci dalgası için Yavuz onayı: önce Osmanlı kılavuzu (Tarih Orkestratörü II yürütüyor) bitip yöntem değerlendirilecek; iş görüyorsa Britanya ve Fransa aynı düzenle (tarihçi eleştirisi + kaynakla doğrulama, İngilizce kaynak ağırlıklı), Rusya/Avusturya/Prusya orta düzey, Asya/Afrika/Amerika yalnız kısa "bariz hata" listesi; ülke önceliği yeni senaryo netleşince. İkinci dalganın orkestratörü Codex'te gpt-6.1-sol, xhigh olacak (Yavuz). Başlangıç en erken 14 Kasım 11:00 sonrası (Gemini günlük kotaları). Gerekçe: Osmanlı kadar titizlik gerekmeyebilir ama "tamamen de boşveremeyiz".
 - 13 Kasım 2026 17:22: Doğrulamada TDV'de karşılığı olmayan (gündelik dil, hitap) maddeler elenmez, "belirsiz" diye ayrı tutulur (Yavuz onayı).
 
+- 13 Kasım 2026 19:09: Yavuz netleştirdi: ilk seri (Mühür, Ada, yarım Yıldırım) yayımlanmayacak deneme eserleridir. Asıl seri `master` üzerinde yazılacak. Sıra: önce tarih hassasiyeti kılavuzları biter; sonra ayrı bir oturumda Fable modeli orkestratör olarak çalışır, Opus alt ajanlarıyla üç ChatGPT oturumunu (zip) okutur, parçaları kuş bakışı birleştirir ve yeni asıl seri için Yavuz'la diyaloğa geçer. Kütüphaneci bu oturumu başlatmaz; zip'i açmaz.
+
 ## Current status
 
 - 1. Kitap Mühür (6 bölüm) ve 2. Kitap Ada (5 bölüm + ara sahne) tamam. 3. Kitap Yıldırım'da 4 bölüm ve 2 ara sahne (Kutu, Mühendis) var; defter planı artık 10 bölüm ve 4 ara sahne (Kutu, Mühendis, Mihaylovski, Korfu).
@@ -37,4 +39,4 @@ Yavuz Ateş alternatif tarih roman serisinin (1798 Osmanlı, zaman yolcusu mühe
 
 - Tarih Orkestratörü II'nin Osmanlı kılavuzu raporunu (`Tarih Hassasiyeti/Tarih Hassasiyet Kılavuzu.md`) doğrulayıp Yavuz'a aktarmak; sonra ikinci dalga (Britanya, Fransa) için Codex gpt-6.1-sol xhigh orkestratörüne brif yazmak.
 - Yavuz'un ChatGPT konuşma kayıtlarını (handoff) almak; oturumlar arası çelişkileri ayıklayıp sade liste sunmak; yeni senaryoyu `master`'da kurmak. Bölüm 5 askıda.
-- Öneri (Yavuz'a sunuldu, karar onda): 1. kitap Mühür'ü erken bir platformda (ElevenReader vb.) yayımlamak; öncesinde platformun yapay zekâ beyan kurallarını kontrol etmek.
+- (Geçersiz, 13 Kasım 19:09) Mühür'ü erken yayımlama önerisi düştü: ilk seri yayımlanmayacak bir deneme eseri.

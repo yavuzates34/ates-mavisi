@@ -65,3 +65,7 @@ Aynı saatte Yavuz, doğrulamada TDV'de karşılığı bulunmayan gündelik dil 
 ## 13 Kasım 2026 17:43 (fa42d7d9) — İkinci dalga onaylandı, orkestratörü Codex
 
 Yavuz kademeli ikinci dalga önerisine katıldı (önce Osmanlı kılavuzu ve yöntemin değerlendirilmesi; sonra Britanya ve Fransa; gerisi senaryo netleşince kısa listeler; başlangıç kotalar yüzünden 14 Kasım 11:00 sonrası). Tek şartı: ikinci dalganın orkestratörlüğünü Codex'teki gpt-6.1-sol modeli xhigh effort ile yapsın. Codex varsayılanı zaten bu model ve effort; Codex tam erişimle (sandbox kapalı, onay sormadan) çalıştığı için brifte korunan dosyalar açıkça yazılacak. Karar PROJECT_MEMORY'ye işlendi.
+
+## 13 Kasım 2026 19:09 (fa42d7d9) — Düzeltme: ilk seri deneme eseri, asıl seri master'da
+
+Kütüphaneci "kotarabilecek miyiz" sorusuna eldeki iki buçuk kitabı esas alarak cevap verip Mühür'ün erken yayımlanmasını önerdi. Yavuz düzeltti: "sen asıl olayı kaçırmışsın"; bu üç kitap yayımlanmayacak deneme eserleri. Asıl kitap master üzerinde devam edecek. Sıra: önce kılavuzlar biter; sonra bir alt oturumda Fable çalıştırılır, ChatGPT oturumlarını okutur; Fable orkestratör olarak Opus ajanlarıyla bütün parçaları kuş bakışı görüp birleştirir ve yeni asıl seri için Yavuz'la diyaloğa geçer. Kütüphaneci'nin bu konudaki eski "Mühür'ü yayımla" önerisi düştü.
