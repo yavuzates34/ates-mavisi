@@ -1,0 +1,74 @@
+{
+ "model": "gemini/gemini-3.5-flash",
+ "ad": "video-iuX90WxwyPc-p1",
+ "tarih": "2026-11-13 15:51",
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "Şehzadelerin tahta geçmeden önce serbestçe çocuk sahibi olabildiği sanılması",
+    "dogru": "Şehzadelerin tahta geçmeden önce çocuk sahibi olmaları kanunen yasaktı.",
+    "aciklama": "Şehzadeyken cariye hamile kalırsa kanun gereği çocuk düşürtülürdü. Nadir istisnalar dışında tahta geçmeden çocuk sahibi olunması kesinlikle yasaktı.",
+    "konu": "saray-devlet",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Genel",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://youtu.be/iuX90WxwyPc?t=154",
+    "zaman": "02:34",
+    "kaynak_ozet": "Şehzadelerin tahta geçmeden önce çocuk sahibi olmaları yasaktır."
+   },
+   {
+    "yanlis": "Saraydaki tüm cariyelerin padişahın eşi olduğu ve onunla ilişki yaşadığı algısı",
+    "dogru": "Saraydaki cariyelerin büyük çoğunluğu hizmetçi, çamaşırcı gibi gündelik saray işlerini gören görevlilerdir.",
+    "aciklama": "Saraydaki cariyelerin büyük çoğunluğu temizlik, çamaşır ve hizmet işleriyle görevli kişilerden oluşur. Dolayısıyla saraydaki her cariyenin padişahın eşi olduğu algısı yanlıştır.",
+    "konu": "harem-kadin",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Genel",
+    "kisi": "Erhan Afyoncu",
+    "kaynak_url": "https://youtu.be/iuX90WxwyPc?t=465",
+    "zaman": "07:45",
+    "kaynak_ozet": "Sarayda üç yüz cariye varsa hepsi padişahın koynuna giriyor demek değildir."
+   },
+   {
+    "yanlis": "Osmanlı sarayında padişah veya şehzadelerin hiç nikah kıymadığı zannı",
+    "dogru": "Hürrem Sultan'dan itibaren ve özellikle son dönemlerde padişahlar ve şehzadeler nikah kıymıştır.",
+    "aciklama": "Klasik dönemde bazı cariyelerle nikah yapılmamış olsa da Hürrem Sultan'dan itibaren ve özellikle 19. yüzyılda padişahlar ve şehzadeler eşleriyle resmi nikah kıymıştır. Sarayda hiç nikah kıyılmazdı düşüncesi gerçeği yansıtmaz.",
+    "konu": "harem-kadin",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Genel",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://youtu.be/iuX90WxwyPc?t=683",
+    "zaman": "11:23",
+    "kaynak_ozet": "Sarayda nikah yoktu iddiası yanlıştır, son dönemde hepsi nikahlıdır."
+   },
+   {
+    "yanlis": "İlk Osmanlı hükümdarlarının en baştan itibaren Sultan veya Padişah unvanı kullandığının sanılması",
+    "dogru": "İlk hükümdarlar Bey ve Gazi unvanlarını kullanmış, Sultan ve Padişah unvanı Yıldırım Beyazıt'tan itibaren yerleşmiştir.",
+    "aciklama": "Osman Gazi ve Orhan Gazi dönemlerinde Bey ve Gazi unvanları kullanılmıştır. Sultan ve Padişah unvanları ise Yıldırım Beyazıt döneminden itibaren yaygınlaşmıştır.",
+    "konu": "unvan-hitap",
+    "donem": "14.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Genel",
+    "kisi": "Erhan Afyoncu",
+    "kaynak_url": "https://youtu.be/iuX90WxwyPc?t=1859",
+    "zaman": "30:59",
+    "kaynak_ozet": "İlk hükümdarlar Bey ve Gazi, Yıldırım Beyazıt'tan itibaren Sultan ve Padişah unvanıyla anılır."
+   },
+   {
+    "yanlis": "İlk kardeş katlini gerçekleştiren padişahın Yıldırım Beyazıt sanılması",
+    "dogru": "İlk kardeş katlini yapan padişah I. Murat'tır.",
+    "aciklama": "Yaygın kanının aksine aile içinde ilk kardeş katlini gerçekleştiren padişah Yıldırım Beyazıt değil, I. Murat'tır. I. Murat, kendisine karşı isyan eden kardeşleri İbrahim ve Halil'i öldürtmüştür.",
+    "konu": "saray-devlet",
+    "donem": "14.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Genel",
+    "kisi": "Erhan Afyoncu",
+    "kaynak_url": "https://youtu.be/iuX90WxwyPc?t=1890",
+    "zaman": "31:30",
+    "kaynak_ozet": "İlk kardeş katlini yapan padişah Yıldırım Beyazıt zannedilir ama o değildir, Birinci Murat'tır."
+   }
+  ]
+ }
+}

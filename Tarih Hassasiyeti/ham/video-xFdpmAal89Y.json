@@ -1,0 +1,75 @@
+{
+ "model": "gemini/gemini-3-flash-preview",
+ "ad": "video-xFdpmAal89Y",
+ "tarih": "2026-11-13 16:32",
+ "okunan_adresler": [],
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "Cariyelerin 5-6 dil bildiği ve diplomatik eğitim aldığı iddiası.",
+    "dogru": "Cariyeler esir pazarlarından alınan kölelerdir; diplomat veya akademisyen olarak yetiştirilmezler.",
+    "aciklama": "Cariyeler fiziksel özelliklerine göre seçilirler ve Almanca, Latince gibi dilleri öğrenmeleri için bir sebep yoktur. Onlar sarayda veya evlerde hizmet eden kul/köle sınıfına mensuptur.",
+    "konu": "harem-kadin",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Genel Osmanlı dizileri",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/xFdpmAal89Y?t=154",
+    "zaman": "02:34",
+    "kaynak_ozet": "Cariyeler 5-6 dil bilen diplomatlar değil, esir pazarından alınan kölelerdir."
+   },
+   {
+    "yanlis": "Modernleşme ve devrimlerin sadece Cumhuriyet ile aniden başladığı algısı.",
+    "dogru": "Osmanlı'da modernleşme hareketleri yaklaşık 350 yıl geriye, III. Selim gibi padişahlara kadar uzanır.",
+    "aciklama": "Modernleşme gökten inmemiş, uzun yıllar süren bir niyet ve çabanın sonucunda Cumhuriyet ile hayata geçmiştir. III. Selim ordudan başlayarak bu süreci yönetmek istemiştir.",
+    "konu": "diplomasi-donem",
+    "donem": "18.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Genel tarihi anlatılar",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/xFdpmAal89Y?t=215",
+    "zaman": "03:35",
+    "kaynak_ozet": "Modernleşme gökten inmedi, 350 yıllık bir geçmişi ve padişahların niyetleri vardır."
+   },
+   {
+    "yanlis": "Yeniçerilerin her zaman devlete sadık askeri bir güç olarak gösterilmesi.",
+    "dogru": "Yeniçeriler 'Ali kıran baş kesen' haline gelmiş, padişahları öldüren ve tahtı sarsan bir problemdir.",
+    "aciklama": "Genç Osman ve III. Selim gibi padişahlar orduyu değiştirmek istedikleri için yeniçeriler tarafından öldürülmüştür. Bu dönemde ordu, devletin önündeki en büyük engeldir.",
+    "konu": "ordu",
+    "donem": "18.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Genel tarihi yapımlar",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/xFdpmAal89Y?t=245",
+    "zaman": "04:05",
+    "kaynak_ozet": "Yeniçeriler Ali kıran baş kesen olmuş, padişahları öldürecek güce ulaşmışlardı."
+   },
+   {
+    "yanlis": "Osmanlı'nın Taliban veya IŞİD benzeri katı bir şeriat rejimi olduğu düşüncesi.",
+    "dogru": "Osmanlı'da din daima devletin emrindedir ve padişahın iradesi dini kararların üstündedir.",
+    "aciklama": "Osmanlı'daki şeriat uygulaması modern radikal örgütlerle kıyaslanamaz. Kadın hakları ve siyasi kararlar bağlamında devlet otoritesi dinden daha belirleyicidir.",
+    "konu": "din-gundelik",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Genel tarihi algı",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/xFdpmAal89Y?t=398",
+    "zaman": "06:38",
+    "kaynak_ozet": "Osmanlı Taliban gibi değildir, din daima devletin ve padişahın emrindedir."
+   },
+   {
+    "yanlis": "Osmanlı toplumunda okuryazarlık az olduğu için kitap kültürünün olmadığı sanrısı.",
+    "dogru": "Okuryazar kesim, kitap bulamayacak kadar yoğun bir okuma, satın alma ve kiralama eğilimindedir.",
+    "aciklama": "15-17. yüzyıllarda kitap arzı talebi karşılayamamıştır. İnsanlar kitapları yazdırmış, satın almış ve kiralayarak okumuşlardır.",
+    "konu": "yazi-belge",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Genel tarihi anlatılar",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/xFdpmAal89Y?t=551",
+    "zaman": "09:11",
+    "kaynak_ozet": "Osmanlı'da okuryazarlar kitap bulamayacak kadar çok okumaya meraklıydı."
+   }
+  ]
+ }
+}

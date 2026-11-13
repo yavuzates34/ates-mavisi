@@ -1,0 +1,35 @@
+{
+ "model": "gemini/gemini-3.5-flash",
+ "ad": "video-tU3evg9HDc0",
+ "tarih": "2026-11-13 16:05",
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "Osman Bey'in annesinin Osman Bey doğduktan hemen sonra öldüğünün gösterilmesi",
+    "dogru": "Osman Bey annesini kaybettiğinde 23 yaşındaydı.",
+    "aciklama": "Dizide Osman Bey'in annesi doğumdan hemen sonra ölmüş gibi kurgulanmıştır. Oysa tarihsel olarak Osman Bey annesini kaybettiğinde 23 yaşındaydı.",
+    "konu": "harem-kadin",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Diriliş Ertuğrul / Kuruluş Osman",
+    "kisi": "10 Dakikada Tarih",
+    "kaynak_url": "https://youtu.be/tU3evg9HDc0?t=31",
+    "zaman": "00:31",
+    "kaynak_ozet": "Osman Bey annesini kaybettiğinde 23 yaşındaydı ancak dizide doğumda öldüğü gösteriliyor."
+   },
+   {
+    "yanlis": "II. Abdülhamid tahta çıktığında Tahsin Paşa'nın onun yanında vezir olarak bulunması",
+    "dogru": "II. Abdülhamid tahta çıktığında Tahsin Paşa henüz vezir değildi.",
+    "aciklama": "Dizide II. Abdülhamid tahta çıktığında Tahsin Paşa yanında vezir olarak gösterilmektedir. Ancak II. Abdülhamid tahta çıktığı sırada Tahsin Paşa henüz vezirlik makamında değildi.",
+    "konu": "saray-devlet",
+    "donem": "19.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "10 Dakikada Tarih",
+    "kaynak_url": "https://youtu.be/tU3evg9HDc0?t=64",
+    "zaman": "01:04",
+    "kaynak_ozet": "II. Abdülhamid tahta çıktığında Tahsin Paşa henüz vezir değildi."
+   }
+  ]
+ }
+}

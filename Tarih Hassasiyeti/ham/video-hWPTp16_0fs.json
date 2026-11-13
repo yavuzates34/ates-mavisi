@@ -1,0 +1,61 @@
+{
+ "model": "gemini/gemini-3.5-flash",
+ "ad": "video-hWPTp16_0fs",
+ "tarih": "2026-11-13 15:50",
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "16. yüzyıl başındaki Barbaroslar döneminde kalyon tipi gemilerin kullanılması",
+    "dogru": "O dönemde kalyon yerine kadırga, kalyeta ve çektiri gibi kürekli gemiler kullanılıyordu; kalyonlara 17. yüzyıl sonlarında geçildi.",
+    "aciklama": "Konuşmacı, dizide 1600'lerin sonunda yaygınlaşan kalyon tipi gemilerin Barbaroslar döneminde gösterilmesini eleştirmektedir. O dönem Akdeniz denizciliğinde esas olan kadırga, kalyeta ve çektiri gibi kürekli gemilerdir.",
+    "konu": "ordu",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı",
+    "kisi": "Gold Tarih Sunucusu",
+    "kaynak_url": "https://youtu.be/hWPTp16_0fs?t=397",
+    "zaman": "06:37",
+    "kaynak_ozet": "Gemiler uygun değil, kalyona 1600'lerin sonunda geçildi, o dönem kadırga ve kalyeta vardı."
+   },
+   {
+    "yanlis": "Türk korsanların pürüzsüz ve beyaz tenli, Avrupalıların ise aşırı pis ve canavar gibi resmedilmesi",
+    "dogru": "Denizde güneş altında çalışan Türk korsanları da yıpranmıştır; Avrupalılar da bu derece pis veya canavarlaştırılmış değildir.",
+    "aciklama": "Konuşmacı, dizide Osmanlı korsanlarının güneş ve zorlu koşullardan etkilenmemiş gibi çok temiz gösterilmesini eleştirmektedir. Ayrıca Avrupalı karakterlerin aşırı pis ve canavarlaştırılmış tasvirini de abartılı bulmaktadır.",
+    "konu": "giyim",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı",
+    "kisi": "Gold Tarih Sunucusu",
+    "kaynak_url": "https://youtu.be/hWPTp16_0fs?t=655",
+    "zaman": "10:55",
+    "kaynak_ozet": "Korsanlarımız güneş altında durmamış gibi çok temiz yüzlü, Avrupalılar ise aşırı pis gösterilmiş."
+   },
+   {
+    "yanlis": "Dönemin Osmanlı Akdeniz gemilerinin altında katlar ve geniş yaşam alanları varmış gibi gösterilmesi",
+    "dogru": "16. yüzyıl Osmanlı Akdeniz gemileri teknenin büyüğü gibidir, altlarında insanların kaldığı katlı güverteler yoktur.",
+    "aciklama": "Konuşmacı, dizideki gemilerin büyük okyanus gemileri gibi katlı yapıda gösterilmesini eleştirmektedir. Gerçekte dönemin Osmanlı Akdeniz gemileri katlı alt yaşam alanlarına sahip değildir.",
+    "konu": "teknoloji-esya",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı",
+    "kisi": "Gold Tarih Sunucusu",
+    "kaynak_url": "https://youtu.be/hWPTp16_0fs?t=766",
+    "zaman": "12:46",
+    "kaynak_ozet": "Bizim gemiler teknenin büyüğüdür, altında insanların durduğu katlar falan yoktur."
+   },
+   {
+    "yanlis": "Dizide Kılıç Reis gibi tarihi kaynaklarda yer almayan uydurma karakterlerin bulunması",
+    "dogru": "Tarihi kaynaklarda varlığı bilinmeyen bu isimler, diziye kurgusal öğe olarak eklenmiştir.",
+    "aciklama": "Konuşmacı, dizide adı geçen Kılıç Reis gibi bazı karakterlerin gerçek tarihte karşılığının bulunmadığını belirtmektedir. Bu kişilerin tarihsel bir belgeye dayanmayıp kurgu olarak senaryoya eklendiğini vurgulamaktadır.",
+    "konu": "isim-ad",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Barbaroslar: Akdeniz'in Kılıcı",
+    "kisi": "Gold Tarih Sunucusu",
+    "kaynak_url": "https://youtu.be/hWPTp16_0fs?t=1030",
+    "zaman": "17:10",
+    "kaynak_ozet": "Dizide Kılıç Reis gibi tarihte varlığı bilinmeyen uydurma karakterler kullanılmıştır."
+   }
+  ]
+ }
+}

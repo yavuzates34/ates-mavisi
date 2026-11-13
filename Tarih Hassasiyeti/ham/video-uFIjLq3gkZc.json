@@ -1,0 +1,114 @@
+{
+ "model": "gemini/gemini-3-flash-preview",
+ "ad": "video-uFIjLq3gkZc",
+ "tarih": "2026-11-13 16:31",
+ "okunan_adresler": [],
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "Görklü Han isimli bir Moğol emirinin Anadolu'ya gelip Bizans prensesiyle evlenmeye çalışması",
+    "dogru": "Tarihte Görklü Han adında bir Moğol emiri yoktur, karakter tamamen kurgudur.",
+    "aciklama": "Tarihi kaynaklarda Anadolu'ya gelen bu isimde bir Moğol emirine dair hiçbir bilgi bulunmamaktadır.",
+    "konu": "isim-ad",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Kuruluş Osman",
+    "kisi": "Tolga Doğan",
+    "kaynak_url": "https://youtu.be/uFIjLq3gkZc?t=0",
+    "zaman": "00:00",
+    "kaynak_ozet": "Tarihte Görklü Han isminde bir Moğol emirinin Anadolu'ya geldiği bilgisi yoktur."
+   },
+   {
+    "yanlis": "Bizans prensesi Maria'nın bir Moğol emiriyle evlendirilmesi ve kervanının basılarak kaçırılması",
+    "dogru": "Prenses Maria, bir emirle değil bizzat İlhanlı hükümdarı Olcaytu Han ile evlenmiştir.",
+    "aciklama": "Maria başlangıçta Gazan Han için yola çıkmış, o ölünce kardeşi Olcaytu Han ile evlendirilmiştir; kaçırılma olayı kurgudur.",
+    "konu": "diplomasi-donem",
+    "donem": "14.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Kuruluş Osman",
+    "kisi": "Tolga Doğan",
+    "kaynak_url": "https://youtu.be/uFIjLq3gkZc?t=62",
+    "zaman": "01:02",
+    "kaynak_ozet": "Prenses Maria, bir emirle değil bizzat İlhanlı hükümdarı Olcaytu Han ile evlenmiştir."
+   },
+   {
+    "yanlis": "Germiyanoğlu Yakup Bey'in 'Sultan' unvanını kullanması",
+    "dogru": "Yakup Bey'in Sultan unvanı kullandığına dair hiçbir tarihi belge veya vakfiye yoktur.",
+    "aciklama": "Dönemin hükümdarlarından sadece Candaroğlu Süleyman Bey'in bu unvanı kullandığı bilinmektedir.",
+    "konu": "unvan-hitap",
+    "donem": "14.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Kuruluş Osman",
+    "kisi": "Tolga Doğan",
+    "kaynak_url": "https://youtu.be/uFIjLq3gkZc?t=154",
+    "zaman": "02:34",
+    "kaynak_ozet": "Germiyanoğlu Yakup Bey'in Sultan unvanı kullandığına dair hiçbir tarihi kayıt bulunmamaktadır."
+   },
+   {
+    "yanlis": "Osmanlı Devleti'nin Germiyanoğulları'na biat etmesi veya bağlı olması",
+    "dogru": "Osmanlı hiçbir zaman Germiyanoğulları'na bağlı olmamıştır.",
+    "aciklama": "Osmanlı hiyerarşik olarak Çobanoğulları, Selçuklu ve nihayetinde İlhanlılara bağlıydı; Germiyan ile bir bağlılık ilişkisi yoktu.",
+    "konu": "saray-devlet",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Kuruluş Osman",
+    "kisi": "Tolga Doğan",
+    "kaynak_url": "https://youtu.be/uFIjLq3gkZc?t=184",
+    "zaman": "03:04",
+    "kaynak_ozet": "Osmanlı hiçbir zaman Germiyanoğulları'na bağlı olmamış, Selçuklu ve İlhanlı hiyerarşisini takip etmiştir."
+   },
+   {
+    "yanlis": "Lefke Kalesi'nin Yakup Bey tarafından fethedilip Osman Bey'e hediye edilmesi",
+    "dogru": "Lefke, Kite ve Kestel kalelerini bizzat Osman Bey fethetmiştir.",
+    "aciklama": "Dizideki hediye edilme senaryosu tarihi gerçeklerle uyuşmamaktadır; fetihler Osman Bey'in kendi başarısıdır.",
+    "konu": "sehir-mekan",
+    "donem": "14.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Kuruluş Osman",
+    "kisi": "Tolga Doğan",
+    "kaynak_url": "https://youtu.be/uFIjLq3gkZc?t=214",
+    "zaman": "03:34",
+    "kaynak_ozet": "Lefke, Kite ve Kestel kaleleri Yakup Bey değil, bizzat Osman Bey tarafından fethedilmiştir."
+   },
+   {
+    "yanlis": "Osman Bey'in İlhanlı valisi Geyhatu'yu mağlup edip esir alması",
+    "dogru": "Osman Bey ile Geyhatu tarihte hiç karşı karşıya gelmemiştir.",
+    "aciklama": "O dönemde Anadolu'da İlhanlı valisini yenebilecek veya esir edebilecek bir askeri güç henüz mevcut değildi.",
+    "konu": "ordu",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Kuruluş Osman",
+    "kisi": "Tolga Doğan",
+    "kaynak_url": "https://youtu.be/uFIjLq3gkZc?t=245",
+    "zaman": "04:05",
+    "kaynak_ozet": "Osman Bey'in Geyhatu'yu esir aldığı bilgisi yanlıştır; o dönemde böyle bir güç yoktur."
+   },
+   {
+    "yanlis": "Osman Bey'in Moğollarla savaşması",
+    "dogru": "Osman Bey döneminde Moğollarla savaşılmamış, onlara vergi ödenmiştir.",
+    "aciklama": "Osmanlı, Orhan Gazi dönemine kadar İlhanlılara bağlı kalmış ve vergi ödemeye devam etmiştir; mücadele sadece Bizans'aydı.",
+    "konu": "diplomasi-donem",
+    "donem": "14.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Kuruluş Osman",
+    "kisi": "Tolga Doğan",
+    "kaynak_url": "https://youtu.be/uFIjLq3gkZc?t=275",
+    "zaman": "04:35",
+    "kaynak_ozet": "Osman Bey Moğollarla hiç savaşmamış, Orhan Gazi dönemine kadar onlara vergi ödenmiştir."
+   },
+   {
+    "yanlis": "Osman Bey'in Alişar Bey'i veya Baycu Noyan'ın oğlunu öldürmesi",
+    "dogru": "Tarihi kaynaklarda bu kişilerin Osman Bey tarafından öldürüldüğüne dair bilgi yoktur.",
+    "aciklama": "Bu ölümler dizinin kurgusal unsurlarıdır ve dönemin kısıtlı kaynaklarında yer almamaktadır.",
+    "konu": "isim-ad",
+    "donem": "14.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Kuruluş Osman",
+    "kisi": "Tolga Doğan",
+    "kaynak_url": "https://youtu.be/uFIjLq3gkZc?t=306",
+    "zaman": "05:06",
+    "kaynak_ozet": "Osman Bey'in Alişar Bey'i veya Baycu Noyan'ın oğlunu öldürdüğü bilgisi kaynaklarda yoktur."
+   }
+  ]
+ }
+}

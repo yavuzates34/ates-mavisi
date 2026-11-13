@@ -1,0 +1,153 @@
+{
+ "model": "gemini/gemini-3-flash-preview",
+ "ad": "video-wO8tY75eCfs-p3",
+ "tarih": "2026-11-13 16:32",
+ "okunan_adresler": [],
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "Gayrimüslimlerin Müslümanlar gibi beyaz veya sarı renkli kıyafetler ve sarıklar kullanması.",
+    "dogru": "Yahudi ve Hristiyanların Müslüman renklerini (beyaz, sarı) kullanması yasaktı; genelde siyah giymeleri zorunluydu.",
+    "aciklama": "Dönem dönem Müslüman kıyafetlerine özenen gayrimüslimlere fetvalarla müdahale edilerek kıyafet sınırlaması getirilirdi.",
+    "konu": "giyim",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "belirtilmemiş",
+    "kisi": "Mustafa B. Bozkurt",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=4429",
+    "zaman": "73:49",
+    "kaynak_ozet": "Yahudiler ve Hristiyanlar Müslümanlar gibi beyaz veya sarı giyemez, siyah giymek zorundadırlar."
+   },
+   {
+    "yanlis": "Herkesin sarı çizme giyebilmesi.",
+    "dogru": "Sarı sahtiyandan çizme giymek Müslümanlara has bir ayrıcalıktı.",
+    "aciklama": "Sarı çizmeli Mehmet Ağa deyimi, her Müslümanın sarı çizme giymesinden ve adının Mehmet olmasından gelir.",
+    "konu": "giyim",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "belirtilmemiş",
+    "kisi": "Mustafa B. Bozkurt",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=4490",
+    "zaman": "74:50",
+    "kaynak_ozet": "Sarı sahtiyandan çizme giymek Müslümanların ayrıcalığıdır, minyatürlerde de bu görülür."
+   },
+   {
+    "yanlis": "Osmanlı kuruluş döneminde sadece kötü deri zırhlar kullanılması.",
+    "dogru": "Kuruluş devrinde zincir zırh ve 'geçim' denilen lamel zırhlar kullanılırdı.",
+    "aciklama": "Dizilerde sadece deri zırh gösterilmesi yanlıştır; minyatürlerde örme zincir zırh örnekleri mevcuttur.",
+    "konu": "ordu",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "Mustafa B. Bozkurt",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=4613",
+    "zaman": "76:53",
+    "kaynak_ozet": "Dizilerde sadece kötü deri zırhlar kullanılıyor, oysa minyatürlerde zincir zırhlar görülüyor."
+   },
+   {
+    "yanlis": "Erkeklerin başı açık şekilde dolaşması.",
+    "dogru": "Osmanlı'da erkekler uyurken bile uyku takkesi takar, asla başı açık gezmezlerdi.",
+    "aciklama": "Padişahın bile başı açık görülmesi ayıp sayılırdı; başı açıklık Osmanlı son dönemine kadar hoş karşılanmazdı.",
+    "konu": "giyim",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "Mustafa B. Bozkurt",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=5509",
+    "zaman": "91:49",
+    "kaynak_ozet": "Kimsenin başı açık değildir; adamlar uyurken bile başlarına uyku takkesi takarlar."
+   },
+   {
+    "yanlis": "Erkek karakterlerin sürekli siyah ve koyu renkli kıyafetler giymesi.",
+    "dogru": "Osmanlı erkek kıyafetleri kırmızı, sarı, yeşil gibi çok canlı ve parlak renklerden oluşurdu.",
+    "aciklama": "Dizilerde modern 21. yüzyıl algısıyla erkeklere koyu, kadınlara renkli kıyafet giydirilmektedir.",
+    "konu": "giyim",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "Mustafa B. Bozkurt",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=5570",
+    "zaman": "92:50",
+    "kaynak_ozet": "Bugünün bakışıyla erkeklere koyu renk giydiriliyor, oysa tarihsel olarak kıyafetler cıvıl cıvıl renklidir."
+   },
+   {
+    "yanlis": "Dizilerde karakterlerin bozuk, zorlama bir Türkçe ile konuşması.",
+    "dogru": "Tarihi karakterlerin düzgün bir İstanbul Türkçesi ile konuşması gerekir.",
+    "aciklama": "Dizilerde sonradan uydurulmuş, ağza kramp girmiş gibi duran yapay bir konuşma tarzı benimsenmiştir.",
+    "konu": "gundelik-dil",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Diriliş Ertuğrul / Kuruluş Osman",
+    "kisi": "Mustafa B. Bozkurt",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=6121",
+    "zaman": "102:01",
+    "kaynak_ozet": "İstanbul Türkçesi ortadan kalkıyor, ağza kramp girmiş gibi bozuk bir Türkçe konuşuluyor."
+   },
+   {
+    "yanlis": "Okların sırtta taşınması ve Legolas tarzı saç örgüleri.",
+    "dogru": "Türklerde oklar sırtta değil, beldeki sadak (tirkeş) içinde taşınır.",
+    "aciklama": "Sırtta ok taşıma ve saç modelleri Hollywood (Yüzüklerin Efendisi) etkisidir, Türk kültürüyle alakası yoktur.",
+    "konu": "ordu",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Kuruluş Osman",
+    "kisi": "Mustafa B. Bozkurt",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=6304",
+    "zaman": "105:04",
+    "kaynak_ozet": "Okların sırtta durmasının Türklerle alakası yok; saç örgüsüne kadar Legolas'tan araklanmış."
+   },
+   {
+    "yanlis": "Savaşçıların çift kılıç kullanarak savaşması.",
+    "dogru": "Çift kılıç kullanımı tarihsel bir gerçeklik değil, fantastik bir kurgu öğesidir.",
+    "aciklama": "Dizilerde karakteri daha güçlü göstermek için kullanılan çift kılıç tekniği Osmanlı askeri geleneğinde yoktur.",
+    "konu": "ordu",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Alparslan: Büyük Selçuklu / Mehmed: Fetihler Sultanı",
+    "kisi": "Mustafa B. Bozkurt",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=6429",
+    "zaman": "107:09",
+    "kaynak_ozet": "Dizilerde bir çift kılıç modası var; bu tamamen fantastik bir yaklaşımdır."
+   },
+   {
+    "yanlis": "Sıcak iklimlerde (Kudüs, Suriye) karakterlerin kürk giymesi.",
+    "dogru": "Çöl ikliminde siyah kıyafet ve ağır kürkler giyilmesi coğrafi gerçekliğe aykırıdır.",
+    "aciklama": "Sıcak bölgelerde geçen sahnelerde bile estetik kaygıyla ağır kürklerin kullanılması mantıksızdır.",
+    "konu": "giyim",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Selahaddin Eyyubi",
+    "kisi": "Mustafa B. Bozkurt",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=6489",
+    "zaman": "108:09",
+    "kaynak_ozet": "Kudüs ve Suriye gibi sıcak yerlerde insanlara neden kürk giydirildiğini anlamak mümkün değil."
+   },
+   {
+    "yanlis": "Sarıkların perde veya koltuk kumaşı gibi kaba malzemelerden yapılması.",
+    "dogru": "Sarık (destar) sarmak bir sanattır ve ince, kaliteli kumaşlar kullanılır.",
+    "aciklama": "Dizilerde kullanılan kaba kumaşlar ve devasa sarıklar, karakterin günlük hayatını ve ibadetini imkansız kılacak boyuttadır.",
+    "konu": "giyim",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "belirtilmemiş",
+    "kisi": "Mustafa B. Bozkurt",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=6612",
+    "zaman": "110:12",
+    "kaynak_ozet": "Sarık sarmak bir sanattır; dizilerde perde malzemesiyle yapılan kaba yapılar kullanılıyor."
+   },
+   {
+    "yanlis": "Kürkün sadece omuzlarda dekoratif bir parça olarak kullanılması.",
+    "dogru": "Osmanlılarda kürk (hilat), kıyafetin içine astar olarak dikilirdi.",
+    "aciklama": "Kürkün sadece dışarıdan omuzlara takılması yanlıştır; orijinalinde kürk içtedir, sadece yaka kenarlarından görünür.",
+    "konu": "giyim",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "belirtilmemiş",
+    "kisi": "Mustafa B. Bozkurt",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=6674",
+    "zaman": "111:14",
+    "kaynak_ozet": "Osmanlılar kürkü içe giyerler; sadece yaka kenarlarında kürk görünür."
+   }
+  ]
+ }
+}

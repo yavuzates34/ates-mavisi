@@ -1,0 +1,114 @@
+{
+ "model": "gemini/gemini-3-flash-preview",
+ "ad": "video-iuX90WxwyPc-p2",
+ "tarih": "2026-11-13 16:30",
+ "okunan_adresler": [],
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "Hanedan üyelerinin idam edilirken kılıçla öldürülmesi veya kanının akıtılması.",
+    "dogru": "İpek mendil veya yay kirişiyle boğularak öldürülmesi.",
+    "aciklama": "Eski Türk ve Moğol töresine göre hanedan kanı kutsal sayıldığı için idamlar kan akıtılmadan, boğma yöntemiyle gerçekleştirilirdi.",
+    "konu": "saray-devlet",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Genel / Osmanlı konulu yapımlar",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://youtu.be/iuX90WxwyPc?t=3214",
+    "zaman": "53:34",
+    "kayrada_ozet": "Hanedan mensupları kanı kutsal sayıldığı için ipek mendil veya yay kirişiyle boğulurdu."
+   },
+   {
+    "yanlis": "Osmanlı tarihi boyunca tüm şehzadelerin sancağa gönderildiğinin varsayılması.",
+    "dogru": "16. yüzyıl sonundan itibaren şehzadelerin sarayda (Kafes sistemi) tutulması.",
+    "aciklama": "Kanuni Sultan Süleyman'dan sonra sadece en büyük şehzade sancağa gönderilmiş, 17. yüzyıldan itibaren ise şehzadeler tamamen sarayda gözetim altında tutulmuştur.",
+    "konu": "saray-devlet",
+    "donem": "17.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Genel / Osmanlı konulu yapımlar",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://youtu.be/iuX90WxwyPc?t=3184",
+    "zaman": "53:04",
+    "kaynak_ozet": "Kanuni'den sonra şehzadeler sancağa gönderilmeyip sarayda tutulmaya başlanmıştır."
+   },
+   {
+    "yanlis": "Şehzadelerin tahta çıkmadan önce çocuk sahibi olmasının her dönem yasak olduğunun gösterilmesi.",
+    "dogru": "1. Ahmed'e (1603) kadar olan ilk 13 padişahın tahta çıktığında erkek evladı vardı.",
+    "aciklama": "Erken dönemde şehzadelerin çocuk sahibi olması yasak değildi; bu durum hanedanın devamlılığı için bir güvence olarak görülüyordu.",
+    "konu": "harem-kadin",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Genel / Osmanlı konulu yapımlar",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://youtu.be/iuX90WxwyPc?t=3465",
+    "zaman": "57:45",
+    "kaynak_ozet": "İlk 13 padişahın tahta çıktığında erkek evladı vardı, çocuk yasağı yoktu."
+   },
+   {
+    "yanlis": "Osmanlı'da nikahın sadece dini/gizli bir tören olduğunun ve belgesiz yapıldığının sanılması.",
+    "dogru": "Nikahın aleni olması, Şeyhülislam veya Kadı onayıyla resmi kayıt (sicil) altına alınması.",
+    "aciklama": "Nikahın ana şartı duyurulmasıdır; padişah ve şehzadelerin nikahları Şeyhülislam tarafından kıyılır ve mühürlü belgelerle tescil edilirdi.",
+    "konu": "yazi-belge",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Genel / Osmanlı konulu yapımlar",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://youtu.be/iuX90WxwyPc?t=4768",
+    "zaman": "79:28",
+    "kaynak_ozet": "Osmanlı'da nikah gizli olmaz, aleni yapılır ve resmi kayıt altına alınırdı."
+   },
+   {
+    "yanlis": "Boşanan kadının ekonomik olarak tamamen korumasız kaldığının gösterilmesi.",
+    "dogru": "Mihr (Mihri Müeccel) sistemiyle kadına boşanma sonrası için mali güvence sağlanması.",
+    "aciklama": "Nikah sözleşmesinde belirtilen yüksek meblağlı mihir, erkeğin kadını keyfi boşamasını zorlaştırır ve boşanma durumunda kadına ödenirdi.",
+    "konu": "para-olcu-takvim",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Genel / Osmanlı konulu yapımlar",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://youtu.be/iuX90WxwyPc?t=4828",
+    "zaman": "80:28",
+    "kaynak_ozet": "Mihir, kadının boşanma durumunda alacağı yasal ve mali bir güvencedir."
+   },
+   {
+    "yanlis": "Genç Osman'ın (II. Osman) katledilmeden önce tecavüze uğradığı iddiası.",
+    "dogru": "Bu iddianın tarihi bir dayanağı olmayan, sonradan uydurulmuş bir şehir efsanesi olması.",
+    "aciklama": "Evliya Çelebi Seyahatnamesi'nin orijinal nüshalarında böyle bir bilgi yoktur; bu iddia asılsızdır.",
+    "konu": "saray-devlet",
+    "donem": "17.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Genel / Osmanlı konulu yapımlar",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://youtu.be/iuX90WxwyPc?t=4419",
+    "zaman": "73:39",
+    "kaynak_ozet": "Genç Osman'ın tecavüze uğradığı iddiası asılsızdır, belgelerde böyle bir bilgi yoktur."
+   },
+   {
+    "yanlis": "Tahttan indirilen veya hapsedilen padişahların dış dünyayla serbestçe iletişim kurabilmesi.",
+    "dogru": "Sıkı bir tecrit altında tutulmaları, kalem ve kağıda erişimlerinin dahi kısıtlanması.",
+    "aciklama": "Beylerbeyi Sarayı gibi yerlerde gözetim altında tutulan devrik padişahların yanına izinsiz kimse yaklaştırılmazdı.",
+    "konu": "saray-devlet",
+    "donem": "19.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Genel / Osmanlı konulu yapımlar",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://youtu.be/iuX90WxwyPc?t=2844",
+    "zaman": "47:24",
+    "kaynak_ozet": "Hapsedilen padişahlara kalem kağıt dahi verilmez, çok sıkı gözetim altında tutulurlardı."
+   },
+   {
+    "yanlis": "Düzmece Mustafa'nın gerçekten sahte bir şehzade olarak gösterilmesi.",
+    "dogru": "Aslında meşru bir şehzade olup, siyasi rakipleri tarafından 'düzmece' olarak adlandırılması.",
+    "aciklama": "Yıldırım Bayezid'in oğlu olan Mustafa Çelebi, saltanat mücadelesindeki meşruiyetini kırmak için rakipleri tarafından sahtekarlıkla suçlanmıştır.",
+    "konu": "isim-ad",
+    "donem": "15.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Genel / Osmanlı konulu yapımlar",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://youtu.be/iuX90WxwyPc?t=3863",
+    "zaman": "64:23",
+    "kaynak_ozet": "Düzmece Mustafa aslında gerçek şehzadedir, meşruiyetini yok etmek için öyle denmiştir."
+   }
+  ]
+ }
+}

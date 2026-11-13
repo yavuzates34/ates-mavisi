@@ -1,0 +1,61 @@
+{
+ "model": "gemini/gemini-3.5-flash",
+ "ad": "video-cOghevnRx-Q-p3",
+ "tarih": "2026-11-13 15:48",
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "II. Abdülhamid'e ait gerçek bir 'Kayıp Hatıra Defteri' olduğu iddiası",
+    "dogru": "II. Abdülhamid'in böyle bir hatıra defteri yoktur; bu iddia ve yayınlar uydurmadır.",
+    "aciklama": "Tarihçiler senelerdir II. Abdülhamid'e ait bir hatıra defteri bulunmadığını anlatmaktadır. Piyasada yer alan bu tarz yayınlar gerçek dışı metinlerdir.",
+    "konu": "yazi-belge",
+    "donem": "19.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Genel",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/cOghevnRx-Q?t=5581",
+    "zaman": "93:01",
+    "kaynak_ozet": "Öyle bir hatıra defteri yok diyor tarihçiler, yalan yanlış yayınları boş verin."
+   },
+   {
+    "yanlis": "II. Abdülhamid'in sarayında dini bağnazlık gösterdiği ve oruç tutmayanlara baskı yaptığı algısı",
+    "dogru": "II. Abdülhamid bağnaz değildir; sarayında Ramazan'da oruç tutmayan çalışanlarına müdahale etmezdi.",
+    "aciklama": "Sultan II. Abdülhamid ibadetlerine sadık biri olmasına karşın bağnazlıktan uzaktı. Ramazan ayında saraydaki Mabeyn kâtiplerinin odalarında su ve tütün içmelerine, yemek yemelerine aldırmazdı.",
+    "konu": "din-gundelik",
+    "donem": "19.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Genel",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/cOghevnRx-Q?t=5674",
+    "zaman": "94:34",
+    "kaynak_ozet": "Abdülhamid'de bağnazlıktan iz yoktur, kendi sarayında Mabeyn katiplerinin Ramazan'da oruç tutmamasına aldırmaz."
+   },
+   {
+    "yanlis": "Çarşafın Osmanlı geleneksel kadın tesettür giysisi olduğu sanısı",
+    "dogru": "Çarşaf geleneksel Osmanlı tesettür kültüründe yoktur; 19. yüzyıl ortalarında Yakın Doğu'dan gelen bir modadır.",
+    "aciklama": "Çarşaf 1880'lerde paytahtta yaygınlaşmış, güvenlik ve ahlak gerekçeleriyle II. Abdülhamid tarafından 1892'de fermanla yasaklanmıştır. İstanbul kadınlarının geleneksel örtünmesinde ferace ve yaşmak kullanılmaktaydı.",
+    "konu": "giyim",
+    "donem": "19.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Genel",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/cOghevnRx-Q?t=5796",
+    "zaman": "96:36",
+    "kaynak_ozet": "Çarşaf geleneksel tesettür kültürümüzde yok, Yakın Doğu'dan 19. yüzyıl ortalarında moda olarak geliyor."
+   },
+   {
+    "yanlis": "Sultan Reşat dönemi öncesinde padişahın bindiği saray arabasına başkalarının da binebildiği gösterimi",
+    "dogru": "Sultan Reşat (II. Meşrutiyet) dönemine kadar bindiği arabada sultan varken başkasının o arabaya binmesi yasaktı.",
+    "aciklama": "Klasik ve geç dönem Osmanlı saray protokolünde padişahın arabasında başka birinin oturmasına izin verilmezdi. Bu kural ancak II. Meşrutiyet sonrasında Sultan Reşat döneminde esnetilmiştir.",
+    "konu": "saray-devlet",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Genel",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/cOghevnRx-Q?t=6477",
+    "zaman": "107:57",
+    "kaynak_ozet": "Sultan Reşat'a kadar arabada sultan varsa başkasının arabaya binmesine izin yok."
+   }
+  ]
+ }
+}

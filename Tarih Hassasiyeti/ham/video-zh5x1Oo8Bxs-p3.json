@@ -1,0 +1,127 @@
+{
+ "model": "gemini/gemini-3-flash-preview",
+ "ad": "video-zh5x1Oo8Bxs-p3",
+ "tarih": "2026-11-13 16:34",
+ "okunan_adresler": [],
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "Osmanlı'da halkın mahkemeye ve adalete erişiminin zor veya çok pahalı olması.",
+    "dogru": "Herkes küçük bir para karşılığında kadıya başvurabilir ve davalar çok kısa sürede sonuçlanırdı.",
+    "aciklama": "Batılı seyyahlar, Osmanlı adalet sisteminde herkesin özgürce ve hızla mahkemeye başvurabilmesini övgüyle not etmişlerdir.",
+    "konu": "saray-devlet",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Genel Eleştiri",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/zh5x1Oo8Bxs?t=6006",
+    "zaman": "100:06",
+    "kaynak_ozet": "Osmanlı'da herkes kadıya başvurabiliyor, mahkemeler küçük paralarla kısa sürede sonuçlanıyor."
+   },
+   {
+    "yanlis": "Padişahın cariye seçmek için iki sıra dizilmiş kızların önüne mendil bırakması.",
+    "dogru": "Padişahın mendil atarak cariye seçmesi tamamen batılı yazarların fantezisinden ibarettir.",
+    "aciklama": "Halil İnalcık'a göre bu uygulama gerçekte yoktur; cariyeler sıkı bir disiplin ve eğitimle padişaha takdim edilirdi.",
+    "konu": "harem-kadin",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/zh5x1Oo8Bxs?t=7587",
+    "zaman": "126:27",
+    "kaynak_ozet": "Padişahın cariye seçmek için mendil bırakması tamamen fanteziden ibarettir."
+   },
+   {
+    "yanlis": "Haremin sadece cinsel amaçlı bir fuhuş yuvası olarak tasvir edilmesi.",
+    "dogru": "Harem, cariyelerin disiplin ve hiyerarşi içinde yetiştiği bir eğitim kurumudur.",
+    "aciklama": "Harem bir kadınlar manastırına benzer; cariyeler burada edebiyat, müzik ve saray adabı gibi dersler alırdı.",
+    "konu": "saray-devlet",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/zh5x1Oo8Bxs?t=7775",
+    "zaman": "129:35",
+    "kaynak_ozet": "Harem bir fuhuş yuvası değil, disiplinli bir eğitim kurumudur."
+   },
+   {
+    "yanlis": "Cariyelerin hür Müslüman kadınlar gibi örtünme zorunluluğunun olması.",
+    "dogru": "İslam hukukuna göre cariyeler, hür Müslüman kadınlar gibi avret yerlerini örtmeye mecbur değildir.",
+    "aciklama": "Cariyelerin hukuki statüsü hür kadınlardan farklıdır ve giyim kuşam kuralları buna göre düzenlenmiştir.",
+    "konu": "giyim",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Genel Eleştiri",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/zh5x1Oo8Bxs?t=7745",
+    "zaman": "129:05",
+    "kaynak_ozet": "Cariyeler Müslüman kadınlar gibi avret yerlerini örtmeye mecbur değildir."
+   },
+   {
+    "yanlis": "Padişahların her dönem hür Müslüman kadınlarla nikahlanması.",
+    "dogru": "II. Bayezid'den sonra padişahlar siyasi ve hukuki riskler nedeniyle hür Müslüman kadınlarla evlenmekten kaçınmışlardır.",
+    "aciklama": "Bu kuralın tek istisnası Şeyhülislam kızıyla evlenen II. Osman'dır; genellikle cariye kökenli kadınlar tercih edilmiştir.",
+    "konu": "diplomasi-donem",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/zh5x1Oo8Bxs?t=7745",
+    "zaman": "129:05",
+    "kaynak_ozet": "II. Bayezid'den sonra padişahlar siyasi sebeplerle Müslüman kadınlarla evlenmekten kaçınmışlardır."
+   },
+   {
+    "yanlis": "Saraydaki kadınların boşanma hakkının bulunmaması.",
+    "dogru": "Padişahın kız kardeşlerinin (Sultanların) kocalarını boşama hakkı vardır.",
+    "aciklama": "Bir erkek bir Sultan ile evlendiğinde kendi boşanma hakkından feragat eder; boşanma yetkisi kadındadır.",
+    "konu": "harem-kadin",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/zh5x1Oo8Bxs?t=7420",
+    "zaman": "123:40",
+    "kaynak_ozet": "Sultan kız kardeşle evlenen erkeğin boşanma hakkı yoktur, hak kadındadır."
+   },
+   {
+    "yanlis": "Cariyeden doğan çocukların köle statüsünde kalması.",
+    "dogru": "Hür bir Müslümanın cariyesinden olan çocuğu hür sayılır ve meşrudur.",
+    "aciklama": "Çocuğu olan cariye 'ummüveled' statüsü kazanır, satılamaz ve efendisinin ölümünden sonra hür kalır.",
+    "konu": "harem-kadin",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Genel Eleştiri",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/zh5x1Oo8Bxs?t=7713",
+    "zaman": "128:33",
+    "kaynak_ozet": "Müslümanın cariyesinden olan çocuğu hür sayılır, cariye de özel statü kazanır."
+   },
+   {
+    "yanlis": "Sadrazamlık gibi yüksek makamlara her Müslüman tebaanın yükselebilmesi.",
+    "dogru": "Osmanlı sisteminde sadrazamlık gibi en üst makamlar genellikle kul (devşirme) kökenlilere özgüdür.",
+    "aciklama": "Müslüman bir ailede doğan hür tebaanın bu mertebelere çıkması yasaktır; bu makamlar padişahın kulları içindir.",
+    "konu": "saray-devlet",
+    "donem": "genel",
+    "gecerli_1798": "kısmen",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/zh5x1Oo8Bxs?t=8147",
+    "zaman": "135:47",
+    "kaynak_ozet": "Sadrazamlığa köle (kul) olmayan birisinin yükselmesi sistem gereği imkansızdır."
+   },
+   {
+    "yanlis": "Suçlu bir kadının mahkeme kararı olmadan ağır işkenceyle cezalandırılabilmesi.",
+    "dogru": "Osmanlı'da kadınlar için mahkeme hükmü olmadan sürgün bile verilemez; keyfi işkence infial yaratır.",
+    "aciklama": "Lütfi Paşa'nın bir kadını dağlatması tarihi bir gerçektir ve bu canilik toplumda büyük tepki çekerek azline sebep olmuştur.",
+    "konu": "saray-devlet",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/zh5x1Oo8Bxs?t=6685",
+    "zaman": "111:25",
+    "kaynak_ozet": "Osmanlı'da kadın hüküm olmadan sürgün edilemez, Lütfi Paşa'nın caniliği infial yaratmıştır."
+   }
+  ]
+ }
+}

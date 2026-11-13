@@ -1,0 +1,88 @@
+{
+ "model": "gemini/gemini-3-flash-preview",
+ "ad": "video-wO8tY75eCfs-p1",
+ "tarih": "2026-11-13 16:31",
+ "okunan_adresler": [],
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "Okların konulduğu kılıfa 'sadak' denilmesi.",
+    "dogru": "Okların konulduğu kılıf 'tirkeş', yayın konulduğu kılıf ise 'sadak'tır.",
+    "aciklama": "Akademik çalışmalarda ve dizilerde bu iki terim sıklıkla karıştırılır. Tirkeş okları taşımak için kullanılırken, sadak sadece yayı taşımaya yarayan kılıftır.",
+    "konu": "ordu",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Genel tarihi yapımlar",
+    "kisi": "Batuhan Yıldız",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=640",
+    "zaman": "10:40",
+    "kaynak_ozet": "Okun konduğu çantaya tirkeş denir; sadak ise yayı taşımaya yarayan kılıftır."
+   },
+   {
+    "yanlis": "Okların ve tirkeşin askerin sırtında taşınması.",
+    "dogru": "Oklar ve tirkeş belde, kemere bağlı şekilde taşınır.",
+    "aciklama": "Sırttan ok çekmek Hollywood etkisidir; gerçekte belden çekmek çok daha hızlıdır ve göğsü düşmana açmayarak hedefi küçültür.",
+    "konu": "ordu",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Hollywood yapımları (Robin Hood vb.)",
+    "kisi": "Batuhan Yıldız",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=762",
+    "zaman": "12:42",
+    "kaynak_ozet": "Okların sırtta taşınması Hollywood efektidir; doğrusu belde, tirkeş içerisinde taşınmasıdır."
+   },
+   {
+    "yanlis": "Okun yay kirişinden parmaklarla (Avrupa tarzı) çekilmesi.",
+    "dogru": "Ok, başparmak çekişi tekniği ve 'zihgir' (yüzük) kullanılarak çekilir.",
+    "aciklama": "Türk okçuluğunda başparmak çekişi esastır. Bu teknik için 'zihgir' (veya zikir) adı verilen özel bir başparmak yüzüğü kullanılır.",
+    "konu": "ordu",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Genel tarihi yapımlar",
+    "kisi": "Batuhan Yıldız",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=918",
+    "zaman": "15:18",
+    "kaynak_ozet": "Türk okçuluğunda başparmak çekişi ve zihgir kullanımı temel tekniktir."
+   },
+   {
+    "yanlis": "Osmanlı yaylarının uzun ve tek parça ağaçtan yapılmış olması.",
+    "dogru": "Osmanlı yayları kısa ve kompozit (ahşap, boynuz, sinir) yapıdadır.",
+    "aciklama": "Osmanlı yayları yaklaşık 100-110 cm ile dünyanın en küçük ve en güçlü yaylarındandır. Kompozit yapısı sayesinde çok uzak menzillere ulaşabilir.",
+    "konu": "teknoloji-esya",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Genel tarihi yapımlar",
+    "kisi": "Batuhan Yıldız",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=1012",
+    "zaman": "16:52",
+    "kaynak_ozet": "Osmanlı yayları kompozit yapıda, kısa ve son derece güçlü silahlardır."
+   },
+   {
+    "yanlis": "Askerlerin savaşta sadece 10-12 adet ok taşıması.",
+    "dogru": "Bir askerin belinde 30, yedeğinde ise yüzlerce ok bulunur.",
+    "aciklama": "İngiliz okçuları az sayıda okla savaşa girerken, Osmanlı'da ok ana silahtır ve bir savaşta asker başına yüzlerce ok harcanabilir.",
+    "konu": "ordu",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Genel tarihi yapımlar",
+    "kisi": "Batuhan Yıldız",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=1227",
+    "zaman": "20:27",
+    "kaynak_ozet": "Osmanlı askeri belinde 30 ok taşır, ordunun geri saflarında binlerce yedek bulunur."
+   },
+   {
+    "yanlis": "Okçuların saflar halinde dizilip durağan (makinalı tüfek gibi) ok atması.",
+    "dogru": "Osmanlı süvari unsurları sürekli hareket ederek ok atar.",
+    "aciklama": "Avrupa orduları durağan bir savaş mantığına sahipken, Osmanlı sipahileri hareket esaslı savaşır ve durağan bir 'galim ateşi' düzeni kullanmazlar.",
+    "konu": "ordu",
+    "donem": "genel",
+    "gecerli_1798": "kısmen",
+    "yapim": "Genel tarihi yapımlar",
+    "kisi": "Batuhan Yıldız",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=1289",
+    "zaman": "21:29",
+    "kaynak_ozet": "Osmanlı'da durağan ok atışı yoktur; süvari unsurları sürekli hareket ederek savaşır."
+   }
+  ]
+ }
+}

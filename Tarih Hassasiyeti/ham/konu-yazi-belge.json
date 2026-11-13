@@ -1,0 +1,105 @@
+{
+ "model": "gemini/gemini-3.5-flash",
+ "ad": "konu-yazi-belge",
+ "tarih": "2026-11-13 15:48",
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "1798-1800 İstanbul'unda kapıkulu askerlerinin ve yeniçerilerin maaş kayıt belgelerine veya ellerindeki hüccetlere 'maaş cüzdanı' veya 'koçan' denilmesi.",
+    "dogru": "Osmanlı askerî teşkilatında kapıkulu askerlerinin isim ve maaşlarının kayıtlı olduğu defterlere ve erlerin elindeki maaş belgesine 'esâme' denirdi.",
+    "aciklama": "Esâme terimi hem ordu maaş kütüğünü hem de askerin maaş alma hakkını gösteren resmî belgeyi ifade eder. Modern idari ve mali terimlerin tarihî resmî yazışma sahnelerinde kullanılması yanlıştır.",
+    "konu": "yazi-belge",
+    "donem": "18.yy",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "konu taraması",
+    "kaynak_url": "https://islamansiklopedisi.org.tr/kapikulu",
+    "kaynak_ozet": "Kapıkulu askerlerinin isim ve maaşlarının kayıtlı olduğu defterleri, bu defterlerdeki isimleri ve belgeyi ifade eden tabir."
+   },
+   {
+    "yanlis": "Divan-ı Hümayun'da alınan devlet kararlarının ve idarî emirlerin kaydedildiği resmî defterlerin 'karar defteri' veya 'zabıt ceridesi' olarak adlandırılması.",
+    "dogru": "Divan-ı Hümayun'da görüşülüp karara bağlanan siyasî, askerî ve idarî emrin tescil edildiği resmî defterlere 'Mühimme Defteri' denirdi.",
+    "aciklama": "1798 İstanbul'unda merkezî devlet idaresindeki kararlar ve eyaletlere gönderilen emirnameler Mühimme Defterleri'ne kaydedilirdi. Dönem resmî bürokrasisinde modern parlamento ve kurul terimleri kullanılmazdı.",
+    "konu": "yazi-belge",
+    "donem": "18.yy",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "konu taraması",
+    "kaynak_url": "https://islamansiklopedisi.org.tr/kapikulu",
+    "kaynak_ozet": "3 Numaralı Mühimme Defteri"
+   },
+   {
+    "yanlis": "III. Selim döneminde (1798-1800) asker alım yazışmalarında ve resmî emirlerde devşirme kanununun hâlâ aktif şekilde uygulandığının gösterilmesi.",
+    "dogru": "18. yüzyıl sonlarında devşirme uygulaması fiilen sona ermiş, kapıkulu alımlarında devşirme kanunu yürürlükten kalkmıştır.",
+    "aciklama": "1798 İstanbul'unda asker alımına dair resmî belgelerde devşirme memurlarının Hristiyan tebaadan çocuk topladığına dair ifadeler kronolojik bir hatadır. Kapıkulu ocaklarına alımlar bu dönemde müslüman tebaadan ve doğrudan nakille yapılmaktaydı.",
+    "konu": "yazi-belge",
+    "donem": "18.yy",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "konu taraması",
+    "kaynak_url": "https://islamansiklopedisi.org.tr/kapikulu",
+    "kaynak_ozet": "önceleri pencik kanununa göre alınan savaş esirlerinden seçilirken daha sonra devşirme kanununa göre"
+   },
+   {
+    "yanlis": "1798-1800 yıllarında devlet ve meşveret meclisi reform belgelerinde mevzuat düzenlemelerine 'yasa' veya 'anayasa' denmesi.",
+    "dogru": "Osmanlı devlet mevzuatında ve resmî idari metinlerde kanun maddelerini ve teşkilat kurallarını içeren belgelere 'kanunnâme' veya 'kanun' denirdi.",
+    "aciklama": "'Yasa' kelimesi modern Türkçe özleştirme dönemi sözcüğüdür; 18. yüzyıl sonu resmî yazışmalarında 'kanun' ve 'kanunnâme' terimleri esastır. III. Selim devri reform metinleri de bu usule uygundur.",
+    "konu": "yazi-belge",
+    "donem": "18.yy",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "konu taraması",
+    "kaynak_url": "https://islamansiklopedisi.org.tr/kapikulu",
+    "kaynak_ozet": "Eyyûbî Efendi Kānûnnâmesi, Ayn Ali Kavânîn-i Âl-i Osmân"
+   },
+   {
+    "yanlis": "III. Selim dönemi (1798-1800) sefer emri ve ordunun komuta yazışmalarında padişahın bizzat ordunun başında sefere çıktığının yazılması.",
+    "dogru": "Kanûnî Sultan Süleyman sonrasında ve III. Murad devrinden itibaren padişahlar ordunun başında sefere çıkmayı bırakmış, sefer kumandası yazışmaları 'Serdâr-ı Ekrem' adıyla sadrazamlar adına düzenlenmiştir.",
+    "aciklama": "1798-1800 dönemindeki askerî emretme ve sefer belgelerinde ordunun başında bulunan idareci padişah değil Serdâr-ı Ekrem unvanlı sadrazamdır. Padişahın bizzat sefere katıldığı kurgusu 18. yüzyıl sonu için tarihsel hatadır.",
+    "konu": "yazi-belge",
+    "donem": "18.yy",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "konu taraması",
+    "kaynak_url": "https://islamansiklopedisi.org.tr/kapikulu",
+    "kaynak_ozet": "kapıkulu askerleri artık serdâr-ı ekremlerin kumandası altında sefere çıkmaya başlamışlardır"
+   },
+   {
+    "yanlis": "Saray hizmetlileri ile kapıkulu askerlerine verilen üç aylık maaş ödeme kayıtlarına resmî yazışmalarda 'maaş bordrosu' denmesi.",
+    "dogru": "Saray yetkililerine ve askerî zümrelere verilen düzenli maaşa ve bu ödemelerin yapıldığı resmî kütüklere 'ulûfe' (ulûfe defteri) denirdi.",
+    "aciklama": "Ulûfe dağıtımı Divan-ı Hümayun töreniyle yürütülür ve özel tescil defterlerine yazılırdı. Günümüz kamu yönetimi mali terimlerinin 18. yüzyıl metinlerinde geçmesi uyumsuzdur.",
+    "konu": "yazi-belge",
+    "donem": "18.yy",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "konu taraması",
+    "kaynak_url": "https://islamansiklopedisi.org.tr/kapikulu",
+    "kaynak_ozet": "Osmanlılar'da saray hizmetlileriyle yeniçeri ve kapıkulu askerlerine ödenen düzenli maaş."
+   },
+   {
+    "yanlis": "1798-1800 İstanbul'unda III. Selim'in başlattığı yeni askerî ve idarî reform belgelerinde bu yapıya 'Modern Ordu' veya 'Yeni Asker' denilmesi.",
+    "dogru": "18. yüzyıl sonundaki yenileşme hareketlerine, askerî birliğe ve reform düzenlemelerine resmî yazışmalarda 'Nizâm-ı Cedîd' denmekteydi.",
+    "aciklama": "III. Selim devri hatt-ı hümayun ve takrirlerinde yeni askerî düzen strictly 'Nizâm-ı Cedîd' olarak adlandırılır. Senaryolarda uydurma güncel kelimelerin kullanılması resmî dönemin dil yapısını bozar.",
+    "konu": "yazi-belge",
+    "donem": "18.yy",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "konu taraması",
+    "kaynak_url": "https://islamansiklopedisi.org.tr/kapikulu",
+    "kaynak_ozet": "III. Selim döneminde kurulan Nizâm-ı Cedîd ordusunun yeniçerilerin tehdidiyle ilga edilmesinin ardından"
+   },
+   {
+    "yanlis": "Sarayın muhafız ve hizmet kolları olan baltacı ve bostancıların atama ve sicil yazışmalarında sivil kamu görevlisi veya halktan kişiler olarak gösterilmesi.",
+    "dogru": "Baltacı, bostancı ve kapıcı gibi saray görevlileri resmî sicil ve idari statü bakımından 'kul taifesi' ve 'kapıkulu' zümresine mensuptur.",
+    "aciklama": "Osmanlı saray idaresi ve sicil defterlerinde saray hizmet erbabı padişaha doğrudan bağlı kapıkulu sınıfı içinde tescil edilir. Onları sivil bürokrat gibi tanımlamak Osmanlı idari ve resmî yapısına aykırıdır.",
+    "konu": "yazi-belge",
+    "donem": "18.yy",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "konu taraması",
+    "kaynak_url": "https://islamansiklopedisi.org.tr/kapikulu",
+    "kaynak_ozet": "hükümdarlık saraylarının hizmet erbabı ve muhafızları olan baltacı ve bostancılar... kapıkulu olarak adlandırılardı"
+   }
+  ]
+ }
+}

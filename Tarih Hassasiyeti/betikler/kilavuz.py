@@ -40,6 +40,19 @@ def durum(m, g):
     return {"tek-onay": "doğrulaması eksik (tek onay)", "tek-red": "şüpheli (bir red)", "elendi": "elendi", "dogrulanamadi": "doğrulanamadı"}[s]
 
 
+def video_mu(m):
+    return any("youtu" in str(k.get("kaynak_url") or "") for k in (m.get("kaynaklar") or []))
+
+
+def saman_adam(m):
+    """Eleştiri kaynağı olmayan (konu taramasından gelen) ve doğrulayıcılardan en az birinin
+    'kimsenin yapmadığı yapay yanlış' dediği madde."""
+    if m.get("kaynaklar"):
+        return False
+    oy = [str((m["dogrulama"].get(h) or {}).get("saman_adam", "")).lower() for h in "AB"]
+    return "evet" in oy
+
+
 def madde_md(n, m, ic=False):
     g = gecerlilik(m)
     d = m["dogrulama"]
@@ -81,8 +94,11 @@ def main():
             continue
         # kaynak sayısı çok olan (sık eleştirilen) öne
         liste.sort(key=lambda m: (-len(m.get("kaynaklar") or []), m["mid"]))
-        dog = [m for m in liste if m["dogrulama"]["sonuc"] == "dogrulandi"]
-        tar = [m for m in liste if m["dogrulama"]["sonuc"] == "tartismali"]
+        for m in liste:
+            if saman_adam(m):
+                say["saman-adam"] += 1
+        dog = [m for m in liste if m["dogrulama"]["sonuc"] == "dogrulandi" and not saman_adam(m)]
+        tar = [m for m in liste if m["dogrulama"]["sonuc"] == "tartismali" and not saman_adam(m)]
         dosya = [f"# {BASLIK[kod]} – doğrulama sonuçları", "",
                  f"Doğrulanan: {len(dog)}, tartışmalı: {len(tar)}, toplam aday: {len(liste)}.", ""]
         for i, m in enumerate(liste, 1):
@@ -91,6 +107,11 @@ def main():
         open(os.path.join(KOK, "dogrulanmis", f"{kod}.md"), "w", encoding="utf-8").write("\n".join(dosya))
         gecerli = [m for m in dog if not gecerlilik(m).startswith("hayır")]
         baska = [m for m in dog if gecerlilik(m).startswith("hayır")]
+        say["kilavuz"] += len(gecerli)
+        say["kilavuz-video"] += sum(1 for m in gecerli if video_mu(m))
+        say["kilavuz-elestirili"] += sum(1 for m in gecerli if m.get("kaynaklar"))
+        say["ek-tartismali"] += len(tar)
+        say["ek-baska-donem"] += len(baska)
         if gecerli:
             govde.append(f"## {BASLIK[kod]}\n")
             for i, m in enumerate(gecerli, 1):

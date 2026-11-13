@@ -1,0 +1,140 @@
+{
+ "model": "gemini/gemini-3-flash-preview",
+ "ad": "video-zh5x1Oo8Bxs-p1",
+ "tarih": "2026-11-13 16:34",
+ "okunan_adresler": [],
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "Padişahların kusursuz, hata yapmaz ve yarı tanrı gibi tasvir edilmesi.",
+    "dogru": "Padişahlar insani duyguları, zayıf yönleri ve hataları olan etten kemikten insanlardır.",
+    "aciklama": "Tarihi şahsiyetlerin kusursuz birer model gibi değil, insani özellikleriyle yansıtılması tarihsel gerçekliğe daha uygundur. Bu yaklaşım, hükümdarın bir insan olarak kararlarını ve duygularını anlamayı sağlar.",
+    "konu": "saray-devlet",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/zh5x1Oo8Bxs?t=798",
+    "zaman": "13:18",
+    "kaynak_ozet": "Padişahların kusursuz yarı tanrılar değil, insani duyguları olan kişiler olarak gösterilmesi doğrudur."
+   },
+   {
+    "yanlis": "Haremdeki kadınların dekolteli ve gösterişli elbiseler giymesinin imkansız görülmesi.",
+    "dogru": "Harem içindeki kıyafetler ve başlıklar tarihi minyatürlerdeki çizimlere uygundur.",
+    "aciklama": "Bu kıyafetler kamusal alanda değil, padişahın özel alanı olan Harem içerisinde giyilmektedir. Dönemin minyatürleri incelendiğinde benzer dekolteli elbiselerin varlığı görülmektedir.",
+    "konu": "giyim",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/zh5x1Oo8Bxs?t=861",
+    "zaman": "14:21",
+    "kaynak_ozet": "Harem içindeki dekolteli elbiseler ve başlıklar tarihi minyatürlere gayet uygundur."
+   },
+   {
+    "yanlis": "Harem'in sadece bir eğlence yeri olduğu ve kadınların siyasete etkisinin bulunmadığı iddiası.",
+    "dogru": "Harem siyasi bir merkezdir ve kadınlar devlet yönetiminde ciddi etkiye sahiptir.",
+    "aciklama": "Valide Sultanlar ve hasekiler, vezirler ve yeniçeri ağalarıyla kurdukları ittifaklar sayesinde siyasi kararlarda rol oynamışlardır. Harem, saraydaki güç mücadelelerinin ve entrikaların tam merkezindedir.",
+    "konu": "harem-kadin",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/zh5x1Oo8Bxs?t=924",
+    "zaman": "15:24",
+    "kaynak_ozet": "Harem, padişahın özel hayatı olduğu kadar siyasi entrikaların da merkezidir."
+   },
+   {
+    "yanlis": "Padişahın çocuk sahibi olmasının ve Harem hayatının devlet işlerinden ayrı tutulması.",
+    "dogru": "Monarşilerde hanedanın üremesi bizzat devletin bekası ve devamlılığı demektir.",
+    "aciklama": "Hanedan ailesi devletin kendisidir; padişahın çocuk sahibi olması soyun ve dolayısıyla devletin sürmesi için hayati bir zorunluluktur. Bu yüzden Harem, idari ve Bürokratik yapının ayrılmaz bir parçasıdır.",
+    "konu": "saray-devlet",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/zh5x1Oo8Bxs?t=1203",
+    "zaman": "20:03",
+    "kaynak_ozet": "Monarşilerde hanedanın üremesi ve devamlılığı bizzat devletin varlığıyla doğrudan alakalıdır."
+   },
+   {
+    "yanlis": "Harem hayatına dair her türlü detayın tarihi belgelerde bulunması gerektiği beklentisi.",
+    "dogru": "Harem mahrem bir alan olduğu için günlük yaşama dair detaylı kayıtlar tutulmamıştır.",
+    "aciklama": "Belgeler genellikle sadece mutfak masrafları ve temel ihtiyaçlar gibi idari kayıtlarla sınırlıdır. Mahremiyet nedeniyle özel hayatın detayları yazılı tarihe yansıtılmamıştır.",
+    "konu": "yazi-belge",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/zh5x1Oo8Bxs?t=1479",
+    "zaman": "24:39",
+    "kaynak_ozet": "Harem mahrem bir yer olduğu için günlük hayata dair detaylı kayıt tutulmamıştır."
+   },
+   {
+    "yanlis": "Saray hizmetlileri ve harem ağaları arasındaki çekişmelerin kurgusal bir abartı sanılması.",
+    "dogru": "Saray ortamı hiyerarşik rekabetin ve entrikanın yoğun olduğu bir yerdir.",
+    "aciklama": "Tarihi kaynaklar, saray görevlileri ve ağalar arasında ciddi bir güç mücadelesi olduğunu doğrulamaktadır. Bu rekabet ortamı saray hayatının doğal bir parçasıdır.",
+    "konu": "saray-devlet",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/zh5x1Oo8Bxs?t=1730",
+    "zaman": "28:50",
+    "kaynak_ozet": "Saray hizmetlileri ve harem ağaları arasındaki rekabet tarihi kaynaklardaki anlatılara uygundur."
+   },
+   {
+    "yanlis": "Dizilerde padişahın emirlerini modern bir dille ifade etmesi.",
+    "dogru": "\"İrademdir\" veya \"muradınız\" gibi döneme uygun hukuki ve siyasi terimlerin kullanılması.",
+    "aciklama": "Padişahın iradesini beyan ederken kullandığı bu terimler, dönemin resmi dilini ve otoritesini yansıtması açısından önemlidir. Bu tür kullanımlar izleyici için tarihsel bir kazanım sağlar.",
+    "konu": "gundelik-dil",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/zh5x1Oo8Bxs?t=1885",
+    "zaman": "31:25",
+    "kaynak_ozet": "Dizide irademdir veya muradınız gibi kelimelerin kullanılması izleyici için bir kazanımdır."
+   },
+   {
+    "yanlis": "Tüm Osmanlı padişahlarının dizi oyuncuları gibi çok yakışıklı olduğu algısı.",
+    "dogru": "Tarihi gerçeklikte, tipi bilinen padişahlar arasında sadece Sultan Abdülaziz çok yakışıklı kabul edilir.",
+    "aciklama": "Padişahların fiziksel özellikleri her zaman modern güzellik standartlarına veya dizi oyuncularının görünümüne uymamaktadır. Abdülaziz dışındaki padişahların tasvirleri bu derece kusursuz değildir.",
+    "konu": "diplomasi-donem",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/zh5x1Oo8Bxs?t=2132",
+    "zaman": "35:32",
+    "kaynak_ozet": "Osmanlı hanedanında tipi bilinenler arasında sadece Sultan Abdülaziz gerçekten yakışıklıdır."
+   },
+   {
+    "yanlis": "Saraya köle olarak getirilen her cariyenin padişaha anında aşık olması.",
+    "dogru": "Cariyeler zorla getirilmiş kölelerdir ve çoğunun bu duruma gönülsüz olması daha gerçekçidir.",
+    "aciklama": "Dizilerdeki romantize edilmiş aşk hikayeleri, kölelik kurumunun sert gerçekliğini göz ardı etmektedir. Birçok cariyenin padişahla birlikte olmaya gönülsüz olması tarihsel olarak daha olasıdır.",
+    "konu": "harem-kadin",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/zh5x1Oo8Bxs?t=2195",
+    "zaman": "36:35",
+    "kaynak_ozet": "Zorla getirilen cariyelerin padişaha hemen aşık olması tarihsel gerçeklikle bağdaşmaz."
+   },
+   {
+    "yanlis": "Kanuni Sultan Süleyman'ın Firuze veya Kastilya Prensesi Isabella ile aşk yaşaması.",
+    "dogru": "Bu karakterler ve yaşanan romantik ilişkiler tamamen kurgudur, tarihte karşılığı yoktur.",
+    "aciklama": "Dizinin senaryosuna heyecan katmak için eklenen bu karakterler tarihsel gerçeklerle örtüşmemektedir. Bu tür karakterlerin padişahla olan ilişkileri tamamen hayal ürünüdür.",
+    "konu": "diplomasi-donem",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Ceren Sungur",
+    "kaynak_url": "https://youtu.be/zh5x1Oo8Bxs?t=2347",
+    "zaman": "39:07",
+    "kaynak_ozet": "Firuze ve Isabella gibi karakterlerin padişahla yaşadığı aşkların tarihte karşılığı yoktur."
+   }
+  ]
+ }
+}

@@ -1,0 +1,140 @@
+{
+ "model": "gemini/gemini-3-flash-preview",
+ "ad": "video-wO8tY75eCfs-p5",
+ "tarih": "2026-11-13 16:32",
+ "okunan_adresler": [],
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "Kalkanların sadece koldaki tutamaçtan tutulması",
+    "dogru": "Kalkanın omuza asılmasını ve farklı tutuşları sağlayan çift halkalı ip sistemi",
+    "aciklama": "Filmlerde görülmeyen bu detay, süvarinin kalkanı omuzuna asıp ellerini serbest bırakarak at sürmesini sağlar.",
+    "konu": "ordu",
+    "donem": "genel",
+    "gecerli_1798": "kısmen",
+    "yapim": "genel",
+    "kisi": "Mustafa B. Bozkurt",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=9452",
+    "zaman": "157:32",
+    "kaynak_ozet": "Kalkanın bir iple kullanılması filmlerde hiç olmayan, süvariye kolaylık sağlayan bir detaydır."
+   },
+   {
+    "yanlis": "Kılıç balçağının (siperlik) dini bir sembol olan haç olarak nitelenmesi",
+    "dogru": "Balçağın 'artı' formu, el koruma ve kın kilitleme amaçlı teknik bir tasarımdır",
+    "aciklama": "Bu formun kökeni Avarlara kadar uzanır; haçla ilgisi olmayıp tamamen işlevsel bir askeri tasarımdır.",
+    "konu": "teknoloji-esya",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "Mustafa B. Bozkurt",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=9635",
+    "zaman": "160:35",
+    "kaynak_ozet": "Balçağa haç demek yanlıştır; bu artı formu el koruma amaçlı teknik bir yapıdır."
+   },
+   {
+    "yanlis": "Kılıcın kında sadece sürtünmeyle durması",
+    "dogru": "Balçaktaki 'tırnak' parçasının kındaki yuvaya girerek kılıcı kilitlemesi",
+    "aciklama": "Balçaktaki tırnak kın ağzına tam oturur ve kilit görevi görerek kılıcın düşmesini engeller.",
+    "konu": "teknoloji-esya",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "Mustafa B. Bozkurt",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=9726",
+    "zaman": "162:06",
+    "kaynak_ozet": "Balçaktaki tırnak kına oturur, kilit gibi işlev görerek kılıcın düşmesini engeller."
+   },
+   {
+    "yanlis": "Osmanlı kadınlarının Tudor dönemi (İngiliz) tarzı elbiseler giymesi",
+    "dogru": "Minyatürlerde görülen geleneksel Osmanlı günlük kadın kıyafetleri",
+    "aciklama": "Dizilerde kadınlar yanlış bir şekilde Avrupa tarzı (Tudor) kıyafetlerle yansıtılmaktadır.",
+    "konu": "harem-kadin",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Mustafa B. Bozkurt",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=9969",
+    "zaman": "166:09",
+    "kaynak_ozet": "Hanımefendileri Tudor dizisindeki gibi giydireceklerine minyatürlerdeki günlük kıyafetlere baksalardı."
+   },
+   {
+    "yanlis": "Tek parça, modern görünümlü yekpare çizmeler",
+    "dogru": "Çizme ve yemeni şeklinde iki parçalı ayak kapları",
+    "aciklama": "Osmanlı'da çizmeler genellikle tek parça değil, çizme-yemeni kombinasyonu şeklindedir.",
+    "konu": "giyim",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "Mustafa B. Bozkurt",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=10032",
+    "zaman": "167:12",
+    "kaynak_ozet": "Bizdeki örnekler çizme-yemeni şeklindedir; çift parçadır, tek yekpare çizme değildir."
+   },
+   {
+    "yanlis": "Yeniçerilerin her yüzyılda aynı kıyafet ve teçhizatı kullanması",
+    "dogru": "Yüzyıllar içinde değişen, döneme özgü yeniçeri kıyafet ve başlıkları",
+    "aciklama": "14. yüzyıl ile 17. yüzyıl yeniçerisi arasında kullanılan tesisat ve kıyafet açısından büyük farklar vardır.",
+    "konu": "ordu",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "Mustafa B. Bozkurt",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=10462",
+    "zaman": "174:22",
+    "kaynak_ozet": "14. yüzyıldaki yeniçeriyle 17. yüzyıldaki aynı değil; tesisattan kıyafete her şey değişiyor."
+   },
+   {
+    "yanlis": "Sarığın sadece kumaştan ibaret dekoratif bir başlık olması",
+    "dogru": "Kalın sarıkların kılıç darbelerine karşı miğfer gibi koruyucu işlev görmesi",
+    "aciklama": "Sarık, kalın dokusu sayesinde başı kılıç kesmelerinden koruyan bir savunma malzemesidir.",
+    "konu": "giyim",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "Mustafa B. Bozkurt",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=9079",
+    "zaman": "151:19",
+    "kaynak_ozet": "Sarık aslında bir miğfer gibi iş görüyor; kalın olduğu için başı korur, kılıç kesmez."
+   },
+   {
+    "yanlis": "Kalkan üzerindeki motiflerin sadece boyama olması",
+    "dogru": "Motiflerin ipliklerle tek tek örülerek (hasır örme) oluşturulması",
+    "aciklama": "Kalkan üzerindeki desenler boya değil, söğüt dalları üzerine ipliklerin örülmesiyle elde edilen bir sanattır.",
+    "konu": "teknoloji-esya",
+    "donem": "genel",
+    "gecerli_1798": "kısmen",
+    "yapim": "genel",
+    "kisi": "Mustafa B. Bozkurt",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=10338",
+    "zaman": "172:18",
+    "kaynak_ozet": "Bu motif boyama değil; ipliklerin tek tek örülmesiyle ortaya çıkıyor."
+   },
+   {
+    "yanlis": "Deli askerlerinin sıradan askeri kıyafetler giymesi",
+    "dogru": "Uzun bıyıklar, küpeler ve kuşaktaki halka gibi özgün aksesuarlar",
+    "aciklama": "Deli canlandırmasında bıyık, küpe ve kuşaktaki özel halka gibi minyatür detayları esastır.",
+    "konu": "ordu",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "genel",
+    "kisi": "Mustafa B. Bozkurt",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=9816",
+    "zaman": "163:36",
+    "kaynak_ozet": "Deli canlandırmasında küpe, uzun bıyık ve kuşaktaki halka gibi minyatür detayları önemlidir."
+   },
+   {
+    "yanlis": "Kalkanın sadece sert bir yüzeyden ibaret olması",
+    "dogru": "Kalkan göbeğinin darbeyi emmesi için yastıklı olması",
+    "aciklama": "Kalkanın iç orta göbeği yastıklıdır; bu sayede darbe alındığında el sarsılmaz ve korunur.",
+    "konu": "teknoloji-esya",
+    "donem": "genel",
+    "gecerli_1798": "kısmen",
+    "yapim": "genel",
+    "kisi": "Mustafa B. Bozkurt",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=9264",
+    "zaman": "154:24",
+    "kaynak_ozet": "Kalkanın orta göbeği yastıklıdır; darbe aldığınızda yastık olduğu için elinizi korur."
+   }
+  ]
+ }
+}

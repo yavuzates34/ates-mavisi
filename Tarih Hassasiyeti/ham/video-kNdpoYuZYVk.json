@@ -1,0 +1,114 @@
+{
+ "model": "gemini/gemini-3-flash-preview",
+ "ad": "video-kNdpoYuZYVk",
+ "tarih": "2026-11-13 16:31",
+ "okunan_adresler": [],
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "Osmanlı'nın devşirme sisteminde 1000 çocuğu zorla, aile rızası olmadan köle ve asker olarak alması.",
+    "dogru": "Devşirme sisteminde ailenin rızası gözetilir, tek çocuk alınmaz ve liyakate göre kariyer planlaması yapılır.",
+    "aciklama": "Osmanlı bu çocukları düşmanlık için değil, devletin gelecekteki elit kadrolarını (Enderun) yetiştirmek için alırdı. Çocuklar yeteneklerine göre müzisyen, devlet adamı veya asker olarak eğitilirdi.",
+    "konu": "ordu",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Dracula Untold",
+    "kisi": "Haşim Şahin",
+    "kaynak_url": "https://youtu.be/kNdpoYuZYVk?t=63",
+    "zaman": "01:03",
+    "kaynak_ozet": "Osmanlı devşirme sisteminde ailenin rızasını gözetir, çocukları kariyer planlaması için alırdı."
+   },
+   {
+    "yanlis": "Yabancı hükümdarların veya elçilerin padişahla göz göze gelip doğrudan meydan okuması.",
+    "dogru": "Osmanlı teşrifat kurallarına göre padişahla göz göze temas kurulamaz ve belli bir mesafeden fazla yaklaşılamaz.",
+    "aciklama": "Padişahın huzuruna kabul edilmek bir muhataplık göstergesidir ancak doğrudan göz teması yasaktır. Teşrifat kuralları devletin kudretini korumak için çok katıdır.",
+    "konu": "unvan-hitap",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Dracula Untold",
+    "kisi": "Haşim Şahin",
+    "kaynak_url": "https://youtu.be/kNdpoYuZYVk?t=742",
+    "zaman": "12:22",
+    "kaynak_ozet": "Osmanlı teşrifatında padişahla göz göze temas kurulamaz, belli bir mesafeden öteye geçilemez."
+   },
+   {
+    "yanlis": "Osmanlı'nın savaş teknolojisi ve top dökümü için Da Vinci gibi Avrupalı mucitlere muhtaç gösterilmesi.",
+    "dogru": "15. ve 16. yüzyılda Osmanlı savaş teknolojisinde dünyanın zirvesindeydi; Fatih bizzat mühendislik bilgisine sahipti.",
+    "aciklama": "Fatih Sultan Mehmet bizzat top çizim teknikleri ve mühendislik bilgisine sahip bir dahiydi. Osmanlı'nın o dönemde kimseden teknoloji dilenmesine ihtiyacı yoktu.",
+    "konu": "teknoloji-esya",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Da Vinci's Demons",
+    "kisi": "Haşim Şahin",
+    "kaynak_url": "https://youtu.be/kNdpoYuZYVk?t=820",
+    "zaman": "13:40",
+    "kaynak_ozet": "Osmanlı 15. yüzyılda savaş teknolojisinde dünyanın zirvesindeydi, Fatih bizzat mühendislik biliyordu."
+   },
+   {
+    "yanlis": "Osmanlı'nın fethettiği topraklarda insanları zorla Müslüman yapması veya 'ya İslam ya ölüm' dayatması.",
+    "dogru": "Osmanlı'da sistematik bir asimilasyon yoktur; gayrimüslimlere ibadet, kilise yapımı ve hukuk özgürlüğü tanınmıştır.",
+    "aciklama": "İslam hukukuna göre zorla din değiştirme yoktur; Osmanlı fethettiği yerlerde kalpleri kazanma (müellefe-i kulüp) yöntemini seçmiştir. 19. yüzyıldaki isyanlarda halkların kimliklerini korumuş olması bunun kanıtıdır.",
+    "konu": "din-gundelik",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Da Vinci's Demons",
+    "kisi": "Haşim Şahin",
+    "kaynak_url": "https://youtu.be/kNdpoYuZYVk?t=976",
+    "zaman": "16:16",
+    "kaynak_ozet": "Osmanlı'da zorla din değiştirme yoktur, gayrimüslimlere geniş dini ve hukuki özgürlükler tanınmıştır."
+   },
+   {
+    "yanlis": "Diplomatik şartların, fermanların ve devlet taleplerinin kadın elçiler üzerinden iletilmesi.",
+    "dogru": "Osmanlı diplomasisinde talepler resmi erkek elçiler ve yazılı fermanlar aracılığıyla iletilirdi.",
+    "aciklama": "Osmanlı devlet geleneğinde diplomasi kadınlar üzerinden yürütülmezdi. Elçiler fermanla gönderilir ve devletin ciddiyetini temsil ederlerdi.",
+    "konu": "diplomasi-donem",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Da Vinci's Demons",
+    "kisi": "Haşim Şahin",
+    "kaynak_url": "https://youtu.be/kNdpoYuZYVk?t=1256",
+    "zaman": "20:56",
+    "kaynak_ozet": "Osmanlı diplomasisi kadınlar üzerinden değil, resmi elçiler ve fermanlar aracılığıyla yürütülürdü."
+   },
+   {
+    "yanlis": "Sadrazamın (Çandarlı Halil Paşa) bir şehzadeyi kırbaçlatması veya ona diz çöktürüp özür diletmesi.",
+    "dogru": "Osmanlı yönetim mantığında bir vezirin geleceğin padişahı olan şehzadeye fiziksel şiddet uygulaması imkansızdır.",
+    "aciklama": "Vezirler 'kul' statüsündedir ve hanedan üyesine el kaldırmaları sülalelerinin yok edilmesine sebep olur. Şehzadeye sadece hocası (Lala) sınırlı disiplin uygulayabilirdi.",
+    "konu": "saray-devlet",
+    "donem": "15.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Rise of Empires: Ottoman",
+    "kisi": "Haşim Şahin",
+    "kaynak_url": "https://youtu.be/kNdpoYuZYVk?t=1572",
+    "zaman": "26:12",
+    "kaynak_ozet": "Bir vezirin şehzadeyi kırbaçlaması Osmanlı yönetim mantığına ve tabiatına tamamen aykırıdır."
+   },
+   {
+    "yanlis": "Fatih Sultan Mehmet'in İstanbul'un fethinde tamamen müneccimlerin ve yıldız fallarının tavsiyesiyle hareket etmesi.",
+    "dogru": "Fatih akla ve bilime inanan bir padişahtır; manevi desteği müneccimlerden değil Akşemseddin gibi sufilerden almıştır.",
+    "aciklama": "Osmanlı'da müneccimlik kurumu olsa da Fatih gibi kudretli padişahlar kararlarını bilimsel ve askeri stratejiyle alırdı. Filmdeki müneccim figürü Akşemseddin'in tarihsel rolünü gölgelemektedir.",
+    "konu": "saray-devlet",
+    "donem": "15.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Rise of Empires: Ottoman",
+    "kisi": "Haşim Şahin",
+    "kaynak_url": "https://youtu.be/kNdpoYuZYVk?t=1915",
+    "zaman": "31:55",
+    "kaynak_ozet": "Fatih müneccimlere değil bilime inanırdı; manevi motivasyonu Akşemseddin'den alırdı."
+   },
+   {
+    "yanlis": "İdam edilen bir vezirin (Merzifonlu Kara Mustafa Paşa) çocuklarının da babasının gözü önünde öldürülmesi.",
+    "dogru": "Vezirlerin çocukları genellikle öldürülmez, sadece babalarının malları müsadere edilerek devlete aktarılırdı.",
+    "aciklama": "Hanedan üyelerinin (şehzadelerin) çocukları taht kavgası riski nedeniyle öldürülse de vezir aileleri için bu geçerli değildir. Vezir idam edildiğinde ailesine geçinecek kadar pay bırakılırdı.",
+    "konu": "saray-devlet",
+    "donem": "17.yy",
+    "gecerli_1798": "evet",
+    "yapim": "The Day of the Siege: September Eleven 1683",
+    "kisi": "Haşim Şahin",
+    "kaynak_url": "https://youtu.be/kNdpoYuZYVk?t=2070",
+    "zaman": "34:30",
+    "kaynak_ozet": "Vezirlerin çocukları öldürülmezdi; sadece malları müsadere edilir ve bir kısmı aileye bırakılırdı."
+   }
+  ]
+ }
+}

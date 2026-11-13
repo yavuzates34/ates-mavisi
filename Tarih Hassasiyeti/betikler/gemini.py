@@ -41,7 +41,7 @@ def istek(yol, govde=None, sure=600):
 def uret(metin, model="gemini-3.5-flash", araclar=True, deneme=6):
     govde = {"contents": [{"role": "user", "parts": [{"text": metin}]}],
              "generationConfig": {"temperature": 0.2}}
-    if araclar:
+    if araclar and not model.startswith("gemma"):  # gemma araç desteklemiyor
         govde["tools"] = [{"url_context": {}}]
     for d in range(deneme):
         with KILIT:
@@ -54,7 +54,11 @@ def uret(metin, model="gemini-3.5-flash", araclar=True, deneme=6):
             parca = r["candidates"][0]["content"].get("parts", [])
             return "".join(p.get("text", "") for p in parca), r
         except urllib.error.HTTPError as e:
-            govde_hata = e.read().decode("utf-8", "replace")[:300]
+            govde_tam = e.read().decode("utf-8", "replace")
+            govde_hata = govde_tam[:300]
+            if e.code == 429 and "PerDay" in govde_tam:
+                # günlük ücretsiz kota bitti: beklemenin anlamı yok
+                raise RuntimeError(f"günlük kota bitti ({model})")
             if e.code in (429, 500, 503):
                 time.sleep(30 * (d + 1))
                 continue

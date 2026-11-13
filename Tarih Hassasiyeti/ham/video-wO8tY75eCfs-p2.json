@@ -1,0 +1,101 @@
+{
+ "model": "gemini/gemini-3-flash-preview",
+ "ad": "video-wO8tY75eCfs-p2",
+ "tarih": "2026-11-13 16:31",
+ "okunan_adresler": [],
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "Savaş sahnelerinde rakiplerin birbirini seçip tiyatral şekilde karşılıklı kılıç vuruşturması.",
+    "dogru": "Savaşın kaotik bir arbede (mahalle kavgası gibi) olması ve çoklu saldırıların gerçekleşmesi.",
+    "aciklama": "Gerçekte bir rakiple dövüşürken yan taraftan bir kargı veya kılıç darbesi almak çok olasıdır. Sahnelerdeki gibi birebir düellolar gerçekçilikten uzaktır.",
+    "konu": "ordu",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Genel (Dizi/Film)",
+    "kisi": "Mustafa B. Bozkurt",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=2309",
+    "zaman": "38:29",
+    "kaynak_ozet": "Filmlerde tiyatral hava vardır ama gerçekte sağdan soldan darbe yersiniz."
+   },
+   {
+    "yanlis": "Orduda sadece ok atan ve başka donanımı olmayan müstakil okçu birliklerinin gösterilmesi.",
+    "dogru": "Askerlerin ok, kılıç, gürz ve kalkan gibi birden fazla silahı aynı anda taşıması.",
+    "aciklama": "Bir asker hem okçu hem kılıç kuşanmış hem de topuz sahibi olmak zorundadır. Sadece okçulardan oluşan bir ekip yoktur, donanım çok yönlüdür.",
+    "konu": "ordu",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Genel (Dizi/Film)",
+    "kisi": "Mustafa B. Bozkurt",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=2215",
+    "zaman": "36:55",
+    "kaynak_ozet": "Okçular diye bir ekip yok, asker hem okçu hem kılıç hem topuz kullanır."
+   },
+   {
+    "yanlis": "Meydan savaşlarının saatlerce süren, bitmek bilmeyen büyük kıyımlar olarak tasvir edilmesi.",
+    "dogru": "Meydan savaşlarının dar alanda, kısa sürede bitmesi ve ölü sayısının çok yüksek olmaması.",
+    "aciklama": "İnsanların o kadar dar alanda birbirini uzun süre öldürmesi imkansızdır. Belirli bir kayıptan sonra taraflar genelde dağılır.",
+    "konu": "ordu",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Genel (Dizi/Film)",
+    "kisi": "Mustafa B. Bozkurt",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=2433",
+    "zaman": "40:33",
+    "kaynak_ozet": "Meydan savaşları genelde kısa sürer, ölü rakamları çok büyük olmaz."
+   },
+   {
+    "yanlis": "Zırhın (cevşen vb.) doğrudan kumaş kıyafetin üzerine giyilmesi.",
+    "dogru": "Zırh altına 'bağırdak' (gambeson) denilen, yorgan kalınlığında koruyucu bir katman giyilmesi.",
+    "aciklama": "Bağırdak, zırhın ağırlığını omuzlara yayar ve zırhı geçen delici darbelerin vücuda ulaşmasını engeller. Kat kat kumaştan yapılır.",
+    "konu": "giyim",
+    "donem": "genel",
+    "gecerli_1798": "kısmen",
+    "yapim": "Genel (Dizi/Film)",
+    "kisi": "Mustafa B. Bozkurt",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=3510",
+    "zaman": "58:30",
+    "kaynak_ozet": "Zırh altına bağırdak denilen yorgandan kalın bir malzeme giyilir."
+   },
+   {
+    "yanlis": "Tüm askerlerin veya Yeniçerilerin aynı renk çizme/ayakkabı giymesi.",
+    "dogru": "Rütbe ve tecrübeye göre çizme renginin değişmesi (Acemi: siyah, Usta: kırmızı, Rütbeli: sarı).",
+    "aciklama": "Yeniçerilerde kıdem belirteci olarak çizme renkleri kesin kurallara bağlıdır. Acemiler siyah, daha kıdemliler kırmızı, subaylar sarı giyer.",
+    "konu": "giyim",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Genel (Dizi/Film)",
+    "kisi": "Mustafa B. Bozkurt",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=4100",
+    "zaman": "68:20",
+    "kaynak_ozet": "Acemi siyah, usta kırmızı, rütbeli sarı çizme giyer."
+   },
+   {
+    "yanlis": "Halkın ve devlet görevlilerinin her renk ayakkabıyı serbestçe giyebilmesi.",
+    "dogru": "Dini ve sosyal statüye göre ayakkabı renginin zorunlu olması (Müslüman: sarı, Yahudi: siyah, Ulema: mavi).",
+    "aciklama": "Osmanlı'da giyim kuşam kuralları çok katıdır. Müslümanlar sarı, Yahudiler siyah, ulema sınıfı ise mavi ayakkabı giymek zorundadır.",
+    "konu": "giyim",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Genel (Dizi/Film)",
+    "kisi": "Mustafa B. Bozkurt",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=4399",
+    "zaman": "73:19",
+    "kaynak_ozet": "Müslümanlar sarı, Yahudiler siyah, ulema mavi ayakkabı giyer."
+   },
+   {
+    "yanlis": "Osmanlı zırhlarının (cevşen) sadece ağır metal plakalardan oluştuğunun sanılması.",
+    "dogru": "Osmanlı zırhlarının çoğunlukla zincir örme ve küçük plaka birleşimi (plated mail) olması.",
+    "aciklama": "Bu yapı zırha esneklik kazandırır; kumaş gibi hareket edebilir. Tamamen plaka zırhlar yerine örme zırhlar daha yaygındır.",
+    "konu": "giyim",
+    "donem": "15.yy / 16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Genel (Dizi/Film)",
+    "kisi": "Mustafa B. Bozkurt",
+    "kaynak_url": "https://youtu.be/wO8tY75eCfs?t=3048",
+    "zaman": "50:48",
+    "kaynak_ozet": "Zincir zırhın normal bir kıyafetten farkı yoktur, esnektir."
+   }
+  ]
+ }
+}

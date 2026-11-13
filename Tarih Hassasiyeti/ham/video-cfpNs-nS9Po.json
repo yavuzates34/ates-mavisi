@@ -1,0 +1,139 @@
+{
+ "model": "gemini/gemini-3.5-flash",
+ "ad": "video-cfpNs-nS9Po",
+ "tarih": "2026-11-13 15:49",
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "Padişah Sultan II. Abdülhamid'e takım elbise giydirilmesi ve kravat taktırılması",
+    "dogru": "Padişah takım elbise giymez, yeleğin üzerine redingot giyer ve kravat takmaz.",
+    "aciklama": "II. Abdülhamid döneminde padişah yelek üzerine redingot giyerdi. Dizilerde gösterildiği gibi takım elbise ve kravat kullanmazdı.",
+    "konu": "giyim",
+    "donem": "19.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Kadir Mısıroğlu",
+    "kaynak_url": "https://youtu.be/cfpNs-nS9Po?t=0",
+    "zaman": "00:00",
+    "kaynak_ozet": "Padişah takım elbise giymez, yeleğin üzerine redingot giyer ve kravat takmaz."
+   },
+   {
+    "yanlis": "Padişahın makam odasına giren kişileri oturduğu yerden karşılaması veya oturarak 'gir' demesi",
+    "dogru": "Padişah hilafet mehabetini korumak için oturduğu yerden 'gir' demez; pencereden dışarı bakıyor gibi yapıp gelen misafirini ayakta kabul eder.",
+    "aciklama": "Padişahlar mehabet gereği makam odasında misafirlerini oturdukları yerden karşılamazdı. Ayağa kalkmamış görünmek için pencereden bakıyor gibi yapıp gelen kişiyi ayakta kabul ederlerdi.",
+    "konu": "saray-devlet",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Kadir Mısıroğlu",
+    "kaynak_url": "https://youtu.be/cfpNs-nS9Po?t=62",
+    "zaman": "01:02",
+    "kaynak_ozet": "Padişah odasına gireni oturduğu yerden karşılamaz, pencereden dışarı bakar gibi yapıp ayakta kabul eder."
+   },
+   {
+    "yanlis": "Cülus merasiminde ilk biat eden kişinin Şeyhülislam dışında biri gösterilmesi ve cülus duasını sıradan bir hocanın yapması",
+    "dogru": "Protokolde Şeyhülislam Sadrazamdan öndedir; cülus merasiminde padişaha ilk biat eden makam Şeyhülislam'dır ve merasim duasını da o yapar.",
+    "aciklama": "Osmanlı cülus törenlerinde padişaha ilk biat eden makam Şeyhülislam'dır. Cülus merasimi duasını da Şeyhülislam okur.",
+    "konu": "saray-devlet",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Kadir Mısıroğlu",
+    "kaynak_url": "https://youtu.be/cfpNs-nS9Po?t=316",
+    "zaman": "05:16",
+    "kaynak_ozet": "Cülus merasiminde padişaha ilk biat eden ve duayı yapan makam Şeyhülislam'dır."
+   },
+   {
+    "yanlis": "Sultan II. Abdülhamid'in 'görev' ve 'ödev' gibi cumhuriyet dönemi modern Türkçe kelimelerle konuşturulması",
+    "dogru": "Abdülhamid dönemi saray dilinde 'görev' veya 'ödev' gibi sonradan türetilen Türkçe kelimeler kullanılmaz, ağır ve ağdalı Osmanlıca konuşulurdu.",
+    "aciklama": "Dönem dizilerinde Osmanlı padişahının öztürkçe kelimelerle konuşturulması dil kullanımına aykırıdır. Abdülhamid döneminde saray dili ve ağdalı Osmanlıca kullanılırdı.",
+    "konu": "gundelik-dil",
+    "donem": "19.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Kadir Mısıroğlu",
+    "kaynak_url": "https://youtu.be/cfpNs-nS9Po?t=346",
+    "zaman": "05:46",
+    "kaynak_ozet": "Padişah dizide görev ve ödev gibi modern Türkçe kelimelerle konuşturulmaktadır."
+   },
+   {
+    "yanlis": "Cuma hutbesinin Türkçe okunması, uzun sürdürülmesi ve hutbe sırasında cemaatin sesli dua edip amin demesi",
+    "dogru": "Cumhuriyete kadar cuma hutbesi Arapça okunurdu, 5 dakikayı geçmezdi ve cemaat hutbe okunurken namazdaki gibi sessizce oturup dinlemek zorundaydı.",
+    "aciklama": "Osmanlı'da cuma hutbesi Arapça irat edilir ve beş dakikadan uzun sürmezdi. Hutbe okunurken cemaat konuşamaz, dua edemez ve sessizce dinlerdi.",
+    "konu": "din-gundelik",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Kadir Mısıroğlu",
+    "kaynak_url": "https://youtu.be/cfpNs-nS9Po?t=412",
+    "zaman": "06:52",
+    "kaynak_ozet": "Cumhuriyete kadar cuma hutbesi Arapçadır, beş dakikayı geçmez ve cemaat ses çıkaramaz."
+   },
+   {
+    "yanlis": "Biat merasiminde tahtın kenarından sarkan püsküllü saçağın öpülmesi",
+    "dogru": "Biat merasiminde püsküllü saçak yoktur; tahttan sarkan şal parçası tutularak öper gibi yapılır ve reverans edilir.",
+    "aciklama": "Biat merasiminde tahttan sarkan püsküllü saçak bulunmazdı. Taht kenarındaki şal parçası tutularak öper gibi reverans yapılırdı.",
+    "konu": "saray-devlet",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Kadir Mısıroğlu",
+    "kaynak_url": "https://youtu.be/cfpNs-nS9Po?t=511",
+    "zaman": "08:31",
+    "kaynak_ozet": "Biatta püsküllü saçak yoktur, tahttan sarkan şal öper gibi yapılarak reverans edilir."
+   },
+   {
+    "yanlis": "Sultan II. Abdülhamid'in hayatının üçte birini marangozhanede çalışarak geçirdiğinin gösterilmesi",
+    "dogru": "Padişahlar hobi olarak bir zanaat öğrenirler ancak devleti yönetirken vakitlerinin çoğunu marangozhanede geçiremezler; padişah yalnızca dinlenmek için kısa süreliğine inerdi.",
+    "aciklama": "Sultan Abdülhamid marangozluk zanaatına sahip olsa da vaktinin çoğunu marangozhanede geçirmemiştir. Yalnızca dinlenmek amacıyla kısa sürelerle marangozhaneye inerdi.",
+    "konu": "saray-devlet",
+    "donem": "19.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Kadir Mısıroğlu",
+    "kaynak_url": "https://youtu.be/cfpNs-nS9Po?t=573",
+    "zaman": "09:33",
+    "kaynak_ozet": "Sultan Abdülhamid hayatının üçte birini marangozhanede geçirmez, dinlenmek için kısa süre inerdi."
+   },
+   {
+    "yanlis": "Padişahın ailesiyle veya başkalarıyla aynı sofrada/masada yemek yemesi",
+    "dogru": "Padişahlar mehabet-i hükümdari gereği kimseyle birlikte yemek yemez; bal mumuyla mühürlü sahanlarda gelen yemekleri tek başlarına yerlerdi.",
+    "aciklama": "Padişahlar hükümdarlık mehabetini korumak ve zehirlenme riskini önlemek için yalnız yemek yerlerdi. Yemekler mutfaktan bal mumuyla mühürlü kaplarda gelir ve mührü padişah kendisi açardı.",
+    "konu": "yemek-kahve-tutun",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Kadir Mısıroğlu",
+    "kaynak_url": "https://youtu.be/cfpNs-nS9Po?t=665",
+    "zaman": "11:05",
+    "kaynak_ozet": "Padişah kimseyle birlikte yemek yemez, mühürlü sahanlarda gelen yemeğini tek başına yer."
+   },
+   {
+    "yanlis": "Saray kadınlarının başlarının yarısının açık gezmesi ve padişahın oğlunun babasına 'baba' diye hitap etmesi",
+    "dogru": "Saray protokolünde padişahın öz oğlu dahi babasına 'Efendimiz' der; saray kadınları başı yarım açık gezmez ve senli benli konuşamaz.",
+    "aciklama": "Saray terbiyesinde şehzadeler padişaha baba yerine Efendimiz diye hitap ederdi. Ayrıca saray kadınları yarım açık kıyafetlerle gezmezlerdi.",
+    "konu": "unvan-hitap",
+    "donem": "19.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Kadir Mısıroğlu",
+    "kaynak_url": "https://youtu.be/cfpNs-nS9Po?t=948",
+    "zaman": "15:48",
+    "kaynak_ozet": "Padişahın oğlu dahi babasına baba diyemez, Efendimiz der; kadınlar başı açık gezmez."
+   },
+   {
+    "yanlis": "Medine demiryolu ihale ve projesinin İngilizlerle ilişkilendirilmesi",
+    "dogru": "Medine demiryolunda İngilizlerin hiçbir rolü yoktur; hat yarıya kadar Almanlara yaptırılmış, mühendisler işi kavrayınca Türk mühendislerince tamamlanmıştır.",
+    "aciklama": "Medine demiryolu inşaatında İngilizlerin hiçbir rolü ve ortaklığı olmamıştır. Hat yarıya kadar Almanlar, sonrasında Türk mühendisler tarafından tamamlanmıştır.",
+    "konu": "teknoloji-esya",
+    "donem": "19.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Kadir Mısıroğlu",
+    "kaynak_url": "https://youtu.be/cfpNs-nS9Po?t=981",
+    "zaman": "16:21",
+    "kaynak_ozet": "Medine demiryolunu Almanlar ve Türk mühendisler yapmıştır, İngilizlerin dahli yoktur."
+   }
+  ]
+ }
+}

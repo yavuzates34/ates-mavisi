@@ -1,0 +1,153 @@
+{
+ "model": "gemini/gemini-3-flash-preview",
+ "ad": "video-y8Jzdzp3qgA",
+ "tarih": "2026-11-13 16:33",
+ "okunan_adresler": [],
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "Fatih Sultan Mehmet'in ilk padişahlık döneminde (12-14 yaş) 36 yaşında bir oyuncu tarafından canlandırılması.",
+    "dogru": "Fatih Sultan Mehmet 1444-1446 yıllarındaki ilk saltanatında 12 ile 14 yaşları arasındaydı.",
+    "aciklama": "Dizideki oyuncu yaşça çok büyük durmaktadır. Gerçekte o tarihlerde Fatih henüz bir çocuk/ergen yaşındaydı.",
+    "konu": "diplomasi-donem",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Mehmed: Fetihler Sultanı",
+    "kisi": "Ahmet Anapalı",
+    "kaynak_url": "https://youtu.be/y8Jzdzp3qgA?t=591",
+    "zaman": "09:51",
+    "kaynak_ozet": "Fatih ilk döneminde 12-14 yaşındaydı, dizideki oyuncu 36 yaşında, bu bir komedi."
+   },
+   {
+    "yanlis": "Fatih Sultan Mehmet ile Şehzade Orhan'ın yüz yüze gelmesi ve kılıçla savaşması.",
+    "dogru": "Fatih ve Orhan, İstanbul'un fethine kadar birbirlerini hiç görmemiş ve tanımamışlardır.",
+    "aciklama": "Şehzade Orhan o dönemde Konstantinopolis'te (İstanbul) bulunmaktaydı. İkilinin ormanda birbirini kovalaması veya sıcak çatışmaya girmesi tarihi gerçekliğe aykırıdır.",
+    "konu": "saray-devlet",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Mehmed: Fetihler Sultanı",
+    "kisi": "Ahmet Anapalı",
+    "kaynak_url": "https://youtu.be/y8Jzdzp3qgA?t=806",
+    "zaman": "13:26",
+    "kaynak_ozet": "Fatih ile Orhan İstanbul'un fethine kadar birbirlerini hiç görmedi, hiç tanımadı."
+   },
+   {
+    "yanlis": "Fatih Sultan Mehmet'in Şehzade Orhan ile savaşırken attan düşürülmesi.",
+    "dogru": "Fatih hayatı boyunca sadece bir kez, 16 yaşındayken 2. Kosova Savaşı'nda attan düşmüştür.",
+    "aciklama": "Tarihi kayıtlara göre Fatih, 1448'de mızrak yarası alarak attan düşmüş ve babası II. Murad tarafından azarlanmıştır. Dizideki gibi Orhan ile olan bir kavgada düşmemiştir.",
+    "konu": "ordu",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Mehmed: Fetihler Sultanı",
+    "kisi": "Ahmet Anapalı",
+    "kaynak_url": "https://youtu.be/y8Jzdzp3qgA?t=868",
+    "zaman": "14:28",
+    "kaynak_ozet": "Fatih hayatında bir kez 16 yaşında 2. Kosova Savaşı'nda attan düştü."
+   },
+   {
+    "yanlis": "Padişah ve sadrazamın savaşın en ön saflarında sıcak çatışmaya girmesi.",
+    "dogru": "Padişah ve sadrazam savaşı tepeden yönetir, doğrudan en ön safta çarpışmazlar.",
+    "aciklama": "Sultanlar genellikle orduyu arkadan sevk ve idare eder, sadece bitirici hamle için en son saldırıya geçerler. Yeniçeriler ve azaplar önden giderken komutanın en önde kılıç sallaması usule aykırıdır.",
+    "konu": "ordu",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Mehmed: Fetihler Sultanı",
+    "kisi": "Ahmet Anapalı",
+    "kaynak_url": "https://youtu.be/y8Jzdzp3qgA?t=928",
+    "zaman": "15:28",
+    "kaynak_ozet": "Sadrazam ve padişah sıcak savaşa girmez, tepeden seyreder ve yönetirler."
+   },
+   {
+    "yanlis": "Şehzade Orhan'ın isyan sonrası Mora'ya sığınması.",
+    "dogru": "Şehzade Orhan Mora'ya hiç gitmemiş, İstanbul'da Bizans İmparatoru'nun yanında kalmıştır.",
+    "aciklama": "Orhan, Fetret Devri'nden beri Bizans'ın elinde bir koz olarak tutulmaktaydı. Dizideki Mora sığınması kurgusaldır.",
+    "konu": "saray-devlet",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Mehmed: Fetihler Sultanı",
+    "kisi": "Ahmet Anapalı",
+    "kaynak_url": "https://youtu.be/y8Jzdzp3qgA?t=993",
+    "zaman": "16:33",
+    "kaynak_ozet": "Orhan hiç Mora'ya sığınmadı, İstanbul'da kaldı."
+   },
+   {
+    "yanlis": "Fatih'in eşi Helena'nın (Eleni) bir Rum doktorun kızı ve cariye olarak gösterilmesi.",
+    "dogru": "Helena, Mora Valisi Prens Dimitrios'un kızıdır ve saraya prenses/eş statüsünde girmiştir.",
+    "aciklama": "Helena bir eczacı veya doktor kızı değil, soylu bir prensestir. Saraya cariye olarak değil, doğrudan eş olarak alınmıştır.",
+    "konu": "harem-kadin",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Mehmed: Fetihler Sultanı",
+    "kisi": "Ahmet Anapalı",
+    "kaynak_url": "https://youtu.be/y8Jzdzp3qgA?t=1054",
+    "zaman": "17:34",
+    "kaynak_ozet": "Helena doktor kızı değil, Mora Valisi'nin kızıdır ve prenses olarak evlenmiştir."
+   },
+   {
+    "yanlis": "Fatih'in 14 yaşındayken top dökümhanesini gezip Urban'dan bahsetmesi.",
+    "dogru": "Urban ve büyük topların dökülme süreci Fatih'in ikinci padişahlık dönemine aittir.",
+    "aciklama": "Dizide birinci saltanat dönemi ile ikinci saltanat dönemine ait olaylar birbirine karıştırılmıştır. Urban ile olan teknik süreç 1451 sonrasının konusudur.",
+    "konu": "teknoloji-esya",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Mehmed: Fetihler Sultanı",
+    "kisi": "Ahmet Anapalı",
+    "kaynak_url": "https://youtu.be/y8Jzdzp3qgA?t=1152",
+    "zaman": "19:12",
+    "kaynak_ozet": "Urban ve top dökümü bilgileri Fatih'in ikinci padişahlık dönemine aittir."
+   },
+   {
+    "yanlis": "Fatih Sultan Mehmet'in üvey annesi Mara Hatun'a elini öptürmesi.",
+    "dogru": "Osmanlı kültüründe padişah dahi olsa evlat, annesinin (Valide Sultan) elini öper.",
+    "aciklama": "Haremde Valide Sultanların eli öpülür, onlar el öptürmezler. Padişahın annesine elini uzatıp öptürmesi protokol ve gelenek dışıdır.",
+    "konu": "unvan-hitap",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Mehmed: Fetihler Sultanı",
+    "kisi": "Ahmet Anapalı",
+    "kaynak_url": "https://youtu.be/y8Jzdzp3qgA?t=1245",
+    "zaman": "20:45",
+    "kaynak_ozet": "Osmanlı'da evlat annesinin elini öper, padişah da olsa annesine el öptürmez."
+   },
+   {
+    "yanlis": "Buçuktepe İsyanı sırasında Şehabettin Paşa'nın evinde saldırıya uğraması.",
+    "dogru": "Şehabettin Paşa isyanı haber alınca doğrudan padişahın sarayına sığınmıştır.",
+    "aciklama": "Dizide Zağanos Paşa'nın onu evinde kurtarması kurgusal bir aksiyon sahnesidir. Gerçekte paşa can güvenliği için saraya gitmiştir.",
+    "konu": "saray-devlet",
+    "donem": "15.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Mehmed: Fetihler Sultanı",
+    "kisi": "Ahmet Anapalı",
+    "kaynak_url": "https://youtu.be/y8Jzdzp3qgA?t=1372",
+    "zaman": "22:52",
+    "kaynak_ozet": "Şehabettin Paşa isyanı duyunca saraya sığındı, evinde saldırıya uğramadı."
+   },
+   {
+    "yanlis": "Halime Hatun'un Osman Gazi'yi doğururken ölmesi.",
+    "dogru": "Halime Hatun, Osman Gazi'nin beylik dönemini ve 30'lu yaşlarını görecek kadar yaşamıştır.",
+    "aciklama": "Tarihi gerçeklikte Halime Hatun uzun ömürlü olmuştur. Dizide oyuncu ayrılığı gibi sebeplerle erken öldürülmesi tarihi bir hatadır.",
+    "konu": "harem-kadin",
+    "donem": "13.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Diriliş Ertuğrul",
+    "kisi": "Ahmet Anapalı",
+    "kaynak_url": "https://youtu.be/y8Jzdzp3qgA?t=1495",
+    "zaman": "24:55",
+    "kaynak_ozet": "Halime Hatun, Osman Gazi doğarken ölmedi; onun beylik dönemini gördü."
+   },
+   {
+    "yanlis": "Osmanlı ordusunun dizilerde sürekli siyah ve koyu renkli kıyafetler giymesi.",
+    "dogru": "Osmanlı ordusu oldukça rengarenktir; Yeniçeriler kırmızı, diğer sınıflar yeşil gibi renkler giyer.",
+    "aciklama": "Dizilerde 'ninja' gibi simsiyah giyinen askerler gerçeği yansıtmamaktadır. Her askeri sınıfın kendine has belirgin renkleri ve üniformaları vardır.",
+    "konu": "giyim",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Genel",
+    "kisi": "Ahmet Anapalı",
+    "kaynak_url": "https://youtu.be/y8Jzdzp3qgA?t=2019",
+    "zaman": "33:39",
+    "kaynak_ozet": "Osmanlı ordusu rengarenktir; Yeniçeriler kırmızı, diğerleri yeşil giyer, simsiyah giyinmezler."
+   }
+  ]
+ }
+}

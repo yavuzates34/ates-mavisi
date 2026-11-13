@@ -1,0 +1,75 @@
+{
+ "model": "gemini/gemini-3-flash-preview",
+ "ad": "video-y_qAMTz0C88",
+ "tarih": "2026-11-13 16:33",
+ "okunan_adresler": [],
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "Hürrem Sultan'ın hareme girdikten çok sonra veya dizi akışı içerisinde Müslüman olması.",
+    "dogru": "Cariyeler hareme girdiği anda Müslüman edilir ve Türkçe öğrenmeye başlarlar.",
+    "aciklama": "Müslüman olmadan haremin iç kısımlarına girilmesi mümkün değildir. Hürrem'in sonradan Müslüman olması bilgisi bir fantezi ve bilgisizlik ürünüdür.",
+    "konu": "harem-kadin",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "İlber Ortaylı",
+    "kaynak_url": "https://youtu.be/y_qAMTz0C88?t=683",
+    "zaman": "11:23",
+    "kaynak_ozet": "Hürrem'in sonradan Müslüman olması doğru değil; girdiği anda Müslüman edilir."
+   },
+   {
+    "yanlis": "16. yüzyıl ve sonrasındaki haremde Hristiyan dinini koruyan prenseslerin/eşlerin bulunması.",
+    "dogru": "16. yüzyıldan itibaren dışarıdan prenses (mavi kanlı) gelin alma usulü bitmiştir.",
+    "aciklama": "Eski dönemlerde (2. Murat gibi) siyasi antlaşmalarla gelen prensesler dinlerini koruyabilirdi. Ancak klasik dönemde tüm cariyeler Müslüman yapılmak zorundaydı.",
+    "konu": "harem-kadin",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "İlber Ortaylı",
+    "kaynak_url": "https://youtu.be/y_qAMTz0C88?t=775",
+    "zaman": "12:55",
+    "kaynak_ozet": "16. asırda prenses gelin alma faslı bitti, gelenler cariye ve Müslüman yapılıyor."
+   },
+   {
+    "yanlis": "Haremin bir 'Harvard' seviyesinde yüksek akademik eğitim merkezi olarak tanımlanması.",
+    "dogru": "Harem bir eğitim yeridir ancak Batı tarzı bir üniversite veya yüksek bilim merkezi değildir.",
+    "aciklama": "Haremde okuma-yazma, din, musiki ve usul-erkan öğretilir. Burayı bir bilim akademisi gibi yansıtmak abartılı bir yaklaşımdır.",
+    "konu": "saray-devlet",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Belirtilmemiş",
+    "kisi": "İlber Ortaylı",
+    "kaynak_url": "https://youtu.be/y_qAMTz0C88?t=475",
+    "zaman": "07:55",
+    "kaynak_ozet": "Haremde insan yetiştirilir ama orası bir Harvard değildir."
+   },
+   {
+    "yanlis": "Hareme giren her kadının ömrünün sonuna kadar orada kapalı kalması.",
+    "dogru": "Cariyelerin çoğu 5-7 yıllık eğitimden sonra 'çırak edilerek' (evlendirilerek) dışarı gönderilirdi.",
+    "aciklama": "Haremde sadece çıkamayanlar, talibi olmayanlar veya idari görevli (memur) olan kadınlar kalırdı. Çoğunluk dışarıdaki hayatın içine karışırdı.",
+    "konu": "harem-kadin",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Belirtilmemiş",
+    "kisi": "İlber Ortaylı",
+    "kaynak_url": "https://youtu.be/y_qAMTz0C88?t=865",
+    "zaman": "14:25",
+    "kaynak_ozet": "Cariyeler haremde çok oturmuyorlar, 5-7 senede olgunlaşıp çırak edilip gidiyorlar."
+   },
+   {
+    "yanlis": "Padişahın cariyeleri havuzda yüzerken yukarıdan izlediği fantezi sahneleri.",
+    "dogru": "Taşlıktaki havuz ve çevresi padişahın dinlenme alanı olup dizilerdeki sunum kurgusal bir imajdır.",
+    "aciklama": "Haremin taşlığındaki havuz sahneleri tarihsel gerçeklikten ziyade kabul edilmiş bir dizi imajıdır. Mekanların kullanımı dizilerde gösterildiği gibi serbest değildir.",
+    "konu": "sehir-mekan",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "İlber Ortaylı",
+    "kaynak_url": "https://youtu.be/y_qAMTz0C88?t=955",
+    "zaman": "15:55",
+    "kaynak_ozet": "Dizilerdeki havuz sahneleri gerçeği yansıtmayan, kabul edilmiş bir imajdır."
+   }
+  ]
+ }
+}

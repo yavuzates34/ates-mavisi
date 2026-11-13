@@ -1,0 +1,101 @@
+{
+ "model": "gemini/gemini-3-flash-preview",
+ "ad": "video-vU_1Rx-3yKU",
+ "tarih": "2026-11-13 16:31",
+ "okunan_adresler": [],
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "Hatice Sultan ile Sadrazam Pargalı İbrahim Paşa'nın birbirlerine aşık olup evlenmeleri.",
+    "dogru": "Pargalı İbrahim Paşa'nın Muhsine Hatun adında bir kadınla evli olduğu bilinmektedir.",
+    "aciklama": "2000'li yılların sonunda yapılan araştırmalar, Hatice Sultan ve İbrahim Paşa evliliğine dair bir kanıt olmadığını ortaya koymuştur. Hatice Sultan'ın ilk evliliğini Çoban Mustafa Paşa ile yaptığı düşünülmektedir.",
+    "konu": "saray-devlet",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "SweatATears",
+    "kaynak_url": "https://youtu.be/vU_1Rx-3yKU?t=45",
+    "zaman": "00:45",
+    "kaynak_ozet": "Hatice Sultan ve Pargalı İbrahim'in evlendiğine dair tarihi bir kanıt bulunmamaktadır."
+   },
+   {
+    "yanlis": "Hürrem Sultan'ın hareme gelir gelmez eğitim almadan ve Türkçe öğrenmeden padişahın huzuruna çıkarılması.",
+    "dogru": "Cariyeler hareme alındıktan sonra yıllarca eğitim görür ve ancak ondan sonra padişahın huzuruna çıkabilirdi.",
+    "aciklama": "Osmanlı harem geleneğinde disiplin ve eğitim esastır; bir cariyenin dil ve adap öğrenmeden padişahla görüşmesi mümkün değildir. Hürrem Sultan da saraya geldiğinde Kanuni henüz şehzadedir.",
+    "konu": "harem-kadin",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "SweatATears",
+    "kaynak_url": "https://youtu.be/vU_1Rx-3yKU?t=93",
+    "zaman": "01:33",
+    "kaynak_ozet": "Cariyeler yıllarca eğitim gördükten sonra padişahın karşısına çıkarılırdı."
+   },
+   {
+    "yanlis": "Yeni padişahın, babasından kalan cariyeleri kendi haremine katması.",
+    "dogru": "Yeni padişah tahta geçtiğinde, eski padişahın harem sakinleri harçlıkları verilerek serbest bırakılır veya gönderilirdi.",
+    "aciklama": "Osmanlı geleneğinde babanın cariyelerini devralmak usule aykırıdır ve saygısızlık kabul edilir. Bu cariyeler genellikle Eski Saray'a gönderilirdi.",
+    "konu": "harem-kadin",
+    "donem": "16.yy",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "SweatATears",
+    "kaynak_url": "https://youtu.be/vU_1Rx-3yKU?t=110",
+    "zaman": "01:50",
+    "kaynak_ozet": "Yeni padişah tahta geçtiğinde eski haremi kendi haremine katmaz, onları serbest bırakırdı."
+   },
+   {
+    "yanlis": "Kanuni Sultan Süleyman döneminin başında haremin Topkapı Sarayı'nda bulunması.",
+    "dogru": "O dönemde Harem ve devletin yönetildiği Topkapı Sarayı birbirinden ayrıydı; Harem, Eski Saray'daydı.",
+    "aciklama": "Haremin devlet işlerine karışmaması için fiziksel olarak ayrı tutulması bir kuraldı. Harem ancak daha sonraki yıllarda Topkapı Sarayı'na taşınmıştır.",
+    "konu": "sehir-mekan",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "SweatATears",
+    "kaynak_url": "https://youtu.be/vU_1Rx-3yKU?t=165",
+    "zaman": "02:45",
+    "kaynak_ozet": "Kanuni döneminde harem Topkapı'da değil, Edirne'deki veya Beyazıt'taki Eski Saray'daydı."
+   },
+   {
+    "yanlis": "Cariyelerin 19. yüzyıl Avrupa modasını yansıtan dekolteli ve modern kıyafetler giymesi.",
+    "dogru": "Cariyelerin kıyafetleri dönemin (16. yüzyıl) Osmanlı giyim kuşam geleneklerine uygun olmalıydı.",
+    "aciklama": "Dizideki kıyafet seçimleri tarihi gerçeklikten ziyade görsel estetik ve 19. yüzyıl modası baz alınarak hazırlanmıştır. 16. yüzyıl Osmanlı kadın giyimi çok daha kapalı ve farklı formdadır.",
+    "konu": "giyim",
+    "donem": "16.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "SweatATears",
+    "kaynak_url": "https://youtu.be/vU_1Rx-3yKU?t=185",
+    "zaman": "03:05",
+    "kaynak_ozet": "Dizideki cariye kıyafetleri dönemi değil, 19. yüzyıl Avrupa modasını yansıtmaktadır."
+   },
+   {
+    "yanlis": "Padişahın Divan toplantılarına bizzat katılıp devlet adamlarıyla doğrudan tartışması.",
+    "dogru": "Fatih Sultan Mehmet döneminden itibaren padişahlar Divan toplantılarına bizzat katılmazdı.",
+    "aciklama": "Padişahlar toplantıları 'Kafes' veya 'Kasr-ı Adl' denilen gizli bir bölümden izler, varlıklarını hissettirir ama doğrudan masada oturmazlardı. Kararlar daha sonra padişaha arz edilirdi.",
+    "konu": "saray-devlet",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "SweatATears",
+    "kaynak_url": "https://youtu.be/vU_1Rx-3yKU?t=205",
+    "zaman": "03:25",
+    "kaynak_ozet": "Fatih'ten itibaren padişahlar Divan toplantılarını kafes arkasından takip ederlerdi."
+   },
+   {
+    "yanlis": "Padişahın saray içinde veya dışında başı açık (kavuksuz/takkesiz) gezmesi.",
+    "dogru": "Osmanlı geleneğinde padişahın ve devlet adamlarının başı açık gezmesi geleneklere tamamen aykırıdır.",
+    "aciklama": "Padişahlar her zaman statülerine uygun bir başlık (kavuk, takke, üsküf vb.) takmak zorundaydı. Başı açıklık o dönemde bir ciddiyetsizlik veya kural ihlali olarak görülürdü.",
+    "konu": "giyim",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "SweatATears",
+    "kaynak_url": "https://youtu.be/vU_1Rx-3yKU?t=225",
+    "zaman": "03:45",
+    "kaynak_ozet": "Osmanlı geleneğinde padişahın başı açık gezmesi mümkün olmayan bir durumdur."
+   }
+  ]
+ }
+}

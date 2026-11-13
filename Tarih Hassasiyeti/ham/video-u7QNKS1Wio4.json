@@ -1,0 +1,101 @@
+{
+ "model": "gemini/gemini-3-flash-preview",
+ "ad": "video-u7QNKS1Wio4",
+ "tarih": "2026-11-13 16:31",
+ "okunan_adresler": [],
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "Sultan II. Abdülhamid'in döneminde hiç toprak kaybedilmediği iddiası.",
+    "dogru": "Abdülhamid döneminde yaklaşık 1,5 milyon kilometrekare toprak kaybedilmiştir.",
+    "aciklama": "Konuşmacı, bu bilginin yanlış olduğunu ve Abdülhamid'in Türkiye'nin iki katı kadar toprak kaybettiğini belirtmektedir.",
+    "konu": "diplomasi-donem",
+    "donem": "19.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://youtu.be/u7QNKS1Wio4?t=30",
+    "zaman": "00:30",
+    "kaynak_ozet": "Sultan Hamit tek karış toprak kaybetmedi iddiası yanlıştır, 1,5 milyon kilometrekare kaybetmiştir."
+   },
+   {
+    "yanlis": "Sultan Abdülhamid'in saray dışına çıkıp elinde tabancayla baskın yapması ve sefir dövmesi.",
+    "dogru": "Abdülhamid 30 yıl boyunca saray dışına çıkmamıştır ve fiziksel şiddet içeren bu tür eylemleri yoktur.",
+    "aciklama": "Dizide yaratılan aksiyon odaklı Abdülhamid figürünün gerçekle ilgisi olmayan uydurma bir karakter olduğu vurgulanmaktadır.",
+    "konu": "saray-devlet",
+    "donem": "19.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Payitaht Abdülhamid",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://youtu.be/u7QNKS1Wio4?t=121",
+    "zaman": "02:01",
+    "kaynak_ozet": "30 sene saraydan çıkmayan Abdülhamid'in elinde tabancayla baskına gitmesi uydurmadır."
+   },
+   {
+    "yanlis": "Kanuni Sultan Süleyman'ın ömrünün neredeyse tamamını seferlerde geçirdiği algısı.",
+    "dogru": "Kanuni, hayatının ve saltanatının büyük bir kısmını seferde değil sarayda geçirmiştir.",
+    "aciklama": "Dizilerdeki yaygın kanının aksine, padişahın zamanının çoğunu saray merkezli geçirdiği ifade edilmektedir.",
+    "konu": "diplomasi-donem",
+    "donem": "16.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://youtu.be/u7QNKS1Wio4?t=669",
+    "zaman": "11:09",
+    "kaynak_ozet": "Kanuni hayatının çoğunu seferde geçirmemiş, vaktini sarayda geçirmiştir."
+   },
+   {
+    "yanlis": "Padişahın (Kanuni veya Abdülhamid) eline tabanca alıp birilerine vurması veya bizzat şiddet uygulaması.",
+    "dogru": "Osmanlı padişahlarının bu şekilde bizzat fiziksel saldırıda bulunması veya tabancayla adam vurması söz konusu değildir.",
+    "aciklama": "Senaryo gereği eklenen bu tür sahnelerin tarihi gerçeklikte yeri olmadığı belirtilmektedir.",
+    "konu": "saray-devlet",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl / Payitaht Abdülhamid",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://youtu.be/u7QNKS1Wio4?t=733",
+    "zaman": "12:13",
+    "kaynak_ozet": "Sultanın tabancayı alıp herife vurması gibi sahneler gerçekte yoktur."
+   },
+   {
+    "yanlis": "Kaşıkçı Elması'nın Topkapı Sarayı'ndaki Kutsal Emanetler Dairesi'nde muhafaza edildiği bilgisi.",
+    "dogru": "Kaşıkçı Elması kutsal emanetlerde değil, sarayın Hazine dairesinde bulunmaktadır.",
+    "aciklama": "Elmasın bulunduğu yer konusundaki yaygın yanlışlık düzeltilerek hazineye ait olduğu vurgulanmaktadır.",
+    "konu": "teknoloji-esya",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://youtu.be/u7QNKS1Wio4?t=1039",
+    "zaman": "17:19",
+    "kaynak_ozet": "Kaşıkçı Elması kutsal emanetlerde değil, hazinededir."
+   },
+   {
+    "yanlis": "Topkapı Sarayı'nın ısıtılamadığı veya modern sistemlerle ısıtıldığı düşüncesi.",
+    "dogru": "Saray mangallarla ısıtılır, duvarlara asılan kalın kumaşlar ise yalıtım sağlayarak ısıyı korurdu.",
+    "aciklama": "Sarayın kışın nasıl yaşanabilir hale getirildiği, geleneksel mangal ve tekstil yalıtımı yöntemiyle açıklanmaktadır.",
+    "konu": "sehir-mekan",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://youtu.be/u7QNKS1Wio4?t=1291",
+    "zaman": "21:31",
+    "kaynak_ozet": "Saray mangalla ısıtılır, duvarlardaki kumaşlar ısıyı korumaya yarardı."
+   },
+   {
+    "yanlis": "Şehzadelerin saray içinde suikastlara kurban giderek öldürülmesi.",
+    "dogru": "Şehzadeler suikastla değil, devletin bekası için resmi bir karar doğrultusunda idam edilirdi.",
+    "aciklama": "Ölümlerin gizli birer suikast değil, hanedan hukukuna dayanan birer infaz (idam) olduğu belirtilmektedir.",
+    "konu": "saray-devlet",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "genel",
+    "kisi": "Murat Bardakçı",
+    "kaynak_url": "https://youtu.be/u7QNKS1Wio4?t=1321",
+    "zaman": "22:01",
+    "kaynak_ozet": "Şehzadeler suikaste kurban gitmez, devletin bekası için idam edilirdi."
+   }
+  ]
+ }
+}

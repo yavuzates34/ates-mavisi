@@ -51,6 +51,17 @@ Betikler: `betikler/`. Ham sayfa dökümleri ve iş klasörleri `ham-sayfalar/` 
 - Kalan 32 çıkarım işi (27 video parçası, 5 konu) `betikler/gemini.py isler ham-sayfalar/isler-kalan1.json 3` ile Gemini'de çalışıyordu; günlük `ham-sayfalar/asama1-gemini.log`. Betik kaldığı yerden devam eder.
 - Doğrulama henüz BAŞLAMADI. Hazır: `dogrula.py` iki doğrulayıcı tanımlı (A gemini-3.5-flash, B gemini-3.1-flash-lite); kaynağı gerçekten okunmamış onaylar otomatik olarak belirsize iniyor.
 
+## Devir – 13 Kasım 2026, 15:50: Tarih Orkestratörü II
+
+İşi "Tarih Orkestratörü II" devraldı (Claude Code alt ajanı, Opus 5.5; Kütüphaneci başlattı; önceki orkestratörün bağlamı doldu).
+- 15:50 OpenCode deneme çağrısı (mimo-v2.6, glm-5.3, deepseek-v4.1 free): kota hâlâ dolu.
+- `dogrula.py` değişti: istemde Gemini'nin arama aracı olmadığı için TDV adresini tahmin etme yönergesi; her kayda `saman_adam` (kimsenin yapmadığı yapay yanlış mı) alanı; B doğrulayıcısı `DOG_B` ortam değişkeniyle seçilebilir; OpenCode çıktılarında "kaynak gerçekten okundu mu" denetimi günlükteki `% WebFetch <adres>` satırlarından yapılıyor.
+- 16:24 Gemini çıkarım süreci işlerin çoğunda "deneme sınırı aşıldı" verdi. Neden: gemini-3.5-flash'ın ücretsiz katmanda GÜNLÜK sınırı 20 istek (API yanıtı: GenerateRequestsPerDayPerProjectPerModel-FreeTier, 20; yenilenmesine ~18,5 saat). Süreç durduruldu. `gemini.py` artık günlük kota hatasında boşuna beklemiyor; gemma modellerine araç (url_context) göndermiyor.
+- Model taraması (16:30): çalışan ücretsiz modeller gemini-3-flash-preview (url_context kullanmadı), gemini-3.5-flash-lite ve gemini-3.1-flash-lite (url_context ile TDV okuyor), gemma-4-31b-it (araçsız). gemini-2.5-* yeni kullanıcıya kapalı.
+- 16:35 kalan 19 video çıkarım işi gemini-3-flash-preview ile bitti. Çıkarım tamam: ham 724 madde (247'si video), 97 web kaynağı. `birlestir.py topla` çalıştı; tekilleştirme 15 iş gemini-3-flash-preview ile başladı (`ham-sayfalar/tekil.log`).
+- TDV sayfaları tarayıcı kimliğiyle (User-Agent) düz curl'e 200 veriyor; örnekleme denetiminde kaynak okumak için kullanılabilir.
+- `kilavuz.py` değişti: eleştiri kaynağı olmayan ve doğrulayıcılardan birinin saman adam dediği maddeler kılavuza girmiyor; kılavuzdaki video ve eleştiri kaynaklı madde sayısı yazılıyor.
+
 ### Devam adımları
 1. `cd betikler; set PYTHONUTF8=1`; kalan çıkarımı bitir: `python gemini.py isler ../ham-sayfalar/isler-kalan1.json 3`
 2. `python birlestir.py topla` → `python birlestir.py isler > ../ham-sayfalar/isler-tekil.json` → `python gemini.py isler ../ham-sayfalar/isler-tekil.json 2` → `python birlestir.py uygula`

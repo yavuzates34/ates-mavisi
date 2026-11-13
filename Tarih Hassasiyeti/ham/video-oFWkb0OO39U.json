@@ -1,0 +1,62 @@
+{
+ "model": "gemini/gemini-3-flash-preview",
+ "ad": "video-oFWkb0OO39U",
+ "tarih": "2026-11-13 16:30",
+ "okunan_adresler": [],
+ "veri": {
+  "maddeler": [
+   {
+    "yanlis": "Yabancı kökenli cariyelerin saraya geldikten kısa süre sonra kusursuz Türkçe konuşması.",
+    "dogru": "Cariyelerin uzun süre aksanlı konuşması.",
+    "aciklama": "Ruthenia gibi uzak coğrafyalardan gelen birinin birkaç ayda mükemmel Türkçe öğrenmesi imkansızdır, aksan bir zarurettir.",
+    "konu": "gundelik-dil",
+    "donem": "genel",
+    "gecerli_1798": "evet",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Meral Okay",
+    "kaynak_url": "https://youtu.be/oFWkb0OO39U?t=60",
+    "zaman": "01:00",
+    "kaynak_ozet": "Ruthenia'dan gelen bir hatunun 3 ayda çok iyi Türkçe konuşması mümkün değildir."
+   },
+   {
+    "yanlis": "16. yüzyılın başında Haremin Topkapı Sarayı (Yeni Saray) içerisinde yer alması.",
+    "dogru": "Haremin 1530'ların sonuna kadar Eski Saray'da (Beyazıt) bulunması.",
+    "aciklama": "Kanuni döneminin ilk yıllarında Harem, bugün İstanbul Üniversitesi'nin bulunduğu Beyazıt'taki Eski Saray'daydı.",
+    "konu": "saray-devlet",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Erhan Afyoncu",
+    "kaynak_url": "https://youtu.be/oFWkb0OO39U?t=424",
+    "zaman": "07:04",
+    "kaynak_ozet": "Harem'in 1530'lu yılların sonuna kadar Eski Saray'da kaldığını biliyoruz."
+   },
+   {
+    "yanlis": "Padişahın haremi ziyaret etmek için sadece saray koridorlarında yürümesi.",
+    "dogru": "Padişahın atla veya arabayla Eski Saray'a (Beyazıt) gitmesi.",
+    "aciklama": "Harem henüz Topkapı'ya taşınmadığı için padişah ailesini görmek için iki saray arasında yolculuk yapardı.",
+    "konu": "saray-devlet",
+    "donem": "16.yy",
+    "gecerli_1798": "hayır",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Erhan Afyoncu",
+    "kaynak_url": "https://youtu.be/oFWkb0OO39U?t=454",
+    "zaman": "07:34",
+    "kaynak_ozet": "Padişah sık sık arabayla Eski Saray'a, yani hareme giderdi."
+   },
+   {
+    "yanlis": "Topkapı Sarayı'ndaki büyük Harem dairelerinin sarayın kuruluşundan beri var olması.",
+    "dogru": "Harem dairelerinin Hürrem Sultan döneminde inşa edilip genişletilmesi.",
+    "aciklama": "Topkapı Sarayı'ndaki haremi asıl geliştiren, genişleten ve büyük daireleri yaptıran kişi Hürrem Sultan'dır.",
+    "konu": "saray-devlet",
+    "donem": "16.yy",
+    "gecerli_1798": "kısmen",
+    "yapim": "Muhteşem Yüzyıl",
+    "kisi": "Meral Okay",
+    "kaynak_url": "https://youtu.be/oFWkb0OO39U?t=636",
+    "zaman": "10:36",
+    "kaynak_ozet": "Haremi geliştiren ve genişleten aktör Hürrem'dir, büyük daireler onun zamanında yapıldı."
+   }
+  ]
+ }
+}
