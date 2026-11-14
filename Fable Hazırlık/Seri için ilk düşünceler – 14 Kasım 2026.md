@@ -118,3 +118,9 @@ Fable'ın şifre önerisi: 3625. Dört kelimenin harf sayıları sırasıyla 3 (
 Yavuz'un kararı: yolculuk gerçekleşene kadar iki Yavuz da sahne alır. Cumhuriyet Yavuz'u konforlu ve şen şakrak yaşar; Sevr Yavuz'u kıyamet gibi bir hayat sürer. Sevr Yavuz'u kendisinin yalnızca şanslı kopya olduğunu bilir.
 
 Açık soru (Fable): bu bölümler seriden önce okunursa okur ikinci Yavuz'un 1798'de olduğunu baştan bilir. İki yol var: 0. kitap ana seriden sonra yayımlanır ve sürpriz korunur; ya da önce yayımlanır ve sürpriz yerine okurun bilip kahramanın bilmediği uzun bir gerilim kurulur. Ölenin kim olduğu sürprizi iki yolda da korunur.
+
+## Açılışın dengesi (14 Kasım 2026 23:49)
+
+Yavuz'un kararı: gerilim yolu. Okur iki Yavuz'u baştan bilir. Hikâye iki 2026 ile açılır, yolculuk makul ölçüde çabuk başlar. Sonra anlatı Cumhuriyet Yavuz'uyla sürer; Sevr Yavuz'u sırası gelene kadar göze batmaz, sırası gelince sahne alır ve ölür, anlatı yine Cumhuriyet Yavuz'uyla devam eder. Ani şaşırtma "hikâyeyi kurtarma" gibi okunur; uzun çift açılış okuru yorar. Bağımsız 0. kitap fikri kısa bir açılışa iner.
+
+Fable'ın önerileri (karar değil): açılış iki ya da üç bölümü geçmez; Sevr Yavuz'u yolculuktan sonra kendi gözünden hiç anlatılmaz, yalnız izleriyle var olur (kayıp sandık, kovan, Cumhuriyet Yavuz'una mal edilen işler); okur her izde onu tanır, kahraman tanımaz.
