@@ -73,3 +73,8 @@ Kütüphaneci "kotarabilecek miyiz" sorusuna eldeki iki buçuk kitabı esas alar
 ## 13 Kasım 2026 19:25 (fa42d7d9) — Fable oturumunu Yavuz kuracak
 
 Yavuz sıralama önerisine (Osmanlı kılavuzu bitince Fable oturumu, Britanya ve Fransa dalgası Codex'te aynı anda) "bu kısımda haklısın" dedi; ama Fable oturumunu ve bu düzeni bu akşam kendisi kuracak: "sen kendin bir şeye dokunma şimdilik". Kütüphaneci zip'e, Fable oturumuna ve ikinci dalgaya dokunmaz. Not: "ilk seri deneme eseri, yayımlanmayacak" bilgisi 12 Kasım dökümünde açıkça geçmiyor; o gün Yavuz "3. kitabı muhtemelen bitirmeyeceğim", "yeni senaryo master'da" ve "bu seri kötü değil, asla silmem" demişti, ayrıca kitabı ElevenReader gibi platformlara koyma fikrinden söz etmişti.
+
+## 14 Kasım 2026 17:17 (fa42d7d9) — Yavuz'un karakter sheet'leri
+
+Yavuz kendi karakter sheet'lerini (kalpaklı üniforma, siyah takım, 1799 Osmanlı kıyafeti) ve göz rengi kodlarını verdi; `Karakterler/Yavuz Ateş/` altına kaydedildi. Heterokromi gerçek: kendi sol gözü mavi `#729FD5`, sağ gözü yeşil `#999651`; karşıdan bakan sol yeşil, sağ mavi görür. Renkte sheet 1 esas. Boy 184 cm, kilo 80 kg. İlk serinin defterindeki 1,82 ve tek renk 'yeşil-mavi' göz anlatımından farklı; yeni seride bu sayfa esas.
+
