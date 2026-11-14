@@ -21,6 +21,8 @@ Yavuz Ateş alternatif tarih roman serisinin (1798 Osmanlı, zaman yolcusu mühe
 
 - 14 Kasım 2026 17:20: Yeni asıl serinin kahramanı Yavuz'un kendi görünüşüyle kurulur; hikâye "bu halimdeki bir paralel evrende" sürer (Yavuz). Görsel ve fiziksel başvuru: `Karakterler/Yavuz Ateş/Yavuz Ateş – Karakter Sayfası.md` (184 cm, 80 kg, heterokromi: kendi sol gözü mavi `#729FD5`, sağ gözü yeşil `#999651`). İlk serideki 1,82 ve tek renk göz anlatımı yeni seride geçersiz.
 
+- 14 Kasım 2026 22:04, Yavuz (Fable oturumunda) iki Yavuz kurgusunu kabul etti ve yönünü çevirdi: ölen Sevr Yavuz'u olur ama Cumhuriyet Yavuz'u sanılır; sağ kalan Cumhuriyet Yavuz'udur. Gerekçesi: sürpriz olur ama okuru Erwin Smith'in ölümü gibi yasa boğmaz; Atatürk'ü örnek alan, kan dökmeden zekâ ve bilişsel işkenceyle öç alan odur; Sevr Yavuz'u sağ kalsa Britanya'da taş üstünde taş bırakmazdı; İngilizler önce sevinir, sonra asıl ölümcül ve durdurulamaz olanın soğukkanlı olan olduğunu anlar. Fable'ın 14 Kasım'daki "birinci devre Cumhuriyet Yavuz'unun ölümüyle biter" önerisi düştü.
+
 ## Current status
 
 - 1. Kitap Mühür (6 bölüm) ve 2. Kitap Ada (5 bölüm + ara sahne) tamam. 3. Kitap Yıldırım'da 4 bölüm ve 2 ara sahne (Kutu, Mühendis) var; defter planı artık 10 bölüm ve 4 ara sahne (Kutu, Mühendis, Mihaylovski, Korfu).

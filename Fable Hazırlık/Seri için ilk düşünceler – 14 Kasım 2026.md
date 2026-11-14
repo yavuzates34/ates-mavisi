@@ -64,3 +64,9 @@ Kılavuzun en güvenilir on maddesinden biri padişahın Divan toplantısına ot
 ## Dizi Defteri için görüşüm
 
 Eski defter güncellenmemeli. O, ilk serinin kanonudur ve `ilk-seri` dalında dondurulmuş hâliyle değerlidir. Yeni seri için `master`'da sıfırdan yeni bir defter kurulmalı; eskisi başvuru olarak ayrı bir klasöre alınmalı. Yeni defterin eskisinden farklı taşıması gerekenler: kararlar ile olasılıkların tarihli ayrımı; evren kuralları ve Yavuz'un neyi bilip neyi bilmediği; iki taraflı bir "kim neyi biliyor, karşı tarafın neyi bildiğini sanıyor" çizelgesi; İngilizlerin Yavuz hakkındaki varsayımlarının zaman içindeki seyri; sandık envanteri ve tükenme; Yavuz'un okuma zevki. Yavuz "yap" demeden bu defter açılmayacak.
+
+## Yavuz'un cevabı (14 Kasım 2026 22:04)
+
+Yavuz iki Yavuz kurgusunu kabul etti, ölümü ters çevirdi: ölen Sevr Yavuz'u olur ama herkes onu Cumhuriyet Yavuz'u sanır; sağ kalan Cumhuriyet Yavuz'udur. Yukarıdaki "Devreler" bölümünde birinci Yavuz'un ölümüyle biten kurgu bu yüzden geçersizdir. Gerekçesi: sürpriz olur ama okuru yasa boğmaz; kan dökmeden öç alan Cumhuriyet Yavuz'udur, Sevr Yavuz'u sağ kalsa Britanya'da taş üstünde taş bırakmazdı; İngilizler önce sevinir, sonra asıl durdurulamaz olanın soğukkanlı olan olduğunu anlar.
+
+Fable'ın buna eklediği öneriler (karar değil): iki Yavuz ölümden önce hiç karşılaşmaz, Cumhuriyet Yavuz'u ötekinin varlığını kendi yüzünü taşıyan cesetle öğrenir; Sevr dünyası ölenin bıraktığı defter ve sandıklardan okunur; Sevr Yavuz'unun ölmeden önce yaptığı kanlı işler Âsaf'a mal edilir; Cumhuriyet Yavuz'u bir süre ölü kalmayı seçer.
