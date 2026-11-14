@@ -19,6 +19,8 @@ Yavuz Ateş alternatif tarih roman serisinin (1798 Osmanlı, zaman yolcusu mühe
 
 - 13 Kasım 2026 19:09: Yavuz netleştirdi: ilk seri (Mühür, Ada, yarım Yıldırım) yayımlanmayacak deneme eserleridir. Asıl seri `master` üzerinde yazılacak. Sıra: önce tarih hassasiyeti kılavuzları biter; sonra ayrı bir oturumda Fable modeli orkestratör olarak çalışır, Opus alt ajanlarıyla üç ChatGPT oturumunu (zip) okutur, parçaları kuş bakışı birleştirir ve yeni asıl seri için Yavuz'la diyaloğa geçer. Kütüphaneci bu oturumu başlatmaz; zip'i açmaz. Yayın: ElevenReader gibi platformlara konacak kitap yeni asıl seri olacak; ilk seri silinmez (`ilk-seri` dalında korunur) ama yayımlanmaz (Yavuz, 19:27).
 
+- 14 Kasım 2026 17:20: Yeni asıl serinin kahramanı Yavuz'un kendi görünüşüyle kurulur; hikâye "bu halimdeki bir paralel evrende" sürer (Yavuz). Görsel ve fiziksel başvuru: `Karakterler/Yavuz Ateş/Yavuz Ateş – Karakter Sayfası.md` (184 cm, 80 kg, heterokromi: kendi sol gözü mavi `#729FD5`, sağ gözü yeşil `#999651`). İlk serideki 1,82 ve tek renk göz anlatımı yeni seride geçersiz.
+
 ## Current status
 
 - 1. Kitap Mühür (6 bölüm) ve 2. Kitap Ada (5 bölüm + ara sahne) tamam. 3. Kitap Yıldırım'da 4 bölüm ve 2 ara sahne (Kutu, Mühendis) var; defter planı artık 10 bölüm ve 4 ara sahne (Kutu, Mühendis, Mihaylovski, Korfu).

@@ -1,6 +1,6 @@
 # Yavuz Ateş – Karakter Sayfası
 
-Kaynak: Yavuz'un kendi verdiği üç karakter sheet'i ve göz rengi kodları (14 Kasım 2026 17:17, Kütüphaneci oturumu fa42d7d9). Karakter Yavuz'un kendisine dayanır; gözleri gerçek hayatta da böyledir. Bu sayfa yeni asıl serinin görsel başvurusudur.
+Kaynak: Yavuz'un kendi verdiği üç karakter sheet'i ve göz rengi kodları (14 Kasım 2026 17:17, Kütüphaneci oturumu fa42d7d9). Karakter Yavuz'un kendisine dayanır; gözleri gerçek hayatta da böyledir. Bu sayfa yeni asıl serinin görsel başvurusudur. Yavuz'un sözüyle: hikâye "bu halimdeki bir paralel evrende" sürecek (14 Kasım 2026 17:20).
 
 ## Görseller
 
