@@ -35,6 +35,8 @@ Yavuz Ateş alternatif tarih roman serisinin (1798 Osmanlı, zaman yolcusu mühe
 
 - 14 Kasım 2026 23:31, Yavuz (Fable oturumunda): YEDEK sandığının parmak izi kilidi Sevr Yavuz'unu tanımaz, şifre açar. Şifre "per aspera ad astra" cümlesinden türeyen dört haneli bir sayıdır; kurgusu Fable'a bırakıldı. Fable'ın önerisi: 3625 (kelimelerin harf sayıları: per 3, aspera 6, ad 2, astra 5). Aynı geceyi tutturma sorusunun cevabı seçilimdir: sonsuz paralel evren içinde yalnız o gece yalıtım yapısında bulunan Sevr Yavuz'u geçmişe gelebilmiştir; ötekiler gelememiştir. Fable'ın "aynı akıl aynı tarihi seçer" önerisi düştü.
 
+- 14 Kasım 2026 23:35, Yavuz (Fable oturumunda): Sevr Yavuz'unun kendisinin yalnızca şanslı kopya olduğunu, sayısız benzerinin o dünyada kaldığını bilmesi fikrine katıldı. Yolculuk gerçekleşene kadar iki Yavuz da sahne alır: Cumhuriyet Yavuz'u konforlu, şen şakrak bir hayat sürerken Sevr Yavuz'u kıyamet gibi bir hayat yaşar. Açık soru (Fable): bu bölümler seriden önce okunursa okur ikinci Yavuz'u baştan bilir; sürpriz mi korunacak, yoksa okurun bilip kahramanın bilmediği bir gerilim mi kurulacak.
+
 ## Current status
 
 - 1. Kitap Mühür (6 bölüm) ve 2. Kitap Ada (5 bölüm + ara sahne) tamam. 3. Kitap Yıldırım'da 4 bölüm ve 2 ara sahne (Kutu, Mühendis) var; defter planı artık 10 bölüm ve 4 ara sahne (Kutu, Mühendis, Mihaylovski, Korfu).

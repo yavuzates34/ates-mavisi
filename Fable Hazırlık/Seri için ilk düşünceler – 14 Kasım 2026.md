@@ -112,3 +112,9 @@ Fable'ın önerileri (karar değil): yapı gerçek dünyada karşılığı olan 
 Yavuz'un kararları: parmak izi Sevr Yavuz'unu tanımaz, sandığı şifre açar. Şifre "per aspera ad astra" cümlesinden türeyen dört haneli bir sayıdır. Aynı gece sorusu seçilimle cevaplanır: sonsuz paralel evren içinde yalnız o gece yalıtım yapısında bulunan Sevr Yavuz'u gelebilmiştir.
 
 Fable'ın şifre önerisi: 3625. Dört kelimenin harf sayıları sırasıyla 3 (per), 6 (aspera), 2 (ad), 5 (astra). Dört kelime, dört hane; hesap gerektirmez, akılda kalır ve cümleyi bilen biri birkaç denemede bulur.
+
+## Yolculuktan önce iki Yavuz (14 Kasım 2026 23:35)
+
+Yavuz'un kararı: yolculuk gerçekleşene kadar iki Yavuz da sahne alır. Cumhuriyet Yavuz'u konforlu ve şen şakrak yaşar; Sevr Yavuz'u kıyamet gibi bir hayat sürer. Sevr Yavuz'u kendisinin yalnızca şanslı kopya olduğunu bilir.
+
+Açık soru (Fable): bu bölümler seriden önce okunursa okur ikinci Yavuz'un 1798'de olduğunu baştan bilir. İki yol var: 0. kitap ana seriden sonra yayımlanır ve sürpriz korunur; ya da önce yayımlanır ve sürpriz yerine okurun bilip kahramanın bilmediği uzun bir gerilim kurulur. Ölenin kim olduğu sürprizi iki yolda da korunur.
