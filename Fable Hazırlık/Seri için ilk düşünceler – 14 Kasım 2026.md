@@ -86,3 +86,11 @@ Fable'ın notları (karar değil): ölüm Cumhuriyet Yavuz'unun nefretini okunmu
 - Seri Cumhuriyet Yavuz'unun 44–46 yaşında biter. 26 yaşında geldiğine göre 20–22 yıl, yaklaşık 1798'den 1818–1820'ye.
 - Başta motivasyon oyundur: kedinin fareyle oynaması. Kartlarını açar, merhamet gösterdiğini düşünür, yeneceğini bilir. Sevr Yavuz'u ölünce oyun biter; Britanya'yı ortadan kaldırmak için ciddiyetle hareket eder.
 - Glitch ve evren geçişi yok. Evren yekpare; iki Yavuz aynı evrende başlar, hikâye orada sürer ve biter. Bu dosyadaki "Glitch'in kitaptaki karşılığı" bölümü geçersizdir.
+
+## Zamanda yolculuk (14 Kasım 2026 22:54–23:08)
+
+Yavuz'un seçimi: gözlemlenmeyen, bilgi etkileşimi olmayan alan hesaplanmamıştır. Yavuz'un bulunduğu hacim bu alandan soyutlanır ve zincirleme tepkimeyle her adımda bir an öncesindeki paralel evrene kayar; adımlar birikerek yüzyılları bulur. Portal yok. Fable'ın önceki "yana gidiş ve dallar arası takas" önerisi esas alınmadı (gerçeğe yakın ama okur için anlaşılırlığı şüpheli).
+
+2026 Yavuz'unun geçmişi: İTÜ'den sonra Amerikalı bir kuruluşta başarılı işler, hobi olarak teorik fizik, birikimle İstanbul'da kendi laboratuvarı. Yolculuk öncesi 2026 hikâyesi bağımsız bir "0. kitap" olabilir.
+
+Fable'ın bu seçime eklediği öneriler (karar değil): yön kuralı "gelecek henüz hesaplanmadı, tutunacak tek yer geçmiş"; hacmin içi dışarıdan yalıtılmış ama Yavuz kendi içini gözlediği için işlemeye devam eder, yolculuk içeriden birkaç saatlik mutlak karanlık ve sessizliktir; zincir enerji bitince durur, varış anını bu belirler; kütleçekimi perdelenemediği hâlde düzeneğin çalışması Yavuz'un açıklayamadığı ve simülasyon şüphesini besleyen tek gözlemdir; varışta yamaçta düzgün kesilmiş bir çukur kalır ve ikinci Yavuz'un izi olarak kullanılabilir; 0. kitap iki ayrı 2026'yı (Cumhuriyet ve Sevr) dönüşümlü anlatabilir.
