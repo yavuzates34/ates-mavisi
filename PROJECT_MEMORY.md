@@ -31,6 +31,8 @@ Yavuz Ateş alternatif tarih roman serisinin (1798 Osmanlı, zaman yolcusu mühe
 
 - 14 Kasım 2026 23:16, Yavuz (Fable oturumunda): (1) Sevr Yavuz'u düzeneği kafasında kurgulamıştır ama başlatacak imkânı yoktur; Cumhuriyet Yavuz'unun düzeneği onunkini tetikler ve o da geçmişe gelir. (2) Cumhuriyet Yavuz'u gelişten itibaren onun varlığından habersizdir. Sandıklarından biri kaybolur; Sevr Yavuz'u onu bulur ve onunla hayatını sürdürür, Cumhuriyet Yavuz'u bunu bilmez. (3) Cumhuriyet Yavuz'unun ötekinden haberdar olması seride çok uzun zaman sonra gelir; sürpriz korunur. (4) İki Yavuz da inançsızdır. Cumhuriyet Yavuz'u ateisttir; simülasyon teorisi bir tanrı kapısı araladığı için onu rahatsız eder ve bu ihtimale çok yer vermek istemez.
 
+- 14 Kasım 2026 23:26, Yavuz (Fable oturumunda): kaybolan sandık YEDEK sandığıdır. Sandık kilidi hem parmak izi hem şifredir. Geç gelen ipucu olarak atılmamış bir kurşunun kovanı uygundur; dron ipucu saçma bulundu, kullanılmaz. Sevr Yavuz'u düzeneği yalnız kafasında tasarlamıştır, yapamaz; İngiliz ya da Fransız himayesindeki gelişmiş bir komplekste çalışır ve orada yalıtım için kullanılabilecek hazır bir yapıyı gizlice kullanmayı başarır ("belki başka bir evrende bunu başarmış bir Yavuz benimkini de tetikler" umuduyla). Cumhuriyet Yavuz'unun düzeneği yalnız bu yalıtım yapısını tetikler.
+
 ## Current status
 
 - 1. Kitap Mühür (6 bölüm) ve 2. Kitap Ada (5 bölüm + ara sahne) tamam. 3. Kitap Yıldırım'da 4 bölüm ve 2 ara sahne (Kutu, Mühendis) var; defter planı artık 10 bölüm ve 4 ara sahne (Kutu, Mühendis, Mihaylovski, Korfu).
