@@ -1,0 +1,66 @@
+# Yeni asıl seri için ilk düşünceler
+
+Yazan: Fable oturumu (Claude Code, Fable 5.2), 14 Kasım 2026 akşamı. Yavuz'un isteği: yazmaya başlamadan önce kendi aklımdaki planı söylemem. Buradaki hiçbir şey karar değildir; hepsi Yavuz'la konuşulacak öneridir. Dayanak: Dizi Defteri, üç kitabın okuyucu özetleri (bu klasörde), üç ChatGPT konuşması, Kütüphaneci Günlüğü ve Kütüphaneci'nin devir notu.
+
+## İlk seriden çıkardığım ders
+
+Üç okuyucu birbirinden habersiz aynı şeyleri söyledi. İşleyenler: teknolojinin silah değil hediye olarak gelmesi (Selim'in kendi çinilerinin rengini ilk kez görmesi, kendi peşrevini dinlemesi); kansız ve inkâr edilebilir hileler; Yavuz'un düşmanın odasından anlatılması (Kutu, Holwood); gelecek bilgisinin müdahale ettikçe eskimesi; Selim'le bağ; Wickham'ın bilgiye değil sevgiye saldırması; yan kadronun dokusu; "Ailesine dokunulmamıştır" çizgisi. İşlemeyenler: hiç yanılmayan ve bedel ödemeyen kahraman; bir günde kurulup kusursuz çalışan teknoloji ve on bir ayda dünyayı değiştiren tempo; iki ayda altı tuğ; uzun tarih konferansları; tek boyutlu nefret; kuralı belirsiz rüya ve zihin okuma; aynı kitapta her cephenin açılması; yinelenen tepki kalıpları; iki Mahmud, iki Ömer ve Ateş/Yıldız ad karışıklığı; sahnede tek bir kadının olmaması.
+
+ChatGPT konuşmalarında Yavuz'un kendi koyduğu teşhis bununla örtüşüyor: gerilimi sağlayacak fren kahramanın zaafıdır ve o zaaf üst akıl olma hazzıdır.
+
+## Önerinin çekirdeği: iki Yavuz, iki ayrı gelecekten
+
+Günlükteki ikinci seçeneği öneriyorum ve ona net roller veriyorum.
+
+Birinci Yavuz Türkiye Cumhuriyeti'nden, 2026'dan gelir. İlk gece yakalanır ve saraya çıkar. "Atam gibi medeni bir insanım" diyen odur: önünde bir örnek vardır, nefreti tarih bilgisinden gelir, yöntemi bilişsel savaştır. Okurun ilk devrede izlediği kahraman budur.
+
+İkinci Yavuz Sevr'in uygulandığı bir dünyadan gelir. Aynı yüz, aynı akıl, aynı anne baba; ama önünde örnek olacak kimse olmamış, manda altında büyümüştür. Onun nefreti okunmuş değil yaşanmıştır. Yakalanmaz, çünkü işgal altında büyüyen adam saklanmayı bilir. Şehirde kalır, izler, bekler.
+
+Bu kurgunun çözdüğü şeyler:
+
+- Konuşmalardaki en büyük çelişkiyi çözer. "Kanla yok etmek medeni insana yakışmaz" diyen ses ile "uçak filosu, haritadan silmek" diyen ses iki ayrı adamın sesi olur. Tartışma kahramanın kafasında değil, iki Yavuz arasında yaşanır.
+- "Atatürk olmasaydı ne olurdu" sorusunu ders vererek değil, bir insandaki boşlukla gösterir. Birinci Yavuz'un Selim'e bile söylemediği ad, ikinci Yavuz'un hiç sahip olmadığı şeydir.
+- "Sen şeytansın" yalnız Yavuz ile Britanya arasında değil, iki Yavuz arasında da söylenebilir.
+- İkinci Yavuz yedek olmaktan çıkar, kendi hikâyesi olan bir karaktere dönüşür.
+
+Küçük bir ipucu fikri: Suret Kanunu'nun ayna benzetmesinden yola çıkarak ikinci Yavuz'un gözleri ters olabilir (birinin sol gözü mavi, ötekinin sağ gözü mavi). Onu gören bir tanık gözleri "yanlış" tarif eder; herkes tanığın sağını solunu karıştırdığını düşünür. Her ipucunun masum bir açıklaması olmalı; bu öyle.
+
+## Devreler
+
+İki devre öneriyorum; kitap sayısı esnek, her devre üç ya da dört kitap tutabilir.
+
+Birinci devre birinci Yavuz'undur. Geliş, yakalanma, Atıf Efendi, Selim, kehanet sınavı; sonra hızlı bir yükseliş değil, Mühendishâne perdesi arkasında görünmez bir güç ve Gizli Konsül'ün tohumu. İngiliz tarafı basamak basamak öğrenir: önce bir şeylerin ters gittiğini, sonra arkasında bir adam olduğunu, sonra adamın yüzünü (takım elbise ve gemi), sonra zaafını, en sonunda o zaafı nasıl kullanacağını. Devrenin doruğu bilişsel savaştır. Sonu, Yavuz'un kendi koyduğu fikre uygun olarak ölümüdür; ama rastgele bir suikastla değil, gereğinden uzun sürdürdüğü bir zaferle, yani bıraktığı açık kapıdan Wickham'ın girmesiyle. İngilizler seride ilk kez gerçekten kazanır.
+
+İkinci devre ikinci Yavuz'undur. Önce onun dünyası ve aynı yılları şehirden nasıl gördüğü; sonra öne çıkışı. Elinde birincinin aklı vardır ama ilişkileri yoktur: Ömer, Hasan, Atıf ve Şehzade Mahmud aynı yüze güvenip güvenmeyeceklerine karar vermek zorundadır. Londra'nın dehşeti şudur: öldürdük ama geri geldi, ve gelen merhametli olan değil. Devrenin sorusu ikinci Yavuz'un şeytana dönüşüp dönüşmeyeceğidir; onu tutan şey birincinin geride bıraktığı insanlar ve "o böyle yapmazdı" cümlesidir. Final Londra'ya yürüyüştür.
+
+## Britanya nasıl yıkılır
+
+Topla değil, imparatorluğu ayakta tutan dişlilerle. 1798'de gerçekten var olan zayıf noktalar bir mühendisin aklına uygun: Şubat 1797'den beri İngiltere Bankası altın ödemesini durdurmuştur, devlet kâğıt para ve krediyle savaşmaktadır; 1797'de donanma tayfası Spithead ve Nore'da isyan etmiştir; deniz ticareti sigortaya (Lloyd's) dayanır; gelir Hindistan'dan akar; İrlanda kaynamaktadır. İlk seride sezgiyle yapılanlar (gemiyi batırmadan almak, yaralı denizcileri evine yollamak, borcu reddetmek) bu çerçevede sisteme dönüşür: güveni, krediyi ve sadakati hedef alan, kansız ama acımasız bir söküm. Bu bilgiler benim genel bilgimdir; Britanya kılavuzu hazırlanırken doğrulanmalı.
+
+İtirazım: Britanya'nın "komple haritadan silinmesi" ve halkın dağıtılması finaline karşıyım. Kahramanı nefret ettiği şeye çevirir, "sen şeytansın" ikiliğini tek taraflı bir hükme indirir ve yayımlanacak bir kitapta bir halkın yok edilmesi fantezisi olarak okunur. Önerim: imparatorluk sökülür, makine durur, halk yerinde kalır. Yok etme dürtüsü hikâyeden atılmaz; ikinci Yavuz'un taşıdığı ve sonunda vazgeçmesi ya da vazgeçmemesi gereken ayartı olarak kalır. Karar Yavuz'undur.
+
+## Glitch'in kitaptaki karşılığı
+
+Fikir sinematik doğdu; kitapta ve sesli kitapta karşılığı "yankı" olabilir: daha önce okunmuş bir paragrafın tek bir kelimesi değişmiş olarak yeniden gelmesi. Dinleyen kulak bunu yakalar. Ölüm anında anlatının başka bir evrene geçip geçmediğini ise hiç doğrulamamayı öneriyorum; ikinci Yavuz hep orada mıydı, yoksa biz mi başka bir dünyaya kaydık, belli olmasın. Yavuz'un defterindeki not gibi: dışlanamadı, doğrulanamadı.
+
+## Tarihçi hassasiyetiyle çakışan yerler
+
+Kılavuzun en güvenilir on maddesinden biri padişahın Divan toplantısına oturmadığını söylüyor; ilk seride Selim Kubbealtı'na iniyor, Yavuz Divan'da onun sağında duruyor. Benim bilgime göre (doğrulanmalı) altı tuğ diye bir rütbe yok ve Osmanlı'da resmî bir naiplik makamı da yok. Gizli Konsül fikri bunların hepsini kendiliğinden çözüyor: Yavuz'un resmî unvanı olmaz, gücü perde arkasındadır. "Âsaf" bir rütbe değil, şehrin ve ulemanın taktığı ad olarak kalabilir.
+
+## Kadınlar
+
+İlk seride sahneye çıkan kadın yok. Tarihin kendisi iki güçlü kapı açıyor (ikisi de doğrulanmalı): Selim'in annesi Mihrişah Valide Sultan ve Avrupa zevkine düşkünlüğüyle bilinen, sarayını mimar Melling'e yaptıran kız kardeşi Hatice Sultan. İkincisi, "gizlice frenk elbisesi diktiren medeni çevre" fikrinin tam ortasında duruyor. İngiliz tarafında Mary Elgin zaten sevilen bir sesti.
+
+## Anlatım kuralları için öneriler
+
+- Her kitapta tek ana cephe ve sınırlı bakış açısı; ama her kitapta İngiliz odalarından en az iki üç bölüm, çünkü en sevilen damar bu.
+- Önce etki, sonra açıklama. İç ses az ve yerinde.
+- Her büyük icada süre, maliyet ve en az bir başarısızlık. Sandıktaki her şey tükenir.
+- Kahraman her kitapta en az bir kez gerçekten kaybeder ve kayıp geri alınmaz.
+- Rüya ve zihin okuma yok. Yavuz'un bilemeyeceği bir şeyi bilmesi gerekiyorsa yolu gösterilir.
+- Tarih bilgisi konferansla değil kararla ve sonuçla verilir.
+- Aynı adı taşıyan iki kişi olmaz.
+
+## Dizi Defteri için görüşüm
+
+Eski defter güncellenmemeli. O, ilk serinin kanonudur ve `ilk-seri` dalında dondurulmuş hâliyle değerlidir. Yeni seri için `master`'da sıfırdan yeni bir defter kurulmalı; eskisi başvuru olarak ayrı bir klasöre alınmalı. Yeni defterin eskisinden farklı taşıması gerekenler: kararlar ile olasılıkların tarihli ayrımı; evren kuralları ve Yavuz'un neyi bilip neyi bilmediği; iki taraflı bir "kim neyi biliyor, karşı tarafın neyi bildiğini sanıyor" çizelgesi; İngilizlerin Yavuz hakkındaki varsayımlarının zaman içindeki seyri; sandık envanteri ve tükenme; Yavuz'un okuma zevki. Yavuz "yap" demeden bu defter açılmayacak.

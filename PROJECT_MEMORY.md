@@ -28,7 +28,12 @@ Yavuz Ateş alternatif tarih roman serisinin (1798 Osmanlı, zaman yolcusu mühe
 
 - 9–10 Kasım 2026, Orkestratör (Kütüphaneci'nin başlattığı Claude Code oturumu) Aşama 1'i bitirdi: üç kitapta taramadaki net hatalar ve karar verilen konular işlendi (Bölüm 4 Mısır/Tipu/başpare, Silahdar'ın sırları, İrlanda uyarısı Ağustos 1798'e, Walsh–Tone, Kutu 18 Mart, Bozcaada 4 Mayıs, Holwood 19 Haziran, İngiliz şoku), yazar notları `Yazar Notları.md`'ye taşındı, defter ve README güncellendi, odaklı Opus doğrulaması yapıldı. Bölüm 5 planı `Bölüm 5 sahne planı.md`, Yavuz'un onayında.
 
+- 14 Kasım 2026 17:30–21:55, Fable oturumu (Claude Code, Fable 5.2; Yavuz'un yeni asıl seri için yönettiği oturum) hazırlık okumasını bitirdi. Kendisi okudu: Dizi Defteri, Kütüphaneci Günlüğü, Tutarlılık Taraması, Yazar Notları, kılavuzun girişi, üç ChatGPT konuşmasının tamamı. Üç kitabı üç Opus okuyucusu özetledi. Çıktılar `Fable Hazırlık/` altında: üç kitap özeti, `ChatGPT konuşmaları – özet.md`, `Seri için ilk düşünceler – 14 Kasım 2026.md` (öneri; karar değil). Kütüphaneci'nin devir notu ortak notlar klasöründe. Kitap ve defter dosyalarına dokunulmadı.
+- 14 Kasım 2026 21:35, Yavuz düzeltti: tarih hassasiyeti kılavuzları (Osmanlı ve hazırlanacak diğer devletler) üçüncü kitap için değil, yeni seri yazılırken okunacak. Yazmaya başlamadan önce Fable'ın kendi planını ve fikirlerini duymak istiyor; kitap ve bölüm sayısı belli değil, "seri" demesinin sebebi bu.
+
 ## Open issues
+
+- Yeni seri için Fable'ın önerisi Yavuz'un cevabını bekliyor (iki Yavuz: Cumhuriyet'ten gelen ve Sevr'den gelen; iki devre; Britanya'nın sökülmesi; eski defterin güncellenmeyip yeni defter kurulması). Hiçbiri karar değil.
 
 - Bölüm 5 sahne planı ve Bölüm 6'nın Ağustos sonu–Eylül 1799'a kayması Yavuz'un onayını bekliyor.
 - 12 Kasım 2026 19:05: Yavuz'un isteğiyle depo özel (private) GitHub deposuna pushlandı: https://github.com/yavuzates34/ates-mavisi (oluşturulma 2026-11-12T16:05:39Z). Amaç: kitaplara tarih damgası; zamanı gelince Yavuz public yapacak. Bundan sonra commit'ler pushlanır.
