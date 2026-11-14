@@ -7,7 +7,7 @@ This file is the compact, project-local handoff. Keep it factual and source-link
 
 ## Purpose
 
-Yavuz Ateş alternatif tarih roman serisinin (1798 Osmanlı, zaman yolcusu mühendis) çalışma klasörü. Kanon: `Yavuz Ateş Serisi – Dizi Defteri.md`. Kitaplar claude.ai sohbetlerinde yazıldı; son sohbetin ekran görüntüleri `son claude sohbet oturumu.pdf` (metin katmanı yok).
+Yavuz Ateş alternatif tarih roman serisinin (1798 Osmanlı, zaman yolcusu mühendis) çalışma klasörü. İki defter var: `Yeni Seri – Dizi Defteri.md` yazılacak asıl serinin güncel kanonu (15 Kasım 2026'da açıldı); `Yavuz Ateş Serisi – Dizi Defteri.md` yayımlanmayacak ilk serinin kanonu, yeni seriyi bağlamaz. Kitaplar claude.ai sohbetlerinde yazıldı; son sohbetin ekran görüntüleri `son claude sohbet oturumu.pdf` (metin katmanı yok).
 
 ## Decisions and rationale
 
@@ -39,6 +39,8 @@ Yavuz Ateş alternatif tarih roman serisinin (1798 Osmanlı, zaman yolcusu mühe
 
 - 14 Kasım 2026 23:49, Yavuz (Fable oturumunda) açık soruyu kapattı: gerilim yolu seçildi. Okur iki Yavuz'u da baştan bilir; hikâye iki Yavuz'un 2026'sıyla açılır ama yolculuk makul ölçüde çabuk başlar, okur yorulmaz. Yolculuktan sonra anlatı Cumhuriyet Yavuz'uyla sürer; Sevr Yavuz'u sırası gelene kadar mümkün olduğunca göze batmaz. Sırası gelir, ölür, anlatı yine Cumhuriyet Yavuz'uyla devam eder. Gerekçe: ani bir şaşırtma "hikâyeyi kurtarmaya çalışıyorlar" diye okunur; iki bakışla uzun bir açılış ise sürükleyiciliği düşürür. Bağımsız 0. kitap fikri bu kararla kısa bir açılış bölümüne iner.
 
+- 15 Kasım 2026 02:21, Yavuz (Fable oturumunda): hikâye akışına şimdiye kadar konuşulanlar kadarıyla karar verildi. Kural: Yavuz'un doğrudan yorum yapmadığı Fable önerileri geçerli sayılır; beğenmediklerine kendi yorumunu zaten koymuştur. Aynı gece 01:50'de konuşulan her şeyin proje klasöründe ilgili yerlere kaydedilmesini istedi. Bunun üzerine `Yeni Seri – Dizi Defteri.md` açıldı; 14 Kasım 22:04–23:49 arasındaki bütün kararlar ve sessiz kabulle geçerli öneriler orada toplu ve kaynağı işaretli durur. Yukarıdaki 14 Kasım maddeleri kronolojik kayıttır; çelişki olursa yeni defter esastır.
+
 ## Current status
 
 - 1. Kitap Mühür (6 bölüm) ve 2. Kitap Ada (5 bölüm + ara sahne) tamam. 3. Kitap Yıldırım'da 4 bölüm ve 2 ara sahne (Kutu, Mühendis) var; defter planı artık 10 bölüm ve 4 ara sahne (Kutu, Mühendis, Mihaylovski, Korfu).
@@ -46,12 +48,12 @@ Yavuz Ateş alternatif tarih roman serisinin (1798 Osmanlı, zaman yolcusu mühe
 
 - 9–10 Kasım 2026, Orkestratör (Kütüphaneci'nin başlattığı Claude Code oturumu) Aşama 1'i bitirdi: üç kitapta taramadaki net hatalar ve karar verilen konular işlendi (Bölüm 4 Mısır/Tipu/başpare, Silahdar'ın sırları, İrlanda uyarısı Ağustos 1798'e, Walsh–Tone, Kutu 18 Mart, Bozcaada 4 Mayıs, Holwood 19 Haziran, İngiliz şoku), yazar notları `Yazar Notları.md`'ye taşındı, defter ve README güncellendi, odaklı Opus doğrulaması yapıldı. Bölüm 5 planı `Bölüm 5 sahne planı.md`, Yavuz'un onayında.
 
-- 14 Kasım 2026 17:30–21:55, Fable oturumu (Claude Code, Fable 5.2; Yavuz'un yeni asıl seri için yönettiği oturum) hazırlık okumasını bitirdi. Kendisi okudu: Dizi Defteri, Kütüphaneci Günlüğü, Tutarlılık Taraması, Yazar Notları, kılavuzun girişi, üç ChatGPT konuşmasının tamamı. Üç kitabı üç Opus okuyucusu özetledi. Çıktılar `Fable Hazırlık/` altında: üç kitap özeti, `ChatGPT konuşmaları – özet.md`, `Seri için ilk düşünceler – 14 Kasım 2026.md` (öneri; karar değil). Kütüphaneci'nin devir notu ortak notlar klasöründe. Kitap ve defter dosyalarına dokunulmadı.
+- 14 Kasım 2026 17:30–21:55, Fable oturumu (Claude Code, Fable 5.2; Yavuz'un yeni asıl seri için yönettiği oturum) hazırlık okumasını bitirdi. Kendisi okudu: Dizi Defteri, Kütüphaneci Günlüğü, Tutarlılık Taraması, Yazar Notları, kılavuzun girişi, üç ChatGPT konuşmasının tamamı. Üç kitabı üç Opus okuyucusu özetledi. Çıktılar `Fable Hazırlık/` altında: üç kitap özeti, `ChatGPT konuşmaları – özet.md`, `Seri için ilk düşünceler – 14 Kasım 2026.md` (öneri; karar değil). Kütüphaneci'nin devir notu depoya alındı: `Fable Hazırlık/Kütüphaneci devir notu – 14 Kasım 2026.md`. Kitap ve defter dosyalarına dokunulmadı.
 - 14 Kasım 2026 21:35, Yavuz düzeltti: tarih hassasiyeti kılavuzları (Osmanlı ve hazırlanacak diğer devletler) üçüncü kitap için değil, yeni seri yazılırken okunacak. Yazmaya başlamadan önce Fable'ın kendi planını ve fikirlerini duymak istiyor; kitap ve bölüm sayısı belli değil, "seri" demesinin sebebi bu.
 
 ## Open issues
 
-- Yeni seri için Fable'ın önerisi Yavuz'un cevabını bekliyor (iki Yavuz: Cumhuriyet'ten gelen ve Sevr'den gelen; iki devre; Britanya'nın sökülmesi; eski defterin güncellenmeyip yeni defter kurulması). Hiçbiri karar değil.
+- Yeni serinin açık soruları `Yeni Seri – Dizi Defteri.md` bölüm 9'da: Bonapart'tan sonra Avrupa, kitap sayısı ve adları, Sevr dünyasının ayrıntıları, Selim'in akıbeti ve Konsül takvimi, ilk seriden taşınacaklar ve ad çakışmaları. Henüz tek satır roman metni yazılmadı; Yavuz 'yaz' demeden yazılmayacak.
 
 - Bölüm 5 sahne planı ve Bölüm 6'nın Ağustos sonu–Eylül 1799'a kayması Yavuz'un onayını bekliyor.
 - 12 Kasım 2026 19:05: Yavuz'un isteğiyle depo özel (private) GitHub deposuna pushlandı: https://github.com/yavuzates34/ates-mavisi (oluşturulma 2026-11-12T16:05:39Z). Amaç: kitaplara tarih damgası; zamanı gelince Yavuz public yapacak. Bundan sonra commit'ler pushlanır.
@@ -61,6 +63,8 @@ Yavuz Ateş alternatif tarih roman serisinin (1798 Osmanlı, zaman yolcusu mühe
 - 13 Kasım 2026 ~21:50: Osmanlı (1798–1800) Tarih Hassasiyet Kılavuzu ilk sürümü bitti (`Tarih Hassasiyeti/Tarih Hassasiyet Kılavuzu.md`, commit 78cac9b, origin ile eşit). Ham 724, tekil 543; gövde 142 madde (Bölüm I eleştiri kaynaklı 47, 34'ü video; Bölüm II konu taraması 95); Ek 1 tek onay 40, Ek 2 belirsiz 146 (elenmedi, Yavuz'un kuralı), Ek 3 tartışmalı 12, Ek 4 başka dönem 26; 3 elendi, 2 saman adam. Doğrulayıcılar TDV kanıtı üzerinde: A gemma-4-31b-it, B gemini-3.1-flash-lite (42'sinde 3.5-flash-lite), C Nemotron 3 Ultra (OpenRouter, Google dışı, 233 madde). Kütüphaneci kontrolü: bölüm sayıları raporla tutuyor, denetimle indirilen 3 madde Ek 3'te. Zayıflıklar: orkestratör örneklemesinde 18 gövde maddesinin 3'ünde esaslı hata (yaklaşık altıda bir); doğrulayıcılar gevşek onaylıyor; gövdede 1798'le ilgisi zayıf ~20 madde var (ör. oyuncu yaşı, 13. yüzyıl "destur"), çünkü doğrulayıcılar dönem uygunluğunu değil olgunun doğruluğunu onayladı.
 
 ## Next step
+
+- Yeni seriyle ilgili her işte önce `Yeni Seri – Dizi Defteri.md`'yi oku; ardından gerekirse `Fable Hazırlık/` altındaki özetleri. Yavuz yeni detay verdikçe önce o deftere işle (kaynağını Y ya da F diye işaretle), sonra buraya tek satır düş. Üç kitabı yeniden okutma; özetleri hazır.
 
 - Yeni bağlamda (oturum başı veya compact sonrası) `Kütüphaneci Günlüğü.md`'nin son girişlerini oku; karar olmayan fikir ve tercihler orada. Günlük konuşma sürerken yazılır, compact beklenmez.
 

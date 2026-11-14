@@ -1,5 +1,7 @@
 # Yeni asıl seri için ilk düşünceler
 
+> Bu dosya 14 Kasım 2026 akşamındaki konuşmanın tarihli dökümüdür; üst bölümlerdeki bazı öneriler sonradan düştü. Güncel ve toplu hâl: depo kökündeki `Yeni Seri – Dizi Defteri.md`.
+
 Yazan: Fable oturumu (Claude Code, Fable 5.2), 14 Kasım 2026 akşamı. Yavuz'un isteği: yazmaya başlamadan önce kendi aklımdaki planı söylemem. Buradaki hiçbir şey karar değildir; hepsi Yavuz'la konuşulacak öneridir. Dayanak: Dizi Defteri, üç kitabın okuyucu özetleri (bu klasörde), üç ChatGPT konuşması, Kütüphaneci Günlüğü ve Kütüphaneci'nin devir notu.
 
 ## İlk seriden çıkardığım ders

@@ -4,6 +4,9 @@ Yavuz Ateş serisinin, yani Yavuz ile birlikte eğlence amacıyla yazılan alter
 
 ## Dosyalar
 
+- `Yeni Seri – Dizi Defteri.md`: yazılacak asıl serinin güncel kararları ve açık soruları (15 Kasım 2026'da açıldı). Yeni seriyle ilgili her oturum önce bunu okur.
+- `Fable Hazırlık/`: üç kitabın okuyucu özetleri, ChatGPT konuşmalarının özeti, Kütüphaneci'nin devir notu ve 14 Kasım konuşmasının tarihli dökümü.
+- Aşağıdaki dosyalar yayımlanmayacak ilk seriye aittir.
 - `Yavuz Ateş Serisi – Dizi Defteri.md`: serinin bütün bağlamı. Karakter kartı, yan karakterler, düşmanlar, teknoloji envanteri, sırlar, gerçek tarih ve sapmalar, kitap özetleri, 3. Kitap planı ve üslup notları burada. Yeni oturum ilk iş bunu okur.
 - `Yavuz Ateş – 1. Kitap Mühür.md`: Ocak–Haziran 1798, 6 bölüm.
 - `Yavuz Ateş – 2. Kitap Ada.md`: Haziran–Aralık 1798, 5 bölüm.
