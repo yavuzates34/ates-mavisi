@@ -70,3 +70,13 @@ Eski defter güncellenmemeli. O, ilk serinin kanonudur ve `ilk-seri` dalında do
 Yavuz iki Yavuz kurgusunu kabul etti, ölümü ters çevirdi: ölen Sevr Yavuz'u olur ama herkes onu Cumhuriyet Yavuz'u sanır; sağ kalan Cumhuriyet Yavuz'udur. Yukarıdaki "Devreler" bölümünde birinci Yavuz'un ölümüyle biten kurgu bu yüzden geçersizdir. Gerekçesi: sürpriz olur ama okuru yasa boğmaz; kan dökmeden öç alan Cumhuriyet Yavuz'udur, Sevr Yavuz'u sağ kalsa Britanya'da taş üstünde taş bırakmazdı; İngilizler önce sevinir, sonra asıl durdurulamaz olanın soğukkanlı olan olduğunu anlar.
 
 Fable'ın buna eklediği öneriler (karar değil): iki Yavuz ölümden önce hiç karşılaşmaz, Cumhuriyet Yavuz'u ötekinin varlığını kendi yüzünü taşıyan cesetle öğrenir; Sevr dünyası ölenin bıraktığı defter ve sandıklardan okunur; Sevr Yavuz'unun ölmeden önce yaptığı kanlı işler Âsaf'a mal edilir; Cumhuriyet Yavuz'u bir süre ölü kalmayı seçer.
+
+## Yavuz'un ikinci cevabı (14 Kasım 2026 22:24)
+
+- İki Yavuz bir kez, gizlice karşılaşır; Cumhuriyet Yavuz'u ötekini kendi zekâsıyla bulur.
+- Sevr Yavuz'u Atatürk'e yapılan ihaneti, Sevr şartlarını ve Sevr 2026'sının yaşantısını anlatır. Cumhuriyet Yavuz'u dehşete düşer, acısını anlar; kısa bir dönem yakın olurlar. Sonra Sevr Yavuz'u ölür.
+- Asıl bilişsel işkence ve aşağılama bu ölümden sonra başlar. Britanya imparatorluğu ve ordusu içten çökertilir; bunu kendi kendilerine yaparlar. Geride kalan halk bir daha "at kulübü bile kuramayacak" biçimde dağılır.
+- Bonapart Yavuz'un gözünde değersizdir: İngilizlerin üstüne salınan bir piyon, kullanılıp atılan bir taşeron. Seride bir yerde önemsiz bir adam gibi kaza kurşununa gider.
+- Yavuz Avrupa'yı Osmanlı'yla fethetmek istemez, çünkü Avrupa halkının kültürel olarak Osmanlı yönetimine tabi olmayacağını bilir. Bonapart'tan kurtulana kadar Osmanlı da Osmanlı usulü kalmaz, modernleşir.
+
+Fable'ın notları (karar değil): ölüm Cumhuriyet Yavuz'unun nefretini okunmuş olmaktan çıkarıp devralınmış bir nefrete çevirir; "sen şeytansın" ağırlığını buradan alır. Halkın dağılması için önerilen yazım yolu sürgün değil, adayı tutan kredi, donanma ve sömürge geliri çökünce kendiliğinden göçtür. Açık soru: Bonapart'tan sonra Avrupa'yı kim tutar.
