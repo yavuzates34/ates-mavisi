@@ -106,3 +106,9 @@ Fable'ın önerileri (karar değil): tetikleme diyapazon benzetmesiyle anlatıl�
 Yavuz'un kararları: kaybolan sandık YEDEK. Kilit hem parmak izi hem şifre. İpucu olarak atılmamış kurşunun kovanı olur, dron olmaz. Sevr Yavuz'u düzeneği yapmamış, yalnız tasarlamıştır; İngiliz ya da Fransız himayesindeki gelişmiş bir komplekste çalışır ve oradaki hazır bir yalıtım yapısını gizlice kullanır, başka bir evrendeki Yavuz'un düzeneğinin kendisini de tetikleyeceği umuduyla. Cumhuriyet Yavuz'unun düzeneği yalnız o yapıyı tetikler. Bu dosyadaki "kabuğu kendi kurdu" önerisi geçersizdir.
 
 Fable'ın önerileri (karar değil): yapı gerçek dünyada karşılığı olan bir oda olabilir (manyetik perdeli ölçüm odası ya da yankısız oda); geceyi tutturması aynı aklın aynı tarihi aynı gerekçeyle seçmesine dayanır; parmak izi Sevr Yavuz'unu tanımaz, sandığı şifre açar.
+
+## Şifre ve aynı gece (14 Kasım 2026 23:31)
+
+Yavuz'un kararları: parmak izi Sevr Yavuz'unu tanımaz, sandığı şifre açar. Şifre "per aspera ad astra" cümlesinden türeyen dört haneli bir sayıdır. Aynı gece sorusu seçilimle cevaplanır: sonsuz paralel evren içinde yalnız o gece yalıtım yapısında bulunan Sevr Yavuz'u gelebilmiştir.
+
+Fable'ın şifre önerisi: 3625. Dört kelimenin harf sayıları sırasıyla 3 (per), 6 (aspera), 2 (ad), 5 (astra). Dört kelime, dört hane; hesap gerektirmez, akılda kalır ve cümleyi bilen biri birkaç denemede bulur.
