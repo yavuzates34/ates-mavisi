@@ -38,7 +38,9 @@ Komşu halklar: kitap etnik bir öfke kitabı olmaz; zulmün başı ve yüzü em
 
 Diller: Sevr Yavuz'u sömürge boyunduruğu altında büyüdüğü için birkaç dile hâkimdir. (Y) Öneri: İngilizce (işi ve kılıfı), Fransızca, Yunanca; harf devrimi hiç olmadığı için Türkçeyi Arap harfleriyle yazar ve okur. Bu, 1798'de ona kahramanda olmayan bir rahatlık verir. (Kütüphaneci önerisi, Yavuz henüz yorum yapmadı)
 
-Kompleks: İstanbul uluslararası bölgesinde, Boğazlar Komisyonu'na bağlı İngiliz araştırma tesisi; Yavuz orada misyon okulu bursuyla okumuş "sadık yerli personel"dir; İngilizler kendi yıkıcısını kendi eliyle eğitmiştir. (Kütüphaneci önerisi, Yavuz henüz yorum yapmadı)
+Kompleks: İstanbul uluslararası bölgesinde, Boğazlar Komisyonu'na bağlı İngiliz araştırma tesisi; Yavuz orada "sadık yerli personel"dir; İngilizler kendi yıkıcısını kendi eliyle eğitmiştir. (Kütüphaneci önerisi, Yavuz 15 Kasım 10:43'te eğitim önerisiyle birlikte kabul etti)
+
+Eğitim (Y, 15 Kasım 10:43, Kütüphaneci önerisi üzerine): Sevr dünyasında İTÜ gibi bir devlet okulu yaşamaz; kapanmış ya da sönük bir meslek okuluna dönmüştür. Sevr Yavuz'u, ayrılma noktasından önce kurulmuş (1912) Robert College mühendislik okuluna benzeyen, İngiliz himayesindeki İstanbul'da ayakta kalmış bir Amerikan okulunda burslu okur; Müslüman Türklere ayrılan kontenjan birkaç kişiliktir. Bursun kaynağı belirsiz kalır (aile kuralı). Mühendislik eğitimini bitirse de İngiliz tesisi onu mühendis olarak değil "yerli bakım teknisyeni" olarak işe alır; diploması kâğıtta kalır. Örnek: İngiliz Hindistanı'nda Roorkee'deki Thomason College alt kademe mühendis yetiştirmek için kuruldu, Hintliler 1864'e kadar mühendislik bölümüne alınmadı. Fiziği kendi kendine öğrenir: bakımını yaptığı odalarda İngiliz bilim insanlarının bıraktığı notlar ve makaleler, araya sıkıştırdığı birkaç popüler bilim kitabı. (Y: "sadece makale olmaz, araya birkaç popüler bilim kitabı da sıkıştır") Kahramanla farkı: biri İTÜ'de mekatronik okuyup kendi laboratuvarını kurdu, öteki aynı aklı başkalarının laboratuvarlarının bakımını yaparken büyüttü.
 
 ## 3. Zamanda yolculuk
 
@@ -112,7 +114,7 @@ Glitch ve evren geçişi; Fable'ın "yankı paragrafı" önerisi. Cumhuriyet Yav
 
 - Bonapart'tan sonra Avrupa'yı kim tutar.
 - Kitap sayısı ve adları; serinin adı.
-- Sevr dünyası: iskelet, ayrılma noktası ve komşu halklar kararlaştı (bkz. 2. bölüm); diller ve kompleks önerisi Yavuz'un yorumunu bekliyor.
+- Sevr dünyası: iskelet, ayrılma noktası ve komşu halklar kararlaştı (bkz. 2. bölüm); kompleks ve eğitim kararlaştı; diller önerisi (İngilizce, Fransızca, Yunanca, Arap harfli Türkçe) Yavuz'un yorumunu bekliyor.
 - Selim'in akıbeti ve Konsül'ün takvimi.
 - İlk seriden hangi sahne ve kişilerin taşınacağı; şehzade Mahmud ile kethüda Mahmud ad çakışmaları; "Ateş" ile "Yıldız"ın hangisinin soyadı olduğu.
 - Britanya, Fransa ve öteki devletler için kılavuzlar henüz başlamadı.
