@@ -94,7 +94,7 @@ Yavuz Avrupa'yı Osmanlı'yla fethetmek istemez; Avrupa halkının kültürel ol
 
 Gizli Konsül (Y, Kütüphaneci Günlüğü 13 Kasım): Agop Usta'nın gizlice frenk elbisesi diktiren paşalar listesinden akıllı ve medeni olanlar seçilir; başında Yavuz'un olduğu, tebdil-i kıyafetle çalışan gizli bir konsül kurulur; paşalar görevden alınmadan merkezden uzaklaştırılır; bu süreçte Sultan hasta ya da ölüdür. İngilizlerin tepkisi: "Daha ne istiyor bu adam?"
 
-Hızlı yükseliş yoktur. Yavuz'un resmî unvanı olmaz, gücü Mühendishâne perdesi arkasındadır; "Âsaf" rütbe değil, şehrin ve ulemanın taktığı addır. Böylece ilk serinin tarihçiyi rahatsız edecek yerleri (padişahın Divan'a oturması, altı tuğ, naiplik) kendiliğinden düşer. (F)
+Yükseliş (Y, 15 Kasım 10:58; Fable'ın "resmî unvanı olmaz" önerisinin yerine geçer): Cumhuriyet Yavuz'u inandırıcılığı sarsmadan ve çok hızlı olmadan yükselir; statü ve makam alır. Görünüşü, adı, davranışı, bilgisi, yapabildikleri ve ilgi alanlarıyla dikkat çeker, sevilir. Ateist olduğunu çaktırmaz; sarayda, ulema ve paşalar arasında kendini yalakalık yapmadan sevdirir. İlk serinin tarihçiyi rahatsız eden yerleri (padişahın Divan'a oturması, altı tuğ, naiplik) yine düşer; yükseliş dönemin gerçek basamaklarından geçer. Tarihî örnek (Kütüphaneci notu, doğrulanacak): Fransız asıllı Comte de Bonneval, Humbaracı Ahmed Paşa olarak humbaracıbaşı ve paşa rütbesine çıkmıştı; III. Selim de 1795'te Mühendishâne-i Berrî-i Hümâyun'u kurup yabancı mühendis istihdam etmişti.
 
 Kadınlar (F; doğrulanacak): Mihrişah Valide Sultan, Avrupa zevkiyle bilinen Hatice Sultan, İngiliz tarafında Mary Elgin.
 
