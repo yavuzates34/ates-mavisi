@@ -41,7 +41,8 @@ Yavuz Ateş alternatif tarih roman serisinin (1798 Osmanlı, zaman yolcusu mühe
 
 - 15 Kasım 2026 02:21, Yavuz (Fable oturumunda): hikâye akışına şimdiye kadar konuşulanlar kadarıyla karar verildi. Kural: Yavuz'un doğrudan yorum yapmadığı Fable önerileri geçerli sayılır; beğenmediklerine kendi yorumunu zaten koymuştur. Aynı gece 01:50'de konuşulan her şeyin proje klasöründe ilgili yerlere kaydedilmesini istedi. Bunun üzerine `Yeni Seri – Dizi Defteri.md` açıldı; 14 Kasım 22:04–23:49 arasındaki bütün kararlar ve sessiz kabulle geçerli öneriler orada toplu ve kaynağı işaretli durur. Yukarıdaki 14 Kasım maddeleri kronolojik kayıttır; çelişki olursa yeni defter esastır.
 
-- 15 Kasım 2026 10:58: Yazım düzeni planı (Yavuz): yeni seri Fable'a yazdırılacak; en üstte tek bir Fable, altında farklı konular için birkaç orkestratör Fable, onların altında gerektiği kadar 10–15 Opus ajanı. Kütüphaneci uyarısı: bu düzen çok kota yer; haftalık hak yenilenmeden başlatılmamalı.
+- 15 Kasım 2026 10:58: Yazım düzeni planı (Yavuz): yeni seri Fable'a yazdırılacak; en üstte tek bir Fable, altında farklı konular için birkaç orkestratör Fable, onların altında gerektiği kadar 10–15 Opus ajanı. Kütüphaneci uyarısı: bu düzen çok kota yer; haftalık hak yenilenmeden başlatılmamalı. (15 Kasım 12:00: Yavuz bunu üst abonelik planında yapacak, kota sorun olmayacak.)
+- 15 Kasım 2026 12:18: En üstteki Fable'a verilecek prompt (Yavuz'un kelimesi kelimesine, unutulmasın diye): "Sana mümkün olduğunca karışmıyorum. Senden istediğim ise şu: bana zengin, dolu dolu ve sıra dışı bir şey çıkar."
 
 ## Current status
 

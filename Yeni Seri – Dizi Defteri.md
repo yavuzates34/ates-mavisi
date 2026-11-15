@@ -112,6 +112,8 @@ Kadınlar (F; doğrulanacak): Mihrişah Valide Sultan, Avrupa zevkiyle bilinen H
 
 Yavuz'un okuma zevki (Y, ChatGPT konuşması): üstünlük anlatılmaz, başkalarının gözünden yaşatılır; küçük insani ayrıntılar ve mizah şarttır; iç ses göze batmaz; diyalog doğal olur; İngiliz odalarından sahneler en sevdiği damardır; tanışmalarda ilk cümleler İngilizce olabilir. Kırmızı çizgi: "oğlum, koçum, kral, kanka" gibi hitaplar hikâyede de kullanılmaz.
 
+En üstteki Fable'a verilecek prompt (Y, 15 Kasım 12:18, kelimesi kelimesine): "Sana mümkün olduğunca karışmıyorum. Senden istediğim ise şu: bana zengin, dolu dolu ve sıra dışı bir şey çıkar."
+
 Fable'ın kuralları (F): her kitapta tek ana cephe ve sınırlı bakış açısı, ama İngiliz odalarından en az iki üç bölüm; önce etki, sonra açıklama; her büyük icada süre, maliyet ve en az bir başarısızlık; kahraman her kitapta en az bir kez gerçekten kaybeder; tarih bilgisi konferansla değil kararla verilir; aynı adı taşıyan iki kişi olmaz.
 
 Tarih: yazarken Osmanlı Tarih Hassasiyet Kılavuzu ve hazırlanacak diğer devlet kılavuzları okunur. (Y) Osmanlı kılavuzu uyarı listesidir, kesin bilgi değildir; kritik sahnede kaynağı açılır.
