@@ -32,6 +32,8 @@ Ayrılma noktası: 11 Mayıs 1920'de İstanbul Divan-ı Harbi'nin Mustafa Kemal 
 
 Komşu halklar: kitap etnik bir öfke kitabı olmaz; zulmün başı ve yüzü emperyal düzenin kendisidir, Londra'nın komisyonları, bankaları ve valileri. Ama Yunan, Ermeni ve Kürt yönetimlerinin o senaryoda Türklere yapacakları da silinmez; Sevr uygulansaydı gerçekten yaşanacak olan gerçekçi biçimde gösterilir. (Y: "Ben de zaten ırkçı bir insan değilim. Fakat tamamen de silemeyiz.")
 
+İstanbul ve güç dengesi (Y, 15 Kasım 10:23): İstanbul sözde uluslararası topraktır, gerçekte İngiliz himayesindedir. İngiltere ile Amerika yer yer çatışır; bedeli ağır biçimde Türkler öder ("filler tepişir, çimenler ezilir"). Yunan, Ermeni, Fransız ve Kürt özerk bölgesi gibi Sevr devletleri de İngiliz ve Amerikan manipülasyonuna maruzdur; onlar da kullanılır, kimi zaman bunu fark eder, kimi zaman etmez, ama bedeli her zaman Türkler öder.
+
 Diller: Sevr Yavuz'u sömürge boyunduruğu altında büyüdüğü için birkaç dile hâkimdir. (Y) Öneri: İngilizce (işi ve kılıfı), Fransızca, Yunanca; harf devrimi hiç olmadığı için Türkçeyi Arap harfleriyle yazar ve okur. Bu, 1798'de ona kahramanda olmayan bir rahatlık verir. (Kütüphaneci önerisi, Yavuz henüz yorum yapmadı)
 
 Kompleks: İstanbul uluslararası bölgesinde, Boğazlar Komisyonu'na bağlı İngiliz araştırma tesisi; Yavuz orada misyon okulu bursuyla okumuş "sadık yerli personel"dir; İngilizler kendi yıkıcısını kendi eliyle eğitmiştir. (Kütüphaneci önerisi, Yavuz henüz yorum yapmadı)
