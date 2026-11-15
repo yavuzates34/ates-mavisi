@@ -18,7 +18,7 @@ Cumhuriyet Yavuz'u (kahraman). Türkiye Cumhuriyeti'nin 2026'sından gelir. Atat
 
 Geçmişi: İTÜ mekatronik mezunu. Sonra Amerikalı bir kuruluşta başarılı işler yaptı; teorik fizikle hobi olarak uğraşmayı sürdürdü. Pahalı arabalar yerine birikimini ve kur farkını İstanbul'da kendi laboratuvarına yatırdı, orada eğlenceli deneyler yürütüyordu. Konforlu, şen şakrak bir hayat. (Y)
 
-Ailesi: seride çok az bilgi verilir. Yalnız İsmail, Fatma, Derya ve Ömer adları kalır, onlar da çok nadiren anılır. (Y, 15 Kasım 10:29) Not: sandıklar bölümündeki "aile fotoğrafı" maddesi bu kuralla birlikte gözden geçirilmeli. İngilizcesindeki Amerikan izi buradan gelir. (F)
+Ailesi: seride çok az bilgi verilir. Yalnız İsmail, Fatma, Derya ve Ömer adları kalır, onlar da çok nadiren anılır. (Y, 15 Kasım 10:29) Kâtip Ömer de kalır: Yavuz onun adını duyunca içinden bir düşünce geçer, yüzünde hafif bir tebessüm belirir, dışarıya bir şey çaktırmaz. Bu, "aynı adı taşıyan iki kişi olmaz" kuralının bilinçli istisnasıdır. (Y, 15 Kasım 10:35) İngilizcesindeki Amerikan izi buradan gelir. (F)
 
 Zaafı: üst akıl olmak ister. Güç onu da zehirlemeye çalışır; limbik sisteminin oyunlarını görür, direnir, ama görmek bağışıklık değildir. İngilizler bunu fark eder ve kibrine oynar; bu açık aileden daha iyi bir açıktır. (Y, ChatGPT konuşması)
 
@@ -60,7 +60,7 @@ Aynı geceyi nasıl tutturdukları: seçilim. Sonsuz paralel evrende yalnız o g
 
 Cumhuriyet Yavuz'u sandıklarla gelir (ilk seride sekiz: GÜÇ-1, GÜÇ-2, BİLGİ, TIP, ATÖLYE, İLETİŞİM, OPTİK, YEDEK). YEDEK sandığı kaybolur; Sevr Yavuz'u onu bulur ve onunla hayatını sürdürür. Cumhuriyet Yavuz'u bunu bilmez. (Y) YEDEK'te altın kesesi, tabanca ve aile fotoğrafı vardır; kahraman gizlenecek parasını kaybedip ilk gece yakalanır, öteki aynı parayla saklanır. Kahraman sandığın yolculukta ya da yeniçeri devriyesinde kaybolduğunu sanar. (F)
 
-Kilit hem parmak izi hem şifredir. Parmak izi Sevr Yavuz'unu tanımaz; şifre açar. Şifre "per aspera ad astra"dan türer. (Y) Şifre 3625: per 3, aspera 6, ad 2, astra 5 harf. Cümle iki adam için aynı anlama gelmez: biri yıldızlara varmış bir dünyadan gelir, öteki yalnız zorlukları yaşamıştır. Sandıktaki harita ve aile fotoğrafı ona kazanılmış bir savaşı ilk kez gösterir. (F)
+Kilit hem parmak izi hem şifredir. Parmak izi Sevr Yavuz'unu tanımaz; şifre açar. Şifre "per aspera ad astra"dan türer. (Y) Şifre 3625: per 3, aspera 6, ad 2, astra 5 harf. Cümle iki adam için aynı anlama gelmez: biri yıldızlara varmış bir dünyadan gelir, öteki yalnız zorlukları yaşamıştır. Sandıktaki harita ve aile fotoğrafı ona kazanılmış bir savaşı ilk kez gösterir. (F) Aile fotoğrafını görünce neredeyse şok geçirir; şokun nedenini okur anlamaz, yalnız kendisi bilir ve seride açıklanmaz. (Y, 15 Kasım 10:35)
 
 Sandıktaki her şey tükenir; pil, ilaç ve parça gerçek bedeldir. (F)
 
@@ -114,5 +114,5 @@ Glitch ve evren geçişi; Fable'ın "yankı paragrafı" önerisi. Cumhuriyet Yav
 - Kitap sayısı ve adları; serinin adı.
 - Sevr dünyası: iskelet, ayrılma noktası ve komşu halklar kararlaştı (bkz. 2. bölüm); diller ve kompleks önerisi Yavuz'un yorumunu bekliyor.
 - Selim'in akıbeti ve Konsül'ün takvimi.
-- İlk seriden hangi sahne ve kişilerin taşınacağı; kardeş Ömer ile Kâtip Ömer, şehzade Mahmud ile kethüda Mahmud ad çakışmaları; "Ateş" ile "Yıldız"ın hangisinin soyadı olduğu.
+- İlk seriden hangi sahne ve kişilerin taşınacağı; şehzade Mahmud ile kethüda Mahmud ad çakışmaları; "Ateş" ile "Yıldız"ın hangisinin soyadı olduğu.
 - Britanya, Fransa ve öteki devletler için kılavuzlar henüz başlamadı.
