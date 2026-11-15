@@ -66,6 +66,8 @@ Kilit hem parmak izi hem şifredir. Parmak izi Sevr Yavuz'unu tanımaz; şifre a
 
 Sandıktaki her şey tükenir; pil, ilaç ve parça gerçek bedeldir. (F)
 
+Yerel LLM: Cumhuriyet Yavuz'u 2026'dan yanında bir yerel dil modeli getirmiştir; imkânlarının ucu bucağı yoktur. (Y, 15 Kasım 11:05) Tükenme kuralıyla birlikte düşünülmeli: modeli çalıştıran donanım ve güç sınırlıdır, arızası gerçek bir kayıp olur. (Kütüphaneci notu)
+
 ## 5. Akış
 
 Açılış. Okur iki Yavuz'u da baştan bilir (gerilim yolu). Hikâye iki 2026 ile açılır: biri konfor içinde, öteki kıyamette. Yolculuk makul ölçüde çabuk başlar; okur yorulmaz. (Y) Açılış iki ya da üç bölümü geçmez. (F)
@@ -94,7 +96,7 @@ Yavuz Avrupa'yı Osmanlı'yla fethetmek istemez; Avrupa halkının kültürel ol
 
 Gizli Konsül (Y, Kütüphaneci Günlüğü 13 Kasım): Agop Usta'nın gizlice frenk elbisesi diktiren paşalar listesinden akıllı ve medeni olanlar seçilir; başında Yavuz'un olduğu, tebdil-i kıyafetle çalışan gizli bir konsül kurulur; paşalar görevden alınmadan merkezden uzaklaştırılır; bu süreçte Sultan hasta ya da ölüdür. İngilizlerin tepkisi: "Daha ne istiyor bu adam?"
 
-Yükseliş (Y, 15 Kasım 10:58; Fable'ın "resmî unvanı olmaz" önerisinin yerine geçer): Cumhuriyet Yavuz'u inandırıcılığı sarsmadan ve çok hızlı olmadan yükselir; statü ve makam alır. Görünüşü, adı, davranışı, bilgisi, yapabildikleri ve ilgi alanlarıyla dikkat çeker, sevilir. Ateist olduğunu çaktırmaz; sarayda, ulema ve paşalar arasında kendini yalakalık yapmadan sevdirir. İlk serinin tarihçiyi rahatsız eden yerleri (padişahın Divan'a oturması, altı tuğ, naiplik) yine düşer; yükseliş dönemin gerçek basamaklarından geçer. Tarihî örnek (Kütüphaneci notu, doğrulanacak): Fransız asıllı Comte de Bonneval, Humbaracı Ahmed Paşa olarak humbaracıbaşı ve paşa rütbesine çıkmıştı; III. Selim de 1795'te Mühendishâne-i Berrî-i Hümâyun'u kurup yabancı mühendis istihdam etmişti.
+Yükseliş (Y, 15 Kasım 10:58; Fable'ın "resmî unvanı olmaz" önerisinin yerine geçer): Cumhuriyet Yavuz'u inandırıcılığı sarsmadan ve çok hızlı olmadan yükselir; statü ve makam alır. Görünüşü, adı, davranışı, bilgisi, yapabildikleri ve ilgi alanlarıyla dikkat çeker, sevilir. Ateist olduğunu çaktırmaz; sarayda, ulema ve paşalar arasında kendini yalakalık yapmadan sevdirir. İlk serinin tarihçiyi rahatsız eden yerleri (padişahın Divan'a oturması, altı tuğ, naiplik) yine düşer; yükseliş dönemin gerçek basamaklarından geçer. Takvim (Y, 15 Kasım 11:05): seri dörde bölünürse vezirlik ilk çeyreğin sonunda gelir (20–22 yıllık seride yaklaşık beşinci yıl, 1803 civarı). İlk çeyrekle ikinci çeyrek arasında Gizli Konsül başlar: Osmanlı yönetimine ufaktan el atar, onu modernleştirmeye başlar, görünen yönetimin üstünde Illuminati gibi gizli bir yapı kurar. Gerekçe: hem çok zeki ve bilgili, hem görünüşü ve hitabıyla seviliyor, hem imkânları sınırsız ve yardım ediyor; "bu adam o makama çıkmayacak da kim çıkacak?" Dönemin gerçek örneği (Kütüphaneci notu): Rusçuk âyanı Alemdar Mustafa Paşa 1808'de birkaç ay içinde sadrazamlığa çıktı. Tarihî örnek (Kütüphaneci notu, doğrulanacak): Fransız asıllı Comte de Bonneval, Humbaracı Ahmed Paşa olarak humbaracıbaşı ve paşa rütbesine çıkmıştı; III. Selim de 1795'te Mühendishâne-i Berrî-i Hümâyun'u kurup yabancı mühendis istihdam etmişti.
 
 Kadınlar (F; doğrulanacak): Mihrişah Valide Sultan, Avrupa zevkiyle bilinen Hatice Sultan, İngiliz tarafında Mary Elgin.
 
