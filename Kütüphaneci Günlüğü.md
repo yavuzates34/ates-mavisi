@@ -78,3 +78,8 @@ Yavuz sıralama önerisine (Osmanlı kılavuzu bitince Fable oturumu, Britanya v
 
 Yavuz kendi karakter sheet'lerini (kalpaklı üniforma, siyah takım, 1799 Osmanlı kıyafeti) ve göz rengi kodlarını verdi; `Karakterler/Yavuz Ateş/` altına kaydedildi. Heterokromi gerçek: kendi sol gözü mavi `#729FD5`, sağ gözü yeşil `#999651`; karşıdan bakan sol yeşil, sağ mavi görür. Renkte sheet 1 esas. Boy 184 cm, kilo 80 kg. İlk serinin defterindeki 1,82 ve tek renk 'yeşil-mavi' göz anlatımından farklı; yeni seride bu sayfa esas.
 
+
+## 15 Kasım 2026 10:13 (fa42d7d9) — Sevr dünyası
+
+Kütüphaneci Sevr dünyası için üç öneri sundu; Yavuz sessiz boyunduruk iskeletine 'mantıklı' dedi, 1920 idam kararını ayrılma noktası olarak seçti ve silah arkadaşlarının da yakalanıp işkence ve aforoza maruz kalmasını ekledi. Komşu halkları zulmün yüzü yapmama itirazına katıldı ama 'tamamen de silemeyiz, bu senaryo gerçekten yaşanacaktı' dedi. Sevr Yavuz'unun birkaç dile hâkim olmasını istedi. Kararlar Yeni Seri – Dizi Defteri'ne (2. bölüm, Sevr dünyası) işlendi; Fable'a sorulmadı, çünkü Yavuz onun dolu bağlamının limiti yakacağını söyledi. Diller (Arap harfli Türkçe dahil) ve İngiliz kompleksi önerileri yorum bekliyor.
+

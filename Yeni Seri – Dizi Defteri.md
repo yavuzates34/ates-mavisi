@@ -24,6 +24,18 @@ Sevr Yavuz'u. Sevr'in uygulandığı, Atatürk'e ihanet edilmiş bir dünyanın 
 
 Gözleri kahramanınkinin ayna görüntüsü olabilir (sağ gözü mavi); onu gören tanık gözleri "yanlış" tarif eder. (F)
 
+### Sevr dünyası (Yavuz, 15 Kasım 2026 10:13, Kütüphaneci'nin önerileri üzerine)
+
+Kıyamet savaş ve yıkıntı değil, yüz yıldır süren sessiz bir boyunduruktur; okuru "bu da olabilirdi" dedirten sıradanlık sarsar. İskelet Sevr'in gerçek maddeleridir: İstanbul ve Boğazlar uluslararası komisyonun elinde, İzmir ve çevresi Yunanistan'da, doğuda Wilson sınırlarıyla Ermenistan, güneydoğuda Kürt özerk bölgesi, Antalya tarafı İtalyan, Kilikya Fransız nüfuz alanı; Orta Anadolu'da kukla bir padişahlık, birkaç on bine indirilmiş ordu, geri gelmiş kapitülasyonlar, bütçeyi yöneten yabancı maliye komisyonu. 2026'da İstanbul ışıl ışıl bir yabancı kentidir, Türkler orada hizmetçi ve şoför; Anadolu yoksul bir rezervasyon gibidir; borç bitmez, Türkçe ikinci sınıf dildir, her teknoloji başkasınındır. Kıyamet duygusunu tek bir yakın olay verir: bastırılan bir kalkışmanın ardından misilleme, Yavuz'un adının bir listede çıkması ve ailesinin başına gelen şey. Açılıştaki acele buradan doğar: şimdi gitmezse bir daha gidemez. (Y onayı: "mantıklı")
+
+Ayrılma noktası: 11 Mayıs 1920'de İstanbul Divan-ı Harbi'nin Mustafa Kemal hakkında gıyabında verdiği idam kararı, bu dünyada bir ihanetle yakalanmasının ardından uygulanır. Yalnız o değil, silah arkadaşları da yakalanır; ağır işkencelere ve aforoza maruz kalırlar. (Y) Aforozun tarihte hazır bir karşılığı var: Nisan 1920'de Şeyhülislam Dürrizâde Abdullah Efendi'nin milliyetçileri âsi sayan fetvası; doğrulanacak. (Kütüphaneci notu)
+
+Komşu halklar: kitap etnik bir öfke kitabı olmaz; zulmün başı ve yüzü emperyal düzenin kendisidir, Londra'nın komisyonları, bankaları ve valileri. Ama Yunan, Ermeni ve Kürt yönetimlerinin o senaryoda Türklere yapacakları da silinmez; Sevr uygulansaydı gerçekten yaşanacak olan gerçekçi biçimde gösterilir. (Y: "Ben de zaten ırkçı bir insan değilim. Fakat tamamen de silemeyiz.")
+
+Diller: Sevr Yavuz'u sömürge boyunduruğu altında büyüdüğü için birkaç dile hâkimdir. (Y) Öneri: İngilizce (işi ve kılıfı), Fransızca, Yunanca; harf devrimi hiç olmadığı için Türkçeyi Arap harfleriyle yazar ve okur. Bu, 1798'de ona kahramanda olmayan bir rahatlık verir. (Kütüphaneci önerisi, Yavuz henüz yorum yapmadı)
+
+Kompleks: İstanbul uluslararası bölgesinde, Boğazlar Komisyonu'na bağlı İngiliz araştırma tesisi; Yavuz orada misyon okulu bursuyla okumuş "sadık yerli personel"dir; İngilizler kendi yıkıcısını kendi eliyle eğitmiştir. (Kütüphaneci önerisi, Yavuz henüz yorum yapmadı)
+
 ## 3. Zamanda yolculuk
 
 Temel varsayım: gözlemlenmeyen, bilgi etkileşimi olmayan alan hesaplanmamıştır. Yavuz'un bulunduğu hacim bu alandan soyutlanır ve zincirleme bir tepkimeyle her adımda bir an öncesindeki paralel evrene kayar; adımlar birikerek yüzyılları bulur. Portal yok, yapay duran hiçbir şey yok. Üç Cisim'deki sophon gibi: gerçek fizikte karşılığı yok ama ikna edici. (Y)
@@ -96,7 +108,7 @@ Glitch ve evren geçişi; Fable'ın "yankı paragrafı" önerisi. Cumhuriyet Yav
 
 - Bonapart'tan sonra Avrupa'yı kim tutar.
 - Kitap sayısı ve adları; serinin adı.
-- Sevr dünyasının ayrıntıları ve Sevr Yavuz'unun çalıştığı kompleks kimin himayesinde.
+- Sevr dünyası: iskelet, ayrılma noktası ve komşu halklar kararlaştı (bkz. 2. bölüm); diller ve kompleks önerisi Yavuz'un yorumunu bekliyor.
 - Selim'in akıbeti ve Konsül'ün takvimi.
 - İlk seriden hangi sahne ve kişilerin taşınacağı; kardeş Ömer ile Kâtip Ömer, şehzade Mahmud ile kethüda Mahmud ad çakışmaları; "Ateş" ile "Yıldız"ın hangisinin soyadı olduğu.
 - Britanya, Fransa ve öteki devletler için kılavuzlar henüz başlamadı.
